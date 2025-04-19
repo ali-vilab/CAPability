@@ -1,0 +1,993 @@
+{"pred": ["fixed"], "reason": "The caption specifically mentions that the camera is stationary, which aligns with the 'fixed' category.", "file_id": "camera_movement_297"}
+{"pred": ["N/A"], "reason": "The video caption provided does not explicitly mention any camera movement.", "file_id": "camera_movement_810"}
+{"pred": ["N/A"], "reason": "The caption does not include any specific descriptions of camera movement.", "file_id": "camera_movement_130"}
+{"pred": ["fixed"], "reason": "The caption mentions that the camera is positioned at a low angle, looking up at the van and the building. However, there is no indication of any camera movement; it just describes the camera's position. As such, the only category that fits is 'fixed' since the camera does not exhibit any movement.", "file_id": "camera_movement_402"}
+{"pred": ["N/A"], "reason": "The caption does not explicitly mention any camera movements.", "file_id": "camera_movement_979"}
+{"pred": ["fixed"], "reason": "The caption mentions that the 'camera work is steady and deliberate', which implies a lack of movement, thus fitting the 'fixed' category.", "file_id": "camera_movement_717"}
+{"pred": ["fixed"], "reason": "The caption describes the camera as being positioned at a low angle, looking up at the two men as they run past the camera, indicating a fixed camera position with no movement indicated in any direction or angle other than the initial low angle setup.", "file_id": "camera_movement_978"}
+{"pred": ["N/A"], "reason": "The caption does not contain any explicit descriptions of camera movement.", "file_id": "camera_movement_293"}
+{"pred": ["N/A"], "reason": "The caption does not mention any camera movements.", "file_id": "camera_movement_619"}
+{"pred": ["N/A"], "reason": "The provided caption does not contain any explicit mention of camera movement.", "file_id": "camera_movement_725"}
+{"pred": ["fixed"], "reason": "The caption explicitly states that 'the camera is stationary', which corresponds to the 'fixed' category as the camera does not change its position or angle.", "file_id": "camera_movement_819"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions there is no visible camera movement which indicates that the camera is fixed.", "file_id": "camera_movement_315"}
+{"pred": ["N/A"], "reason": "The video caption does not explicitly mention any camera movement.", "file_id": "camera_movement_29"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that 'The camera is stationary, capturing the characters in a close-up shot', which corresponds to the 'fixed' category.", "file_id": "camera_movement_678"}
+{"pred": ["up"], "reason": "The caption explicitly mentions a camera movement with 'a slight tilt up to show the contents of the box', which corresponds to the 'up' category.", "file_id": "camera_movement_827"}
+{"pred": ["fixed"], "reason": "The caption specifically mentions that 'The camera remains stationary', which aligns with the 'fixed' category as there is no indication of movement in any direction.", "file_id": "camera_movement_885"}
+{"pred": ["N/A"], "reason": "The provided video caption does not include any explicit descriptions of camera movement.", "file_id": "camera_movement_272"}
+{"pred": ["N/A"], "reason": "The provided caption does not explicitly mention any camera movement descriptions.", "file_id": "camera_movement_570"}
+{"pred": ["fixed"], "reason": "The caption explicitly states that 'The camera is stationary,' which aligns with the 'fixed' camera movement category from the provided list.", "file_id": "camera_movement_532"}
+{"pred": ["N/A"], "reason": "The caption does not explicitly mention any camera movement.", "file_id": "camera_movement_12"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that there is no noticeable camera movement, implying the camera is fixed.", "file_id": "camera_movement_724"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that the camera remains stationary, which fits the 'fixed' category.", "file_id": "camera_movement_464"}
+{"pred": ["fixed"], "reason": "The caption mentions that 'The camera is stationary, and there is no visible camera movement', indicating that the camera is fixed during the video.", "file_id": "camera_movement_192"}
+{"pred": ["N/A"], "reason": "The caption does not contain any explicit descriptions of camera movement.", "file_id": "camera_movement_507"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that 'There is no visible camera movement in this still image' which suggests the camera is almost fixed and does not change, so it fits into the 'fixed' category.", "file_id": "camera_movement_853"}
+{"pred": ["N/A"], "reason": "The caption does not provide any explicit information about camera movement.", "file_id": "camera_movement_349"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions 'The camera is positioned at eye level, capturing the interaction between the two main characters and the surrounding environment.' which indicates that there is no camera movement, meaning it is fixed.", "file_id": "camera_movement_606"}
+{"pred": ["fixed"], "reason": "The caption specifies that the camera provides a bird's-eye view of the entire scene, which implies a high angle shot without mentioning any specific movement in any direction or zooming in or out. This suggests the camera is in a fixed position.", "file_id": "camera_movement_124"}
+{"pred": ["fixed"], "reason": "The caption describes the camera as 'positioned at a low angle, looking up at the man' and there is no mention of the camera moving from this position; therefore, it suggests the camera is fixed in one position.", "file_id": "camera_movement_442"}
+{"pred": ["fixed"], "reason": "The caption explicitly states that the camera is stationary, which corresponds to the 'fixed' category where the camera does not change.", "file_id": "camera_movement_392"}
+{"pred": ["fixed"], "reason": "The video caption explicitly states that 'The camera is stationary,' which corresponds to the 'fixed' category as there is no camera movement mentioned.", "file_id": "camera_movement_580"}
+{"pred": ["fixed"], "reason": "The caption does not specify any movement of the camera, instead it mentions 'The camera is positioned at a slight angle, capturing both the man and the woman in the frame.' which suggests a fixed camera position.", "file_id": "camera_movement_356"}
+{"pred": ["N/A"], "reason": "The caption does not contain any explicit mention of camera movement.", "file_id": "camera_movement_855"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that 'The camera remains stationary,' which indicates a fixed camera movement.", "file_id": "camera_movement_295"}
+{"pred": ["fixed"], "reason": "The caption describes the camera as being positioned at a low angle, which implies a fixed camera angle rather than one that is moving.", "file_id": "camera_movement_616"}
+{"pred": ["N/A"], "reason": "The provided caption does not explicitly mention any camera movements.", "file_id": "camera_movement_451"}
+{"pred": ["N/A"], "reason": "The caption does not provide any information about camera movement.", "file_id": "camera_movement_848"}
+{"pred": ["N/A"], "reason": "The provided caption does not contain any explicit descriptions of camera movement.", "file_id": "camera_movement_269"}
+{"pred": ["N/A"], "reason": "The caption does not include any explicit mention of camera movement.", "file_id": "camera_movement_386"}
+{"pred": ["N/A"], "reason": "The provided caption does not include any explicit information or descriptive terms regarding camera movement.", "file_id": "camera_movement_709"}
+{"pred": ["fixed"], "reason": "The video caption explicitly mentions that 'The video appears to be a still image, with no camera movement or animation,' which indicates the camera is almost fixed and does not change, corresponding to the 'fixed' category.", "file_id": "camera_movement_406"}
+{"pred": ["fixed"], "reason": "The caption indicates that the camera appears to be stationary, suggesting that the camera does not employ any movement and remains in a fixed position.", "file_id": "camera_movement_642"}
+{"pred": ["fixed"], "reason": "The caption states that the shot is static, with no apparent camera movement, which corresponds to the 'fixed' category.", "file_id": "camera_movement_138"}
+{"pred": ["N/A"], "reason": "The video caption does not contain any explicit descriptions of camera movement.", "file_id": "camera_movement_626"}
+{"pred": ["fixed"], "reason": "The caption mentions that the camera is positioned at a low angle, looking up at the woman and the man, but it does not indicate that the camera moves. Therefore, it is classified as 'fixed' because the camera is almost fixed and does not change position or angle during the described scene.", "file_id": "camera_movement_187"}
+{"pred": ["N/A"], "reason": "The provided video caption does not contain any explicit description of camera movement.", "file_id": "camera_movement_205"}
+{"pred": ["N/A"], "reason": "The caption does not contain any explicit information about camera movement.", "file_id": "camera_movement_23"}
+{"pred": ["N/A"], "reason": "The caption does not include any description of camera movement.", "file_id": "camera_movement_730"}
+{"pred": ["fixed"], "reason": "The caption describes the camera as positioned at a slight angle, which indicates that the camera is placed in a manner to capture the scene but does not describe any movement. Thus, the camera is almost fixed and does not change, fitting the 'fixed' category.", "file_id": "camera_movement_959"}
+{"pred": ["N/A"], "reason": "The caption does not explicitly mention any camera movements.", "file_id": "camera_movement_499"}
+{"pred": ["N/A"], "reason": "The caption does not explicitly mention any camera movement.", "file_id": "camera_movement_942"}
+{"pred": ["fixed"], "reason": "The video caption explicitly states that 'The camera is stationary, and there is no indication of any camera movement.' which fits into the 'fixed' category.", "file_id": "camera_movement_48"}
+{"pred": ["N/A"], "reason": "The caption does not explicitly mention any camera movement.", "file_id": "camera_movement_797"}
+{"pred": ["N/A"], "reason": "The caption does not explicitly mention any camera movements such as panning, tracking, tilting, booming, dollying, or zooming.", "file_id": "camera_movement_874"}
+{"pred": ["N/A"], "reason": "The caption does not contain any explicit description of camera movement.", "file_id": "camera_movement_867"}
+{"pred": ["up"], "reason": "The video is shot from a low angle, looking up at the diver, and the camera follows the diver's movements.", "file_id": "camera_movement_417"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that the camera is stationary, which fits into the 'fixed' category of camera movement.", "file_id": "camera_movement_454"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that 'The camera remains stationary throughout the video', which fits the definition of a fixed camera movement.", "file_id": "camera_movement_332"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that 'The camera is stationary, and there are no camera movements or special effects.' which corresponds to the 'fixed' category.", "file_id": "camera_movement_523"}
+{"pred": ["N/A"], "reason": "The caption does not explicitly mention any camera movement descriptions.", "file_id": "camera_movement_963"}
+{"pred": ["fixed"], "reason": "The caption specifically mentions 'The camera remains stationary, capturing the stillness of the scene.' This indicates that the camera does not exhibit any movement and thus fits into the 'fixed' category.", "file_id": "camera_movement_242"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that the camera is stationary, which corresponds to the 'fixed' category, indicating that the camera does not change its position or angle during the shot.", "file_id": "camera_movement_638"}
+{"pred": ["N/A"], "reason": "The provided caption does not include any explicit descriptions of camera movement.", "file_id": "camera_movement_721"}
+{"pred": ["N/A"], "reason": "The caption does not explicitly mention any camera movements such as panning, tilting, zooming, tracking, booming, or whether the camera is fixed.", "file_id": "camera_movement_699"}
+{"pred": ["fixed"], "reason": "The caption describes that the camera is positioned at a low angle, looking up at the person standing over the couch, which indicates the camera's position is stationary with a fixed angle rather than moving.", "file_id": "camera_movement_62"}
+{"pred": ["N/A"], "reason": "The provided video caption does not include any explicit descriptions of camera movement.", "file_id": "camera_movement_282"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that 'The camera is stationary, with no apparent movement or zooming', which corresponds to the 'fixed' category.", "file_id": "camera_movement_486"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that the camera is stationary, which indicates a fixed camera movement.", "file_id": "camera_movement_411"}
+{"pred": ["fixed"], "reason": "The video caption explicitly states that 'The camera is stationary,' which matches the 'fixed' category, indicating that there is no camera movement.", "file_id": "camera_movement_831"}
+{"pred": ["fixed"], "reason": "The caption specifies that the camera movement is subtle and with the focus primarily on the man in the foreground, which suggests that the camera is likely fixed on that character and is not performing any significant lateral, vertical, or depth movements.", "file_id": "camera_movement_622"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that 'The camera is stationary, capturing the woman from the waist up', which falls into the 'fixed' category of camera movement.", "file_id": "camera_movement_863"}
+{"pred": ["N/A"], "reason": "The provided caption does not include any explicit descriptions of camera movement.", "file_id": "camera_movement_757"}
+{"pred": ["right"], "reason": "The caption explicitly mentions that the camera is moving slowly to the right, which corresponds to the 'right' category.", "file_id": "camera_movement_628"}
+{"pred": ["N/A"], "reason": "The given video caption does not contain any explicit descriptions of camera movement.", "file_id": "camera_movement_830"}
+{"pred": ["fixed"], "reason": "The caption specified that the camera movement is minimal, with the focus remaining on the two characters, which corresponds to the 'fixed' category.", "file_id": "camera_movement_555"}
+{"pred": ["N/A"], "reason": "The video caption does not include any explicit descriptions of camera movement.", "file_id": "camera_movement_170"}
+{"pred": ["left"], "reason": "The caption explicitly states that the camera 'pans slightly to the left', which corresponds to the 'left' category.", "file_id": "camera_movement_127"}
+{"pred": ["N/A"], "reason": "The video caption does not explicitly mention any camera movements.", "file_id": "camera_movement_579"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that the camera is stationary, with no movement, which aligns with the 'fixed' category.", "file_id": "camera_movement_879"}
+{"pred": ["N/A"], "reason": "The caption does not contain any explicit information or description about the camera's movement.", "file_id": "camera_movement_254"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that the camera remains relatively static, which aligns with the 'fixed' category as there is no description of the camera changing its position or angle.", "file_id": "camera_movement_342"}
+{"pred": ["N/A"], "reason": "The caption does not include any explicit mention of camera movement.", "file_id": "camera_movement_491"}
+{"pred": ["N/A"], "reason": "The video caption does not include any explicit description of camera movement.", "file_id": "camera_movement_343"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that 'The camera is stationary, capturing the woman's actions and the reflection in the mirror', which corresponds to the 'fixed' category of camera movement.", "file_id": "camera_movement_943"}
+{"pred": ["fixed"], "reason": "The caption mentions that the camera is positioned at a low angle, capturing the man's face and the woman's upper body. There is no indication of the camera moving left, right, up, down, in, or out, therefore the appropriate category is 'fixed' since it describes a stationary camera positioning.", "file_id": "camera_movement_535"}
+{"pred": ["out"], "reason": "The caption describes that the camera is positioned in such a way that it captures the man's back as he walks away from the woman, which implies a camera movement away from the subject, which falls under the 'out' category.", "file_id": "camera_movement_275"}
+{"pred": ["fixed"], "reason": "The caption explicitly states that 'The camera is stationary,' which corresponds to the 'fixed' category as the camera does not change position or angle.", "file_id": "camera_movement_475"}
+{"pred": ["N/A"], "reason": "The caption does not include any specific description of camera movement.", "file_id": "camera_movement_362"}
+{"pred": ["N/A"], "reason": "The caption does not include any explicit descriptions of camera movement.", "file_id": "camera_movement_390"}
+{"pred": ["fixed"], "reason": "The caption describes the background as slightly blurred, indicating that the focus is on the man, which suggests the camera is on a fixed focus on the man without implying any movement.", "file_id": "camera_movement_843"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that the camera is positioned at eye level, capturing the interaction between the man and the girl, which implies a fixed camera position without any specified movement.", "file_id": "camera_movement_594"}
+{"pred": ["N/A"], "reason": "The video caption does not contain any explicit mentions of camera movements such as pan left, pan right, tilt up, tilt down, dolly in, dolly out, zoom in, zoom out, or a fixed position.", "file_id": "camera_movement_614"}
+{"pred": ["fixed"], "reason": "The caption mentions 'The camera is positioned at eye level', which implies that the camera is not moving. There is no mention of camera movement left, right, up, down, in, or out, suggesting that the camera remains static during the shot. Therefore, the proper classification is 'fixed'.", "file_id": "camera_movement_450"}
+{"pred": ["N/A"], "reason": "The caption does not contain any explicit descriptions of camera movement.", "file_id": "camera_movement_131"}
+{"pred": ["N/A"], "reason": "The caption does not explicitly mention any camera movement.", "file_id": "camera_movement_330"}
+{"pred": ["N/A"], "reason": "The caption does not explicitly mention any kind of camera movement.", "file_id": "camera_movement_515"}
+{"pred": ["fixed"], "reason": "The caption mentions that the camera is positioned at a low angle, capturing the man's face and the car's interior without indicating any movement, suggesting that the camera is almost fixed and does not change.", "file_id": "camera_movement_207"}
+{"pred": ["N/A"], "reason": "The provided caption does not include any explicit descriptions of camera movement.", "file_id": "camera_movement_710"}
+{"pred": ["N/A"], "reason": "The caption does not explicitly mention any camera movements.", "file_id": "camera_movement_850"}
+{"pred": ["fixed"], "reason": "The caption states that 'The camera is stationary, capturing the scene from a distance,' which corresponds to the 'fixed' category as the camera does not move.", "file_id": "camera_movement_675"}
+{"pred": ["N/A"], "reason": "The video caption does not include any explicit descriptions of camera movements.", "file_id": "camera_movement_471"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that the camera is stationary, which means there is no noticeable movement or action, corresponding to a fixed camera movement.", "file_id": "camera_movement_290"}
+{"pred": ["N/A"], "reason": "The caption does not explicitly mention any camera movements such as panning, tilting, tracking, booming, dollying, or zooming.", "file_id": "camera_movement_359"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that the camera is stationary, which corresponds to the 'fixed' category.", "file_id": "camera_movement_938"}
+{"pred": ["fixed"], "reason": "The caption explicitly states that there is no camera movement, indicating that the camera is positioned at a distance and fixed.", "file_id": "camera_movement_511"}
+{"pred": ["fixed"], "reason": "The caption explicitly states that the camera is stationary, which falls under the 'fixed' category as there is no camera movement described.", "file_id": "camera_movement_862"}
+{"pred": ["N/A"], "reason": "The caption does not include any explicit description of camera movement.", "file_id": "camera_movement_355"}
+{"pred": ["fixed"], "reason": "The caption explicitly states that 'The camera is stationary, and there is no noticeable movement or zooming in the scene,' which corresponds to the 'fixed' category.", "file_id": "camera_movement_907"}
+{"pred": ["N/A"], "reason": "The provided caption does not contain any explicit descriptions or indications of camera movement.", "file_id": "camera_movement_666"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that 'The camera is stationary', which corresponds to the 'fixed' category.", "file_id": "camera_movement_198"}
+{"pred": ["N/A"], "reason": "The provided caption does not include any explicit descriptions of camera movement.", "file_id": "camera_movement_958"}
+{"pred": ["N/A"], "reason": "The caption does not explicitly mention any camera movement.", "file_id": "camera_movement_791"}
+{"pred": ["N/A"], "reason": "The video caption provided does not contain any explicit descriptions or indications of camera movement.", "file_id": "camera_movement_263"}
+{"pred": ["N/A"], "reason": "The caption does not include any explicit descriptions of camera movement.", "file_id": "camera_movement_562"}
+{"pred": ["N/A"], "reason": "The caption does not describe any specific camera movements.", "file_id": "camera_movement_690"}
+{"pred": ["N/A"], "reason": "The caption does not include any explicit descriptions of camera movements.", "file_id": "camera_movement_251"}
+{"pred": ["fixed"], "reason": "The caption mentions that there is no visible camera movement in this still image which suggests that the camera is almost fixed and does not change.", "file_id": "camera_movement_859"}
+{"pred": ["fixed"], "reason": "The caption specifies that the camera is stationary, which aligns with the 'fixed' category, indicating no camera movement.", "file_id": "camera_movement_582"}
+{"pred": ["N/A"], "reason": "The caption does not explicitly mention any description of the camera movement.", "file_id": "camera_movement_774"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that 'The camera is stationary, capturing the girl in the center of the frame', which corresponds to the 'fixed' category since the camera does not change position or angle.", "file_id": "camera_movement_982"}
+{"pred": ["N/A"], "reason": "The caption does not include any explicit descriptions of camera movement.", "file_id": "camera_movement_235"}
+{"pred": ["N/A"], "reason": "The caption does not explicitly mention any camera movement.", "file_id": "camera_movement_354"}
+{"pred": ["fixed"], "reason": "The caption states that 'The camera work is steady, focusing on the central figures and the stage, with no noticeable movement or zooming.' which implies that there is no camera movement and falls under the 'fixed' category.", "file_id": "camera_movement_815"}
+{"pred": ["N/A"], "reason": "The video caption does not contain explicit descriptions of camera movement.", "file_id": "camera_movement_990"}
+{"pred": ["N/A"], "reason": "The caption does not explicitly mention any camera movements.", "file_id": "camera_movement_123"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that the camera is stationary, which corresponds to the 'fixed' category.", "file_id": "camera_movement_854"}
+{"pred": ["fixed"], "reason": "The caption mentions that 'The camera is stationary, with no apparent movement or zoom', which falls under the 'fixed' category as there is no camera movement.", "file_id": "camera_movement_87"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that the camera is stationary, which falls into the 'fixed' category.", "file_id": "camera_movement_522"}
+{"pred": ["fixed"], "reason": "The caption mentions the video is shot in a close-up perspective but does not indicate any movement of the camera, suggesting that the camera is fixed on the subject.", "file_id": "camera_movement_59"}
+{"pred": ["N/A"], "reason": "The provided caption does not include any explicit description of camera movement.", "file_id": "camera_movement_291"}
+{"pred": ["N/A"], "reason": "The caption does not mention any camera movements.", "file_id": "camera_movement_627"}
+{"pred": ["N/A"], "reason": "The caption does not provide any explicit information about camera movement.", "file_id": "camera_movement_568"}
+{"pred": ["N/A"], "reason": "The caption does not contain any explicit descriptions of camera movements.", "file_id": "camera_movement_611"}
+{"pred": ["fixed"], "reason": "The caption explicitly states that 'The camera appears to be stationary, capturing the scene from a high vantage point,' which falls into the 'fixed' category of camera movement.", "file_id": "camera_movement_842"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that the camera is stationary, indicating that there is no movement, which falls under the 'fixed' category.", "file_id": "camera_movement_947"}
+{"pred": ["up", "fixed"], "reason": "The caption specifies that the video is shot from a 'low angle, looking up towards the building,' which suggests a tilt up or a boom up camera movement. Additionally, there are no other indications of camera movement, which implies that beyond this upward orientation, the camera remains 'fixed' without a change in the position or angle.", "file_id": "camera_movement_326"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that the camera is stationary, which corresponds to the 'fixed' category.", "file_id": "camera_movement_109"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that the scene is static, with no apparent camera movement, which falls under the 'fixed' category.", "file_id": "camera_movement_832"}
+{"pred": ["fixed"], "reason": "The caption explicitly states that the camera movement is minimal and the focus remains on the two men and their interaction, which implies a 'fixed' camera movement category.", "file_id": "camera_movement_294"}
+{"pred": ["N/A"], "reason": "The provided caption does not contain any explicit mention or description of camera movement.", "file_id": "camera_movement_396"}
+{"pred": ["fixed"], "reason": "The caption mentions that the video is shot from a low angle but does not describe any camera movements such as panning, tilting, tracking, dollying, or zooming; hence the camera is described as having a fixed position.", "file_id": "camera_movement_27"}
+{"pred": ["fixed"], "reason": "The caption describes the image as taken from a low angle looking up at the person, which suggests a fixed angle of the camera. There is no mention of any movement such as panning, tilting, zooming, or dollying.", "file_id": "camera_movement_363"}
+{"pred": ["fixed"], "reason": "The caption explicitly states that 'The camera is stationary,' which corresponds to the 'fixed' category as there is no camera movement.", "file_id": "camera_movement_750"}
+{"pred": ["N/A"], "reason": "The caption does not include any explicit description of camera movement.", "file_id": "camera_movement_50"}
+{"pred": ["out"], "reason": "The caption describes the two figures walking away from the camera, which indicates the camera is moving away from the subject or the subject is becoming smaller in the frame hence categorized as 'out'.", "file_id": "camera_movement_785"}
+{"pred": ["fixed"], "reason": "The caption explicitly states that the camera appears to be stationary, capturing the scene from a high vantage point which aligns with the 'fixed' camera movement category.", "file_id": "camera_movement_203"}
+{"pred": ["fixed"], "reason": "The video caption explicitly states that the camera is stationary, which fits the description of the 'fixed' category.", "file_id": "camera_movement_75"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that 'The camera is stationary, capturing the characters and the surrounding environment in a wide shot.' which falls under the 'fixed' category.", "file_id": "camera_movement_758"}
+{"pred": ["fixed"], "reason": "The caption mentions that the camera angle is from the front, and the man is facing the camera, which suggests that there is no movement described, hence the camera is fixed.", "file_id": "camera_movement_15"}
+{"pred": ["fixed"], "reason": "The caption explicitly states that 'The camera is stationary, focusing on the interaction between the two main characters', which indicates a fixed camera position without any movement.", "file_id": "camera_movement_525"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that the camera is stationary, which corresponds to the 'fixed' category.", "file_id": "camera_movement_238"}
+{"pred": ["fixed"], "reason": "The caption states that 'The camera remains stationary throughout the video,' which corresponds to the 'fixed' category as the camera does not change its position or angle.", "file_id": "camera_movement_160"}
+{"pred": ["N/A"], "reason": "The caption does not explicitly mention any camera movements.", "file_id": "camera_movement_351"}
+{"pred": ["N/A"], "reason": "The caption does not explicitly mention any camera movement.", "file_id": "camera_movement_253"}
+{"pred": ["N/A"], "reason": "The caption does not include any explicit descriptions of camera movement.", "file_id": "camera_movement_969"}
+{"pred": ["N/A"], "reason": "The provided caption does not include any explicit descriptions of camera movement.", "file_id": "camera_movement_178"}
+{"pred": ["N/A"], "reason": "The caption does not explicitly mention any camera movements.", "file_id": "camera_movement_484"}
+{"pred": ["N/A"], "reason": "The video caption does not provide any explicit descriptions of camera movement.", "file_id": "camera_movement_335"}
+{"pred": ["N/A"], "reason": "The caption does not contain any explicit mention or description of camera movement.", "file_id": "camera_movement_737"}
+{"pred": ["N/A"], "reason": "The caption does not contain any explicit information regarding the camera's movement.", "file_id": "camera_movement_156"}
+{"pred": ["fixed"], "reason": "The caption specifies that the camera angle is slightly elevated, providing a clear view of the stage and its decorations, with no mention of any movement, suggesting a fixed camera position.", "file_id": "camera_movement_621"}
+{"pred": ["fixed"], "reason": "The caption describes the camera as being positioned at a low angle looking up at the characters, which indicates a specific fixed camera setup rather than describing a change in the camera's position or angle as the scene unfolds.", "file_id": "camera_movement_799"}
+{"pred": ["N/A"], "reason": "The caption does not explicitly mention any kind of camera movement.", "file_id": "camera_movement_250"}
+{"pred": ["N/A"], "reason": "The caption does not explicitly mention any camera movements.", "file_id": "camera_movement_950"}
+{"pred": ["up", "fixed"], "reason": "The caption specifies that there is a slight tilt up as the woman looks at the balloon, indicating an upward camera angle movement, categorized as 'up'. It also mentions that the camera does not move much, which can be understood as a category 'fixed' camera movement.", "file_id": "camera_movement_474"}
+{"pred": ["N/A"], "reason": "The video caption does not explicitly mention any camera movement.", "file_id": "camera_movement_493"}
+{"pred": ["N/A"], "reason": "The video caption does not provide any explicit information regarding camera movements.", "file_id": "camera_movement_731"}
+{"pred": ["N/A"], "reason": "The provided caption does not describe any camera movements, it only describes the static visuals of the scene.", "file_id": "camera_movement_246"}
+{"pred": ["N/A"], "reason": "The provided video caption does not include any explicit descriptions of camera movement.", "file_id": "camera_movement_964"}
+{"pred": ["N/A"], "reason": "The caption does not include any explicit information about camera movement.", "file_id": "camera_movement_233"}
+{"pred": ["fixed"], "reason": "The caption states that 'The camera appears to be stationary,' indicating that there is no camera movement within the described video scene.", "file_id": "camera_movement_324"}
+{"pred": ["fixed"], "reason": "The caption describes the camera as being positioned at a slight angle, capturing both women and the background elements without mentioning any movement, which implies a fixed camera position.", "file_id": "camera_movement_935"}
+{"pred": ["fixed"], "reason": "The caption states 'There is no noticeable camera movement in the scene.' which indicates a fixed camera position.", "file_id": "camera_movement_393"}
+{"pred": ["N/A"], "reason": "The video caption does not contain any explicit descriptions of camera movement.", "file_id": "camera_movement_201"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that 'The camera is stationary,' which corresponds with the 'fixed' category as the camera does not change its position or angle.", "file_id": "camera_movement_180"}
+{"pred": ["N/A"], "reason": "The provided caption contains no explicit descriptions of camera movement.", "file_id": "camera_movement_835"}
+{"pred": ["N/A"], "reason": "The caption does not explicitly mention any camera movement.", "file_id": "camera_movement_653"}
+{"pred": ["fixed"], "reason": "The caption states that 'The camera appears to be stationary', which aligns with the 'fixed' category where the camera does not change position or angle.", "file_id": "camera_movement_462"}
+{"pred": ["N/A"], "reason": "The video caption does not explicitly mention any camera movement.", "file_id": "camera_movement_364"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that the camera movement is smooth and fluid, with a focus on the blue insect character and the surrounding environment, which suggests the camera is largely fixed and does not engage in any dynamic panning, tilting, zooming, or tracking movements.", "file_id": "camera_movement_833"}
+{"pred": ["up"], "reason": "The caption specifies that the camera is positioned at a low angle, looking up at the man and the building, which indicates a tilt up or boom up movement.", "file_id": "camera_movement_688"}
+{"pred": ["fixed"], "reason": "The video caption specifically states that 'The camera is stationary, capturing the man from the waist up,' which implies there is no camera movement and fits the 'fixed' category.", "file_id": "camera_movement_896"}
+{"pred": ["up"], "reason": "The camera angle is from a low perspective, looking up at the terminal, which indicates a tilt-up movement.", "file_id": "camera_movement_596"}
+{"pred": ["fixed"], "reason": "The caption explicitly states that 'The camera remains stationary, capturing the entire scene without any noticeable movement or zoom.' This description fits with the 'fixed' category.", "file_id": "camera_movement_738"}
+{"pred": ["N/A"], "reason": "The video caption does not explicitly mention any camera movements such as panning, tilting, zooming, or tracking.", "file_id": "camera_movement_778"}
+{"pred": ["fixed"], "reason": "The video caption explicitly states that 'The camera is stationary, and there is no visible camera movement.' This indicates that the camera movement should be classified as 'fixed'.", "file_id": "camera_movement_71"}
+{"pred": ["N/A"], "reason": "The caption does not include any explicit descriptions of camera movements.", "file_id": "camera_movement_900"}
+{"pred": ["N/A"], "reason": "The caption does not explicitly mention any camera movement.", "file_id": "camera_movement_318"}
+{"pred": ["N/A"], "reason": "The given caption does not contain any explicit description of camera movement.", "file_id": "camera_movement_93"}
+{"pred": ["N/A"], "reason": "The provided video caption does not include any explicit descriptions of camera movement.", "file_id": "camera_movement_847"}
+{"pred": ["in", "right"], "reason": "The video description indicates the camera is moving forward which corresponds to an 'in' motion towards the subject. Additionally, it mentions the train is moving from left to right which suggests a camera movement tracking from left to right paralleling the train or a pan right camera angle.", "file_id": "camera_movement_216"}
+{"pred": ["fixed"], "reason": "The caption mentions that the camera angle is slightly elevated, providing a clear view of the entire room and the people within it, which implies a fixed camera position with no movement described.", "file_id": "camera_movement_866"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that the camera appears to be stationary, capturing the entire scene in one shot, indicating a fixed camera movement.", "file_id": "camera_movement_258"}
+{"pred": ["N/A"], "reason": "The video caption does not include any explicit descriptions of camera movement.", "file_id": "camera_movement_581"}
+{"pred": ["fixed"], "reason": "The caption describes the scene from a slightly elevated angle but does not indicate any movement such as panning, tilting, zooming, or tracking. Instead, it suggests the camera is capturing the entire patio and surrounding without changing its position or angle, indicating a fixed camera.", "file_id": "camera_movement_571"}
+{"pred": ["N/A"], "reason": "The video caption does not include any explicit descriptions of camera movement.", "file_id": "camera_movement_256"}
+{"pred": ["N/A"], "reason": "The caption does not contain any explicit descriptions of camera movement.", "file_id": "camera_movement_657"}
+{"pred": ["N/A"], "reason": "The caption does not include any explicit descriptions of camera movement.", "file_id": "camera_movement_327"}
+{"pred": ["N/A"], "reason": "The video caption does not contain any explicit information describing the camera movement.", "file_id": "camera_movement_76"}
+{"pred": ["N/A"], "reason": "The caption does not explicitly mention any camera movement or direction.", "file_id": "camera_movement_191"}
+{"pred": ["fixed"], "reason": "The caption mentions that the camera is positioned at eye level and captures the subjects from the front and slightly to the side, with no indication of movement, which suggests a fixed camera position.", "file_id": "camera_movement_239"}
+{"pred": ["N/A"], "reason": "The caption does not explicitly mention any camera movements.", "file_id": "camera_movement_583"}
+{"pred": ["N/A"], "reason": "The caption does not include any explicit descriptions of camera movement.", "file_id": "camera_movement_103"}
+{"pred": ["N/A"], "reason": "The caption provided does not contain any explicit information or descriptions about the camera's movement.", "file_id": "camera_movement_78"}
+{"pred": ["N/A"], "reason": "The video caption does not include any explicit descriptions of camera movement.", "file_id": "camera_movement_133"}
+{"pred": ["N/A"], "reason": "The caption does not explicitly mention any camera movement.", "file_id": "camera_movement_615"}
+{"pred": ["N/A"], "reason": "The provided video caption does not include any explicit mentions or descriptions of camera movements.", "file_id": "camera_movement_73"}
+{"pred": ["N/A"], "reason": "The caption does not explicitly mention any camera movements such as panning, tilting, zooming, or tracking. It only describes the scene setup, character positions, and their actions without reference to camera movements.", "file_id": "camera_movement_266"}
+{"pred": ["N/A"], "reason": "The provided caption does not explicitly mention any camera movements or directions that fit within the specified categories.", "file_id": "camera_movement_732"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that 'The camera remains stationary, focusing on the man as he stands in the center of the frame.', which falls under the 'fixed' category as per the definitions provided.", "file_id": "camera_movement_796"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that the camera is stationary, which implies a fixed camera position without any movement.", "file_id": "camera_movement_684"}
+{"pred": ["fixed"], "reason": "The caption describes the overall scene as static, with no apparent movement or action taking place, which is consistent with a fixed camera movement.", "file_id": "camera_movement_510"}
+{"pred": ["N/A"], "reason": "The video caption does not contain any explicit description of camera movements.", "file_id": "camera_movement_858"}
+{"pred": ["fixed"], "reason": "The caption describes the camera as being 'positioned at a low angle, looking up at the men and the cement mixer truck,' which suggests a specific fixed position and angle of the camera without any implied movement.", "file_id": "camera_movement_898"}
+{"pred": ["N/A"], "reason": "The video caption does not include any explicit description of camera movement.", "file_id": "camera_movement_395"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that 'The camera is stationary, capturing the two men from the waist up', which corresponds to the 'fixed' category.", "file_id": "camera_movement_640"}
+{"pred": ["right"], "reason": "The caption explicitly mentions that 'the camera is moving slowly to the right', which corresponds to the 'right' category.", "file_id": "camera_movement_742"}
+{"pred": ["N/A"], "reason": "The caption does not include any explicit descriptions of camera movements.", "file_id": "camera_movement_620"}
+{"pred": ["fixed"], "reason": "The caption explicitly states that 'The camera appears to be stationary, capturing the entire scene in one shot.' which aligns with the 'fixed' category, indicating no camera movement.", "file_id": "camera_movement_234"}
+{"pred": ["N/A"], "reason": "The caption does not explicitly mention any camera movements.", "file_id": "camera_movement_531"}
+{"pred": ["N/A"], "reason": "The caption does not explicitly mention any descriptions about the camera movement.", "file_id": "camera_movement_480"}
+{"pred": ["N/A"], "reason": "The provided caption does not contain any explicit mention or indication of camera movement.", "file_id": "camera_movement_761"}
+{"pred": ["N/A"], "reason": "The caption does not contain any explicit information about the camera movement.", "file_id": "camera_movement_173"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that the camera is stationary, which corresponds to the 'fixed' category.", "file_id": "camera_movement_578"}
+{"pred": ["N/A"], "reason": "The video caption provided does not include any explicit description of camera movement.", "file_id": "camera_movement_209"}
+{"pred": ["N/A"], "reason": "The caption does not include any explicit descriptions of camera movement.", "file_id": "camera_movement_5"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that the camera is stationary, which aligns with the 'fixed' camera movement category.", "file_id": "camera_movement_32"}
+{"pred": ["N/A"], "reason": "The caption does not contain any explicit descriptions of camera movement.", "file_id": "camera_movement_792"}
+{"pred": ["up"], "reason": "The camera is described as positioned at a low angle, looking up at the people, which corresponds to a tilt up or boom up movement.", "file_id": "camera_movement_988"}
+{"pred": ["N/A"], "reason": "The caption does not contain any explicit description of camera movement.", "file_id": "camera_movement_183"}
+{"pred": ["N/A"], "reason": "The caption does not explicitly mention any camera movements.", "file_id": "camera_movement_965"}
+{"pred": ["N/A"], "reason": "The provided video caption does not include any descriptions of camera movements.", "file_id": "camera_movement_887"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that the camera is stationary, which corresponds to the 'fixed' category.", "file_id": "camera_movement_374"}
+{"pred": ["fixed"], "reason": "The caption indicates that the camera is positioned close to the woman's face and focuses on capturing her actions in detail without mentioning any movement, suggesting a fixed camera position.", "file_id": "camera_movement_397"}
+{"pred": ["fixed"], "reason": "The video caption mentions 'The video is shot from a close-up perspective,' which indicates a static camera position with no description of any movement, suggesting a fixed camera.", "file_id": "camera_movement_96"}
+{"pred": ["N/A"], "reason": "The caption does not include any explicit descriptions of camera movement.", "file_id": "camera_movement_951"}
+{"pred": ["N/A"], "reason": "The caption does not contain any explicit description of camera movement.", "file_id": "camera_movement_165"}
+{"pred": ["fixed"], "reason": "The caption explicitly states that the camera appears to be stationary, with no noticeable movement or panning.", "file_id": "camera_movement_694"}
+{"pred": ["fixed"], "reason": "The caption mentions 'The camera captures the waterfall from a low angle', which suggests a specific camera position but does not describe any movement such as panning, tilting, zooming, or tracking. Therefore, the category 'fixed' applies since the camera position is described without implying movement.", "file_id": "camera_movement_557"}
+{"pred": ["fixed"], "reason": "The caption mentions that the 'camera is positioned at a close distance, capturing the intimate interaction between the two characters' without any indication of movement, suggesting a fixed camera position.", "file_id": "camera_movement_937"}
+{"pred": ["N/A"], "reason": "The video caption does not explicitly mention any camera movement.", "file_id": "camera_movement_37"}
+{"pred": ["fixed"], "reason": "The caption explicitly states that 'The camera is stationary, capturing the man and the objects in front of him,' which indicates that the camera movement category is 'fixed'.", "file_id": "camera_movement_372"}
+{"pred": ["N/A"], "reason": "The caption does not mention or describe any camera movement.", "file_id": "camera_movement_961"}
+{"pred": ["fixed"], "reason": "The caption explicitly states that 'The camera is stationary, capturing the scene from a slightly elevated angle,' which indicates that there is no camera movement and falls into the 'fixed' category.", "file_id": "camera_movement_55"}
+{"pred": ["fixed"], "reason": "The caption states that 'The camera is stationary, capturing the scene from a frontal perspective.' which corresponds to the 'fixed' category as it indicates that the camera does not change its position or angle.", "file_id": "camera_movement_576"}
+{"pred": ["fixed"], "reason": "The caption explicitly states that 'The camera is stationary,' which fits the 'fixed' camera movement category.", "file_id": "camera_movement_181"}
+{"pred": ["fixed"], "reason": "The caption explicitly states that 'There is no camera movement visible in the video.' which falls under the category of 'fixed' camera movement.", "file_id": "camera_movement_65"}
+{"pred": ["out"], "reason": "The caption explicitly states that there is a ‘slight zoom out to reveal more of the garden and the people in the background.’", "file_id": "camera_movement_319"}
+{"pred": ["fixed"], "reason": "The caption explicitly states that 'The camera is stationary, capturing the scene from a side angle,' which corresponds to the 'fixed' category as the camera does not change position or angle.", "file_id": "camera_movement_706"}
+{"pred": ["fixed"], "reason": "The caption specifies that the camera is positioned at a low angle, looking up at the structure, but does not describe any movement, indicating a fixed camera position.", "file_id": "camera_movement_527"}
+{"pred": ["N/A"], "reason": "The provided caption does not contain any explicit mentions or descriptions of camera movements.", "file_id": "camera_movement_446"}
+{"pred": ["fixed"], "reason": "The caption explicitly states 'The camera is stationary', which corresponds to the 'fixed' category.", "file_id": "camera_movement_4"}
+{"pred": ["N/A"], "reason": "The caption does not include any explicit descriptions of camera movement.", "file_id": "camera_movement_227"}
+{"pred": ["N/A"], "reason": "The caption does not include any explicit descriptions of camera movement.", "file_id": "camera_movement_482"}
+{"pred": ["N/A"], "reason": "The caption does not include any explicit descriptions of camera movement.", "file_id": "camera_movement_39"}
+{"pred": ["N/A"], "reason": "The caption does not provide any explicit information about camera movement.", "file_id": "camera_movement_137"}
+{"pred": ["fixed"], "reason": "The caption explicitly states that the camera is stationary and there is no noticeable camera movement, such as panning or zooming, during this scene.", "file_id": "camera_movement_426"}
+{"pred": ["fixed"], "reason": "The video caption mentions that 'The camera is stationary,' which implies that there is no camera movement, thus this can be classified as 'fixed'.", "file_id": "camera_movement_147"}
+{"pred": ["N/A"], "reason": "The provided video caption does not contain any explicit descriptions of camera movement.", "file_id": "camera_movement_502"}
+{"pred": ["N/A"], "reason": "The caption does not include any explicit descriptions of camera movement.", "file_id": "camera_movement_118"}
+{"pred": ["N/A"], "reason": "The caption does not contain any explicit information about camera movement.", "file_id": "camera_movement_287"}
+{"pred": ["fixed"], "reason": "The caption states that there is no significant movement or action in the scene and that the camera is focused on the man's face, implying a fixed camera.", "file_id": "camera_movement_94"}
+{"pred": ["fixed"], "reason": "The caption mentions 'There is no noticeable camera movement, as the focus is on the two men and their interaction.' which implies that the camera is fixed on the scene without any movement.", "file_id": "camera_movement_927"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that 'The camera appears to be stationary, with no significant movement or zooming in or out,' which corresponds to the 'fixed' category.", "file_id": "camera_movement_385"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that the shot is static, with no noticeable camera movement, which falls under the 'fixed' category.", "file_id": "camera_movement_1"}
+{"pred": ["N/A"], "reason": "The caption does not contain any explicit information that describes the camera movement.", "file_id": "camera_movement_631"}
+{"pred": ["N/A"], "reason": "The caption does not contain any explicit description of camera movement.", "file_id": "camera_movement_723"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that the camera is stationary, which fits the 'fixed' category indicating the camera does not change its position or angle.", "file_id": "camera_movement_925"}
+{"pred": ["N/A"], "reason": "The provided caption does not contain any explicit descriptions of camera movements.", "file_id": "camera_movement_115"}
+{"pred": ["fixed"], "reason": "The caption suggests the camera is positioned at a low angle and gives the impression of being stationary as it describes the plane's approach without mentioning any camera movement such as panning, tilting, zooming, or tracking.", "file_id": "camera_movement_357"}
+{"pred": ["N/A"], "reason": "The caption does not include any explicit mention of camera movement.", "file_id": "camera_movement_802"}
+{"pred": ["fixed"], "reason": "The caption explicitly states that the camera is stationary.", "file_id": "camera_movement_546"}
+{"pred": ["N/A"], "reason": "The caption does not include any explicit descriptions of camera movement.", "file_id": "camera_movement_33"}
+{"pred": ["N/A"], "reason": "The caption does not include any explicit description of camera movement.", "file_id": "camera_movement_298"}
+{"pred": ["N/A"], "reason": "The caption does not contain any explicit descriptions of camera movement.", "file_id": "camera_movement_659"}
+{"pred": ["fixed"], "reason": "The caption mentions that the camera follows the model as she walks down the runway. This implies that the camera remains pointed at the model, which suggests a fixed focus on her rather than a specific movement like panning or zooming. There are no indications of the camera moving left, right, up, down, in, or out.", "file_id": "camera_movement_777"}
+{"pred": ["N/A"], "reason": "The provided caption does not explicitly mention any camera movement.", "file_id": "camera_movement_651"}
+{"pred": ["fixed"], "reason": "The caption specifies that the camera is focused on the person's hands and the shovel, capturing the action of digging, which suggests a fixed camera position without any mention of movement.", "file_id": "camera_movement_47"}
+{"pred": ["fixed"], "reason": "The caption indicates that the camera is stationary, which implies that it falls under the 'fixed' category.", "file_id": "camera_movement_567"}
+{"pred": ["fixed"], "reason": "The caption mentions that the camera is positioned at a low angle, capturing the workers from ground level, which indicates that the camera is in a fixed position and does not describe it as moving in any direction.", "file_id": "camera_movement_413"}
+{"pred": ["N/A"], "reason": "The caption does not describe any camera movement; it only provides a static description of the first aid kit.", "file_id": "camera_movement_933"}
+{"pred": ["fixed"], "reason": "The caption explicitly states 'There is no camera movement visible in the image, as it appears to be a still shot capturing a single moment in time.' which indicates a fixed camera position without any movement.", "file_id": "camera_movement_26"}
+{"pred": ["N/A"], "reason": "The provided video caption does not contain any explicit mention or descriptions of camera movement.", "file_id": "camera_movement_635"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that the camera is stationary, which aligns with the 'fixed' category.", "file_id": "camera_movement_154"}
+{"pred": ["N/A"], "reason": "The caption does not explicitly mention any descriptions about the camera movement.", "file_id": "camera_movement_358"}
+{"pred": ["N/A"], "reason": "The caption does not include any explicit description of camera movement.", "file_id": "camera_movement_713"}
+{"pred": ["N/A"], "reason": "The caption does not explicitly mention any camera movements.", "file_id": "camera_movement_538"}
+{"pred": ["fixed"], "reason": "The caption describes the camera as positioned at a low angle looking up at the characters, but does not specify any movement such as panning, tilting, zooming, or tracking. This suggests a fixed camera angle without explicit motion.", "file_id": "camera_movement_463"}
+{"pred": ["N/A"], "reason": "The provided caption does not contain any explicit mentions of camera movements.", "file_id": "camera_movement_597"}
+{"pred": ["N/A"], "reason": "The caption does not explicitly mention any camera movement.", "file_id": "camera_movement_307"}
+{"pred": ["fixed"], "reason": "The caption specifies that there is no significant camera movement and that the camera is positioned at a slight angle without any movement described, hence the camera is fixed.", "file_id": "camera_movement_151"}
+{"pred": ["N/A"], "reason": "The provided caption does not contain any explicit information about camera movements.", "file_id": "camera_movement_987"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that the camera is stationary, which falls under the 'fixed' category.", "file_id": "camera_movement_223"}
+{"pred": ["fixed"], "reason": "The caption explicitly states that the camera movement in the video is primarily static, which corresponds to the 'fixed' category.", "file_id": "camera_movement_881"}
+{"pred": ["fixed"], "reason": "The caption describes the camera as 'positioned at eye level, capturing the interaction between the two main characters' with no mention of any camera movement, which suggests that the camera is fixed.", "file_id": "camera_movement_661"}
+{"pred": ["fixed"], "reason": "The camera remains stationary, capturing the scene from a fixed position.", "file_id": "camera_movement_366"}
+{"pred": ["N/A"], "reason": "The caption does not provide any explicit information describing camera movement.", "file_id": "camera_movement_30"}
+{"pred": ["fixed"], "reason": "The caption explicitly states that 'The camera remains stationary throughout the video, with no noticeable movement,' which fits within the 'fixed' category.", "file_id": "camera_movement_101"}
+{"pred": ["N/A"], "reason": "The caption does not include any explicit descriptions of camera movement.", "file_id": "camera_movement_759"}
+{"pred": ["fixed"], "reason": "The camera is described as being positioned at a low angle, capturing the people from the waist up, indicating a static shot without movement, thus the camera movement can be classified as 'fixed'.", "file_id": "camera_movement_403"}
+{"pred": ["N/A"], "reason": "The caption does not explicitly mention any camera movements from the provided categories.", "file_id": "camera_movement_421"}
+{"pred": ["N/A"], "reason": "The caption does not contain any explicit mention of camera movement.", "file_id": "camera_movement_726"}
+{"pred": ["N/A"], "reason": "The caption does not explicitly mention any camera movements.", "file_id": "camera_movement_439"}
+{"pred": ["N/A"], "reason": "The caption does not explicitly mention any camera movement descriptions.", "file_id": "camera_movement_3"}
+{"pred": ["N/A"], "reason": "The caption does not include any explicit descriptions of camera movement.", "file_id": "camera_movement_422"}
+{"pred": ["N/A"], "reason": "The caption does not contain any explicit descriptions of camera movements.", "file_id": "camera_movement_682"}
+{"pred": ["N/A"], "reason": "The video caption does not contain any explicit descriptions of camera movement.", "file_id": "camera_movement_794"}
+{"pred": ["fixed"], "reason": "The caption explicitly states that 'The camera is stationary, focusing on the characters and their actions.'", "file_id": "camera_movement_734"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that 'The camera is stationary, and there is no indication of any camera movement in the scene.'", "file_id": "camera_movement_167"}
+{"pred": ["N/A"], "reason": "The caption does not contain any explicit information about camera movement.", "file_id": "camera_movement_917"}
+{"pred": ["N/A"], "reason": "The caption does not include any explicit descriptions of camera movement.", "file_id": "camera_movement_399"}
+{"pred": ["fixed"], "reason": "The caption explicitly states that 'The camera remains stationary, focusing on the helmet and its reflection', which matches the 'fixed' category.", "file_id": "camera_movement_647"}
+{"pred": ["fixed"], "reason": "The caption explicitly states that 'The camera is stationary, capturing the scene without any noticeable movement.' which aligns with the 'fixed' category.", "file_id": "camera_movement_194"}
+{"pred": ["fixed"], "reason": "The caption specifies that the camera remains steady throughout the video, indicating that there is no camera movement and the camera is fixed.", "file_id": "camera_movement_89"}
+{"pred": ["N/A"], "reason": "The provided caption does not include any explicit descriptions of camera movement.", "file_id": "camera_movement_49"}
+{"pred": ["N/A"], "reason": "The caption does not provide any explicit information about camera movement.", "file_id": "camera_movement_691"}
+{"pred": ["fixed"], "reason": "The caption explicitly states that 'The camera is stationary', which corresponds to the 'fixed' category as the camera does not change position or angle.", "file_id": "camera_movement_381"}
+{"pred": ["fixed"], "reason": "The caption mentions that the camera is focused on the young man with a slight blur in the background, which indicates that there is no dynamic camera movement described, thus it can be classified as 'fixed'.", "file_id": "camera_movement_309"}
+{"pred": ["N/A"], "reason": "The caption does not contain any explicit descriptions of camera movements.", "file_id": "camera_movement_783"}
+{"pred": ["fixed"], "reason": "The caption specifically mentions that the camera work is smooth and steady, which implies that the camera is fixed and does not change its position significantly.", "file_id": "camera_movement_279"}
+{"pred": ["N/A"], "reason": "The caption does not include any explicit descriptions of camera movement.", "file_id": "camera_movement_107"}
+{"pred": ["N/A"], "reason": "The given caption contains no explicit mention or description of camera movement.", "file_id": "camera_movement_902"}
+{"pred": ["N/A"], "reason": "The caption does not include any explicit descriptions or indications of camera movement.", "file_id": "camera_movement_634"}
+{"pred": ["fixed"], "reason": "The caption mentions that the camera movement is minimal, with the focus primarily on the woman in the sparkly top, which corresponds to the 'fixed' category as the camera is described as almost fixed and does not change.", "file_id": "camera_movement_286"}
+{"pred": ["N/A"], "reason": "The caption does not mention any camera movements.", "file_id": "camera_movement_974"}
+{"pred": ["N/A"], "reason": "The provided caption does not contain any explicit mention of camera movement.", "file_id": "camera_movement_494"}
+{"pred": ["fixed"], "reason": "The caption specifies that 'The camera follows the riders as they pass by the building and continue down the road', which means the camera is moving in a way to keep the subjects in frame rather than indicating a specific left, right, up, down, in, out movement. Moreover, it mentions that 'The video is shot from a low angle, giving the impression that the motorcyclists are moving quickly', but it does not describe an actual camera movement from the provided categories. Additionally, since it says 'The camera work is smooth and fluid, with no noticeable jitters or shakes' it suggests that the camera is stable throughout the shot, thus the use of 'fixed' is appropriate even though the camera is moving smoothly to follow the action.", "file_id": "camera_movement_786"}
+{"pred": ["N/A"], "reason": "The caption does not explicitly mention any camera movements such as pan, tilt, truck, dolly, zoom, or any movement from a fixed position.", "file_id": "camera_movement_466"}
+{"pred": ["fixed"], "reason": "The caption explicitly states that 'The camera is stationary, capturing the scene from a slightly elevated angle,' which indicates a fixed camera movement.", "file_id": "camera_movement_81"}
+{"pred": ["fixed"], "reason": "The caption mentions that 'The camera is stationary, capturing the scene from a low angle,' which aligns with the 'fixed' category as the camera does not change its position or angle.", "file_id": "camera_movement_747"}
+{"pred": ["N/A"], "reason": "The caption does not contain any explicit descriptions of camera movement.", "file_id": "camera_movement_677"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that 'The camera is stationary, capturing the scene from a low angle,' which means that the camera does not change its position or angle and falls into the 'fixed' category.", "file_id": "camera_movement_931"}
+{"pred": ["N/A"], "reason": "The caption does not contain any explicit mention of camera movement.", "file_id": "camera_movement_753"}
+{"pred": ["N/A"], "reason": "The caption does not include any explicit descriptions of camera movement.", "file_id": "camera_movement_261"}
+{"pred": ["fixed"], "reason": "The video caption indicates that the camera captures the scene from a low angle without mentioning any movement which implies a fixed camera position.", "file_id": "camera_movement_134"}
+{"pred": ["fixed"], "reason": "The caption explicitly states that 'The camera is stationary, and there is no noticeable camera movement.' which corresponds to the 'fixed' category.", "file_id": "camera_movement_498"}
+{"pred": ["fixed"], "reason": "The caption specifies that the camera movement is steady, providing a clear and unobstructed view, which implies that there is no movement indicating panning, tilting, tracking, zooming, or dollying. This corresponds to a fixed camera position.", "file_id": "camera_movement_241"}
+{"pred": ["N/A"], "reason": "The video caption does not explicitly mention any descriptions of camera movement.", "file_id": "camera_movement_19"}
+{"pred": ["fixed"], "reason": "The caption describes a close-up angle with the main focus on the man's face and chair, indicating the camera is fixed on these elements and there is no mention of any movement.", "file_id": "camera_movement_285"}
+{"pred": ["N/A"], "reason": "The provided caption does not contain any explicit descriptions of camera movement.", "file_id": "camera_movement_537"}
+{"pred": ["fixed"], "reason": "The caption specifies that the camera angle is from below, looking up at the men and the ceiling, without mentioning any directional movement or change in perspective, which implies a fixed camera position.", "file_id": "camera_movement_798"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that the camera appears to be stationary, with no significant movement or zooming, which corresponds to the 'fixed' category.", "file_id": "camera_movement_85"}
+{"pred": ["N/A"], "reason": "The caption does not explicitly mention any of the camera movement categories.", "file_id": "camera_movement_61"}
+{"pred": ["fixed"], "reason": "The caption mentions that 'The camera remains steady,' which indicates a fixed camera position without any described movement left, right, up, down, in, or out.", "file_id": "camera_movement_671"}
+{"pred": ["N/A"], "reason": "The video caption does not include any explicit descriptions of camera movement.", "file_id": "camera_movement_587"}
+{"pred": ["N/A"], "reason": "The caption does not include any explicit descriptions of camera movement.", "file_id": "camera_movement_31"}
+{"pred": ["fixed"], "reason": "The caption describes the camera as appearing to be stationary, which corresponds to the 'fixed' category of camera movement.", "file_id": "camera_movement_289"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that 'The camera is stationary', which corresponds to the category 'fixed' as per the given classification.", "file_id": "camera_movement_955"}
+{"pred": ["fixed"], "reason": "The caption explicitly states that 'The camera is stationary, capturing the couple's intimate moment.' which fits the 'fixed' category.", "file_id": "camera_movement_434"}
+{"pred": ["N/A"], "reason": "The caption does not include any explicit descriptions of camera movement.", "file_id": "camera_movement_703"}
+{"pred": ["N/A"], "reason": "The caption does not include any explicit descriptions of camera movement.", "file_id": "camera_movement_918"}
+{"pred": ["N/A"], "reason": "The video caption does not include any explicit description of camera movement.", "file_id": "camera_movement_722"}
+{"pred": ["N/A"], "reason": "The caption does not explicitly mention any kind of camera movement.", "file_id": "camera_movement_171"}
+{"pred": ["right"], "reason": "The caption mentions that the camera is 'moving slightly to the right' as it tracks the action.", "file_id": "camera_movement_501"}
+{"pred": ["N/A"], "reason": "The provided caption does not include any explicit descriptions of camera movement.", "file_id": "camera_movement_957"}
+{"pred": ["N/A"], "reason": "The provided caption does not contain any explicit descriptions of camera movements.", "file_id": "camera_movement_479"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that 'The camera is stationary', which aligns with the 'fixed' category, indicating no camera movement.", "file_id": "camera_movement_58"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that the camera is stationary, which falls under the 'fixed' category.", "file_id": "camera_movement_467"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that the camera is stationary, which aligns with the 'fixed' camera movement category.", "file_id": "camera_movement_430"}
+{"pred": ["N/A"], "reason": "The caption does not provide any explicit information about camera movement.", "file_id": "camera_movement_185"}
+{"pred": ["fixed"], "reason": "The description mentions that the video is shot from a high angle, giving a bird's eye view of the landscape, which implies a stationary or fixed camera position. There is no mention of any camera movement.", "file_id": "camera_movement_662"}
+{"pred": ["N/A"], "reason": "The caption does not explicitly mention any descriptions about camera movement.", "file_id": "camera_movement_915"}
+{"pred": ["N/A"], "reason": "The provided video caption does not include any explicit descriptions of camera movement.", "file_id": "camera_movement_554"}
+{"pred": ["N/A"], "reason": "The caption does not explicitly mention any camera movements such as 'left', 'right', 'up', 'down', 'in', 'out', or 'fixed'.", "file_id": "camera_movement_221"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that 'The camera is stationary, and there are no camera movements.' which corresponds to the 'fixed' category.", "file_id": "camera_movement_711"}
+{"pred": ["N/A"], "reason": "The caption does not contain any explicit mention of camera movements.", "file_id": "camera_movement_408"}
+{"pred": ["fixed"], "reason": "The caption describes the camera as positioned at a slight angle capturing the scene from the side, but does not mention any movement, implying the camera stays nearly fixed on the scene.", "file_id": "camera_movement_970"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that 'The camera is stationary', which corresponds to the 'fixed' category of camera movement.", "file_id": "camera_movement_533"}
+{"pred": ["N/A"], "reason": "The caption does not explicitly mention any specific camera movement.", "file_id": "camera_movement_670"}
+{"pred": ["fixed"], "reason": "The caption describes the camera movement as 'smooth and fluid, with a focus on the characters and their interactions' which does not suggest any directional movement like left, right, up, down, in, or out, hence we categorize it as 'fixed'.", "file_id": "camera_movement_763"}
+{"pred": ["N/A"], "reason": "The caption does not explicitly mention any camera movement.", "file_id": "camera_movement_707"}
+{"pred": ["N/A"], "reason": "The caption does not contain any explicit descriptions of camera movement.", "file_id": "camera_movement_425"}
+{"pred": ["fixed"], "reason": "The caption mentions 'The camera angle is from ground level, looking up at the trees,' which suggests a specific angle is maintained without describing any movement from that position, therefore the camera is almost fixed and does not change.", "file_id": "camera_movement_175"}
+{"pred": ["N/A"], "reason": "The provided caption does not contain any explicit descriptions of camera movements.", "file_id": "camera_movement_276"}
+{"pred": ["N/A"], "reason": "The caption does not contain any explicit description of camera movement.", "file_id": "camera_movement_245"}
+{"pred": ["fixed"], "reason": "The caption explicitly states that the camera angle is stationary, which implies that there is no camera movement and fits the 'fixed' category.", "file_id": "camera_movement_991"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that 'The camera is stationary,' which aligns with the 'fixed' category, indicating no camera movement.", "file_id": "camera_movement_97"}
+{"pred": ["fixed"], "reason": "The video caption describes the camera as being focused on the rice and the sack with a blurred background, which indicates that the camera is almost fixed on the subject without any movement categorically described.", "file_id": "camera_movement_375"}
+{"pred": ["N/A"], "reason": "The caption does not include any explicit descriptions of camera movement.", "file_id": "camera_movement_968"}
+{"pred": ["N/A"], "reason": "The caption does not include any explicit descriptions of camera movement.", "file_id": "camera_movement_718"}
+{"pred": ["N/A"], "reason": "The provided video caption does not contain any explicit descriptions of camera movement.", "file_id": "camera_movement_310"}
+{"pred": ["N/A"], "reason": "The caption does not contain any explicit mention of camera movement.", "file_id": "camera_movement_804"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that the camera remains steady, which indicates a fixed camera movement.", "file_id": "camera_movement_35"}
+{"pred": ["N/A"], "reason": "The provided caption does not contain any explicit description of camera movement.", "file_id": "camera_movement_453"}
+{"pred": ["N/A"], "reason": "The video caption does not explicitly mention any camera movements that fit into the categories provided.", "file_id": "camera_movement_193"}
+{"pred": ["N/A"], "reason": "The caption does not include any explicit descriptions of camera movement.", "file_id": "camera_movement_639"}
+{"pred": ["N/A"], "reason": "The caption does not explicitly mention any camera movement.", "file_id": "camera_movement_762"}
+{"pred": ["fixed", "in"], "reason": "The caption mentions that 'The camera does not move much, but it does follow the woman's movements as she reaches for the box and then opens it.' This suggests a fixed camera placement with slight adjustments to keep the woman in frame. The description of the camera movement also indicates that it follows the woman's movements, which can include subtle camera motion towards the subject as she 'reaches for the box and then opens it,' implying a 'dolly in' or 'zoom in' effect.", "file_id": "camera_movement_598"}
+{"pred": ["fixed"], "reason": "The video caption explicitly mentions that 'The camera is stationary, and there is no noticeable camera movement' which indicates that the camera is fixed.", "file_id": "camera_movement_729"}
+{"pred": ["fixed"], "reason": "The caption specifically mentions that the shot is steady, with no noticeable camera movement, which corresponds to the 'fixed' category.", "file_id": "camera_movement_700"}
+{"pred": ["fixed"], "reason": "The caption mentions that 'The camera is positioned at a low angle, capturing the guests from the waist up.' This implies that the camera angle is fixed and does not mention any movement; therefore, it is categorized as 'fixed'.", "file_id": "camera_movement_260"}
+{"pred": ["fixed"], "reason": "The caption mentions that 'The camera is positioned at a low angle, focusing on the man's upper body and face', which suggests the camera remains in a fixed position without any movement described in the categories.", "file_id": "camera_movement_410"}
+{"pred": ["N/A"], "reason": "The caption does not contain explicit descriptions of camera movement.", "file_id": "camera_movement_574"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that 'There is no visible camera movement in the image' which indicates that the camera is fixed.", "file_id": "camera_movement_934"}
+{"pred": ["N/A"], "reason": "The provided caption does not include any explicit descriptions of camera movement.", "file_id": "camera_movement_218"}
+{"pred": ["fixed"], "reason": "The caption mentions that the camera is positioned at a low angle to capture the man's hands and the paper as he draws, which implies a stationary camera position with no indication of any movement, hence it is classified as 'fixed'.", "file_id": "camera_movement_387"}
+{"pred": ["N/A"], "reason": "The caption does not include any explicit descriptions of camera movement.", "file_id": "camera_movement_336"}
+{"pred": ["N/A"], "reason": "The caption does not explicitly mention any camera movements.", "file_id": "camera_movement_741"}
+{"pred": ["fixed"], "reason": "The caption explicitly states the camera movement in the video is steady, with no noticeable panning or zooming, suggesting that the camera remains 'fixed' throughout the video.", "file_id": "camera_movement_630"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that there is no significant camera movement and the focus remains on the woman in the foreground, indicating that the camera is fixed.", "file_id": "camera_movement_346"}
+{"pred": ["N/A"], "reason": "The provided caption does not contain any explicit descriptions of camera movement.", "file_id": "camera_movement_637"}
+{"pred": ["N/A"], "reason": "The caption does not explicitly mention any of the specific camera movements left, right, up, down, in, out, or fixed.", "file_id": "camera_movement_6"}
+{"pred": ["fixed"], "reason": "The caption mentions that the camera is positioned at a low angle capturing the scene, which suggests a fixed position without indicating any movement.", "file_id": "camera_movement_563"}
+{"pred": ["fixed"], "reason": "The caption explicitly states that there is no visible camera movement, indicating the camera is almost fixed and does not change.", "file_id": "camera_movement_449"}
+{"pred": ["down", "fixed"], "reason": "The caption mentions that the camera is positioned with a 'slight tilt down' to capture the woman's face which corresponds to 'down', and since it also states 'The camera does not move significantly during the scene' it suggests the camera is mostly 'fixed'.", "file_id": "camera_movement_468"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that the camera is stationary, which aligns with the 'fixed' category.", "file_id": "camera_movement_888"}
+{"pred": ["fixed"], "reason": "The caption describes that the video is shot in a close-up shot, with the camera focusing on the woman's face and upper body, but there is no description of the camera moving, implying it is a fixed shot.", "file_id": "camera_movement_40"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that 'The camera is stationary, and there is no noticeable camera movement.' which corresponds to the 'fixed' category.", "file_id": "camera_movement_569"}
+{"pred": ["fixed"], "reason": "The caption specifies that the camera is positioned at a slight angle, with no indication of movement; thus, it suggests that the camera is fixed.", "file_id": "camera_movement_155"}
+{"pred": ["N/A"], "reason": "The caption does not explicitly mention any camera movements.", "file_id": "camera_movement_111"}
+{"pred": ["fixed"], "reason": "The caption explicitly states that the camera remains stationary throughout the scene, which corresponds to the 'fixed' category.", "file_id": "camera_movement_748"}
+{"pred": ["N/A"], "reason": "The provided video caption does not include any explicit description of camera movement.", "file_id": "camera_movement_503"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that the camera is stationary, which fits the 'fixed' category as the camera does not change its position or angle.", "file_id": "camera_movement_188"}
+{"pred": ["N/A"], "reason": "The provided video caption does not contain any explicit description of camera movement.", "file_id": "camera_movement_448"}
+{"pred": ["N/A"], "reason": "The provided caption does not include any explicit descriptions of camera movement.", "file_id": "camera_movement_376"}
+{"pred": ["N/A"], "reason": "The video caption does not include any explicit reference or descriptions of camera movement.", "file_id": "camera_movement_600"}
+{"pred": ["N/A"], "reason": "The caption does not include any explicit descriptions of camera movement.", "file_id": "camera_movement_813"}
+{"pred": ["down", "fixed"], "reason": "The caption mentions that the camera is positioned at a low angle which implies a tilt down to capture the scene, and it also describes the camera movement as steady, which corresponds to a fixed position.", "file_id": "camera_movement_126"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that the camera is stationary, which aligns with the 'fixed' category indicating the camera does not change its position or angle during the scene.", "file_id": "camera_movement_740"}
+{"pred": ["N/A"], "reason": "The caption does not contain any explicit description of camera movement.", "file_id": "camera_movement_495"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that the camera is stationary, and there is no indication of any movement or action in the scene, which corresponds to the 'fixed' category.", "file_id": "camera_movement_331"}
+{"pred": ["N/A"], "reason": "The provided caption does not contain any explicit description of camera movement.", "file_id": "camera_movement_929"}
+{"pred": ["N/A"], "reason": "The caption does not contain any explicit descriptions of camera movements.", "file_id": "camera_movement_158"}
+{"pred": ["fixed"], "reason": "The caption clearly states that 'The camera is stationary, and there is no indication of any movement or action beyond the mouse's examination of the acorn.' This description aligns with the 'fixed' category where the camera does not change its position or angle.", "file_id": "camera_movement_768"}
+{"pred": ["N/A"], "reason": "The provided video caption does not include any explicit descriptions of camera movement.", "file_id": "camera_movement_993"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that 'The camera is stationary, and there is no noticeable movement or zooming in or out.' which indicates a fixed camera position with no movement.", "file_id": "camera_movement_610"}
+{"pred": ["fixed"], "reason": "The caption describes the video being shot from a fixed perspective on the ground looking up at the trees, with no indication of any camera movement.", "file_id": "camera_movement_69"}
+{"pred": ["N/A"], "reason": "The caption does not explicitly mention any camera movements such as left, right, up, down, in, out, or fixed.", "file_id": "camera_movement_775"}
+{"pred": ["fixed"], "reason": "The caption explicitly states that 'The camera is stationary, capturing the scene from a slightly elevated angle.' which means the camera does not change position or angle and corresponds to the 'fixed' category.", "file_id": "camera_movement_255"}
+{"pred": ["fixed"], "reason": "The video caption explicitly mentions that 'The camera is stationary, and there are no noticeable camera movements.' which indicates a fixed camera position.", "file_id": "camera_movement_149"}
+{"pred": ["N/A"], "reason": "The caption does not contain any explicit descriptions of camera movement.", "file_id": "camera_movement_509"}
+{"pred": ["fixed"], "reason": "The caption explicitly states that 'The camera is stationary', which aligns with the 'fixed' category.", "file_id": "camera_movement_443"}
+{"pred": ["fixed"], "reason": "The caption explicitly states that 'The camera is stationary, capturing the scene from a slightly elevated angle.' This indicates a fixed camera position without any movement.", "file_id": "camera_movement_698"}
+{"pred": ["N/A"], "reason": "The caption does not include any explicit descriptions of camera movement.", "file_id": "camera_movement_986"}
+{"pred": ["N/A"], "reason": "The provided video caption does not contain any explicit descriptions of camera movement.", "file_id": "camera_movement_159"}
+{"pred": ["N/A"], "reason": "The caption does not include any explicit descriptions of camera movements.", "file_id": "camera_movement_10"}
+{"pred": ["N/A"], "reason": "The caption does not include any explicit descriptions of camera movements, so no classification can be made based on the provided information.", "file_id": "camera_movement_51"}
+{"pred": ["N/A"], "reason": "The caption does not explicitly mention any camera movements.", "file_id": "camera_movement_679"}
+{"pred": ["N/A"], "reason": "The video caption does not include any explicit descriptions of camera movement.", "file_id": "camera_movement_704"}
+{"pred": ["N/A"], "reason": "The caption does not include any explicit mention of camera movement.", "file_id": "camera_movement_429"}
+{"pred": ["N/A"], "reason": "The provided caption does not contain any explicit mention of camera movements such as pan, tilt, zoom, dolly, or tracking, thus it is not possible to classify the camera movement.", "file_id": "camera_movement_24"}
+{"pred": ["N/A"], "reason": "There are no explicit descriptions of camera movement in the video caption provided.", "file_id": "camera_movement_412"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that 'The camera is stationary, focusing on the machine and its components,' which corresponds to the 'fixed' category.", "file_id": "camera_movement_573"}
+{"pred": ["N/A"], "reason": "The caption does not explicitly mention any camera movement, therefore no camera movement can be inferred.", "file_id": "camera_movement_369"}
+{"pred": ["N/A"], "reason": "The caption does not include any explicit mentions or descriptions of camera movement.", "file_id": "camera_movement_316"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that 'The camera is stationary', which corresponds to the 'fixed' category.", "file_id": "camera_movement_435"}
+{"pred": ["N/A"], "reason": "The provided caption does not contain any explicit mention of camera movement.", "file_id": "camera_movement_500"}
+{"pred": ["fixed"], "reason": "The caption only mentions that the camera is positioned at a low angle, looking up at the person, but it does not indicate any movement; this suggests a fixed camera position.", "file_id": "camera_movement_340"}
+{"pred": ["fixed"], "reason": "The caption specifies that 'The camera remains steady, focusing on the road and the SUV, without any noticeable movement or zooming.' which corresponds to the 'fixed' category.", "file_id": "camera_movement_459"}
+{"pred": ["N/A"], "reason": "The video caption does not contain any explicit descriptions of camera movement.", "file_id": "camera_movement_63"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that 'The camera is stationary, capturing the scene from a slightly elevated angle.' which corresponds to the 'fixed' category.", "file_id": "camera_movement_79"}
+{"pred": ["N/A"], "reason": "The caption does not contain any explicit information about camera movements.", "file_id": "camera_movement_383"}
+{"pred": ["N/A"], "reason": "The caption does not explicitly mention any camera movement descriptions.", "file_id": "camera_movement_967"}
+{"pred": ["fixed"], "reason": "The caption explicitly states that 'The camera remains still throughout the video,' which fits the description of the 'fixed' category.", "file_id": "camera_movement_665"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that 'The camera is stationary', which fits the 'fixed' category as the camera does not change position or angle.", "file_id": "camera_movement_695"}
+{"pred": ["N/A"], "reason": "The caption does not explicitly mention any camera movement.", "file_id": "camera_movement_861"}
+{"pred": ["fixed"], "reason": "The video caption mentions that the video is shot from a low angle, looking up at the buildings and the sky, which indicates a fixed point of view focusing upwards, but does not describe an active camera movement changing the frame of reference in the scene.", "file_id": "camera_movement_689"}
+{"pred": ["N/A"], "reason": "The caption does not explicitly mention any camera movement.", "file_id": "camera_movement_649"}
+{"pred": ["fixed"], "reason": "The caption explicitly states that 'The camera is stationary, and there is no noticeable movement' which corresponds to the 'fixed' category.", "file_id": "camera_movement_44"}
+{"pred": ["fixed"], "reason": "The caption describes the camera angle as 'low, looking up at the spacecraft and the planet,' but does not mention any movement of the camera. This suggests that the camera is in a fixed position with a specific angle.", "file_id": "camera_movement_409"}
+{"pred": ["N/A"], "reason": "The caption does not explicitly mention any descriptions of camera movement.", "file_id": "camera_movement_617"}
+{"pred": ["N/A"], "reason": "The provided caption contains no explicit mention of camera movements.", "file_id": "camera_movement_28"}
+{"pred": ["N/A"], "reason": "The caption does not contain any explicit information about the camera movement.", "file_id": "camera_movement_21"}
+{"pred": ["N/A"], "reason": "The given caption does not provide explicit information about the camera movements described by the categories.", "file_id": "camera_movement_196"}
+{"pred": ["fixed"], "reason": "The caption states that 'The camera remains steady, focusing on the boy's face and upper body,' which implies that the camera is fixed and there is no noticeable camera movement to classify in the other provided categories.", "file_id": "camera_movement_893"}
+{"pred": ["fixed"], "reason": "The caption indicates there is no visible camera movement, as the focus is on the man's expression and the immediate surroundings, which corresponds to the 'fixed' category.", "file_id": "camera_movement_944"}
+{"pred": ["down", "in"], "reason": "The caption indicates the camera is shot from a low angle, which typically means the camera is pointed upward, fitting the description of 'down' for camera angle. Additionally, the camera following the group as they walk suggests a tracking movement, which in this context implies 'in' as the camera moves with the subjects.", "file_id": "camera_movement_208"}
+{"pred": ["N/A"], "reason": "The caption does not explicitly mention any camera movements.", "file_id": "camera_movement_908"}
+{"pred": ["fixed"], "reason": "The caption indicates that the video is shot from a low angle with a slight tilt, but does not mention any movement of the camera itself. Therefore, it suggests a fixed camera position.", "file_id": "camera_movement_157"}
+{"pred": ["N/A"], "reason": "The provided video caption does not contain any explicit descriptions of camera movement.", "file_id": "camera_movement_851"}
+{"pred": ["fixed"], "reason": "The caption mentions that the camera angle is slightly elevated and focuses primarily on the bald man in the foreground, without any indication of camera movement, suggesting a fixed camera position.", "file_id": "camera_movement_497"}
+{"pred": ["in", "out"], "reason": "The caption mentions that the camera movement is dynamic and appears to be a mix of handheld and tracking shots, following the movements of the characters and the dust kicked up by their actions. Even though it doesn't use the exact terms 'in' or 'out', the description of following movements suggests that the camera moves towards the subject (in) and moves away (out) to follow the action.", "file_id": "camera_movement_52"}
+{"pred": ["N/A"], "reason": "The caption does not explicitly mention any camera movements such as panning, tilting, zooming, or tracking. It only describes the static composition of the scene.", "file_id": "camera_movement_427"}
+{"pred": ["N/A"], "reason": "The provided caption does not include any explicit mentions of camera movements.", "file_id": "camera_movement_299"}
+{"pred": ["fixed"], "reason": "The caption mentions that 'The camera is positioned at a slight angle, capturing both the woman on the stage and the screen behind her' which indicates that the camera is not moving and is therefore fixed.", "file_id": "camera_movement_636"}
+{"pred": ["N/A"], "reason": "The caption does not include any explicit mention of camera movement or direction.", "file_id": "camera_movement_960"}
+{"pred": ["fixed"], "reason": "The caption mentions 'The camera angle is close-up,' which indicates that the camera is fixed on the workers and does not imply any movement such as left, right, up, down, in, or out.", "file_id": "camera_movement_415"}
+{"pred": ["fixed"], "reason": "The caption specifies that the camera is stationary, which aligns with the 'fixed' category indicating the camera does not change its position or angle.", "file_id": "camera_movement_871"}
+{"pred": ["N/A"], "reason": "The caption does not include any explicit descriptions of camera movement.", "file_id": "camera_movement_543"}
+{"pred": ["N/A"], "reason": "The provided video caption contains no explicit mention or description of camera movement.", "file_id": "camera_movement_164"}
+{"pred": ["N/A"], "reason": "The caption does not include any explicit descriptions of camera movement.", "file_id": "camera_movement_697"}
+{"pred": ["N/A"], "reason": "The caption provided does not contain any explicit descriptions of camera movement.", "file_id": "camera_movement_981"}
+{"pred": ["N/A"], "reason": "The provided caption does not include any explicit descriptions of camera movements.", "file_id": "camera_movement_992"}
+{"pred": ["N/A"], "reason": "The caption does not include explicit descriptions of camera movement.", "file_id": "camera_movement_672"}
+{"pred": ["up"], "reason": "The caption mentions that 'The camera angle is slightly upward, capturing the statues from below', which implies a tilt up movement.", "file_id": "camera_movement_143"}
+{"pred": ["N/A"], "reason": "The provided video caption does not include any explicit descriptions of camera movements.", "file_id": "camera_movement_680"}
+{"pred": ["fixed"], "reason": "The caption explicitly states that 'The camera is stationary, capturing the scene from a low angle.' which corresponds to the 'fixed' category.", "file_id": "camera_movement_771"}
+{"pred": ["fixed"], "reason": "The video caption explicitly states that there is 'no noticeable camera movement', which corresponds to a 'fixed' camera position.", "file_id": "camera_movement_212"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that 'The camera is stationary' and there is 'no significant camera movement in this shot', which corresponds to the 'fixed' category.", "file_id": "camera_movement_603"}
+{"pred": ["N/A"], "reason": "The caption does not explicitly mention any specific camera movements such as left, right, up, down, in, out, or fixed.", "file_id": "camera_movement_25"}
+{"pred": ["N/A"], "reason": "The caption does not include any explicit descriptions of camera movement.", "file_id": "camera_movement_220"}
+{"pred": ["N/A"], "reason": "The caption does not include any explicit mention of camera movements.", "file_id": "camera_movement_407"}
+{"pred": ["N/A"], "reason": "The provided video caption does not include any explicit descriptions of camera movement.", "file_id": "camera_movement_909"}
+{"pred": ["N/A"], "reason": "The caption does not contain any explicit mention of camera movements.", "file_id": "camera_movement_553"}
+{"pred": ["N/A"], "reason": "The caption does not contain any explicit description of camera movement.", "file_id": "camera_movement_64"}
+{"pred": ["N/A"], "reason": "The provided caption does not contain any explicit descriptions of camera movements.", "file_id": "camera_movement_271"}
+{"pred": ["fixed"], "reason": "The caption explicitly states that 'The camera remains stationary throughout the video,' which categorizes as a 'fixed' camera movement according to the given definitions.", "file_id": "camera_movement_809"}
+{"pred": ["fixed"], "reason": "The caption indicates that the camera appears to be stationary, which corresponds to the 'fixed' category as the camera does not change position or angle.", "file_id": "camera_movement_441"}
+{"pred": ["fixed"], "reason": "The caption mentions that 'The camera is stationary, capturing the scene...'", "file_id": "camera_movement_67"}
+{"pred": ["fixed"], "reason": "The caption mentions that 'The camera is focused on the glass of alcohol and the bottle, with the background out of focus' which implies that the camera is static or fixed on the subjects without any movement mentioned.", "file_id": "camera_movement_483"}
+{"pred": ["N/A"], "reason": "The caption does not explicitly mention any camera movement.", "file_id": "camera_movement_219"}
+{"pred": ["N/A"], "reason": "The video caption does not contain any explicit descriptions of camera movement.", "file_id": "camera_movement_83"}
+{"pred": ["N/A"], "reason": "The caption does not contain any explicit information about camera movement to classify it into the provided categories.", "file_id": "camera_movement_656"}
+{"pred": ["N/A"], "reason": "The provided caption does not contain any explicit mention of camera movement.", "file_id": "camera_movement_248"}
+{"pred": ["fixed"], "reason": "The caption describes the camera as focused on the man with no significant movement or special effects, which implies a fixed camera position.", "file_id": "camera_movement_492"}
+{"pred": ["N/A"], "reason": "The caption does not include any explicit descriptions of camera movement such as left, right, up, down, in, out or fixed. The description only provides a setting and visual details without specifying any camera movements.", "file_id": "camera_movement_787"}
+{"pred": ["fixed"], "reason": "The caption specifies that the 'camera is positioned at a low angle, looking up at the man' but does not indicate any movement such as panning, tilting, tracking, dollying, or zooming, leading to the classification as a 'fixed' camera movement.", "file_id": "camera_movement_301"}
+{"pred": ["fixed", "down"], "reason": "The caption describes the camera movement as primarily focused on the platform where Sonic is standing (which suggests a fixed position), and it also mentions that the camera angle is slightly tilted, giving the impression that Sonic is looking down at the street below (which corresponds to a tilt down camera movement).", "file_id": "camera_movement_281"}
+{"pred": ["N/A"], "reason": "The caption does not contain any explicit descriptions of camera movement.", "file_id": "camera_movement_404"}
+{"pred": ["N/A"], "reason": "The caption does not include any explicit descriptions of camera movements.", "file_id": "camera_movement_673"}
+{"pred": ["N/A"], "reason": "The video caption does not contain any explicit description of camera movement.", "file_id": "camera_movement_743"}
+{"pred": ["N/A"], "reason": "The provided caption does not contain any explicit descriptions of camera movement.", "file_id": "camera_movement_117"}
+{"pred": ["N/A"], "reason": "The caption does not explicitly mention any camera movement.", "file_id": "camera_movement_215"}
+{"pred": ["N/A"], "reason": "The caption does not include any explicit information about camera movement.", "file_id": "camera_movement_232"}
+{"pred": ["fixed"], "reason": "The caption mentions that there is a 'sense of stillness' in the scene, which suggests that the camera is not moving, hence it is fixed.", "file_id": "camera_movement_795"}
+{"pred": ["N/A"], "reason": "The provided video caption does not contain any explicit descriptions of camera movement.", "file_id": "camera_movement_100"}
+{"pred": ["N/A"], "reason": "The video caption does not include any explicit descriptions of camera movement.", "file_id": "camera_movement_7"}
+{"pred": ["N/A"], "reason": "The provided caption does not contain any explicit information about camera movements.", "file_id": "camera_movement_599"}
+{"pred": ["N/A"], "reason": "The video caption does not contain any explicit description of camera movement.", "file_id": "camera_movement_919"}
+{"pred": ["N/A"], "reason": "The caption does not contain any explicit descriptions of camera movement.", "file_id": "camera_movement_683"}
+{"pred": ["N/A"], "reason": "The caption does not contain any explicit descriptions of camera movements.", "file_id": "camera_movement_776"}
+{"pred": ["N/A"], "reason": "The caption does not include any explicit description of camera movement.", "file_id": "camera_movement_169"}
+{"pred": ["fixed"], "reason": "The caption plainly states that 'The camera is stationary,' which aligns with the 'fixed' category.", "file_id": "camera_movement_104"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that the camera is stationary which corresponds to the 'fixed' category.", "file_id": "camera_movement_756"}
+{"pred": ["fixed"], "reason": "The caption explicitly states that 'The camera is stationary,' which indicates that there is no camera movement and it falls into the 'fixed' category.", "file_id": "camera_movement_119"}
+{"pred": ["N/A"], "reason": "The caption does not include any explicit descriptions of camera movement.", "file_id": "camera_movement_749"}
+{"pred": ["N/A"], "reason": "The caption does not include any explicit descriptions of camera movement.", "file_id": "camera_movement_565"}
+{"pred": ["fixed"], "reason": "The caption explicitly states that 'The camera remains stationary throughout the video', which corresponds to the 'fixed' camera movement category.", "file_id": "camera_movement_921"}
+{"pred": ["N/A"], "reason": "The video caption does not explicitly mention any specific camera movements such as panning, tilting, zooming, tracking, or whether the camera remains fixed.", "file_id": "camera_movement_339"}
+{"pred": ["fixed"], "reason": "The video caption describes the camera as positioned at a low angle, which suggests a fixed camera position, as it does not imply any movement to the left, right, up, down, in, or out.", "file_id": "camera_movement_836"}
+{"pred": ["N/A"], "reason": "The provided caption does not include any explicit descriptions of camera movement.", "file_id": "camera_movement_419"}
+{"pred": ["N/A"], "reason": "The video caption does not contain any explicit descriptions of camera movement.", "file_id": "camera_movement_644"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that the camera is stationary, and there is no noticeable movement or zooming.", "file_id": "camera_movement_980"}
+{"pred": ["N/A"], "reason": "The caption does not contain any explicit mention of camera movement.", "file_id": "camera_movement_447"}
+{"pred": ["N/A"], "reason": "The caption does not include any explicit descriptions of camera movement.", "file_id": "camera_movement_328"}
+{"pred": ["N/A"], "reason": "The caption does not contain any explicit descriptions of camera movement.", "file_id": "camera_movement_852"}
+{"pred": ["N/A"], "reason": "The caption does not contain any explicit description of camera movement.", "file_id": "camera_movement_16"}
+{"pred": ["fixed"], "reason": "The caption describes the camera as appearing to be stationary, capturing the city from a high vantage point, which indicates a fixed camera position.", "file_id": "camera_movement_512"}
+{"pred": ["N/A"], "reason": "The caption does not explicitly mention any camera movement.", "file_id": "camera_movement_120"}
+{"pred": ["N/A"], "reason": "The caption does not include any explicit descriptions of camera movement.", "file_id": "camera_movement_91"}
+{"pred": ["N/A"], "reason": "The caption does not contain any explicit mention of camera movements or directions.", "file_id": "camera_movement_633"}
+{"pred": ["right"], "reason": "The caption specifies that the camera is moving with a slight tilt to the right.", "file_id": "camera_movement_311"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that the camera is stationary, which corresponds to the 'fixed' category.", "file_id": "camera_movement_247"}
+{"pred": ["fixed"], "reason": "The caption mentions that the scene is captured in a close-up shot with a slightly elevated camera angle providing a clear view, which implies that the camera is almost fixed and does not change.", "file_id": "camera_movement_469"}
+{"pred": ["N/A"], "reason": "The video caption does not include any explicit description of camera movement.", "file_id": "camera_movement_946"}
+{"pred": ["fixed"], "reason": "The caption explicitly states that 'the camera is stationary, with no movement', which matches the 'fixed' category indicating that the camera does not change position or angle.", "file_id": "camera_movement_765"}
+{"pred": ["N/A"], "reason": "The caption does not contain any explicit mention of camera movement.", "file_id": "camera_movement_976"}
+{"pred": ["N/A"], "reason": "The caption does not contain any explicit mention of camera movement.", "file_id": "camera_movement_911"}
+{"pred": ["fixed"], "reason": "The caption clearly states that the camera appears to be stationary, focusing on the berries and leaves without any noticeable movement which corresponds to a fixed camera movement category.", "file_id": "camera_movement_322"}
+{"pred": ["in"], "reason": "The description specifically mentions that the camera is zooming in on the pig and the boy, which corresponds to the 'in' category.", "file_id": "camera_movement_807"}
+{"pred": ["N/A"], "reason": "The caption does not include any explicit descriptions of camera movement.", "file_id": "camera_movement_932"}
+{"pred": ["N/A"], "reason": "The caption does not explicitly mention any specific camera movements.", "file_id": "camera_movement_826"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that there is 'no noticeable camera movement, such as panning or zooming,' which implies that the camera is static or fixed.", "file_id": "camera_movement_268"}
+{"pred": ["fixed"], "reason": "The caption explicitly states 'The camera is stationary, and there is no movement or zooming in the scene.' which indicates that the camera movement category is 'fixed'.", "file_id": "camera_movement_259"}
+{"pred": ["N/A"], "reason": "The caption does not contain any explicit descriptions of camera movement.", "file_id": "camera_movement_42"}
+{"pred": ["fixed"], "reason": "The caption mentions that the camera is positioned at a high angle, looking down on the court. There is no indication of any dynamic camera movement, such as panning, tilting, dollying, or zooming. Therefore, the camera movement can be classified as fixed.", "file_id": "camera_movement_424"}
+{"pred": ["N/A"], "reason": "The video caption does not specify any camera movements.", "file_id": "camera_movement_811"}
+{"pred": ["left"], "reason": "The caption explicitly states that the camera 'pans to the left', which indicates a camera movement to the left.", "file_id": "camera_movement_577"}
+{"pred": ["fixed"], "reason": "The caption explicitly states that 'The camera is stationary', which aligns with the 'fixed' category, indicating the camera does not change its position or angle during the described scene.", "file_id": "camera_movement_846"}
+{"pred": ["N/A"], "reason": "The caption does not contain any explicit information about camera movement.", "file_id": "camera_movement_179"}
+{"pred": ["N/A"], "reason": "The provided video caption does not explicitly mention any kind of camera movement.", "file_id": "camera_movement_72"}
+{"pred": ["fixed"], "reason": "The caption states 'The camera seems to be stationary, focusing on the interaction between the man and the woman,' which indicates that there is no camera movement and fits the 'fixed' category.", "file_id": "camera_movement_602"}
+{"pred": ["N/A"], "reason": "The caption does not specify any camera movement.", "file_id": "camera_movement_784"}
+{"pred": ["N/A"], "reason": "The caption does not include any explicit descriptions of camera movement.", "file_id": "camera_movement_939"}
+{"pred": ["N/A"], "reason": "The video caption does not contain any explicit descriptions of camera movement.", "file_id": "camera_movement_190"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that 'The camera is stationary' which corresponds directly to the 'fixed' category of camera movement.", "file_id": "camera_movement_11"}
+{"pred": ["fixed"], "reason": "The caption specifies that the camera movement is minimal and the focus remains on the man and the woman, implying a fixed camera position.", "file_id": "camera_movement_152"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that 'The camera is stationary, capturing the scene from a slightly elevated angle,' which fits the definition of fixed camera movement.", "file_id": "camera_movement_575"}
+{"pred": ["N/A"], "reason": "The video caption does not contain any explicit descriptions of camera movement.", "file_id": "camera_movement_930"}
+{"pred": ["fixed"], "reason": "The caption specifies that the camera is stationary, which fits the 'fixed' category.", "file_id": "camera_movement_46"}
+{"pred": ["fixed"], "reason": "The caption mentions that 'The camera appears to be stationary, capturing the scene from a slightly elevated angle,' which corresponds to the 'fixed' category as the camera is not moving.", "file_id": "camera_movement_975"}
+{"pred": ["N/A"], "reason": "The caption does not include any explicit information about camera movement.", "file_id": "camera_movement_954"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that the camera is stationary, which falls under the 'fixed' category as the camera does not change position or angle.", "file_id": "camera_movement_166"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that the camera is positioned at a low angle, looking up at the man and woman as they walk towards the screen, which implies the camera itself is not moving and maintaining a static shot, hence it is classified as 'fixed'.", "file_id": "camera_movement_714"}
+{"pred": ["fixed"], "reason": "The caption explicitly states that 'The camera is stationary,' which corresponds to the 'fixed' category as it indicates the camera does not change position or angle.", "file_id": "camera_movement_895"}
+{"pred": ["N/A"], "reason": "The provided video caption contains no explicit descriptions of camera movements.", "file_id": "camera_movement_186"}
+{"pred": ["fixed"], "reason": "The video caption mentions that the camera is stationary, which indicates a fixed camera movement.", "file_id": "camera_movement_88"}
+{"pred": ["fixed"], "reason": "The caption indicates that the camera is positioned at a slight angle, but there is no mention of the camera moving in any direction or the angle changing. Therefore, the camera movement can be classified as fixed.", "file_id": "camera_movement_379"}
+{"pred": ["fixed"], "reason": "The video caption explicitly mentions that 'The camera is stationary', which aligns with the 'fixed' category as the camera does not change its position or angle.", "file_id": "camera_movement_98"}
+{"pred": ["fixed"], "reason": "The caption explicitly states that the camera movement is not evident and appears to be a still image, which fits the 'fixed' category.", "file_id": "camera_movement_300"}
+{"pred": ["N/A"], "reason": "The provided video caption does not contain any explicit descriptions of camera movement.", "file_id": "camera_movement_371"}
+{"pred": ["N/A"], "reason": "The caption does not explicitly mention any camera movement.", "file_id": "camera_movement_883"}
+{"pred": ["N/A"], "reason": "The caption provides a description of the scene but does not include any explicit information about camera movements.", "file_id": "camera_movement_539"}
+{"pred": ["fixed"], "reason": "The caption describes the camera as positioned at a low angle looking up at the man but does not indicate any movement, suggesting a fixed camera position.", "file_id": "camera_movement_391"}
+{"pred": ["left", "right"], "reason": "The caption indicates that the camera movement is dynamic and seems to be panning across the kitchen, which suggests a horizontal movement that could be to the left, the right, or both.", "file_id": "camera_movement_455"}
+{"pred": ["fixed"], "reason": "The caption mentions that 'The camera is positioned at a low angle, capturing the scene from the floor level. The shot is slightly blurry, suggesting movement or a quick capture.' This indicates that the camera is not actively moving through the scene to follow a character or retreating away, but suggests a possibly handheld or fixed camera with some natural shake or blurriness, which falls under the 'fixed' category.", "file_id": "camera_movement_465"}
+{"pred": ["N/A"], "reason": "The caption does not contain any explicit descriptions of camera movement.", "file_id": "camera_movement_210"}
+{"pred": ["N/A"], "reason": "The caption does not contain any explicit descriptions of camera movement.", "file_id": "camera_movement_558"}
+{"pred": ["N/A"], "reason": "The caption does not explicitly mention any camera movements.", "file_id": "camera_movement_818"}
+{"pred": ["N/A"], "reason": "The caption does not include any explicit descriptions of camera movement.", "file_id": "camera_movement_674"}
+{"pred": ["N/A"], "reason": "The provided video caption does not include any explicit descriptions of camera movement.", "file_id": "camera_movement_530"}
+{"pred": ["fixed"], "reason": "The caption mentions the camera is positioned at a low angle, suggesting a specific stationary setup without indicating any movement. No other camera movements are described.", "file_id": "camera_movement_906"}
+{"pred": ["N/A"], "reason": "The caption does not include any explicit descriptions of camera movement.", "file_id": "camera_movement_922"}
+{"pred": ["fixed"], "reason": "The caption explicitly states that 'The camera is stationary,' which fits the 'fixed' camera movement category.", "file_id": "camera_movement_663"}
+{"pred": ["fixed"], "reason": "The caption specifies that the camera remains relatively steady with no significant movement or zooming, which aligns with the 'fixed' category.", "file_id": "camera_movement_487"}
+{"pred": ["N/A"], "reason": "The caption does not include any explicit descriptions of camera movement.", "file_id": "camera_movement_735"}
+{"pred": ["N/A"], "reason": "The video caption does not include any explicit descriptions or indications of camera movement.", "file_id": "camera_movement_646"}
+{"pred": ["fixed"], "reason": "The caption mentions that the camera is positioned at a slight angle but does not indicate any movement, suggesting that the camera is almost fixed and does not change, fitting the 'fixed' category.", "file_id": "camera_movement_274"}
+{"pred": ["N/A"], "reason": "The provided video caption does not include any explicit descriptions of camera movement.", "file_id": "camera_movement_834"}
+{"pred": ["fixed"], "reason": "The caption describes the camera as positioned at a low angle with the focus on the orange cat and does not mention any movement, which indicates that the camera is fixed.", "file_id": "camera_movement_174"}
+{"pred": ["N/A"], "reason": "The caption does not explicitly mention any camera movement.", "file_id": "camera_movement_14"}
+{"pred": ["fixed"], "reason": "The caption describes the camera as stationary, which aligns with the 'fixed' category where the camera does not change its position or angle.", "file_id": "camera_movement_38"}
+{"pred": ["N/A"], "reason": "The caption does not include any explicit description of camera movement.", "file_id": "camera_movement_398"}
+{"pred": ["N/A"], "reason": "The provided caption does not include any explicit descriptions of camera movement.", "file_id": "camera_movement_206"}
+{"pred": ["N/A"], "reason": "The caption does not contain any explicit descriptions of camera movement.", "file_id": "camera_movement_654"}
+{"pred": ["fixed"], "reason": "The caption specifically states that the 'camera is stationary, with no apparent movement or zooming in or out,' which falls under the 'fixed' category.", "file_id": "camera_movement_687"}
+{"pred": ["fixed"], "reason": "The caption explicitly states that the shot is static, with no apparent camera movement, which corresponds with the 'fixed' category.", "file_id": "camera_movement_719"}
+{"pred": ["N/A"], "reason": "The caption does not contain any explicit descriptions of camera movement.", "file_id": "camera_movement_870"}
+{"pred": ["fixed"], "reason": "The caption explicitly states that 'The camera remains stationary throughout the scene,' which matches the 'fixed' camera movement category.", "file_id": "camera_movement_746"}
+{"pred": ["N/A"], "reason": "The caption does not contain any explicit mention of camera movement.", "file_id": "camera_movement_211"}
+{"pred": ["N/A"], "reason": "The caption provided does not contain any explicit mention of camera movement.", "file_id": "camera_movement_623"}
+{"pred": ["fixed"], "reason": "The camera is described as remaining stationary, capturing the scene in a wide shot.", "file_id": "camera_movement_90"}
+{"pred": ["fixed"], "reason": "The caption explicitly states that 'The camera is stationary', which indicates that there are no camera movements, classifying it as 'fixed'.", "file_id": "camera_movement_18"}
+{"pred": ["fixed"], "reason": "The caption describes the boat as being 'positioned centrally in the frame' with no indication of any movement from the camera itself, suggesting a fixed camera position.", "file_id": "camera_movement_727"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that the camera remains stationary, which corresponds to the 'fixed' category.", "file_id": "camera_movement_514"}
+{"pred": ["N/A"], "reason": "The caption does not explicitly mention any camera movement.", "file_id": "camera_movement_894"}
+{"pred": ["N/A"], "reason": "The caption does not contain any explicit descriptions of camera movement.", "file_id": "camera_movement_971"}
+{"pred": ["N/A"], "reason": "The provided caption does not include any explicit descriptions of camera movement.", "file_id": "camera_movement_54"}
+{"pred": ["N/A"], "reason": "The provided video caption does not contain any description of camera movement.", "file_id": "camera_movement_886"}
+{"pred": ["N/A"], "reason": "The caption does not include any explicit descriptions of camera movement.", "file_id": "camera_movement_163"}
+{"pred": ["N/A"], "reason": "The provided caption does not contain any explicit description of camera movement.", "file_id": "camera_movement_801"}
+{"pred": ["fixed"], "reason": "The caption explicitly states that 'The camera remains static,' which falls under the 'fixed' category, as it implies that the camera does not change its position or angle during the video.", "file_id": "camera_movement_983"}
+{"pred": ["N/A"], "reason": "The caption does not contain any explicit information about camera movement.", "file_id": "camera_movement_739"}
+{"pred": ["fixed"], "reason": "The caption explicitly states that the camera is stationary.", "file_id": "camera_movement_773"}
+{"pred": ["N/A"], "reason": "The provided video caption does not mention any camera movements such as panning, tilting, zooming, tracking, booming, or any movement that can be classified as left, right, up, down, in, out, or fixed.", "file_id": "camera_movement_658"}
+{"pred": ["N/A"], "reason": "The caption does not explicitly mention any camera movements.", "file_id": "camera_movement_891"}
+{"pred": ["fixed"], "reason": "The caption describes that the camera captures the bees from various angles, which implies a certain level of fixation to show different perspectives. There is no explicit mention of camera movement in terms of panning, tracking, tilting, booming, zooming, or dollying.", "file_id": "camera_movement_559"}
+{"pred": ["fixed"], "reason": "The video caption explicitly mentions that 'The camera is stationary', which corresponds to the 'fixed' category.", "file_id": "camera_movement_875"}
+{"pred": ["fixed"], "reason": "The video caption describes a shot where the camera is positioned close to the keyboard and the hands, with no mention of any movement, suggesting that the camera is almost fixed and does not change positions.", "file_id": "camera_movement_551"}
+{"pred": ["N/A"], "reason": "The caption does not provide any explicit descriptions of camera movement.", "file_id": "camera_movement_431"}
+{"pred": ["fixed"], "reason": "The caption explicitly states that 'The camera is stationary, capturing the scene from a slightly elevated angle.' which indicates that the camera is fixed and does not fall into any of the other movement categories.", "file_id": "camera_movement_549"}
+{"pred": ["N/A"], "reason": "The caption does not contain any explicit mention of camera movement.", "file_id": "camera_movement_314"}
+{"pred": ["N/A"], "reason": "The caption does not include any explicit descriptions of camera movements.", "file_id": "camera_movement_82"}
+{"pred": ["N/A"], "reason": "The caption does not explicitly mention any camera movement or direction.", "file_id": "camera_movement_43"}
+{"pred": ["N/A"], "reason": "There is no description of camera movement in the video caption provided.", "file_id": "camera_movement_629"}
+{"pred": ["N/A"], "reason": "The caption does not explicitly mention any camera movements such as panning, tilting, zooming, or tracking. It merely describes the scene within the coffee shop.", "file_id": "camera_movement_277"}
+{"pred": ["N/A"], "reason": "The caption does not include any explicit description of camera movement.", "file_id": "camera_movement_347"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that the camera is stationary, which corresponds to the 'fixed' category of the camera movement description.", "file_id": "camera_movement_350"}
+{"pred": ["N/A"], "reason": "The caption does not explicitly mention any camera movement.", "file_id": "camera_movement_470"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that 'The camera remains stationary,' which corresponds to the 'fixed' category as the camera does not change its position or angle.", "file_id": "camera_movement_566"}
+{"pred": ["N/A"], "reason": "The caption does not include any explicit descriptions of camera movement.", "file_id": "camera_movement_962"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that 'The camera is stationary,' which indicates that the camera is fixed and does not change.", "file_id": "camera_movement_650"}
+{"pred": ["N/A"], "reason": "The caption does not include any explicit descriptions of camera movement.", "file_id": "camera_movement_655"}
+{"pred": ["fixed"], "reason": "The caption explicitly states that the camera movement is minimal and indicates a focus on the subjects rather than movement, which corresponds to the 'fixed' category.", "file_id": "camera_movement_394"}
+{"pred": ["N/A"], "reason": "The video caption does not include any explicit descriptions of camera movement.", "file_id": "camera_movement_142"}
+{"pred": ["N/A"], "reason": "The caption does not explicitly mention any specific camera movement.", "file_id": "camera_movement_928"}
+{"pred": ["N/A"], "reason": "The caption contains no explicit mention of camera movement.", "file_id": "camera_movement_529"}
+{"pred": ["N/A"], "reason": "The provided video caption does not include any explicit description of camera movement.", "file_id": "camera_movement_940"}
+{"pred": ["N/A"], "reason": "The caption does not contain any explicit information or descriptions about camera movements.", "file_id": "camera_movement_148"}
+{"pred": ["N/A"], "reason": "The caption does not include any explicit mentions of camera movement.", "file_id": "camera_movement_903"}
+{"pred": ["N/A"], "reason": "The video caption does not explicitly mention any camera movement.", "file_id": "camera_movement_382"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that there is no noticeable camera movement in the video, which implies a fixed camera position.", "file_id": "camera_movement_601"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that the camera movement in the video is relatively static, which corresponds to the 'fixed' category.", "file_id": "camera_movement_146"}
+{"pred": ["fixed"], "reason": "The video caption explicitly mentions that the camera is stationary, focusing on the two main characters, and there is no significant camera movement.", "file_id": "camera_movement_244"}
+{"pred": ["fixed"], "reason": "The scene is captured from a low angle without specific movement directions such as left, right, up, down, in or out being described, but it is mentioned that the camera seems to be moving with the vehicles, indicating that it is not panning or tilting. Since no specific movement pattern is described and the camera is not static, 'fixed' is the closest category available even though there is some following movement.", "file_id": "camera_movement_231"}
+{"pred": ["N/A"], "reason": "The video caption does not include any explicit mentions or descriptions of camera movement.", "file_id": "camera_movement_333"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that 'The camera is stationary', which corresponds to the 'fixed' category of camera movement.", "file_id": "camera_movement_751"}
+{"pred": ["fixed"], "reason": "The caption specifies that the camera is positioned at a low angle, looking up at the man and the house, but there is no explicit description of the camera performing any movements such as panning, tilting, tracking, booming, dollying, or zooming; therefore, the description implies the camera is fixed.", "file_id": "camera_movement_767"}
+{"pred": ["N/A"], "reason": "The provided caption does not explicitly mention any camera movements such as panning left or right, tilting up or down, dollying in or out, or zooming in or out. It only describes the scenes observed without reference to movement.", "file_id": "camera_movement_613"}
+{"pred": ["left", "right"], "reason": "The caption indicates that the camera is moving or panning to follow the woman chef's actions, which suggests that there is either a left or a right camera movement, but without more context, it is not possible to determine the precise direction of the pan.", "file_id": "camera_movement_278"}
+{"pred": ["N/A"], "reason": "The provided caption does not include any explicit descriptions of camera movement.", "file_id": "camera_movement_607"}
+{"pred": ["N/A"], "reason": "The provided caption contains no explicit mention of camera movement.", "file_id": "camera_movement_436"}
+{"pred": ["fixed"], "reason": "The caption mentions the video is shot from a slightly elevated angle, looking down into the tank, which indicates a fixed camera position with no movement described.", "file_id": "camera_movement_521"}
+{"pred": ["in"], "reason": "The description mentions that the camera is moving forward, following the car as it drives down the road which implies a dolly in movement towards the subject.", "file_id": "camera_movement_823"}
+{"pred": ["fixed"], "reason": "The caption explicitly states 'The camera is stationary, focusing on the woman and her actions', which corresponds to the 'fixed' category.", "file_id": "camera_movement_433"}
+{"pred": ["N/A"], "reason": "The caption does not contain any explicit description of camera movement.", "file_id": "camera_movement_457"}
+{"pred": ["N/A"], "reason": "The caption does not explicitly mention any camera movements. It only describes the scene and the characters in it without indicating if the camera is panning, tilting, zooming, or moving in any specific direction or manner.", "file_id": "camera_movement_643"}
+{"pred": ["fixed"], "reason": "The caption explicitly states that 'The camera is stationary, capturing the scene from a slightly elevated angle,' which indicates that the camera is not moving and therefore falls into the 'fixed' category.", "file_id": "camera_movement_590"}
+{"pred": ["N/A"], "reason": "The caption does not contain any explicit descriptions of camera movement that match the given categories.", "file_id": "camera_movement_518"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that the camera is stationary, which aligns with the 'fixed' category.", "file_id": "camera_movement_236"}
+{"pred": ["N/A"], "reason": "The provided caption does not include any explicit descriptions of camera movement.", "file_id": "camera_movement_770"}
+{"pred": ["N/A"], "reason": "The caption does not explicitly mention any camera movements.", "file_id": "camera_movement_162"}
+{"pred": ["N/A"], "reason": "The provided caption does not explicitly mention any camera movements.", "file_id": "camera_movement_95"}
+{"pred": ["N/A"], "reason": "The video caption does not include any explicit mention of camera movements.", "file_id": "camera_movement_624"}
+{"pred": ["fixed"], "reason": "The caption explicitly states that 'The camera is stationary, capturing the scene from a slightly elevated angle,' which indicates that there is no camera movement and corresponds to the 'fixed' category.", "file_id": "camera_movement_926"}
+{"pred": ["fixed"], "reason": "The caption describes the camera as having a 'shallow depth of field that blurs the background' with a focus on the object and the hand, indicating that the camera is fixed on the object and hand interaction without mentioning any movement.", "file_id": "camera_movement_752"}
+{"pred": ["N/A"], "reason": "The caption does not explicitly mention any camera movements.", "file_id": "camera_movement_591"}
+{"pred": ["fixed"], "reason": "The caption mentions that 'The camera remains stationary throughout the scene, allowing the viewer to focus on the characters and their interactions.' which indicates that there is no camera movement, so the category is 'fixed'.", "file_id": "camera_movement_561"}
+{"pred": ["fixed"], "reason": "The caption mentions that the camera is positioned at a low angle, but does not describe any change in the angle or movement throughout the scene, suggesting that the camera is almost fixed and does not change.", "file_id": "camera_movement_692"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that the camera is stationary with no apparent movement or zooming.", "file_id": "camera_movement_914"}
+{"pred": ["N/A"], "reason": "The caption does not contain any explicit mention or description of camera movement.", "file_id": "camera_movement_114"}
+{"pred": ["fixed"], "reason": "The video caption explicitly mentions that the camera is stationary, which implies a fixed camera movement.", "file_id": "camera_movement_544"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that the camera is stationary, with no apparent movement or zooming, which corresponds to the 'fixed' category.", "file_id": "camera_movement_755"}
+{"pred": ["N/A"], "reason": "The caption does not contain any explicit descriptions of camera movement.", "file_id": "camera_movement_966"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that the camera is stationary, which corresponds to the 'fixed' category.", "file_id": "camera_movement_2"}
+{"pred": ["N/A"], "reason": "The caption does not include any explicit descriptions of camera movement.", "file_id": "camera_movement_267"}
+{"pred": ["fixed"], "reason": "The video caption describes a 'panoramic view' and mentions that the video is shot 'from an elevated perspective' with a 'comprehensive view of the city' but does not explicitly describe any movement such as panning, tilting, zooming, or dollying. This implies a fixed camera position that captures the entire scene without an indication of movement.", "file_id": "camera_movement_781"}
+{"pred": ["N/A"], "reason": "The caption does not explicitly mention any camera movement.", "file_id": "camera_movement_652"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that there is no noticeable camera movement, which fits the definition of a 'fixed' camera movement.", "file_id": "camera_movement_224"}
+{"pred": ["N/A"], "reason": "The video caption does not contain any explicit descriptions of camera movement.", "file_id": "camera_movement_953"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that 'The camera is stationary,' which corresponds to the 'fixed' category.", "file_id": "camera_movement_705"}
+{"pred": ["N/A"], "reason": "The caption does not explicitly mention any specific camera movement.", "file_id": "camera_movement_74"}
+{"pred": ["N/A"], "reason": "The caption does not contain any explicit descriptions of camera movements.", "file_id": "camera_movement_989"}
+{"pred": ["right"], "reason": "The caption explicitly states that there is a slight tilt to the right, which falls under the 'right' camera movement category.", "file_id": "camera_movement_373"}
+{"pred": ["fixed"], "reason": "The caption clearly states that 'The camera is stationary,' which fits the definition of the 'fixed' category.", "file_id": "camera_movement_526"}
+{"pred": ["N/A"], "reason": "The caption does not include any explicit descriptions of camera movement.", "file_id": "camera_movement_857"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that 'The scene is static, with no camera movement.' which aligns with the 'fixed' category, indicating that the camera does not change position or angle.", "file_id": "camera_movement_899"}
+{"pred": ["fixed"], "reason": "The caption indicates that the camera is positioned at a close distance to the nurse, focusing on her face and the procedure, with no description of a moving camera, suggesting a fixed position.", "file_id": "camera_movement_685"}
+{"pred": ["N/A"], "reason": "The provided video caption does not contain any explicit descriptions of camera movement.", "file_id": "camera_movement_121"}
+{"pred": ["N/A"], "reason": "The caption does not include any explicit descriptions of camera movement.", "file_id": "camera_movement_766"}
+{"pred": ["N/A"], "reason": "The video caption does not contain any explicit mention of camera movement.", "file_id": "camera_movement_822"}
+{"pred": ["N/A"], "reason": "The caption provided does not contain any explicit description of camera movement.", "file_id": "camera_movement_9"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that 'The camera is stationary', which corresponds to the 'fixed' category as per the provided definitions.", "file_id": "camera_movement_545"}
+{"pred": ["N/A"], "reason": "The caption does not contain any explicit description of camera movement.", "file_id": "camera_movement_641"}
+{"pred": ["N/A"], "reason": "The caption does not explicitly mention any camera movement.", "file_id": "camera_movement_182"}
+{"pred": ["right"], "reason": "The caption explicitly mentions that there is a 'slight pan to the right', which directly corresponds to the 'right' category.", "file_id": "camera_movement_416"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that the camera is stationary.", "file_id": "camera_movement_414"}
+{"pred": ["fixed"], "reason": "The video caption mentions the video is shot from a low angle, which implies a specific camera position, but does not describe any camera movement. So the only information given that corresponds to camera movement is that the camera seems to be fixed at a low angle.", "file_id": "camera_movement_313"}
+{"pred": ["N/A"], "reason": "The caption does not include any explicit descriptions of camera movement.", "file_id": "camera_movement_897"}
+{"pred": ["N/A"], "reason": "There is no explicit mention of any camera movement in the video caption provided.", "file_id": "camera_movement_586"}
+{"pred": ["fixed"], "reason": "The caption describes the camera as being positioned at a low angle without mentioning any movement, which corresponds to the 'fixed' category.", "file_id": "camera_movement_472"}
+{"pred": ["fixed"], "reason": "The caption states that 'The camera is positioned at a close distance to the woman, capturing her face and upper body in detail' which indicates that the camera is fixed on the subject without mentioning any movement.", "file_id": "camera_movement_860"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that there is no visible camera movement, therefore the camera is fixed.", "file_id": "camera_movement_161"}
+{"pred": ["N/A"], "reason": "The caption provides a detailed description of the scene and characters but does not include any explicit information about camera movement.", "file_id": "camera_movement_437"}
+{"pred": ["N/A"], "reason": "The caption provided does not include any explicit descriptions of camera movements.", "file_id": "camera_movement_150"}
+{"pred": ["N/A"], "reason": "The caption does not contain any explicit information describing camera movements.", "file_id": "camera_movement_370"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that 'The camera is stationary, and the focus is on the trees and foliage, with no visible movement or action.' which falls under the 'fixed' camera movement category.", "file_id": "camera_movement_361"}
+{"pred": ["N/A"], "reason": "The video caption provided does not contain any explicit reference to camera movement.", "file_id": "camera_movement_592"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that 'The camera is stationary,' which falls under the 'fixed' category.", "file_id": "camera_movement_904"}
+{"pred": ["N/A"], "reason": "The provided video caption contains no explicit mention or description of camera movement.", "file_id": "camera_movement_552"}
+{"pred": ["fixed"], "reason": "The caption explicitly states that 'The camera is stationary, and there are no noticeable camera movements.' which corresponds to the 'fixed' category.", "file_id": "camera_movement_445"}
+{"pred": ["N/A"], "reason": "The provided video caption does not include any explicit descriptions of camera movements.", "file_id": "camera_movement_172"}
+{"pred": ["N/A"], "reason": "The provided caption does not include any explicit descriptions of camera movement.", "file_id": "camera_movement_585"}
+{"pred": ["fixed"], "reason": "The caption mentions 'The camera angle is from above, providing a clear view...' which suggests a stationary viewpoint without an explicit mention of any movement thus fitting the 'fixed' category.", "file_id": "camera_movement_814"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that there is no camera movement visible in the image, which fits the fixed category.", "file_id": "camera_movement_910"}
+{"pred": ["fixed"], "reason": "The caption explicitly states that 'The camera is stationary,' which corresponds to the 'fixed' camera movement category.", "file_id": "camera_movement_536"}
+{"pred": ["N/A"], "reason": "The caption does not contain any explicit descriptions of camera movement.", "file_id": "camera_movement_352"}
+{"pred": ["fixed"], "reason": "The caption mentions that 'The camera remains stationary throughout the scene,' which corresponds to the 'fixed' category, indicating no movement of the camera.", "file_id": "camera_movement_609"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that the camera is stationary, which indicates a fixed camera movement.", "file_id": "camera_movement_202"}
+{"pred": ["fixed"], "reason": "The caption mentions that the camera is 'positioned at a low angle,' which implies that the camera is stationary with a set angle and not in motion, indicating a fixed camera position.", "file_id": "camera_movement_312"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that 'The camera is not moving, and the scene appears to be a still shot' which corresponds to the 'fixed' category.", "file_id": "camera_movement_125"}
+{"pred": ["left", "right", "in"], "reason": "The caption explicitly mentions 'pan left', which is classified as 'left'; 'track right', which is classified as 'right'; and 'zoom in', which is classified as 'in'.", "file_id": "camera_movement_504"}
+{"pred": ["fixed"], "reason": "The caption describes the camera as appearing to be stationary, capturing the still life of the vegetables.", "file_id": "camera_movement_604"}
+{"pred": ["N/A"], "reason": "The video caption does not explicitly mention any descriptions about the camera movement.", "file_id": "camera_movement_838"}
+{"pred": ["left"], "reason": "The caption mentions that the camera moves slightly to the left, following the women as they push the car.", "file_id": "camera_movement_213"}
+{"pred": ["N/A"], "reason": "The video caption does not include any explicit descriptions of camera movement.", "file_id": "camera_movement_542"}
+{"pred": ["N/A"], "reason": "The video caption provided does not contain any explicit descriptions of camera movement.", "file_id": "camera_movement_22"}
+{"pred": ["fixed"], "reason": "The caption explicitly states that 'The camera is stationary' which aligns with the 'fixed' category, indicating no camera movement.", "file_id": "camera_movement_136"}
+{"pred": ["fixed"], "reason": "The caption states that 'The camera is stationary, focusing on the two men and their interaction', which implies that the camera is almost fixed and does not change, thus falling into the 'fixed' category.", "file_id": "camera_movement_712"}
+{"pred": ["fixed"], "reason": "The video caption states that the camera is stationary, which aligns with the 'fixed' camera movement category.", "file_id": "camera_movement_116"}
+{"pred": ["right"], "reason": "The caption explicitly states that 'The camera is panning to the right', which indicates a camera movement to the right.", "file_id": "camera_movement_34"}
+{"pred": ["fixed"], "reason": "The caption explicitly states 'There is no noticeable camera movement, as the focus remains on the two women in the foreground.', which falls under the 'fixed' category as the camera is almost fixed and does not change.", "file_id": "camera_movement_985"}
+{"pred": ["N/A"], "reason": "The caption does not include any explicit information or terminology that describes camera movement.", "file_id": "camera_movement_122"}
+{"pred": ["up"], "reason": "The caption specifies that the camera is positioned at a low angle, looking up at the two men which indicates a tilt up or boom up angle.", "file_id": "camera_movement_53"}
+{"pred": ["fixed"], "reason": "The caption explicitly states that 'The camera is stationary', which aligns with the 'fixed' category.", "file_id": "camera_movement_788"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that 'The camera is stationary, and there is no noticeable camera movement.' This indicates that the camera movement falls into the 'fixed' category.", "file_id": "camera_movement_262"}
+{"pred": ["N/A"], "reason": "The caption does not explicitly mention any camera movement.", "file_id": "camera_movement_534"}
+{"pred": ["N/A"], "reason": "The caption does not contain any explicit mention or descriptions of camera movement.", "file_id": "camera_movement_302"}
+{"pred": ["fixed"], "reason": "The caption mentions that the camera is positioned at a low angle, focusing on the bed and the people, but does not indicate any camera movement which suggests that the camera is fixed.", "file_id": "camera_movement_829"}
+{"pred": ["fixed"], "reason": "The caption describes the camera as being positioned at a low angle, looking up at the girl but does not specify any movement such as 'panning,' 'tilting,' 'zooming,' 'dollying,' or 'tracking.' Therefore, the fixed 'low angle' implies that there is no movement, fitting the 'fixed' category.", "file_id": "camera_movement_520"}
+{"pred": ["N/A"], "reason": "The caption does not include any explicit description of camera movement.", "file_id": "camera_movement_106"}
+{"pred": ["N/A"], "reason": "The provided caption does not explicitly mention any specific camera movements.", "file_id": "camera_movement_865"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that 'The camera is stationary', which corresponds to the 'fixed' category as the camera does not change in position or angle.", "file_id": "camera_movement_365"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that the camera is stationary and there is no noticeable camera movement.", "file_id": "camera_movement_66"}
+{"pred": ["N/A"], "reason": "The caption does not include explicit descriptions of camera movement.", "file_id": "camera_movement_378"}
+{"pred": ["left", "right"], "reason": "The caption specifically mentions that 'The camera is panning across the field,' which indicates a horizontal movement. This can include both pan left and pan right movements, but the exact direction (left or right) isn't specified in the caption itself.", "file_id": "camera_movement_204"}
+{"pred": ["N/A"], "reason": "The caption does not explicitly mention any camera movements such as left, right, up, down, in, out, or fixed.", "file_id": "camera_movement_341"}
+{"pred": ["fixed"], "reason": "The caption explicitly states that 'The camera is stationary, with no apparent movement or zooming,' which corresponds to a fixed camera movement category.", "file_id": "camera_movement_877"}
+{"pred": ["N/A"], "reason": "The video caption does not include any explicit descriptions of camera movement.", "file_id": "camera_movement_764"}
+{"pred": ["N/A"], "reason": "The video caption does not contain any explicit description of camera movement.", "file_id": "camera_movement_420"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that 'The camera is stationary', which aligns with the 'fixed' category of no camera movement.", "file_id": "camera_movement_901"}
+{"pred": ["in"], "reason": "The caption specifies that the man is walking towards the camera, which implies a camera movement of 'in' as the subject gets closer to the camera.", "file_id": "camera_movement_840"}
+{"pred": ["N/A"], "reason": "The caption mentions that the camera seems to be moving slightly with a slightly blurred image, suggesting motion, but does not specify a direction or type of movement that fits with the provided categories.", "file_id": "camera_movement_418"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that 'The camera is stationary', which corresponds to the 'fixed' category, indicating the camera does not change its position or angle during the shot.", "file_id": "camera_movement_222"}
+{"pred": ["fixed"], "reason": "The caption explicitly states that 'The camera is stationary', which corresponds to the 'fixed' category of camera movement.", "file_id": "camera_movement_380"}
+{"pred": ["N/A"], "reason": "The caption does not explicitly mention any camera movements.", "file_id": "camera_movement_880"}
+{"pred": ["fixed"], "reason": "The caption explicitly states 'The camera is not moving,' which fits the definition of 'fixed' camera movement category.", "file_id": "camera_movement_572"}
+{"pred": ["fixed"], "reason": "The caption explicitly states that the camera is stationary, which fits the 'fixed' category.", "file_id": "camera_movement_517"}
+{"pred": ["fixed"], "reason": "The camera is described as positioned at a low angle with a focus on the individuals' feet as they walk, which implies that the camera does not change its position or angle, and thus can be classified as fixed.", "file_id": "camera_movement_841"}
+{"pred": ["N/A"], "reason": "The caption does not contain any explicit descriptions of camera movement.", "file_id": "camera_movement_769"}
+{"pred": ["fixed"], "reason": "The caption describes the camera as being positioned at a low angle looking up at the boy, which indicates a specific camera framing but does not suggest any movement. Therefore, the camera is almost fixed and does not change, fitting the 'fixed' category.", "file_id": "camera_movement_924"}
+{"pred": ["N/A"], "reason": "The caption does not include any explicit descriptions of camera movements.", "file_id": "camera_movement_284"}
+{"pred": ["N/A"], "reason": "The provided caption does not contain any explicit mention of camera movements.", "file_id": "camera_movement_806"}
+{"pred": ["N/A"], "reason": "The caption does not include any explicit description of camera movement.", "file_id": "camera_movement_754"}
+{"pred": ["N/A"], "reason": "The provided caption does not include any explicit descriptions of camera movement.", "file_id": "camera_movement_226"}
+{"pred": ["fixed"], "reason": "The caption explicitly states that the 'camera is stationary,' which indicates that there is no camera movement and falls under the 'fixed' category.", "file_id": "camera_movement_873"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that the camera is positioned at eye level, without any indication of movement, which suggests a fixed camera position.", "file_id": "camera_movement_869"}
+{"pred": ["in"], "reason": "The caption explicitly mentions that the camera zooms in on their faces as they interact.", "file_id": "camera_movement_70"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that 'The camera is stationary', which fits the 'fixed' category meaning the camera does not change its position or angle.", "file_id": "camera_movement_113"}
+{"pred": ["fixed"], "reason": "The caption specifically mentions that 'The camera is stationary, focusing on the person in the coffin and the hand on the forehead.' This indicates that the camera does not change its position or angle, fitting the description of the 'fixed' camera movement category.", "file_id": "camera_movement_632"}
+{"pred": ["fixed"], "reason": "The caption explicitly states that 'There is no noticeable camera movement in the video.' which falls under the 'fixed' camera category.", "file_id": "camera_movement_68"}
+{"pred": ["N/A"], "reason": "The provided caption does not contain any explicit mention of camera movement.", "file_id": "camera_movement_325"}
+{"pred": ["fixed"], "reason": "The caption describes that 'there is no significant camera movement, as the focus remains on the interaction between the two characters.' This implies that the camera is almost fixed during the video.", "file_id": "camera_movement_270"}
+{"pred": ["N/A"], "reason": "The caption does not include any explicit descriptions of camera movement.", "file_id": "camera_movement_686"}
+{"pred": ["N/A"], "reason": "The video caption provided does not contain any explicit information or descriptions about camera movement.", "file_id": "camera_movement_265"}
+{"pred": ["N/A"], "reason": "The video caption does not include any explicit mentions or descriptions of camera movement.", "file_id": "camera_movement_889"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that 'The camera is stationary', which corresponds to the 'fixed' category as it indicates there is no camera movement.", "file_id": "camera_movement_144"}
+{"pred": ["N/A"], "reason": "The caption does not provide any explicit descriptions of camera movement.", "file_id": "camera_movement_458"}
+{"pred": ["fixed"], "reason": "The caption explicitly states that 'The camera is stationary, capturing the fire's movement...' which indicates a fixed camera position without any movement.", "file_id": "camera_movement_338"}
+{"pred": ["fixed"], "reason": "The caption specifies that the camera is stationary, which corresponds to the 'fixed' category.", "file_id": "camera_movement_790"}
+{"pred": ["fixed"], "reason": "The caption explicitly states that the camera is stationary with no apparent movement or zooming, which fits the category 'fixed'.", "file_id": "camera_movement_444"}
+{"pred": ["fixed"], "reason": "The caption specifies that the camera is positioned at eye level, capturing the person’s face and upper body, which implies a static shot with no mentioned camera movement.", "file_id": "camera_movement_490"}
+{"pred": ["fixed"], "reason": "The caption describes the camera as positioned very close to the man's face, which implies a stationary or fixed camera placement without any mention of movement in any direction.", "file_id": "camera_movement_905"}
+{"pred": ["fixed"], "reason": "The caption states that 'The camera remains stationary, allowing the viewer to take in the full details of the monument.' This indicates the camera is fixed during the video.", "file_id": "camera_movement_334"}
+{"pred": ["N/A"], "reason": "The caption does not explicitly mention any camera movements, such as panning, tilting, zooming, dollying, or having a fixed position.", "file_id": "camera_movement_701"}
+{"pred": ["fixed"], "reason": "The caption specifically states 'The camera is stationary, focusing on the central figure and the men behind him.' which indicates no camera movement, so the category is 'fixed'.", "file_id": "camera_movement_949"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that 'The camera is stationary,' which indicates that there was no camera movement and falls into the 'fixed' category.", "file_id": "camera_movement_744"}
+{"pred": ["N/A"], "reason": "The caption does not mention any specific camera movements.", "file_id": "camera_movement_702"}
+{"pred": ["N/A"], "reason": "The video caption does not explicitly mention a description of the camera movement.", "file_id": "camera_movement_513"}
+{"pred": ["N/A"], "reason": "The caption does not explicitly mention any camera movement.", "file_id": "camera_movement_882"}
+{"pred": ["N/A"], "reason": "The caption does not contain any explicit descriptions of camera movement.", "file_id": "camera_movement_230"}
+{"pred": ["N/A"], "reason": "The caption does not include any explicit descriptions of camera movement.", "file_id": "camera_movement_782"}
+{"pred": ["N/A"], "reason": "The caption does not include any explicit information about camera movement.", "file_id": "camera_movement_820"}
+{"pred": ["N/A"], "reason": "The caption does not provide any explicit information about camera movement.", "file_id": "camera_movement_890"}
+{"pred": ["N/A"], "reason": "The caption does not include any explicit descriptions of camera movements.", "file_id": "camera_movement_108"}
+{"pred": ["fixed"], "reason": "The caption explicitly states that there is 'no noticeable camera movement', which means the camera is fixed on the scene.", "file_id": "camera_movement_478"}
+{"pred": ["N/A"], "reason": "The caption provides a detailed description of a scene but does not include any explicit information about camera movement.", "file_id": "camera_movement_716"}
+{"pred": ["N/A"], "reason": "The caption does not explicitly mention any kind of camera movement.", "file_id": "camera_movement_129"}
+{"pred": ["N/A"], "reason": "The caption does not explicitly mention any camera movements.", "file_id": "camera_movement_384"}
+{"pred": ["N/A"], "reason": "The caption does not include any explicit references to camera movements.", "file_id": "camera_movement_189"}
+{"pred": ["N/A"], "reason": "The provided caption contains no explicit descriptions of camera movement.", "file_id": "camera_movement_508"}
+{"pred": ["fixed"], "reason": "The caption explicitly states 'The camera is stationary' which indicates that there is no camera movement and it falls under the 'fixed' category.", "file_id": "camera_movement_306"}
+{"pred": ["fixed"], "reason": "The caption explicitly states that 'The camera remains steady throughout the video,' which fits the definition of a fixed camera movement.", "file_id": "camera_movement_506"}
+{"pred": ["fixed"], "reason": "The video caption explicitly states that 'The camera is stationary', which aligns with the 'fixed' category, indicating that there are no camera movements such as panning, tilting, zooming, or tracking.", "file_id": "camera_movement_405"}
+{"pred": ["fixed"], "reason": "The caption explicitly states that 'The camera is stationary', which corresponds to the 'fixed' category of camera movement.", "file_id": "camera_movement_264"}
+{"pred": ["fixed"], "reason": "The caption explicitly states that 'The camera is stationary', which indicates a fixed camera position without any movement.", "file_id": "camera_movement_102"}
+{"pred": ["N/A"], "reason": "The provided caption does not include any explicit descriptions of camera movement.", "file_id": "camera_movement_789"}
+{"pred": ["fixed"], "reason": "The caption explicitly states that 'The camera is stationary,' which corresponds directly to the 'fixed' camera movement category.", "file_id": "camera_movement_308"}
+{"pred": ["fixed"], "reason": "The video caption describes the camera as being 'positioned at a low angle' but does not specify any movement such as panning, tracking, tilting, dollying, zooming in or out. Therefore, based on the given information, the camera appears to be fixed.", "file_id": "camera_movement_461"}
+{"pred": ["fixed"], "reason": "The caption specifically states that the camera movement is minimal, with the focus remaining on the hand and the door handle, which implies a fixed camera position.", "file_id": "camera_movement_477"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that 'The camera is stationary, capturing the man and the lamps in the room', which falls under the 'fixed' category as per the provided explanations.", "file_id": "camera_movement_618"}
+{"pred": ["fixed"], "reason": "The caption mentions that 'There is no visible camera movement in this still image.', which indicates the camera is fixed.", "file_id": "camera_movement_8"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that the camera is stationary, which falls into the 'fixed' category.", "file_id": "camera_movement_214"}
+{"pred": ["N/A"], "reason": "The video caption does not explicitly mention any camera movements.", "file_id": "camera_movement_793"}
+{"pred": ["fixed"], "reason": "The caption specifies that the camera is stationary, which corresponds to the 'fixed' category of camera movement.", "file_id": "camera_movement_941"}
+{"pred": ["fixed"], "reason": "The caption explicitly states that the camera is stationary, which implies that it is fixed and does not change.", "file_id": "camera_movement_360"}
+{"pred": ["N/A"], "reason": "The provided video caption does not contain any explicit descriptions of camera movement.", "file_id": "camera_movement_952"}
+{"pred": ["N/A"], "reason": "The caption does not contain any explicit descriptions of camera movements.", "file_id": "camera_movement_973"}
+{"pred": ["N/A"], "reason": "The caption does not include any explicit descriptions of camera movements.", "file_id": "camera_movement_612"}
+{"pred": ["fixed"], "reason": "The caption indicates that the camera is positioned at eye level, and the woman is the main focus of the shot, which suggests that the camera is almost fixed and does not change.", "file_id": "camera_movement_589"}
+{"pred": ["fixed"], "reason": "The video caption states that the camera appears to be stationary, capturing the scene from a high vantage point, which aligns with the 'fixed' category.", "file_id": "camera_movement_696"}
+{"pred": ["fixed"], "reason": "The caption describes the scene from a slightly elevated angle without indicating any camera movement, thus suggesting a fixed camera position.", "file_id": "camera_movement_296"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that the camera is stationary, indicating a fixed camera movement category.", "file_id": "camera_movement_817"}
+{"pred": ["N/A"], "reason": "The video caption does not include any explicit descriptions of camera movement.", "file_id": "camera_movement_252"}
+{"pred": ["fixed"], "reason": "The caption explicitly states that the 'camera is stationary, capturing the plane and its immediate environment without any noticeable movement.' which falls into the 'fixed' category.", "file_id": "camera_movement_197"}
+{"pred": ["fixed", "up"], "reason": "The caption describes that the camera is stationary, which correlates to the 'fixed' category, and it also mentions that the shot direction is slightly upward, which corresponds to the 'up' category.", "file_id": "camera_movement_288"}
+{"pred": ["fixed"], "reason": "The caption mentions the video is shot from the perspective of someone standing in the doorway of the room, which suggests a stationary camera position implying a 'fixed' camera movement.", "file_id": "camera_movement_660"}
+{"pred": ["N/A"], "reason": "The caption does not include any explicit descriptions of camera movement.", "file_id": "camera_movement_473"}
+{"pred": ["fixed"], "reason": "The caption does not explicitly mention any dynamic camera movements such as panning, tilting, zooming, or tracking. The only information provided is that the camera is positioned at a slight angle with a close-up shot, which implies a fixed position.", "file_id": "camera_movement_344"}
+{"pred": ["fixed"], "reason": "The caption mentions that 'The camera remains still throughout the scene', which corresponds to the 'fixed' category of camera movement.", "file_id": "camera_movement_353"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that 'The camera remains stationary throughout the video', which corresponds to the 'fixed' category.", "file_id": "camera_movement_505"}
+{"pred": ["N/A"], "reason": "The caption does not explicitly mention any descriptions of camera movement.", "file_id": "camera_movement_13"}
+{"pred": ["fixed"], "reason": "The caption specifies that the camera is 'positioned at a low angle, looking up at the man and the hole' but does not indicate any movement such as panning, tilting, tracking, dollying or zooming. This suggests the camera remains stationary in relation to the scene, fitting the description of a 'fixed' camera movement.", "file_id": "camera_movement_496"}
+{"pred": ["fixed"], "reason": "The caption describes the camera angle as slightly elevated, capturing the upper bodies of the man and woman, which implies that the camera is static in a fixed position and not moving in any particular direction.", "file_id": "camera_movement_945"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that 'The camera is stationary, capturing the scene from a slightly elevated angle.' which indicates a fixed camera movement.", "file_id": "camera_movement_77"}
+{"pred": ["left"], "reason": "The caption explicitly mentions that the camera is panning to the left.", "file_id": "camera_movement_803"}
+{"pred": ["fixed"], "reason": "The caption states that 'The camera is stationary, capturing the scene from a slightly elevated angle.' This indicates that there is no camera movement, fitting the 'fixed' category.", "file_id": "camera_movement_177"}
+{"pred": ["N/A"], "reason": "The provided video caption does not contain any explicit mention of camera movements.", "file_id": "camera_movement_720"}
+{"pred": ["fixed"], "reason": "The caption states 'There is no visible camera movement in this still image', which indicates the camera is fixed.", "file_id": "camera_movement_128"}
+{"pred": ["N/A"], "reason": "The caption provided does not contain any explicit mention of camera movements.", "file_id": "camera_movement_648"}
+{"pred": ["N/A"], "reason": "The caption does not mention any camera movements.", "file_id": "camera_movement_60"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that 'The camera is stationary, capturing the scene from a side angle' which falls into the 'fixed' category as it indicates the camera does not change its position or angle.", "file_id": "camera_movement_229"}
+{"pred": ["N/A"], "reason": "The caption does not mention any specific camera movements.", "file_id": "camera_movement_141"}
+{"pred": ["N/A"], "reason": "The provided video caption does not contain any explicit descriptions of camera movement.", "file_id": "camera_movement_845"}
+{"pred": ["N/A"], "reason": "The video caption does not contain any explicit descriptions of camera movement.", "file_id": "camera_movement_736"}
+{"pred": ["N/A"], "reason": "The caption does not explicitly mention any camera movement.", "file_id": "camera_movement_913"}
+{"pred": ["N/A"], "reason": "The caption does not include any explicit mention or description of camera movement.", "file_id": "camera_movement_56"}
+{"pred": ["fixed"], "reason": "The caption mentions that the camera is positioned at a low angle, looking up at the man and the countertop, which indicates a specific camera position but does not describe any movement. Therefore, the camera is almost fixed and does not change, which falls under the 'fixed' category.", "file_id": "camera_movement_837"}
+{"pred": ["fixed"], "reason": "The caption explicitly states that 'The camera is stationary, focusing on the meat and the pan, with no noticeable camera movement.' This directly corresponds to the 'fixed' category, which describes a camera that is almost fixed and does not change.", "file_id": "camera_movement_377"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that the camera is stationary.", "file_id": "camera_movement_485"}
+{"pred": ["N/A"], "reason": "The provided caption does not include any explicit descriptions of camera movement.", "file_id": "camera_movement_972"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that the camera is stationary, which corresponds to the 'fixed' category.", "file_id": "camera_movement_524"}
+{"pred": ["fixed"], "reason": "The caption describes the camera as stationary, which aligns with the 'fixed' category.", "file_id": "camera_movement_304"}
+{"pred": ["N/A"], "reason": "The caption does not explicitly mention any descriptions of camera movement.", "file_id": "camera_movement_528"}
+{"pred": ["fixed"], "reason": "The caption describes the camera movement as 'smooth and steady,' which implies a lack of dynamic motion in any specific direction. It does not provide enough information to classify any motion such as left, right, up, down, in, or out. Therefore, the provided details best fit the 'fixed' category.", "file_id": "camera_movement_669"}
+{"pred": ["N/A"], "reason": "The caption does not contain any explicit mention of camera movement.", "file_id": "camera_movement_760"}
+{"pred": ["N/A"], "reason": "The video caption does not include any explicit descriptions of camera movement.", "file_id": "camera_movement_36"}
+{"pred": ["N/A"], "reason": "The caption does not mention any specific camera movements such as left, right, up, down, in, out, or fixed.", "file_id": "camera_movement_488"}
+{"pred": ["N/A"], "reason": "The caption does not contain any explicit descriptions of camera movement.", "file_id": "camera_movement_368"}
+{"pred": ["fixed"], "reason": "The caption explicitly states that the camera is stationary.", "file_id": "camera_movement_225"}
+{"pred": ["fixed"], "reason": "The caption mentions that the camera movement is minimal with the focus remaining on the car as it drives down the street, without any significant pans, tilts, or zooms.", "file_id": "camera_movement_41"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that 'The camera is stationary, capturing the scene from a slightly elevated angle...' which falls under the 'fixed' category as there is no movement indicated.", "file_id": "camera_movement_348"}
+{"pred": ["fixed"], "reason": "The caption explicitly states that 'The camera is stationary', which corresponds to the 'fixed' category of camera movement.", "file_id": "camera_movement_337"}
+{"pred": ["N/A"], "reason": "The provided caption does not include any specific descriptions of camera movement.", "file_id": "camera_movement_892"}
+{"pred": ["fixed"], "reason": "The caption specifically mentions that the video is shot from a side angle, capturing the person's profile and the snowy landscape behind them, which suggests that the camera is stationary with a fixed angle and there is no implied movement that suggests panning, tilting, zooming, or tracking.", "file_id": "camera_movement_280"}
+{"pred": ["N/A"], "reason": "The caption does not explicitly describe any camera movement.", "file_id": "camera_movement_317"}
+{"pred": ["N/A"], "reason": "The caption does not provide specific descriptions related to camera movements, it only describes the scene and the subject within it.", "file_id": "camera_movement_217"}
+{"pred": ["N/A"], "reason": "The caption does not contain any explicit descriptions of camera movement.", "file_id": "camera_movement_560"}
+{"pred": ["fixed"], "reason": "The caption explicitly states that the camera is stationary, which implies that it is fixed and does not change.", "file_id": "camera_movement_145"}
+{"pred": ["N/A"], "reason": "The provided video caption does not include any explicit descriptions of camera movement.", "file_id": "camera_movement_237"}
+{"pred": ["N/A"], "reason": "The caption does not provide any explicit information or description about the camera's movement.", "file_id": "camera_movement_936"}
+{"pred": ["N/A"], "reason": "The caption does not explicitly mention any camera movement.", "file_id": "camera_movement_884"}
+{"pred": ["N/A"], "reason": "The provided video caption does not contain any explicit descriptions of camera movement.", "file_id": "camera_movement_249"}
+{"pred": ["N/A"], "reason": "The caption provided does not include any explicit descriptions or indications of camera movement.", "file_id": "camera_movement_805"}
+{"pred": ["fixed"], "reason": "The caption mentions that the camera is positioned at a low angle looking up at the character, which emphasizes his importance in the scene, but there is no explicit mention of movement. This implies that the camera is static in this position, fitting the 'fixed' category.", "file_id": "camera_movement_608"}
+{"pred": ["fixed"], "reason": "The caption explicitly states that 'The camera is stationary', which indicates there is no movement and thus fits the 'fixed' category.", "file_id": "camera_movement_540"}
+{"pred": ["N/A"], "reason": "The caption does not include any explicit description of camera movement.", "file_id": "camera_movement_733"}
+{"pred": ["N/A"], "reason": "The caption does not explicitly mention any descriptions of camera movement.", "file_id": "camera_movement_800"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that the camera is stationary, which fits the 'fixed' category.", "file_id": "camera_movement_668"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that 'The camera is stationary', which indicates a fixed camera movement.", "file_id": "camera_movement_320"}
+{"pred": ["N/A"], "reason": "The provided video caption does not contain any explicit mention or description of camera movement.", "file_id": "camera_movement_916"}
+{"pred": ["fixed"], "reason": "The caption indicates that the camera is positioned at a slight angle capturing the scene but does not describe any movement such as panning, tilting, zooming, or tracking. Therefore, the camera movement falls under the 'fixed' category.", "file_id": "camera_movement_17"}
+{"pred": ["fixed", "down"], "reason": "The caption mentions that the camera is positioned at a low angle looking up at the characters, but does not explicitly state that it swings down or up. However, positioning at a low angle can imply a downward tilt to get into position, so 'down' is included. The rest of the description does not indicate any movement such as panning, tracking, dollying, or zooming, hence 'fixed' is also included.", "file_id": "camera_movement_456"}
+{"pred": ["fixed"], "reason": "The caption indicates that the camera is stationary, which corresponds to the 'fixed' category.", "file_id": "camera_movement_693"}
+{"pred": ["fixed"], "reason": "The caption describes a close-up shot of a man with no mention of camera movement, suggesting that the camera is fixed on him throughout the scene.", "file_id": "camera_movement_432"}
+{"pred": ["N/A"], "reason": "The video caption does not contain any explicit descriptions of camera movement.", "file_id": "camera_movement_808"}
+{"pred": ["N/A"], "reason": "The caption does not contain any explicit information or descriptive terms related to camera movement.", "file_id": "camera_movement_57"}
+{"pred": ["N/A"], "reason": "The caption does not include any explicit information about the camera movement.", "file_id": "camera_movement_292"}
+{"pred": ["N/A"], "reason": "The provided caption does not include any explicit descriptions of camera movement.", "file_id": "camera_movement_605"}
+{"pred": ["N/A"], "reason": "The provided video caption does not contain any explicit description of camera movement.", "file_id": "camera_movement_257"}
+{"pred": ["fixed"], "reason": "The caption explicitly states that 'The camera appears to be stationary, focusing on the gears' which falls into the 'fixed' category as it indicates the camera does not change position or angle.", "file_id": "camera_movement_140"}
+{"pred": ["left", "right", "in"], "reason": "The caption explicitly mentions that the camera movement includes panning left and right and zooming in on the man's face.", "file_id": "camera_movement_476"}
+{"pred": ["N/A"], "reason": "The provided caption does not explicitly mention any kind of camera movement from the categories listed.", "file_id": "camera_movement_728"}
+{"pred": ["N/A"], "reason": "The caption does not contain any explicit mention or description of camera movements.", "file_id": "camera_movement_812"}
+{"pred": ["fixed"], "reason": "The caption explicitly states that 'The camera remains stationary, focusing on the man as he sits in the corner of the room.' which indicates a fixed camera movement.", "file_id": "camera_movement_548"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that 'The camera is stationary, and there is no noticeable camera movement.' which corresponds to the 'fixed' category as the camera does not change position or angle.", "file_id": "camera_movement_400"}
+{"pred": ["fixed"], "reason": "The caption specifies that the camera remains relatively still, focusing on the girl's actions, which corresponds to the 'fixed' category.", "file_id": "camera_movement_153"}
+{"pred": ["N/A"], "reason": "The video caption does not include any explicit descriptions of camera movement.", "file_id": "camera_movement_780"}
+{"pred": ["N/A"], "reason": "The caption does not provide any explicit information regarding camera movement.", "file_id": "camera_movement_388"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that the camera is stationary, which implies a fixed camera movement.", "file_id": "camera_movement_864"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that the camera appears to be stationary, which falls under the 'fixed' category of camera movement.", "file_id": "camera_movement_920"}
+{"pred": ["N/A"], "reason": "The caption does not explicitly mention any camera movement descriptions.", "file_id": "camera_movement_828"}
+{"pred": ["N/A"], "reason": "The caption does not contain any explicit descriptions of camera movement.", "file_id": "camera_movement_948"}
+{"pred": ["N/A"], "reason": "The caption does not contain any explicit information or descriptions about camera movement.", "file_id": "camera_movement_112"}
+{"pred": ["fixed"], "reason": "The caption mentions the video is shot in a close-up style with the camera positioned to capture details, indicating that the camera is almost fixed and does not change.", "file_id": "camera_movement_956"}
+{"pred": ["N/A"], "reason": "The provided caption does not contain any explicit information or descriptions about camera movement.", "file_id": "camera_movement_584"}
+{"pred": ["fixed"], "reason": "The caption specifies that the camera appears to be stationary, which indicates a fixed camera movement.", "file_id": "camera_movement_676"}
+{"pred": ["N/A"], "reason": "The video caption does not contain any explicit mention of camera movement.", "file_id": "camera_movement_0"}
+{"pred": ["N/A"], "reason": "The caption does not explicitly mention any camera movements.", "file_id": "camera_movement_708"}
+{"pred": ["N/A"], "reason": "The caption does not include any explicit descriptions of camera movement.", "file_id": "camera_movement_460"}
+{"pred": ["N/A"], "reason": "The caption provided does not include any explicit descriptions of camera movement.", "file_id": "camera_movement_588"}
+{"pred": ["N/A"], "reason": "The caption does not include any explicit description of camera movement.", "file_id": "camera_movement_184"}
+{"pred": ["N/A"], "reason": "The caption does not include any explicit mention of camera movement.", "file_id": "camera_movement_20"}
+{"pred": ["fixed"], "reason": "The caption explicitly states that 'The camera is stationary, and there is no noticeable camera movement,' which falls under the 'fixed' camera movement category.", "file_id": "camera_movement_240"}
+{"pred": ["N/A"], "reason": "The provided video caption does not contain any explicit mention of camera movement.", "file_id": "camera_movement_912"}
+{"pred": ["N/A"], "reason": "The caption does not include any explicit description of camera movement.", "file_id": "camera_movement_452"}
+{"pred": ["N/A"], "reason": "The caption does not explicitly mention any type of camera movement.", "file_id": "camera_movement_132"}
+{"pred": ["N/A"], "reason": "The provided caption does not include any explicit descriptions of camera movement.", "file_id": "camera_movement_428"}
+{"pred": ["N/A"], "reason": "The caption provided does not mention or describe any specific camera movements.", "file_id": "camera_movement_872"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that the camera is stationary, which corresponds to the 'fixed' category as it indicates that the camera does not change position or angle.", "file_id": "camera_movement_816"}
+{"pred": ["N/A"], "reason": "The caption does not include any explicit description of camera movement.", "file_id": "camera_movement_856"}
+{"pred": ["fixed"], "reason": "The caption specifically indicates that the camera is stationary, which fits the 'fixed' category from the provided list of camera movements.", "file_id": "camera_movement_84"}
+{"pred": ["fixed"], "reason": "The caption describes the camera as being positioned at ground level, with no mention of movement in any direction; it is implied that the camera is almost fixed and does not change position, which is why 'fixed' is the appropriate category.", "file_id": "camera_movement_876"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that 'The camera is stationary' which corresponds to the 'fixed' category, indicating that the camera does not change its position or angle during the video.", "file_id": "camera_movement_844"}
+{"pred": ["fixed"], "reason": "The caption explicitly states 'The camera is stationary, with no apparent movement.' which falls under the fixed camera movement category.", "file_id": "camera_movement_92"}
+{"pred": ["N/A"], "reason": "The video caption does not contain any explicit descriptions of camera movement.", "file_id": "camera_movement_80"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions there is no visible camera movement and describes the scene as static, which corresponds to the 'fixed' category.", "file_id": "camera_movement_664"}
+{"pred": ["fixed", "down"], "reason": "The caption mentions that the camera angle is from above, looking down on the woman, which indicates a 'down' camera angle. Additionally, there are no indications of any movement, such as panning, tilting, zooming, or tracking, suggesting that the camera is 'fixed'.", "file_id": "camera_movement_168"}
+{"pred": ["N/A"], "reason": "The provided video caption does not include any explicit descriptions of camera movement.", "file_id": "camera_movement_984"}
+{"pred": ["N/A"], "reason": "The caption does not explicitly mention any camera movement.", "file_id": "camera_movement_135"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that 'The camera is stationary, and there is no camera movement' which falls under the 'fixed' category.", "file_id": "camera_movement_323"}
+{"pred": ["fixed"], "reason": "The caption indicates the camera is positioned at a close-up angle, capturing the woman's face in detail, which suggests a fixed camera placement without mentioning any movement.", "file_id": "camera_movement_681"}
+{"pred": ["N/A"], "reason": "The caption does not describe any camera movements that correspond to the specified categories.", "file_id": "camera_movement_329"}
+{"pred": ["in"], "reason": "The caption mentions the car is moving towards the camera, which suggests a 'dolly in' camera movement.", "file_id": "camera_movement_273"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that the camera movement is 'smooth and steady', which is indicative of a fixed camera that remains almost static with regard to the position and orientation in relation to the landscape.", "file_id": "camera_movement_519"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that 'The camera is stationary', which corresponds to the 'fixed' category.", "file_id": "camera_movement_550"}
+{"pred": ["fixed"], "reason": "The caption indicates that the video is shot from a low angle, looking up at the building, which implies that the camera angle is directed upwards but it does not indicate that the camera is moving, therefore it suggests a fixed camera position.", "file_id": "camera_movement_625"}
+{"pred": ["N/A"], "reason": "The caption does not explicitly describe any camera movements that would directly correspond to the categories provided.", "file_id": "camera_movement_824"}
+{"pred": ["in"], "reason": "The caption explicitly mentions that the man is walking towards the camera, which implies a camera movement categorized as 'in'.", "file_id": "camera_movement_489"}
+{"pred": ["N/A"], "reason": "The provided caption does not contain any explicit descriptions of camera movement.", "file_id": "camera_movement_321"}
+{"pred": ["N/A"], "reason": "The caption does not contain explicit information about camera movements.", "file_id": "camera_movement_195"}
+{"pred": ["N/A"], "reason": "The caption does not mention any camera movements.", "file_id": "camera_movement_481"}
+{"pred": ["N/A"], "reason": "The caption does not contain any explicit information about camera movements. There are descriptions of the scene and setting, but no mention of the camera moving left, right, up, down, in, out, or being fixed.", "file_id": "camera_movement_923"}
+{"pred": ["N/A"], "reason": "The caption does not provide any explicit information about camera movement.", "file_id": "camera_movement_541"}
+{"pred": ["N/A"], "reason": "The caption does not explicitly mention any camera movements that fit into the provided categories.", "file_id": "camera_movement_199"}
+{"pred": ["fixed"], "reason": "The caption indicates the scene appears to be static, suggesting the camera is fixed on the woman in the foreground.", "file_id": "camera_movement_667"}
+{"pred": ["N/A"], "reason": "The caption does not describe any camera movement.", "file_id": "camera_movement_821"}
+{"pred": ["N/A"], "reason": "The caption does not explicitly mention any camera movement.", "file_id": "camera_movement_200"}
+{"pred": ["fixed"], "reason": "The caption mentions that 'The camera is positioned very close to the man's face,' but does not describe any movement left, right, up, down, in, or out. The described scenario suggests the camera maintains a close and likely stationary position focused on the man's face, fitting the 'fixed' category.", "file_id": "camera_movement_105"}
+{"pred": ["fixed"], "reason": "The caption explicitly states that the shot is steady, with no noticeable camera movement, which corresponds to the 'fixed' category.", "file_id": "camera_movement_99"}
+{"pred": ["N/A"], "reason": "The caption does not provide any explicit information about the camera movement.", "file_id": "camera_movement_423"}
+{"pred": ["fixed"], "reason": "The caption mentions that the camera is positioned at a slight angle, which implies a fixed composition rather than movement, and also focuses on the sharpness and clarity of the image, indicating a steady shot without any defined camera movement.", "file_id": "camera_movement_779"}
+{"pred": ["fixed"], "reason": "The caption describes the camera angle as low, looking up at the player, which suggests a stationary camera position with a specific angle aimed upward. There is no mention of any camera movement such as panning, tilting, tracking, booming, zooming, or dollying, therefore the camera can be classified as fixed in this context.", "file_id": "camera_movement_401"}
+{"pred": ["N/A"], "reason": "The caption does not explicitly mention any specific camera movements.", "file_id": "camera_movement_86"}
+{"pred": ["N/A"], "reason": "The caption does not contain any explicit descriptions of camera movement.", "file_id": "camera_movement_139"}
+{"pred": ["N/A"], "reason": "The provided video caption contains no explicit descriptions of camera movement.", "file_id": "camera_movement_868"}
+{"pred": ["N/A"], "reason": "The caption does not contain any explicit description of camera movement.", "file_id": "camera_movement_593"}
+{"pred": ["N/A"], "reason": "The caption does not explicitly mention any camera movements such as left, right, up, down, in, out, or fixed.", "file_id": "camera_movement_645"}
+{"pred": ["N/A"], "reason": "The caption does not describe any camera movements.", "file_id": "camera_movement_438"}
+{"pred": ["N/A"], "reason": "The caption does not provide any explicit information regarding camera movements such as panning, tilting, zooming, or tracking.", "file_id": "camera_movement_878"}
+{"pred": ["fixed"], "reason": "The caption indicates that the camera movement is subtle, with the focus primarily on the robe and the woman in the background, which suggests a fixed camera position without any movement described that aligns with the provided categories such as left, right, up, down, in, or out.", "file_id": "camera_movement_440"}
+{"pred": ["fixed"], "reason": "The caption mentions that the camera is positioned at eye level, capturing the man's face and upper body, which implies a fixed camera position with no movement described.", "file_id": "camera_movement_547"}
+{"pred": ["N/A"], "reason": "The video caption does not explicitly mention any camera movements such as panning, tilting, zooming, dollying, or tracking. The description also does not imply any motion such as left, right, up, down, in, or out; nor does it suggest a fixed camera position. It only describes the composition and the scene's subjects.", "file_id": "camera_movement_849"}
+{"pred": ["fixed"], "reason": "The caption mentions 'The camera angle is slightly elevated, capturing the woman from the side as she faces the man. The shot is framed to include both characters and the natural surroundings, creating a sense of depth and space.' This suggests a stationary or fixed camera without mention of any movement.", "file_id": "camera_movement_977"}
+{"pred": ["N/A"], "reason": "The provided video caption does not include any explicit descriptions of camera movement such as panning, tilting, dollying, zooming, or having a fixed position.", "file_id": "camera_movement_389"}
+{"pred": ["N/A"], "reason": "The caption does not include any explicit descriptions of camera movement.", "file_id": "camera_movement_345"}
+{"pred": ["N/A"], "reason": "The caption does not include any explicit descriptions of camera movements.", "file_id": "camera_movement_772"}
+{"pred": ["N/A"], "reason": "The caption does not include any explicit descriptions of camera movements.", "file_id": "camera_movement_825"}
+{"pred": ["fixed"], "reason": "The caption explicitly mentions that 'The camera is stationary, focusing on the woman's face and upper body,' which falls into the 'fixed' category as the camera does not change its position or angle.", "file_id": "camera_movement_564"}
+{"pred": ["N/A"], "reason": "The caption does not explicitly mention any camera movement.", "file_id": "camera_movement_745"}
+{"pred": ["fixed"], "reason": "The caption specifies that the camera is moving slowly and smoothly without indicating a specific direction of movement, therefore it is classified as 'fixed' since there is no mention of the camera panning, tilting, tracking, booming, zooming, or dollying in any direction.", "file_id": "camera_movement_176"}
+{"pred": ["N/A"], "reason": "The caption does not explicitly mention any camera movements.", "file_id": "camera_movement_367"}
+{"pred": ["fixed"], "reason": "The caption indicates that the image is taken from a side angle with the camera focused on the wrestlers and referee and there is no mention of any camera movement.", "file_id": "camera_movement_839"}
+{"pred": ["fixed"], "reason": "The caption mentions that the video is shot in a close-up angle without any mention of movement, which implies a fixed camera position focused on the puppies.", "file_id": "camera_movement_303"}
+{"pred": ["fixed"], "reason": "The caption describes the camera angle as slightly elevated and providing a view down the path, without mentioning any movement, suggesting that the camera is nearly stationary during the shot.", "file_id": "camera_movement_228"}
+{"pred": ["N/A"], "reason": "The caption does not include any explicit descriptions of camera movements.", "file_id": "camera_movement_556"}
+{"pred": ["N/A"], "reason": "The provided video caption does not include any explicit mentions or descriptions of camera movement.", "file_id": "camera_movement_516"}
+{"pred": ["fixed"], "reason": "The caption explicitly states that 'The camera is stationary, focusing on the interaction between the two men,' which falls into the 'fixed' category.", "file_id": "camera_movement_595"}
+{"pred": ["fixed"], "reason": "The caption indicates that the camera is focused on the man and woman and does not describe any movement, suggesting the camera is fixed.", "file_id": "camera_movement_283"}
+{"pred": ["fixed"], "reason": "The caption mentions that the camera is positioned above the whale, capturing the whale’s tail fin and the surrounding water, which implies that the camera is not moving and is fixed on a certain position or angle.", "file_id": "camera_movement_715"}
+{"pred": ["fixed"], "reason": "The caption indicates that the camera is positioned at a close distance, capturing the man's face and upper body in detail, suggesting that the camera is almost fixed and does not change position or angle.", "file_id": "camera_movement_305"}
+{"pred": ["fixed"], "reason": "The description of the camera states that it is focused on the woman with the background blurred, suggesting that there are no indications of panning, tilting, zooming, or tracking. Instead, it seems that the camera is almost fixed on her, not changing its position or angle.", "file_id": "camera_movement_45"}
+{"pred": ["N/A"], "reason": "The caption does not contain any explicit descriptions of camera movement.", "file_id": "camera_movement_243"}

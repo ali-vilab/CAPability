@@ -1,0 +1,994 @@
+{"file_id": "object_color_0", "file_path": "data/object_color/object_color_0.jpg", "annotation": {"hair": "golden"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_1", "file_path": "data/object_color/object_color_1.jpg", "annotation": {"table leg": "golden"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_2", "file_path": "data/object_color/object_color_2.jpg", "annotation": {"crown": "golden"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_3", "file_path": "data/object_color/object_color_3.jpg", "annotation": {"hair": "golden"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_4", "file_path": "data/object_color/object_color_4.jpg", "annotation": {"shoe": "golden"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_5", "file_path": "data/object_color/object_color_5.jpg", "annotation": {"pocket watch": "golden"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_6", "file_path": "data/object_color/object_color_6.jpg", "annotation": {"hair": "golden"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_7", "file_path": "data/object_color/object_color_7.jpg", "annotation": {"girl's hair": "golden"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_8", "file_path": "data/object_color/object_color_8.jpg", "annotation": {"necklace": "golden"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_9", "file_path": "data/object_color/object_color_9.jpg", "annotation": {"french horn": "golden"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_10", "file_path": "data/object_color/object_color_10.jpg", "annotation": {"hair": "golden"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_11", "file_path": "data/object_color/object_color_11.jpg", "annotation": {"child's hair": "golden"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_12", "file_path": "data/object_color/object_color_12.jpg", "annotation": {"man's hair": "golden"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_13", "file_path": "data/object_color/object_color_13.jpg", "annotation": {"glitter decoration": "golden"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_14", "file_path": "data/object_color/object_color_14.jpg", "annotation": {"Reclining Buddha statue": "golden"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_15", "file_path": "data/object_color/object_color_15.jpg", "annotation": {"calligraphy characters": "golden"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_16", "file_path": "data/object_color/object_color_16.jpg", "annotation": {"girl's hair": "golden"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_17", "file_path": "data/object_color/object_color_17.jpg", "annotation": {"woman's hair": "golden"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_18", "file_path": "data/object_color/object_color_18.jpg", "annotation": {"woman's hair": "golden"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_19", "file_path": "data/object_color/object_color_19.jpg", "annotation": {"hair extension": "golden"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_20", "file_path": "data/object_color/object_color_20.jpg", "annotation": {"hand sculpture": "golden"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_21", "file_path": "data/object_color/object_color_21.jpg", "annotation": {"signage": "golden"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_22", "file_path": "data/object_color/object_color_22.jpg", "annotation": {"The hair of the woman wearing jeans": "golden"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_23", "file_path": "data/object_color/object_color_23.jpg", "annotation": {"girl's hair": "golden"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_24", "file_path": "data/object_color/object_color_24.jpg", "annotation": {"Chinese character": "golden"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_25", "file_path": "data/object_color/object_color_25.jpg", "annotation": {"human hair": "golden"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_26", "file_path": "data/object_color/object_color_26.jpg", "annotation": {"wooden coat rack": "yellow"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_27", "file_path": "data/object_color/object_color_27.jpg", "annotation": {"desk": "yellow"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_28", "file_path": "data/object_color/object_color_28.jpg", "annotation": {"bee": "yellow"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_29", "file_path": "data/object_color/object_color_29.jpg", "annotation": {"cabin": "yellow"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_30", "file_path": "data/object_color/object_color_30.jpg", "annotation": {"rock": "yellow"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_31", "file_path": "data/object_color/object_color_31.jpg", "annotation": {"light": "yellow"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_32", "file_path": "data/object_color/object_color_32.jpg", "annotation": {"spatula": "yellow"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_33", "file_path": "data/object_color/object_color_33.jpg", "annotation": {"the liquid in the wine glass": "yellow"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_34", "file_path": "data/object_color/object_color_34.jpg", "annotation": {"the liquid in the glass": "yellow"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_35", "file_path": "data/object_color/object_color_35.jpg", "annotation": {"ambulance": "yellow"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_36", "file_path": "data/object_color/object_color_36.jpg", "annotation": {"table": "yellow"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_37", "file_path": "data/object_color/object_color_37.jpg", "annotation": {"scarf": "yellow"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_38", "file_path": "data/object_color/object_color_38.jpg", "annotation": {"Ratzz logo": "yellow"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_39", "file_path": "data/object_color/object_color_39.jpg", "annotation": {"grass": "yellow"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_40", "file_path": "data/object_color/object_color_40.jpg", "annotation": {"chair": "yellow"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_41", "file_path": "data/object_color/object_color_41.jpg", "annotation": {"conga drum": "yellow"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_42", "file_path": "data/object_color/object_color_42.jpg", "annotation": {"stone structure around window": "yellow"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_43", "file_path": "data/object_color/object_color_43.jpg", "annotation": {"tortilla": "yellow"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_44", "file_path": "data/object_color/object_color_44.jpg", "annotation": {"tile flooring": "yellow"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_45", "file_path": "data/object_color/object_color_45.jpg", "annotation": {"schedule": "yellow"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_46", "file_path": "data/object_color/object_color_46.jpg", "annotation": {"ceiling light": "yellow"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_47", "file_path": "data/object_color/object_color_47.jpg", "annotation": {"hand": "yellow"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_48", "file_path": "data/object_color/object_color_48.jpg", "annotation": {"food": "yellow"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_49", "file_path": "data/object_color/object_color_49.jpg", "annotation": {"hair": "yellow"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_50", "file_path": "data/object_color/object_color_50.jpg", "annotation": {"circle": "yellow"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_51", "file_path": "data/object_color/object_color_51.jpg", "annotation": {"ceiling light": "yellow"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_52", "file_path": "data/object_color/object_color_52.jpg", "annotation": {"dumbbell": "silver"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_53", "file_path": "data/object_color/object_color_53.jpg", "annotation": {"fence railing": "silver"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_54", "file_path": "data/object_color/object_color_54.jpg", "annotation": {"laptop": "silver"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_55", "file_path": "data/object_color/object_color_55.jpg", "annotation": {"ball bearing": "silver"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_56", "file_path": "data/object_color/object_color_56.jpg", "annotation": {"revolving door": "silver"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_57", "file_path": "data/object_color/object_color_57.jpg", "annotation": {"LED light bulb": "silver"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_58", "file_path": "data/object_color/object_color_58.jpg", "annotation": {"towel radiator": "silver"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_59", "file_path": "data/object_color/object_color_59.jpg", "annotation": {"cup": "silver"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_60", "file_path": "data/object_color/object_color_60.jpg", "annotation": {"pan": "silver"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_61", "file_path": "data/object_color/object_color_61.jpg", "annotation": {"watch band": "silver"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_62", "file_path": "data/object_color/object_color_62.jpg", "annotation": {"gun": "silver"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_63", "file_path": "data/object_color/object_color_63.jpg", "annotation": {"footswitch": "silver"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_64", "file_path": "data/object_color/object_color_64.jpg", "annotation": {"metal tongs": "silver"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_65", "file_path": "data/object_color/object_color_65.jpg", "annotation": {"nozzle attachment": "silver"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_66", "file_path": "data/object_color/object_color_66.jpg", "annotation": {"fencing sword": "silver"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_67", "file_path": "data/object_color/object_color_67.jpg", "annotation": {"screw": "silver"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_68", "file_path": "data/object_color/object_color_68.jpg", "annotation": {"Tapered Roller Bearing": "silver"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_69", "file_path": "data/object_color/object_color_69.jpg", "annotation": {"metal equipment": "silver"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_70", "file_path": "data/object_color/object_color_70.jpg", "annotation": {"lock buckle": "silver"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_71", "file_path": "data/object_color/object_color_71.jpg", "annotation": {"Mazda logo": "silver"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_72", "file_path": "data/object_color/object_color_72.jpg", "annotation": {"ring": "silver"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_73", "file_path": "data/object_color/object_color_73.jpg", "annotation": {"mobile phone": "silver"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_74", "file_path": "data/object_color/object_color_74.jpg", "annotation": {"earrings": "silver"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_75", "file_path": "data/object_color/object_color_75.jpg", "annotation": {"coffee pot": "silver"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_76", "file_path": "data/object_color/object_color_76.jpg", "annotation": {"metal sculpture": "silver"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_77", "file_path": "data/object_color/object_color_77.jpg", "annotation": {"earrings": "silver"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_78", "file_path": "data/object_color/object_color_78.jpg", "annotation": {"smartphone": "black"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_79", "file_path": "data/object_color/object_color_79.jpg", "annotation": {"strip with holes": "black"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_80", "file_path": "data/object_color/object_color_80.jpg", "annotation": {"plastic end cap": "black"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_81", "file_path": "data/object_color/object_color_81.jpg", "annotation": {"hat": "black"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_82", "file_path": "data/object_color/object_color_82.jpg", "annotation": {"universal travel adapter": "black"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_83", "file_path": "data/object_color/object_color_83.jpg", "annotation": {"phone case": "black"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_84", "file_path": "data/object_color/object_color_84.jpg", "annotation": {"plastic bracket": "black"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_85", "file_path": "data/object_color/object_color_85.jpg", "annotation": {"air intake hose": "black"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_86", "file_path": "data/object_color/object_color_86.jpg", "annotation": {"beard": "black"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_87", "file_path": "data/object_color/object_color_87.jpg", "annotation": {"sodastream easy machine": "schwarz"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_88", "file_path": "data/object_color/object_color_88.jpg", "annotation": {"carpet": "black"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_89", "file_path": "data/object_color/object_color_89.jpg", "annotation": {"camera bag": "black"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_90", "file_path": "data/object_color/object_color_90.jpg", "annotation": {"Lake Superior": "black"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_91", "file_path": "data/object_color/object_color_91.jpg", "annotation": {"bottle of wine": "black"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_92", "file_path": "data/object_color/object_color_92.jpg", "annotation": {"optical filter wheel": "black"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_93", "file_path": "data/object_color/object_color_93.jpg", "annotation": {"button": "black"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_94", "file_path": "data/object_color/object_color_94.jpg", "annotation": {"handbag": "black"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_95", "file_path": "data/object_color/object_color_95.jpg", "annotation": {"fence": "black"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_96", "file_path": "data/object_color/object_color_96.jpg", "annotation": {"lion statue": "black"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_97", "file_path": "data/object_color/object_color_97.jpg", "annotation": {"badge": "black"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_98", "file_path": "data/object_color/object_color_98.jpg", "annotation": {"handrail": "black"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_99", "file_path": "data/object_color/object_color_99.jpg", "annotation": {"camera": "black"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_100", "file_path": "data/object_color/object_color_100.jpg", "annotation": {"gloves": "black"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_101", "file_path": "data/object_color/object_color_101.jpg", "annotation": {"hose": "black"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_102", "file_path": "data/object_color/object_color_102.jpg", "annotation": {"clothing for people": "black"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_103", "file_path": "data/object_color/object_color_103.jpg", "annotation": {"aircraft wing": "black"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_104", "file_path": "data/object_color/object_color_104.jpg", "annotation": {"background": "gray"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_105", "file_path": "data/object_color/object_color_105.jpg", "annotation": {"suspension fork": "gray"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_106", "file_path": "data/object_color/object_color_106.jpg", "annotation": {"eagle": "gray"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_107", "file_path": "data/object_color/object_color_107.jpg", "annotation": {"legging": "gray"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_108", "file_path": "data/object_color/object_color_108.jpg", "annotation": {"metal rail": "gray"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_109", "file_path": "data/object_color/object_color_109.jpg", "annotation": {"tower": "gray"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_110", "file_path": "data/object_color/object_color_110.jpg", "annotation": {"ground": "gray"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_111", "file_path": "data/object_color/object_color_111.jpg", "annotation": {"tile": "gray"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_112", "file_path": "data/object_color/object_color_112.jpg", "annotation": {"stone": "gray"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_113", "file_path": "data/object_color/object_color_113.jpg", "annotation": {"dress": "grey"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_114", "file_path": "data/object_color/object_color_114.jpg", "annotation": {"box": "grey"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_115", "file_path": "data/object_color/object_color_115.jpg", "annotation": {"jacket": "grey"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_116", "file_path": "data/object_color/object_color_116.jpg", "annotation": {"excavator bucket": "gray"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_117", "file_path": "data/object_color/object_color_117.jpg", "annotation": {"feather-like pattern": "gray"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_118", "file_path": "data/object_color/object_color_118.jpg", "annotation": {"Galata Tower": "gray"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_119", "file_path": "data/object_color/object_color_119.jpg", "annotation": {"yoga mat": "gray"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_120", "file_path": "data/object_color/object_color_120.jpg", "annotation": {"helicopter landing pad": "gray"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_121", "file_path": "data/object_color/object_color_121.jpg", "annotation": {"path": "gray"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_122", "file_path": "data/object_color/object_color_122.jpg", "annotation": {"road": "gray"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_123", "file_path": "data/object_color/object_color_123.jpg", "annotation": {"elephant foot": "gray"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_124", "file_path": "data/object_color/object_color_124.jpg", "annotation": {"metal mailbox": "gray"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_125", "file_path": "data/object_color/object_color_125.jpg", "annotation": {"pillow": "gray"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_126", "file_path": "data/object_color/object_color_126.jpg", "annotation": {"building wall": "gray"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_127", "file_path": "data/object_color/object_color_127.jpg", "annotation": {"wall column": "gray"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_128", "file_path": "data/object_color/object_color_128.jpg", "annotation": {"theater screen": "gray"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_129", "file_path": "data/object_color/object_color_129.jpg", "annotation": {"radar": "gray"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_130", "file_path": "data/object_color/object_color_130.jpg", "annotation": {"man's hair": "brown"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_131", "file_path": "data/object_color/object_color_131.jpg", "annotation": {"relics": "brown"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_132", "file_path": "data/object_color/object_color_132.jpg", "annotation": {"cricket stump": "brown"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_133", "file_path": "data/object_color/object_color_133.jpg", "annotation": {"coral": "brown"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_134", "file_path": "data/object_color/object_color_134.jpg", "annotation": {"cook meat": "brown"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_135", "file_path": "data/object_color/object_color_135.jpg", "annotation": {"wooden surface": "brown"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_136", "file_path": "data/object_color/object_color_136.jpg", "annotation": {"tree": "brown"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_137", "file_path": "data/object_color/object_color_137.jpg", "annotation": {"chicken wing": "brown"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_138", "file_path": "data/object_color/object_color_138.jpg", "annotation": {"ceiling": "brown"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_139", "file_path": "data/object_color/object_color_139.jpg", "annotation": {"woman's hair": "brown"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_140", "file_path": "data/object_color/object_color_140.png", "annotation": {"long hair": "brown"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_141", "file_path": "data/object_color/object_color_141.jpg", "annotation": {"counter": "brown"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_142", "file_path": "data/object_color/object_color_142.jpg", "annotation": {"suede long boots": "brown"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_143", "file_path": "data/object_color/object_color_143.jpg", "annotation": {"cumin seeds": "brown"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_144", "file_path": "data/object_color/object_color_144.jpg", "annotation": {"belt": "brown"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_145", "file_path": "data/object_color/object_color_145.png", "annotation": {"main root": "brown"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_146", "file_path": "data/object_color/object_color_146.jpg", "annotation": {"ears": "brown"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_147", "file_path": "data/object_color/object_color_147.jpg", "annotation": {"A&W Ginger Ale 6-pack": "brown"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_148", "file_path": "data/object_color/object_color_148.jpg", "annotation": {"monkey": "brown"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_149", "file_path": "data/object_color/object_color_149.jpg", "annotation": {"car": "brown"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_150", "file_path": "data/object_color/object_color_150.jpg", "annotation": {"track": "brown"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_151", "file_path": "data/object_color/object_color_151.jpg", "annotation": {"railway platform": "brown"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_152", "file_path": "data/object_color/object_color_152.jpg", "annotation": {"fence": "brown"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_153", "file_path": "data/object_color/object_color_153.jpg", "annotation": {"turtle": "brown"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_154", "file_path": "data/object_color/object_color_154.jpg", "annotation": {"deer": "brown"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_155", "file_path": "data/object_color/object_color_155.jpg", "annotation": {"pinecone": "brown"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_156", "file_path": "data/object_color/object_color_156.jpg", "annotation": {"roast duck": "reddish-brown"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_157", "file_path": "data/object_color/object_color_157.jpg", "annotation": {"dice chicken": "golden yellow"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_158", "file_path": "data/object_color/object_color_158.jpg", "annotation": {"sweet and sour pork": "golden yellow"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_159", "file_path": "data/object_color/object_color_159.jpg", "annotation": {"pancake": "golden yellow"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_160", "file_path": "data/object_color/object_color_160.jpg", "annotation": {"roast chicken": "golden yellow"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_161", "file_path": "data/object_color/object_color_161.jpg", "annotation": {"pancake": "golden yellow"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_162", "file_path": "data/object_color/object_color_162.jpg", "annotation": {"watch case accessories": "golden yellow"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_163", "file_path": "data/object_color/object_color_163.jpg", "annotation": {"woman's hair": "golden yellow"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_164", "file_path": "data/object_color/object_color_164.jpg", "annotation": {"long hair": "golden yellow"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_165", "file_path": "data/object_color/object_color_165.jpg", "annotation": {"hair": "golden yellow"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_166", "file_path": "data/object_color/object_color_166.jpg", "annotation": {"Pita chips": "golden yellow"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_167", "file_path": "data/object_color/object_color_167.jpg", "annotation": {"chopped tofu": "golden yellow"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_168", "file_path": "data/object_color/object_color_168.jpg", "annotation": {"cheese pizza": "golden yellow"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_169", "file_path": "data/object_color/object_color_169.jpg", "annotation": {"pineapple": "golden yellow"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_170", "file_path": "data/object_color/object_color_170.jpg", "annotation": {"fried dumplings": "golden yellow"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_171", "file_path": "data/object_color/object_color_171.jpg", "annotation": {"Pad Thai": "golden yellow"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_172", "file_path": "data/object_color/object_color_172.jpg", "annotation": {"roast lamb chops": "golden yellow"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_173", "file_path": "data/object_color/object_color_173.jpg", "annotation": {"flame": "golden yellow"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_174", "file_path": "data/object_color/object_color_174.jpg", "annotation": {"boy's hair": "golden yellow"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_175", "file_path": "data/object_color/object_color_175.jpg", "annotation": {"duck": "golden yellow"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_176", "file_path": "data/object_color/object_color_176.jpg", "annotation": {"corn": "golden yellow"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_177", "file_path": "data/object_color/object_color_177.jpg", "annotation": {"popcorn": "golden yellow"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_178", "file_path": "data/object_color/object_color_178.jpg", "annotation": {"breadcrumbs": "golden yellow"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_179", "file_path": "data/object_color/object_color_179.jpg", "annotation": {"noodles": "golden yellow"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_180", "file_path": "data/object_color/object_color_180.jpg", "annotation": {"wheat field": "golden yellow"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_181", "file_path": "data/object_color/object_color_181.jpg", "annotation": {"noodles": "golden yellow"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_182", "file_path": "data/object_color/object_color_182.jpg", "annotation": {"cushion": "white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_183", "file_path": "data/object_color/object_color_183.jpg", "annotation": {"earbuds": "white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_184", "file_path": "data/object_color/object_color_184.jpg", "annotation": {"rhinestone": "white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_185", "file_path": "data/object_color/object_color_185.jpg", "annotation": {"women's clothes": "white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_186", "file_path": "data/object_color/object_color_186.jpg", "annotation": {"wallet": "white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_187", "file_path": "data/object_color/object_color_187.jpg", "annotation": {"toy": "white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_188", "file_path": "data/object_color/object_color_188.jpg", "annotation": {"ceiling fan": "white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_189", "file_path": "data/object_color/object_color_189.jpg", "annotation": {"tank top": "white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_190", "file_path": "data/object_color/object_color_190.jpg", "annotation": {"metal gate": "white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_191", "file_path": "data/object_color/object_color_191.jpg", "annotation": {"cylinder": "white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_192", "file_path": "data/object_color/object_color_192.jpg", "annotation": {"bathtub": "white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_193", "file_path": "data/object_color/object_color_193.jpg", "annotation": {"projector light": "white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_194", "file_path": "data/object_color/object_color_194.jpg", "annotation": {"ship": "white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_195", "file_path": "data/object_color/object_color_195.jpg", "annotation": {"crystal": "white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_196", "file_path": "data/object_color/object_color_196.jpg", "annotation": {"iPad": "white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_197", "file_path": "data/object_color/object_color_197.jpg", "annotation": {"pearl": "white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_198", "file_path": "data/object_color/object_color_198.jpg", "annotation": {"water heater": "white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_199", "file_path": "data/object_color/object_color_199.jpg", "annotation": {"light fixture": "white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_200", "file_path": "data/object_color/object_color_200.jpg", "annotation": {"big pot": "white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_201", "file_path": "data/object_color/object_color_201.jpg", "annotation": {"statue": "white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_202", "file_path": "data/object_color/object_color_202.jpg", "annotation": {"dog": "white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_203", "file_path": "data/object_color/object_color_203.jpg", "annotation": {"fuzzy boots": "white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_204", "file_path": "data/object_color/object_color_204.jpg", "annotation": {"saw blade": "white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_205", "file_path": "data/object_color/object_color_205.jpg", "annotation": {"lotus": "white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_206", "file_path": "data/object_color/object_color_206.jpg", "annotation": {"book": "white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_207", "file_path": "data/object_color/object_color_207.jpg", "annotation": {"cheese": "white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_208", "file_path": "data/object_color/object_color_208.jpg", "annotation": {"the drink in the glass": "red"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_209", "file_path": "data/object_color/object_color_209.jpg", "annotation": {"sauce": "red"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_210", "file_path": "data/object_color/object_color_210.jpg", "annotation": {"bridge": "red"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_211", "file_path": "data/object_color/object_color_211.jpg", "annotation": {"heart": "red"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_212", "file_path": "data/object_color/object_color_212.jpg", "annotation": {"raised barbell": "red"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_213", "file_path": "data/object_color/object_color_213.jpg", "annotation": {"lantern": "red"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_214", "file_path": "data/object_color/object_color_214.jpg", "annotation": {"Redmi 8": "red"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_215", "file_path": "data/object_color/object_color_215.jpg", "annotation": {"stage props": "red"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_216", "file_path": "data/object_color/object_color_216.jpg", "annotation": {"Marshall agricultural equipment": "red"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_217", "file_path": "data/object_color/object_color_217.jpg", "annotation": {"tablecloth": "red"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_218", "file_path": "data/object_color/object_color_218.jpg", "annotation": {"chili pepper": "red"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_219", "file_path": "data/object_color/object_color_219.jpg", "annotation": {"inner box": "red"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_220", "file_path": "data/object_color/object_color_220.jpg", "annotation": {"the tiles on the ground": "red"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_221", "file_path": "data/object_color/object_color_221.jpg", "annotation": {"tack": "red"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_222", "file_path": "data/object_color/object_color_222.jpg", "annotation": {"necklace": "red"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_223", "file_path": "data/object_color/object_color_223.jpg", "annotation": {"jersey": "red"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_224", "file_path": "data/object_color/object_color_224.jpg", "annotation": {"quilted leather": "red"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_225", "file_path": "data/object_color/object_color_225.jpg", "annotation": {"broth base": "red"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_226", "file_path": "data/object_color/object_color_226.jpg", "annotation": {"ventilation duct": "red"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_227", "file_path": "data/object_color/object_color_227.jpg", "annotation": {"red paper bowl": "red"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_228", "file_path": "data/object_color/object_color_228.jpg", "annotation": {"red cap": "red"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_229", "file_path": "data/object_color/object_color_229.jpg", "annotation": {"chili pepper": "red"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_230", "file_path": "data/object_color/object_color_230.jpg", "annotation": {"the exterior wall of the parking garage": "red"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_231", "file_path": "data/object_color/object_color_231.jpg", "annotation": {"candied walnuts": "red"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_232", "file_path": "data/object_color/object_color_232.jpg", "annotation": {"book": "red"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_233", "file_path": "data/object_color/object_color_233.jpg", "annotation": {"the guard's clothes": "red"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_234", "file_path": "data/object_color/object_color_234.jpg", "annotation": {"emergency defibrillator": "green"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_235", "file_path": "data/object_color/object_color_235.jpg", "annotation": {"dishwashing liquid bottle": "green"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_236", "file_path": "data/object_color/object_color_236.jpg", "annotation": {"circuit board": "green"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_237", "file_path": "data/object_color/object_color_237.jpg", "annotation": {"Statue of Liberty": "green"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_238", "file_path": "data/object_color/object_color_238.jpg", "annotation": {"statue": "green"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_239", "file_path": "data/object_color/object_color_239.jpg", "annotation": {"leaves": "green"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_240", "file_path": "data/object_color/object_color_240.jpg", "annotation": {"scoreboard": "green"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_241", "file_path": "data/object_color/object_color_241.jpg", "annotation": {"vegetables": "green"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_242", "file_path": "data/object_color/object_color_242.jpg", "annotation": {"gloves": "green"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_243", "file_path": "data/object_color/object_color_243.png", "annotation": {"muscle trunk": "green"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_244", "file_path": "data/object_color/object_color_244.jpg", "annotation": {"rope": "green"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_245", "file_path": "data/object_color/object_color_245.jpg", "annotation": {"cannon": "green"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_246", "file_path": "data/object_color/object_color_246.jpg", "annotation": {"obstacle": "green"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_247", "file_path": "data/object_color/object_color_247.jpg", "annotation": {"chili pepper": "green"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_248", "file_path": "data/object_color/object_color_248.jpg", "annotation": {"launch vehicle truck": "green"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_249", "file_path": "data/object_color/object_color_249.jpg", "annotation": {"hat": "green"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_250", "file_path": "data/object_color/object_color_250.jpg", "annotation": {"package": "green"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_251", "file_path": "data/object_color/object_color_251.jpg", "annotation": {"garden": "green"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_252", "file_path": "data/object_color/object_color_252.jpg", "annotation": {"bowler": "green"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_253", "file_path": "data/object_color/object_color_253.jpg", "annotation": {"dental apron": "green"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_254", "file_path": "data/object_color/object_color_254.jpg", "annotation": {"plant stem": "green"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_255", "file_path": "data/object_color/object_color_255.jpg", "annotation": {"toy": "green"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_256", "file_path": "data/object_color/object_color_256.jpg", "annotation": {"support tower": "green"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_257", "file_path": "data/object_color/object_color_257.jpg", "annotation": {"scarf": "green"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_258", "file_path": "data/object_color/object_color_258.jpg", "annotation": {"decorations": "green"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_259", "file_path": "data/object_color/object_color_259.jpg", "annotation": {"pipeline": "green"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_260", "file_path": "data/object_color/object_color_260.jpg", "annotation": {"fish-shaped_lamp": "blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_261", "file_path": "data/object_color/object_color_261.jpg", "annotation": {"Chelsea Football Club jersey": "blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_262", "file_path": "data/object_color/object_color_262.jpg", "annotation": {"five": "blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_263", "file_path": "data/object_color/object_color_263.jpg", "annotation": {"cutting pad": "blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_264", "file_path": "data/object_color/object_color_264.jpg", "annotation": {"ski board": "blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_265", "file_path": "data/object_color/object_color_265.jpg", "annotation": {"blue oilcloth": "blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_266", "file_path": "data/object_color/object_color_266.jpg", "annotation": {"biological": "blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_267", "file_path": "data/object_color/object_color_267.jpg", "annotation": {"hook": "blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_268", "file_path": "data/object_color/object_color_268.jpg", "annotation": {"swinging carousel toy": "blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_269", "file_path": "data/object_color/object_color_269.jpg", "annotation": {"handrails in the bus": "blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_270", "file_path": "data/object_color/object_color_270.jpg", "annotation": {"swimming cap": "blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_271", "file_path": "data/object_color/object_color_271.jpg", "annotation": {"apron": "blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_272", "file_path": "data/object_color/object_color_272.jpg", "annotation": {"White Stuff store": "blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_273", "file_path": "data/object_color/object_color_273.jpg", "annotation": {"stethoscope": "blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_274", "file_path": "data/object_color/object_color_274.jpg", "annotation": {"water drop": "blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_275", "file_path": "data/object_color/object_color_275.jpg", "annotation": {"Ashoka's Wheel": "blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_276", "file_path": "data/object_color/object_color_276.jpg", "annotation": {"shirt": "blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_277", "file_path": "data/object_color/object_color_277.jpg", "annotation": {"plate": "blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_278", "file_path": "data/object_color/object_color_278.jpg", "annotation": {"television": "blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_279", "file_path": "data/object_color/object_color_279.jpg", "annotation": {"chisel": "blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_280", "file_path": "data/object_color/object_color_280.jpg", "annotation": {"guard's uniform": "blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_281", "file_path": "data/object_color/object_color_281.jpg", "annotation": {"off-road motorcycle": "blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_282", "file_path": "data/object_color/object_color_282.jpg", "annotation": {"leather factory pigments": "blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_283", "file_path": "data/object_color/object_color_283.jpg", "annotation": {"backpack": "blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_284", "file_path": "data/object_color/object_color_284.jpg", "annotation": {"minivan": "blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_285", "file_path": "data/object_color/object_color_285.jpg", "annotation": {"checkerboard": "blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_286", "file_path": "data/object_color/object_color_286.jpg", "annotation": {"high heels": "khaki"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_287", "file_path": "data/object_color/object_color_287.jpg", "annotation": {"tower": "khaki"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_288", "file_path": "data/object_color/object_color_288.jpg", "annotation": {"terracotta planter": "khaki"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_289", "file_path": "data/object_color/object_color_289.jpg", "annotation": {"police uniform": "khaki"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_290", "file_path": "data/object_color/object_color_290.jpg", "annotation": {"pants": "khaki"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_291", "file_path": "data/object_color/object_color_291.jpg", "annotation": {"shorts": "khaki"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_292", "file_path": "data/object_color/object_color_292.jpg", "annotation": {"pants": "khaki"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_293", "file_path": "data/object_color/object_color_293.jpg", "annotation": {"pants": "khaki"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_294", "file_path": "data/object_color/object_color_294.jpg", "annotation": {"trouser": "khaki"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_295", "file_path": "data/object_color/object_color_295.jpg", "annotation": {"pant": "khaki"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_296", "file_path": "data/object_color/object_color_296.jpg", "annotation": {"pant": "khaki"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_297", "file_path": "data/object_color/object_color_297.jpg", "annotation": {"pant": "khaki"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_298", "file_path": "data/object_color/object_color_298.jpg", "annotation": {"pant": "khaki"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_299", "file_path": "data/object_color/object_color_299.jpg", "annotation": {"police uniform": "khaki"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_300", "file_path": "data/object_color/object_color_300.jpg", "annotation": {"side cap": "khaki"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_301", "file_path": "data/object_color/object_color_301.jpg", "annotation": {"pants": "khaki"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_302", "file_path": "data/object_color/object_color_302.jpg", "annotation": {"pilotka": "khaki"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_303", "file_path": "data/object_color/object_color_303.jpg", "annotation": {"pant": "khaki"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_304", "file_path": "data/object_color/object_color_304.jpg", "annotation": {"pant": "khaki"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_305", "file_path": "data/object_color/object_color_305.jpg", "annotation": {"cliff face": "khaki"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_306", "file_path": "data/object_color/object_color_306.jpg", "annotation": {"gym floor": "khaki"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_307", "file_path": "data/object_color/object_color_307.jpg", "annotation": {"lioness": "khaki"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_308", "file_path": "data/object_color/object_color_308.jpg", "annotation": {"police officer": "khaki"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_309", "file_path": "data/object_color/object_color_309.jpg", "annotation": {"sand": "khaki"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_310", "file_path": "data/object_color/object_color_310.jpg", "annotation": {"striped shirt": "black and white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_311", "file_path": "data/object_color/object_color_311.jpg", "annotation": {"winter coat": "black and white striped"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_312", "file_path": "data/object_color/object_color_312.jpg", "annotation": {"wig": "white and black"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_313", "file_path": "data/object_color/object_color_313.jpg", "annotation": {"shirt": "white and black"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_314", "file_path": "data/object_color/object_color_314.jpg", "annotation": {"panda": "white and black"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_315", "file_path": "data/object_color/object_color_315.jpg", "annotation": {"dog": "white and black"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_316", "file_path": "data/object_color/object_color_316.jpg", "annotation": {"barrier": "white and black"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_317", "file_path": "data/object_color/object_color_317.jpg", "annotation": {"keyboard": "white and black"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_318", "file_path": "data/object_color/object_color_318.jpg", "annotation": {"tablecloth": "white and black"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_319", "file_path": "data/object_color/object_color_319.jpg", "annotation": {"wall decoration": "white and black"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_320", "file_path": "data/object_color/object_color_320.jpg", "annotation": {"shirt": "white and black"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_321", "file_path": "data/object_color/object_color_321.jpg", "annotation": {"exhibition hall floor": "white and black"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_322", "file_path": "data/object_color/object_color_322.jpg", "annotation": {"road divider": "white and black"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_323", "file_path": "data/object_color/object_color_323.jpg", "annotation": {"panda statue": "white and black"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_324", "file_path": "data/object_color/object_color_324.jpg", "annotation": {"Ladies' golf apparel": "black and white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_325", "file_path": "data/object_color/object_color_325.jpg", "annotation": {"inflatable orca": "black and white striped"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_326", "file_path": "data/object_color/object_color_326.jpg", "annotation": {"strip bench": "black and white striped"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_327", "file_path": "data/object_color/object_color_327.jpg", "annotation": {"striped lid": "black and white striped"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_328", "file_path": "data/object_color/object_color_328.jpg", "annotation": {"football": "black and white stripes"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_329", "file_path": "data/object_color/object_color_329.jpg", "annotation": {"cattle": "black and white striped"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_330", "file_path": "data/object_color/object_color_330.jpg", "annotation": {"napkin": "light brown"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_331", "file_path": "data/object_color/object_color_331.jpg", "annotation": {"wooden ceiling": "light brown"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_332", "file_path": "data/object_color/object_color_332.jpg", "annotation": {"wooden floor": "light brown"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_333", "file_path": "data/object_color/object_color_333.jpg", "annotation": {"shelf": "light brown"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_334", "file_path": "data/object_color/object_color_334.jpg", "annotation": {"naan bread": "light brown"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_335", "file_path": "data/object_color/object_color_335.jpg", "annotation": {"human leg": "light brown"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_336", "file_path": "data/object_color/object_color_336.jpg", "annotation": {"decorative wooden element": "light brown"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_337", "file_path": "data/object_color/object_color_337.jpg", "annotation": {"wood paneling": "light brown"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_338", "file_path": "data/object_color/object_color_338.jpg", "annotation": {"ear": "light brown"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_339", "file_path": "data/object_color/object_color_339.jpg", "annotation": {"bookshelf": "light brown"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_340", "file_path": "data/object_color/object_color_340.jpg", "annotation": {"hardwood floor": "light brown"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_341", "file_path": "data/object_color/object_color_341.jpg", "annotation": {"stone pillar": "light brown"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_342", "file_path": "data/object_color/object_color_342.jpg", "annotation": {"stone bridge": "light brown"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_343", "file_path": "data/object_color/object_color_343.jpg", "annotation": {"wooden statue": "light brown"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_344", "file_path": "data/object_color/object_color_344.jpg", "annotation": {"rock structure": "light brown"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_345", "file_path": "data/object_color/object_color_345.jpg", "annotation": {"dog": "light brown"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_346", "file_path": "data/object_color/object_color_346.jpg", "annotation": {"castle": "light brown"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_347", "file_path": "data/object_color/object_color_347.jpg", "annotation": {"table": "light brown"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_348", "file_path": "data/object_color/object_color_348.jpg", "annotation": {"cow": "light brown"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_349", "file_path": "data/object_color/object_color_349.jpg", "annotation": {"wood paneling": "dark brown"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_350", "file_path": "data/object_color/object_color_350.jpg", "annotation": {"wooden cabinet": "dark brown"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_351", "file_path": "data/object_color/object_color_351.jpg", "annotation": {"updo hairstyle": "dark brown"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_352", "file_path": "data/object_color/object_color_352.jpg", "annotation": {"hair": "dark brown"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_353", "file_path": "data/object_color/object_color_353.jpg", "annotation": {"long hair": "dark brown"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_354", "file_path": "data/object_color/object_color_354.jpg", "annotation": {"bar cart": "dark brown"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_355", "file_path": "data/object_color/object_color_355.jpg", "annotation": {"dining table": "dark brown"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_356", "file_path": "data/object_color/object_color_356.jpg", "annotation": {"decorative wood carving": "dark brown"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_357", "file_path": "data/object_color/object_color_357.jpg", "annotation": {"expose beam": "dark brown"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_358", "file_path": "data/object_color/object_color_358.jpg", "annotation": {"window seat": "dark brown"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_359", "file_path": "data/object_color/object_color_359.jpg", "annotation": {"Trojan horse sculpture": "dark brown"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_360", "file_path": "data/object_color/object_color_360.jpg", "annotation": {"wooden door": "dark brown"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_361", "file_path": "data/object_color/object_color_361.jpg", "annotation": {"wooden floor": "dark brown"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_362", "file_path": "data/object_color/object_color_362.jpg", "annotation": {"dresser": "dark brown"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_363", "file_path": "data/object_color/object_color_363.jpg", "annotation": {"school uniform": "dark brown"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_364", "file_path": "data/object_color/object_color_364.jpg", "annotation": {"chocolate chips": "dark brown"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_365", "file_path": "data/object_color/object_color_365.jpg", "annotation": {"shoe": "dark brown"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_366", "file_path": "data/object_color/object_color_366.jpg", "annotation": {"moat bridge": "dark brown"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_367", "file_path": "data/object_color/object_color_367.jpg", "annotation": {"rust metal part": "copper color"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_368", "file_path": "data/object_color/object_color_368.jpg", "annotation": {"column still": "copper color"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_369", "file_path": "data/object_color/object_color_369.jpg", "annotation": {"equipment": "copper color"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_370", "file_path": "data/object_color/object_color_370.jpg", "annotation": {"heat pipe": "copper color"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_371", "file_path": "data/object_color/object_color_371.jpg", "annotation": {"cutlery": "copper color"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_372", "file_path": "data/object_color/object_color_372.jpg", "annotation": {"sparkle border": "copper color"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_373", "file_path": "data/object_color/object_color_373.jpg", "annotation": {"web": "copper color"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_374", "file_path": "data/object_color/object_color_374.jpg", "annotation": {"jigger": "copper color"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_375", "file_path": "data/object_color/object_color_375.jpg", "annotation": {"wine jar": "copper color"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_376", "file_path": "data/object_color/object_color_376.jpg", "annotation": {"fastener": "copper color"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_377", "file_path": "data/object_color/object_color_377.jpg", "annotation": {"cup": "copper color"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_378", "file_path": "data/object_color/object_color_378.jpg", "annotation": {"object9": "copper color"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_379", "file_path": "data/object_color/object_color_379.jpg", "annotation": {"pot": "copper color"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_380", "file_path": "data/object_color/object_color_380.jpg", "annotation": {"kettle": "copper color"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_381", "file_path": "data/object_color/object_color_381.jpg", "annotation": {"wall sconce": "copper color"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_382", "file_path": "data/object_color/object_color_382.jpg", "annotation": {"cup": "copper color"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_383", "file_path": "data/object_color/object_color_383.jpg", "annotation": {"high heels": "beige"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_384", "file_path": "data/object_color/object_color_384.jpg", "annotation": {"hat": "beige"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_385", "file_path": "data/object_color/object_color_385.jpg", "annotation": {"wicker basket": "beige"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_386", "file_path": "data/object_color/object_color_386.jpg", "annotation": {"wallpaper": "beige"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_387", "file_path": "data/object_color/object_color_387.jpg", "annotation": {"hat": "beige"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_388", "file_path": "data/object_color/object_color_388.jpg", "annotation": {"statue": "beige"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_389", "file_path": "data/object_color/object_color_389.jpg", "annotation": {"wallpaper": "beige"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_390", "file_path": "data/object_color/object_color_390.jpg", "annotation": {"scrabble tile": "beige"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_391", "file_path": "data/object_color/object_color_391.jpg", "annotation": {"sand": "beige"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_392", "file_path": "data/object_color/object_color_392.jpg", "annotation": {"sand": "beige"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_393", "file_path": "data/object_color/object_color_393.jpg", "annotation": {"bedroom door": "beige"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_394", "file_path": "data/object_color/object_color_394.jpg", "annotation": {"Grand hotel exterior": "beige"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_395", "file_path": "data/object_color/object_color_395.jpg", "annotation": {"sparkly top": "beige"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_396", "file_path": "data/object_color/object_color_396.jpg", "annotation": {"factory building": "beige"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_397", "file_path": "data/object_color/object_color_397.jpg", "annotation": {"sofa": "beige"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_398", "file_path": "data/object_color/object_color_398.jpg", "annotation": {"Heineken Music Hall exterior wall": "beige"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_399", "file_path": "data/object_color/object_color_399.jpg", "annotation": {"Cuban flag": "red , white , blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_400", "file_path": "data/object_color/object_color_400.jpg", "annotation": {"American flag": "red , white , blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_401", "file_path": "data/object_color/object_color_401.jpg", "annotation": {"American flag": "red , white , blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_402", "file_path": "data/object_color/object_color_402.jpg", "annotation": {"Union Jack flag": "red , white , blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_403", "file_path": "data/object_color/object_color_403.jpg", "annotation": {"American flag": "red , white , blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_404", "file_path": "data/object_color/object_color_404.jpg", "annotation": {"french flag": "red , white , blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_405", "file_path": "data/object_color/object_color_405.jpg", "annotation": {"American flag": "red , white , blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_406", "file_path": "data/object_color/object_color_406.jpg", "annotation": {"American flag": "red , white , blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_407", "file_path": "data/object_color/object_color_407.jpg", "annotation": {"American flag": "red , white , blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_408", "file_path": "data/object_color/object_color_408.jpg", "annotation": {"American flag": "red , white , blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_409", "file_path": "data/object_color/object_color_409.jpg", "annotation": {"American flag": "red , white , blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_410", "file_path": "data/object_color/object_color_410.jpg", "annotation": {"American flag": "red , white , blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_411", "file_path": "data/object_color/object_color_411.jpg", "annotation": {"covered with the American flag": "red , white , blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_412", "file_path": "data/object_color/object_color_412.jpg", "annotation": {"flag": "red , white , blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_413", "file_path": "data/object_color/object_color_413.jpg", "annotation": {"UK flag garland": "red , white , blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_414", "file_path": "data/object_color/object_color_414.jpg", "annotation": {"BP Batam logo": "blue and yellow"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_415", "file_path": "data/object_color/object_color_415.jpg", "annotation": {"water polo ball": "blue and yellow"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_416", "file_path": "data/object_color/object_color_416.jpg", "annotation": {"start/finish arch": "blue and yellow"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_417", "file_path": "data/object_color/object_color_417.jpg", "annotation": {"race bib": "blue and yellow"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_418", "file_path": "data/object_color/object_color_418.jpg", "annotation": {"European Union flag": "blue and yellow"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_419", "file_path": "data/object_color/object_color_419.jpg", "annotation": {"lane line": "blue and yellow"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_420", "file_path": "data/object_color/object_color_420.jpg", "annotation": {"bleacher": "blue and yellow"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_421", "file_path": "data/object_color/object_color_421.jpg", "annotation": {"stripper header": "blue and yellow"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_422", "file_path": "data/object_color/object_color_422.jpg", "annotation": {"flag": "blue and yellow"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_423", "file_path": "data/object_color/object_color_423.jpg", "annotation": {"Swedish flag": "blue and yellow"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_424", "file_path": "data/object_color/object_color_424.jpg", "annotation": {"amusement park facilities": "blue and yellow"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_425", "file_path": "data/object_color/object_color_425.jpg", "annotation": {"knit hat": "blue and yellow"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_426", "file_path": "data/object_color/object_color_426.jpg", "annotation": {"Ukrainian flag": "blue and yellow"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_427", "file_path": "data/object_color/object_color_427.jpg", "annotation": {"warning line": "yellow and black"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_428", "file_path": "data/object_color/object_color_428.jpg", "annotation": {"warning tape": "yellow and black"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_429", "file_path": "data/object_color/object_color_429.jpg", "annotation": {"warning tape": "yellow and black"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_430", "file_path": "data/object_color/object_color_430.jpg", "annotation": {"concrete fence": "yellow and black"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_431", "file_path": "data/object_color/object_color_431.jpg", "annotation": {"fitness machine": "yellow and black"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_432", "file_path": "data/object_color/object_color_432.jpg", "annotation": {"warning tape": "yellow and black"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_433", "file_path": "data/object_color/object_color_433.jpg", "annotation": {"border line": "yellow and black"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_434", "file_path": "data/object_color/object_color_434.jpg", "annotation": {"obstacle": "yellow and black"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_435", "file_path": "data/object_color/object_color_435.jpg", "annotation": {"warning bar": "yellow and black"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_436", "file_path": "data/object_color/object_color_436.jpg", "annotation": {"warn tape on floor": "yellow and black"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_437", "file_path": "data/object_color/object_color_437.jpg", "annotation": {"warning strip": "yellow and black"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_438", "file_path": "data/object_color/object_color_438.jpg", "annotation": {"warn stripe": "yellow and black"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_439", "file_path": "data/object_color/object_color_439.jpg", "annotation": {"shorts": "camouflage color"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_440", "file_path": "data/object_color/object_color_440.jpg", "annotation": {"missile launcher": "camouflage color"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_441", "file_path": "data/object_color/object_color_441.jpg", "annotation": {"military missile launcher vehicle": "camouflage color"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_442", "file_path": "data/object_color/object_color_442.jpg", "annotation": {"hat": "camouflage color"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_443", "file_path": "data/object_color/object_color_443.jpg", "annotation": {"medical_personnel": "camouflage color"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_444", "file_path": "data/object_color/object_color_444.jpg", "annotation": {"uniform": "camouflage color"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_445", "file_path": "data/object_color/object_color_445.jpg", "annotation": {"military truck": "camouflage color"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_446", "file_path": "data/object_color/object_color_446.jpg", "annotation": {"pant": "camouflage color"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_447", "file_path": "data/object_color/object_color_447.jpg", "annotation": {"short": "camouflage color"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_448", "file_path": "data/object_color/object_color_448.jpg", "annotation": {"camouflage mat": "camouflage color"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_449", "file_path": "data/object_color/object_color_449.jpg", "annotation": {"helmet": "camouflage color"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_450", "file_path": "data/object_color/object_color_450.jpg", "annotation": {"magazine pouch": "camouflage color"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_451", "file_path": "data/object_color/object_color_451.jpg", "annotation": {"hotel sign": "white and red"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_452", "file_path": "data/object_color/object_color_452.jpg", "annotation": {"high jump bar": "white and red"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_453", "file_path": "data/object_color/object_color_453.jpg", "annotation": {"school uniform": "white and red"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_454", "file_path": "data/object_color/object_color_454.jpg", "annotation": {"shirt": "white and red"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_455", "file_path": "data/object_color/object_color_455.jpg", "annotation": {"Nike shoe box": "white and red"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_456", "file_path": "data/object_color/object_color_456.jpg", "annotation": {"decorative ball": "white and red"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_457", "file_path": "data/object_color/object_color_457.jpg", "annotation": {"high heels": "white and red"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_458", "file_path": "data/object_color/object_color_458.jpg", "annotation": {"weightlifting shoe": "white and red"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_459", "file_path": "data/object_color/object_color_459.jpg", "annotation": {"Potala Palace": "white and red"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_460", "file_path": "data/object_color/object_color_460.jpg", "annotation": {"fragile tape": "white and red"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_461", "file_path": "data/object_color/object_color_461.jpg", "annotation": {"barrier": "white and red"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_462", "file_path": "data/object_color/object_color_462.jpg", "annotation": {"Maestro logo": "white and red"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_463", "file_path": "data/object_color/object_color_463.jpg", "annotation": {"polo shirt": "deep blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_464", "file_path": "data/object_color/object_color_464.jpg", "annotation": {"dress": "dark blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_465", "file_path": "data/object_color/object_color_465.jpg", "annotation": {"cargo pant": "dark blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_466", "file_path": "data/object_color/object_color_466.jpg", "annotation": {"round quilt mat": "deep blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_467", "file_path": "data/object_color/object_color_467.jpg", "annotation": {"tights": "deep blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_468", "file_path": "data/object_color/object_color_468.jpg", "annotation": {"coat": "dark blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_469", "file_path": "data/object_color/object_color_469.jpg", "annotation": {"background": "dark blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_470", "file_path": "data/object_color/object_color_470.jpg", "annotation": {"package box": "dark blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_471", "file_path": "data/object_color/object_color_471.png", "annotation": {"tail": "dark blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_472", "file_path": "data/object_color/object_color_472.jpg", "annotation": {"clothes": "dark blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_473", "file_path": "data/object_color/object_color_473.jpg", "annotation": {"ocean": "deep blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_474", "file_path": "data/object_color/object_color_474.jpg", "annotation": {"star sapphire": "deep blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_475", "file_path": "data/object_color/object_color_475.jpg", "annotation": {"safety helmet": "orange"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_476", "file_path": "data/object_color/object_color_476.jpg", "annotation": {"kimchi": "orange"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_477", "file_path": "data/object_color/object_color_477.jpg", "annotation": {"wire": "orange"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_478", "file_path": "data/object_color/object_color_478.jpg", "annotation": {"baby's clothes": "orange"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_479", "file_path": "data/object_color/object_color_479.jpg", "annotation": {"goldfish": "orange"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_480", "file_path": "data/object_color/object_color_480.jpg", "annotation": {"clownfish": "orange"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_481", "file_path": "data/object_color/object_color_481.jpg", "annotation": {"security guard's vest": "orange"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_482", "file_path": "data/object_color/object_color_482.jpg", "annotation": {"deer head": "orange"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_483", "file_path": "data/object_color/object_color_483.jpg", "annotation": {"jacket": "orange"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_484", "file_path": "data/object_color/object_color_484.jpg", "annotation": {"welding sparks": "orange"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_485", "file_path": "data/object_color/object_color_485.jpg", "annotation": {"building roof": "orange"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_486", "file_path": "data/object_color/object_color_486.jpg", "annotation": {"orange socks": "orange"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_487", "file_path": "data/object_color/object_color_487.jpg", "annotation": {"bee mural": "black and yellow"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_488", "file_path": "data/object_color/object_color_488.jpg", "annotation": {"walk stick": "black and yellow"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_489", "file_path": "data/object_color/object_color_489.jpg", "annotation": {"barrier": "black and yellow"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_490", "file_path": "data/object_color/object_color_490.jpg", "annotation": {"mini soccer goal": "black and yellow"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_491", "file_path": "data/object_color/object_color_491.jpg", "annotation": {"warning post": "black and yellow"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_492", "file_path": "data/object_color/object_color_492.jpg", "annotation": {"obstacle post": "black and yellow"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_493", "file_path": "data/object_color/object_color_493.jpg", "annotation": {"cricket uniform": "black and yellow"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_494", "file_path": "data/object_color/object_color_494.jpg", "annotation": {"road sign post": "black and yellow"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_495", "file_path": "data/object_color/object_color_495.jpg", "annotation": {"bee": "black and yellow"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_496", "file_path": "data/object_color/object_color_496.jpg", "annotation": {"fence rope": "black and yellow"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_497", "file_path": "data/object_color/object_color_497.jpg", "annotation": {"barricade": "black and yellow"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_498", "file_path": "data/object_color/object_color_498.jpg", "annotation": {"Cucilat bottle": "white and blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_499", "file_path": "data/object_color/object_color_499.jpg", "annotation": {"compression leg wrap": "white and blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_500", "file_path": "data/object_color/object_color_500.jpg", "annotation": {"Vimeo app icon": "white and blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_501", "file_path": "data/object_color/object_color_501.jpg", "annotation": {"ANA aircraft": "white and blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_502", "file_path": "data/object_color/object_color_502.jpg", "annotation": {"Armand Thiery sign": "white and blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_503", "file_path": "data/object_color/object_color_503.jpg", "annotation": {"banana boat": "white and blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_504", "file_path": "data/object_color/object_color_504.jpg", "annotation": {"vase": "white and blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_505", "file_path": "data/object_color/object_color_505.jpg", "annotation": {"police boat": "white and blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_506", "file_path": "data/object_color/object_color_506.jpg", "annotation": {"white and blue porcelain jar": "white and blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_507", "file_path": "data/object_color/object_color_507.jpg", "annotation": {"police tape": "white and blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_508", "file_path": "data/object_color/object_color_508.jpg", "annotation": {"school uniform": "white and blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_509", "file_path": "data/object_color/object_color_509.jpg", "annotation": {"phone case": "blue and white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_510", "file_path": "data/object_color/object_color_510.png", "annotation": {"military-style uniform": "blue and white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_511", "file_path": "data/object_color/object_color_511.jpg", "annotation": {"cheerleader uniform": "blue and white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_512", "file_path": "data/object_color/object_color_512.jpg", "annotation": {"mat": "blue and white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_513", "file_path": "data/object_color/object_color_513.jpg", "annotation": {"cup": "blue and white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_514", "file_path": "data/object_color/object_color_514.jpg", "annotation": {"shirt": "blue and white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_515", "file_path": "data/object_color/object_color_515.jpg", "annotation": {"police car": "blue and white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_516", "file_path": "data/object_color/object_color_516.jpg", "annotation": {"Volkswagen sign": "blue and white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_517", "file_path": "data/object_color/object_color_517.jpg", "annotation": {"hat": "blue and white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_518", "file_path": "data/object_color/object_color_518.jpg", "annotation": {"sport outfit": "blue and white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_519", "file_path": "data/object_color/object_color_519.jpg", "annotation": {"statue of Virgin Mary": "blue and white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_520", "file_path": "data/object_color/object_color_520.jpg", "annotation": {"glass jar": "transparent color"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_521", "file_path": "data/object_color/object_color_521.jpg", "annotation": {"hand sanitizer": "transparent color"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_522", "file_path": "data/object_color/object_color_522.jpg", "annotation": {"plastic container": "transparent color"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_523", "file_path": "data/object_color/object_color_523.jpg", "annotation": {"plastic cup": "transparent color"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_524", "file_path": "data/object_color/object_color_524.jpg", "annotation": {"plastic bag": "transparent color"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_525", "file_path": "data/object_color/object_color_525.jpg", "annotation": {"wine glass": "transparent color"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_526", "file_path": "data/object_color/object_color_526.jpg", "annotation": {"water glass": "transparent color"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_527", "file_path": "data/object_color/object_color_527.jpg", "annotation": {"glass cup": "transparent color"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_528", "file_path": "data/object_color/object_color_528.jpg", "annotation": {"glass": "transparent color"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_529", "file_path": "data/object_color/object_color_529.jpg", "annotation": {"glass cup": "transparent color"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_530", "file_path": "data/object_color/object_color_530.jpg", "annotation": {"book": "cyan"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_531", "file_path": "data/object_color/object_color_531.jpg", "annotation": {"bucket": "cyan"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_532", "file_path": "data/object_color/object_color_532.jpg", "annotation": {"tablecloth": "cyan"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_533", "file_path": "data/object_color/object_color_533.jpg", "annotation": {"tram 013A": "cyan"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_534", "file_path": "data/object_color/object_color_534.jpg", "annotation": {"shoe": "cyan"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_535", "file_path": "data/object_color/object_color_535.jpg", "annotation": {"background": "cyan"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_536", "file_path": "data/object_color/object_color_536.jpg", "annotation": {"vest": "cyan"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_537", "file_path": "data/object_color/object_color_537.jpg", "annotation": {"shirt": "cyan"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_538", "file_path": "data/object_color/object_color_538.jpg", "annotation": {"shirt": "cyan"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_539", "file_path": "data/object_color/object_color_539.jpg", "annotation": {"wall": "cyan"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_540", "file_path": "data/object_color/object_color_540.jpg", "annotation": {"wig": "red and yellow"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_541", "file_path": "data/object_color/object_color_541.jpg", "annotation": {"weight": "red and yellow"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_542", "file_path": "data/object_color/object_color_542.jpg", "annotation": {"logo": "red and yellow"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_543", "file_path": "data/object_color/object_color_543.jpg", "annotation": {"stairs": "red and yellow"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_544", "file_path": "data/object_color/object_color_544.jpg", "annotation": {"pole": "red and yellow"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_545", "file_path": "data/object_color/object_color_545.jpg", "annotation": {"flower": "red and yellow"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_546", "file_path": "data/object_color/object_color_546.jpg", "annotation": {"reflection of sign": "red and yellow"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_547", "file_path": "data/object_color/object_color_547.jpg", "annotation": {"shell gas station sign": "red and yellow"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_548", "file_path": "data/object_color/object_color_548.jpg", "annotation": {"uniform": "red and yellow"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_549", "file_path": "data/object_color/object_color_549.jpg", "annotation": {"signboard": "red and yellow"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_550", "file_path": "data/object_color/object_color_550.jpg", "annotation": {"parking meter": "teal"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_551", "file_path": "data/object_color/object_color_551.jpg", "annotation": {"surgical gown": "teal"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_552", "file_path": "data/object_color/object_color_552.jpg", "annotation": {"storefront": "teal"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_553", "file_path": "data/object_color/object_color_553.jpg", "annotation": {"Darlie toothpaste box": "teal"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_554", "file_path": "data/object_color/object_color_554.jpg", "annotation": {"surgical gown": "teal"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_555", "file_path": "data/object_color/object_color_555.jpg", "annotation": {"folder": "teal"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_556", "file_path": "data/object_color/object_color_556.jpg", "annotation": {"pool": "teal"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_557", "file_path": "data/object_color/object_color_557.jpg", "annotation": {"logo": "teal"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_558", "file_path": "data/object_color/object_color_558.jpg", "annotation": {"surgical gown": "teal"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_559", "file_path": "data/object_color/object_color_559.jpg", "annotation": {"wooden shed wall": "teal"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_560", "file_path": "data/object_color/object_color_560.jpg", "annotation": {"human hair": "pink"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_561", "file_path": "data/object_color/object_color_561.jpg", "annotation": {"backpack": "pink"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_562", "file_path": "data/object_color/object_color_562.jpg", "annotation": {"blurred flower in background": "pink"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_563", "file_path": "data/object_color/object_color_563.jpg", "annotation": {"banner": "pink"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_564", "file_path": "data/object_color/object_color_564.jpg", "annotation": {"umbrella": "pink"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_565", "file_path": "data/object_color/object_color_565.png", "annotation": {"socks": "pink"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_566", "file_path": "data/object_color/object_color_566.jpg", "annotation": {"paper": "pink"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_567", "file_path": "data/object_color/object_color_567.jpg", "annotation": {"sweatshirt": "pink"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_568", "file_path": "data/object_color/object_color_568.jpg", "annotation": {"baby bottle nipple": "pink"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_569", "file_path": "data/object_color/object_color_569.jpg", "annotation": {"blush": "pink"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_570", "file_path": "data/object_color/object_color_570.jpg", "annotation": {"couple's clothes": "black and white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_571", "file_path": "data/object_color/object_color_571.jpg", "annotation": {"book": "black and white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_572", "file_path": "data/object_color/object_color_572.jpg", "annotation": {"speedometer": "black and white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_573", "file_path": "data/object_color/object_color_573.jpg", "annotation": {"pirate hat": "black white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_574", "file_path": "data/object_color/object_color_574.jpg", "annotation": {"street light": "black white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_575", "file_path": "data/object_color/object_color_575.jpg", "annotation": {"bird": "black and white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_576", "file_path": "data/object_color/object_color_576.jpg", "annotation": {"weightlifter's clothing": "black and white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_577", "file_path": "data/object_color/object_color_577.jpg", "annotation": {"pirate hat": "black white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_578", "file_path": "data/object_color/object_color_578.jpg", "annotation": {"duck 5": "black and white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_579", "file_path": "data/object_color/object_color_579.jpg", "annotation": {"duck 1": "black white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_580", "file_path": "data/object_color/object_color_580.jpg", "annotation": {"Bank of America logo": "red and blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_581", "file_path": "data/object_color/object_color_581.jpg", "annotation": {"3D glasses": "red and blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_582", "file_path": "data/object_color/object_color_582.jpg", "annotation": {"ASEAN emblem": "red and blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_583", "file_path": "data/object_color/object_color_583.jpg", "annotation": {"ARCO logo": "red and blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_584", "file_path": "data/object_color/object_color_584.jpg", "annotation": {"Costco Wholesale sign": "red and blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_585", "file_path": "data/object_color/object_color_585.jpg", "annotation": {"traffic sign": "red and blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_586", "file_path": "data/object_color/object_color_586.jpg", "annotation": {"water valve": "red and blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_587", "file_path": "data/object_color/object_color_587.jpg", "annotation": {"barbell": "red and blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_588", "file_path": "data/object_color/object_color_588.jpg", "annotation": {"logo": "red and blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_589", "file_path": "data/object_color/object_color_589.jpg", "annotation": {"handbag": "navy blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_590", "file_path": "data/object_color/object_color_590.jpg", "annotation": {"T-shirt": "navy blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_591", "file_path": "data/object_color/object_color_591.jpg", "annotation": {"top": "navy blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_592", "file_path": "data/object_color/object_color_592.jpg", "annotation": {"embroidered kurta": "navy blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_593", "file_path": "data/object_color/object_color_593.jpg", "annotation": {"a pair of suede shoes": "navy blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_594", "file_path": "data/object_color/object_color_594.jpg", "annotation": {"navy blue uniform": "navy blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_595", "file_path": "data/object_color/object_color_595.jpg", "annotation": {"tulle skirt": "navy blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_596", "file_path": "data/object_color/object_color_596.jpg", "annotation": {"sweater": "navy blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_597", "file_path": "data/object_color/object_color_597.jpg", "annotation": {"napkin": "navy blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_598", "file_path": "data/object_color/object_color_598.jpg", "annotation": {"MTC logo": "red and black"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_599", "file_path": "data/object_color/object_color_599.jpg", "annotation": {"dress": "red and black"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_600", "file_path": "data/object_color/object_color_600.jpg", "annotation": {"woven cable": "red and black"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_601", "file_path": "data/object_color/object_color_601.jpg", "annotation": {"DB Schenker logo": "red and black"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_602", "file_path": "data/object_color/object_color_602.jpg", "annotation": {"cable": "red and black"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_603", "file_path": "data/object_color/object_color_603.jpg", "annotation": {"AC Milan football jersey": "red and black"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_604", "file_path": "data/object_color/object_color_604.jpg", "annotation": {"shooter costume": "red and black"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_605", "file_path": "data/object_color/object_color_605.jpg", "annotation": {"comic-style costume": "red and black"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_606", "file_path": "data/object_color/object_color_606.jpg", "annotation": {"book": "red and black"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_607", "file_path": "data/object_color/object_color_607.jpg", "annotation": {"taxi": "green and yellow"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_608", "file_path": "data/object_color/object_color_608.jpg", "annotation": {"Tours & Information booth": "green and yellow"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_609", "file_path": "data/object_color/object_color_609.jpg", "annotation": {"gym wall padding": "green and yellow"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_610", "file_path": "data/object_color/object_color_610.jpg", "annotation": {"auto rickshaw": "green and yellow"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_611", "file_path": "data/object_color/object_color_611.jpg", "annotation": {"Norwich City Football Club logo": "green and yellow"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_612", "file_path": "data/object_color/object_color_612.jpg", "annotation": {"ThaiBev logo": "green and yellow"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_613", "file_path": "data/object_color/object_color_613.jpg", "annotation": {"stall": "green and yellow"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_614", "file_path": "data/object_color/object_color_614.jpg", "annotation": {"lamp holder": "brass-colored"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_615", "file_path": "data/object_color/object_color_615.jpg", "annotation": {"magnify glass": "brass-colored"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_616", "file_path": "data/object_color/object_color_616.jpg", "annotation": {"bowl": "brass-colored"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_617", "file_path": "data/object_color/object_color_617.jpg", "annotation": {"fireplace tool": "brass-colored"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_618", "file_path": "data/object_color/object_color_618.jpg", "annotation": {"tuba": "brass-colored"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_619", "file_path": "data/object_color/object_color_619.jpg", "annotation": {"spoke": "brass-colored"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_620", "file_path": "data/object_color/object_color_620.jpg", "annotation": {"teapot": "brass-colored"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_621", "file_path": "data/object_color/object_color_621.jpg", "annotation": {"candlestick holder": "brass-colored"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_622", "file_path": "data/object_color/object_color_622.jpg", "annotation": {"pork belly": "golden brown"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_623", "file_path": "data/object_color/object_color_623.jpg", "annotation": {"vada": "golden brown"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_624", "file_path": "data/object_color/object_color_624.jpg", "annotation": {"pork belly": "golden brown"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_625", "file_path": "data/object_color/object_color_625.jpg", "annotation": {"roast chicken": "golden brown"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_626", "file_path": "data/object_color/object_color_626.jpg", "annotation": {"duck skin": "golden brown"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_627", "file_path": "data/object_color/object_color_627.jpg", "annotation": {"Kung Pao Chicken": "golden brown"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_628", "file_path": "data/object_color/object_color_628.jpg", "annotation": {"dosa": "golden brown"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_629", "file_path": "data/object_color/object_color_629.jpg", "annotation": {"quesadilla": "golden brown"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_630", "file_path": "data/object_color/object_color_630.jpg", "annotation": {"grid background": "green and white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_631", "file_path": "data/object_color/object_color_631.jpg", "annotation": {"clothing of people in the background": "green and white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_632", "file_path": "data/object_color/object_color_632.jpg", "annotation": {"pole": "green and white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_633", "file_path": "data/object_color/object_color_633.jpg", "annotation": {"striped disk": "green and white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_634", "file_path": "data/object_color/object_color_634.jpg", "annotation": {"jumping pole": "green and white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_635", "file_path": "data/object_color/object_color_635.jpg", "annotation": {"checker plate": "green and white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_636", "file_path": "data/object_color/object_color_636.jpg", "annotation": {"scarf": "green and white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_637", "file_path": "data/object_color/object_color_637.jpg", "annotation": {"costume": "green and white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_638", "file_path": "data/object_color/object_color_638.jpg", "annotation": {"fry food": "golden"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_639", "file_path": "data/object_color/object_color_639.jpg", "annotation": {"Buddha statue": "golden"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_640", "file_path": "data/object_color/object_color_640.jpg", "annotation": {"amplifier": "golden"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_641", "file_path": "data/object_color/object_color_641.jpg", "annotation": {"statue": "golden"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_642", "file_path": "data/object_color/object_color_642.jpg", "annotation": {"deep-fried triangle piece": "golden"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_643", "file_path": "data/object_color/object_color_643.jpg", "annotation": {"char siu bao": "golden"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_644", "file_path": "data/object_color/object_color_644.jpg", "annotation": {"lion head sculpture": "golden"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_645", "file_path": "data/object_color/object_color_645.jpg", "annotation": {"flag": "red and white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_646", "file_path": "data/object_color/object_color_646.jpg", "annotation": {"measure rod": "red and white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_647", "file_path": "data/object_color/object_color_647.jpg", "annotation": {"traffic sign": "red and white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_648", "file_path": "data/object_color/object_color_648.jpg", "annotation": {"Singapore flag": "red and white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_649", "file_path": "data/object_color/object_color_649.jpg", "annotation": {"tape barrier": "red and white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_650", "file_path": "data/object_color/object_color_650.jpg", "annotation": {"ground bollards": "red and white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_651", "file_path": "data/object_color/object_color_651.jpg", "annotation": {"traffic obstacles": "red and white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_652", "file_path": "data/object_color/object_color_652.jpg", "annotation": {"jump pole": "red white and blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_653", "file_path": "data/object_color/object_color_653.jpg", "annotation": {"Thai flag": "red white and blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_654", "file_path": "data/object_color/object_color_654.jpg", "annotation": {"Thai flag": "red white and blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_655", "file_path": "data/object_color/object_color_655.jpg", "annotation": {"Texas flag": "red white and blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_656", "file_path": "data/object_color/object_color_656.jpg", "annotation": {"flag": "red white and blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_657", "file_path": "data/object_color/object_color_657.jpg", "annotation": {"American flag": "red white and blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_658", "file_path": "data/object_color/object_color_658.jpg", "annotation": {"UK flag": "red white and blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_659", "file_path": "data/object_color/object_color_659.jpg", "annotation": {"turtleneck sweater": "wine red"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_660", "file_path": "data/object_color/object_color_660.jpg", "annotation": {"solid color T-shirt": "wine red"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_661", "file_path": "data/object_color/object_color_661.jpg", "annotation": {"skirt": "wine red"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_662", "file_path": "data/object_color/object_color_662.jpg", "annotation": {"tights": "wine red"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_663", "file_path": "data/object_color/object_color_663.jpg", "annotation": {"polo shirt": "wine red"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_664", "file_path": "data/object_color/object_color_664.jpg", "annotation": {"cap": "wine red"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_665", "file_path": "data/object_color/object_color_665.jpg", "annotation": {"shirt": "wine red"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_666", "file_path": "data/object_color/object_color_666.jpg", "annotation": {"love seat": "cream color"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_667", "file_path": "data/object_color/object_color_667.jpg", "annotation": {"bone": "cream color"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_668", "file_path": "data/object_color/object_color_668.jpg", "annotation": {"traditional costume worn by women": "cream color"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_669", "file_path": "data/object_color/object_color_669.jpg", "annotation": {"scrollwork": "cream color"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_670", "file_path": "data/object_color/object_color_670.jpg", "annotation": {"cherub or small angel figure": "cream color"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_671", "file_path": "data/object_color/object_color_671.jpg", "annotation": {"furry jacket": "cream color"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_672", "file_path": "data/object_color/object_color_672.jpg", "annotation": {"Jameson whiskey label": "cream color"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_673", "file_path": "data/object_color/object_color_673.jpg", "annotation": {"dress": "light blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_674", "file_path": "data/object_color/object_color_674.jpg", "annotation": {"jean": "light blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_675", "file_path": "data/object_color/object_color_675.jpg", "annotation": {"jeans": "light blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_676", "file_path": "data/object_color/object_color_676.jpg", "annotation": {"classic car": "light blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_677", "file_path": "data/object_color/object_color_677.jpg", "annotation": {"fabric": "light blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_678", "file_path": "data/object_color/object_color_678.jpg", "annotation": {"bowl": "light blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_679", "file_path": "data/object_color/object_color_679.jpg", "annotation": {"Strapless Denim Top": "light blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_680", "file_path": "data/object_color/object_color_680.jpg", "annotation": {"Gillette Venus Extra Smooth packaging": "blue and green"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_681", "file_path": "data/object_color/object_color_681.jpg", "annotation": {"Shanghai Airport Authority logo": "blue and green"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_682", "file_path": "data/object_color/object_color_682.jpg", "annotation": {"piling": "blue and green"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_683", "file_path": "data/object_color/object_color_683.jpg", "annotation": {"Blue and green background": "blue and green"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_684", "file_path": "data/object_color/object_color_684.jpg", "annotation": {"ball of yarn": "blue and green"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_685", "file_path": "data/object_color/object_color_685.jpg", "annotation": {"Freddie Mac logo": "blue and green"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_686", "file_path": "data/object_color/object_color_686.jpg", "annotation": {"tennis court": "red and green"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_687", "file_path": "data/object_color/object_color_687.jpg", "annotation": {"star fruit lantern": "red and green"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_688", "file_path": "data/object_color/object_color_688.jpg", "annotation": {"Coca-Cola Lime 2L Bottle Packaging": "red and green"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_689", "file_path": "data/object_color/object_color_689.jpg", "annotation": {"watermelon popsicle": "red and green"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_690", "file_path": "data/object_color/object_color_690.jpg", "annotation": {"striped scarf": "red and green"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_691", "file_path": "data/object_color/object_color_691.jpg", "annotation": {"suture line": "red and green"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_692", "file_path": "data/object_color/object_color_692.jpg", "annotation": {"carriage": "red and gold"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_693", "file_path": "data/object_color/object_color_693.jpg", "annotation": {"tassel": "red and gold"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_694", "file_path": "data/object_color/object_color_694.jpg", "annotation": {"origami": "red and gold"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_695", "file_path": "data/object_color/object_color_695.jpg", "annotation": {"scarf": "red and gold"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_696", "file_path": "data/object_color/object_color_696.jpg", "annotation": {"drum stand": "red and gold"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_697", "file_path": "data/object_color/object_color_697.jpg", "annotation": {"Cuban flag": "red , white , and blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_698", "file_path": "data/object_color/object_color_698.jpg", "annotation": {"American flag bunting": "red , white , and blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_699", "file_path": "data/object_color/object_color_699.jpg", "annotation": {"barber pole": "red , white , and blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_700", "file_path": "data/object_color/object_color_700.jpg", "annotation": {"Union Jack flag": "red , white , and blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_701", "file_path": "data/object_color/object_color_701.jpg", "annotation": {"Underground sign": "red , white , and blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_702", "file_path": "data/object_color/object_color_702.jpg", "annotation": {"work jacket": "yellow and blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_703", "file_path": "data/object_color/object_color_703.jpg", "annotation": {"gradual change shirt": "yellow and blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_704", "file_path": "data/object_color/object_color_704.jpg", "annotation": {"bridge": "yellow and blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_705", "file_path": "data/object_color/object_color_705.jpg", "annotation": {"flag of ukraine": "yellow and blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_706", "file_path": "data/object_color/object_color_706.jpg", "annotation": {"Fenerbahce jersey": "yellow and blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_707", "file_path": "data/object_color/object_color_707.jpg", "annotation": {"turban headband": "peach blossom"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_708", "file_path": "data/object_color/object_color_708.jpg", "annotation": {"bed sheet": "peach color"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_709", "file_path": "data/object_color/object_color_709.jpg", "annotation": {"clock tower": "peach blossom"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_710", "file_path": "data/object_color/object_color_710.jpg", "annotation": {"shoe": "peach color"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_711", "file_path": "data/object_color/object_color_711.jpg", "annotation": {"stucco wall": "peach blossom"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_712", "file_path": "data/object_color/object_color_712.jpg", "annotation": {"pipe arm": "bronze color"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_713", "file_path": "data/object_color/object_color_713.jpg", "annotation": {"hockey player": "bronze color"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_714", "file_path": "data/object_color/object_color_714.jpg", "annotation": {"Lion door knocker": "bronze color"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_715", "file_path": "data/object_color/object_color_715.jpg", "annotation": {"rim edge": "bronze color"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_716", "file_path": "data/object_color/object_color_716.jpg", "annotation": {"belt buckle": "bronze color"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_717", "file_path": "data/object_color/object_color_717.jpg", "annotation": {"gloves": "purple"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_718", "file_path": "data/object_color/object_color_718.jpg", "annotation": {"frame": "purple"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_719", "file_path": "data/object_color/object_color_719.jpg", "annotation": {"pants": "purple"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_720", "file_path": "data/object_color/object_color_720.jpg", "annotation": {"package": "purple"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_721", "file_path": "data/object_color/object_color_721.jpg", "annotation": {"adult clothes": "purple"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_722", "file_path": "data/object_color/object_color_722.jpg", "annotation": {"scooter 2": "white black"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_723", "file_path": "data/object_color/object_color_723.jpg", "annotation": {"Nike logo": "white black"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_724", "file_path": "data/object_color/object_color_724.jpg", "annotation": {"gloves": "white black"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_725", "file_path": "data/object_color/object_color_725.jpg", "annotation": {"bird 3": "white black"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_726", "file_path": "data/object_color/object_color_726.jpg", "annotation": {"racing car": "white black"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_727", "file_path": "data/object_color/object_color_727.jpg", "annotation": {"duck": "reddish-brown"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_728", "file_path": "data/object_color/object_color_728.jpg", "annotation": {"brick bridge": "reddish-brown"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_729", "file_path": "data/object_color/object_color_729.jpg", "annotation": {"brick building": "reddish-brown"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_730", "file_path": "data/object_color/object_color_730.jpg", "annotation": {"pork knuckle": "reddish brown"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_731", "file_path": "data/object_color/object_color_731.jpg", "annotation": {"path": "reddish-brown"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_732", "file_path": "data/object_color/object_color_732.jpg", "annotation": {"pipeline": "white and green"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_733", "file_path": "data/object_color/object_color_733.png", "annotation": {"uniform": "white and green"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_734", "file_path": "data/object_color/object_color_734.jpg", "annotation": {"Signage": "white and green"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_735", "file_path": "data/object_color/object_color_735.jpg", "annotation": {"Mitsuya Cider": "white and green"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_736", "file_path": "data/object_color/object_color_736.jpg", "annotation": {"fried dough balls": "white and yellow"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_737", "file_path": "data/object_color/object_color_737.jpg", "annotation": {"beach volleyball": "white and yellow"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_738", "file_path": "data/object_color/object_color_738.jpg", "annotation": {"fry egg": "white and yellow"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_739", "file_path": "data/object_color/object_color_739.jpg", "annotation": {"barricade": "white and yellow"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_740", "file_path": "data/object_color/object_color_740.jpg", "annotation": {"hooded garment": "turquoise blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_741", "file_path": "data/object_color/object_color_741.jpg", "annotation": {"bikini top": "turquoise"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_742", "file_path": "data/object_color/object_color_742.jpg", "annotation": {"dress": "turquoise blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_743", "file_path": "data/object_color/object_color_743.jpg", "annotation": {"round border": "turquoise"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_744", "file_path": "data/object_color/object_color_744.jpg", "annotation": {"Medicon Pharmacy Sign": "blue and red"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_745", "file_path": "data/object_color/object_color_745.jpg", "annotation": {"pendant bow": "blue and red"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_746", "file_path": "data/object_color/object_color_746.jpg", "annotation": {"Sears Outlet sign": "blue and red"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_747", "file_path": "data/object_color/object_color_747.jpg", "annotation": {"glasses": "blue and red"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_748", "file_path": "data/object_color/object_color_748.jpg", "annotation": {"octopus tentacles": "dark red"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_749", "file_path": "data/object_color/object_color_749.jpg", "annotation": {"coffee table": "dark red"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_750", "file_path": "data/object_color/object_color_750.jpg", "annotation": {"mincemeat": "dark red"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_751", "file_path": "data/object_color/object_color_751.jpg", "annotation": {"Qatar Airways logo": "maroon"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_752", "file_path": "data/object_color/object_color_752.jpg", "annotation": {"cat face": "rose gold"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_753", "file_path": "data/object_color/object_color_753.jpg", "annotation": {"4": "rose gold"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_754", "file_path": "data/object_color/object_color_754.jpg", "annotation": {"ring": "rose gold"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_755", "file_path": "data/object_color/object_color_755.jpg", "annotation": {"decorative sphere": "rose gold"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_756", "file_path": "data/object_color/object_color_756.jpg", "annotation": {"Pepsi logo": "blue , white , red"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_757", "file_path": "data/object_color/object_color_757.jpg", "annotation": {"American flag": "blue , white , red"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_758", "file_path": "data/object_color/object_color_758.jpg", "annotation": {"French flag": "blue , white , red"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_759", "file_path": "data/object_color/object_color_759.jpg", "annotation": {"French flag": "blue , white , red"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_760", "file_path": "data/object_color/object_color_760.jpg", "annotation": {"MEDIMAX sign": "yellow and white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_761", "file_path": "data/object_color/object_color_761.jpg", "annotation": {"traffic barrier": "yellow and white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_762", "file_path": "data/object_color/object_color_762.jpg", "annotation": {"striped bag": "yellow and white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_763", "file_path": "data/object_color/object_color_763.jpg", "annotation": {"separator line": "yellow and white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_764", "file_path": "data/object_color/object_color_764.jpg", "annotation": {"t-shirt": "olive green"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_765", "file_path": "data/object_color/object_color_765.jpg", "annotation": {"hoodie": "olive green"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_766", "file_path": "data/object_color/object_color_766.jpg", "annotation": {"pants": "olive green"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_767", "file_path": "data/object_color/object_color_767.jpg", "annotation": {"candlestick jar body": "olive green"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_768", "file_path": "data/object_color/object_color_768.jpg", "annotation": {"dildo": "light yellow"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_769", "file_path": "data/object_color/object_color_769.jpg", "annotation": {"woman": "light yellow"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_770", "file_path": "data/object_color/object_color_770.jpg", "annotation": {"wooden barrier": "light yellow"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_771", "file_path": "data/object_color/object_color_771.jpg", "annotation": {"stick": "light yellow"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_772", "file_path": "data/object_color/object_color_772.jpg", "annotation": {"Russian flag": "white blue red"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_773", "file_path": "data/object_color/object_color_773.jpg", "annotation": {"Russian flag": "white blue red"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_774", "file_path": "data/object_color/object_color_774.jpg", "annotation": {"Russian flag": "white blue red"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_775", "file_path": "data/object_color/object_color_775.jpg", "annotation": {"airport ground equipment": "red and white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_776", "file_path": "data/object_color/object_color_776.jpg", "annotation": {"bowl": "red and white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_777", "file_path": "data/object_color/object_color_777.jpg", "annotation": {"popcorn container": "red and white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_778", "file_path": "data/object_color/object_color_778.jpg", "annotation": {"pants": "olive green"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_779", "file_path": "data/object_color/object_color_779.jpg", "annotation": {"poncho": "olive green"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_780", "file_path": "data/object_color/object_color_780.jpg", "annotation": {"soldier uniform": "olive green"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_781", "file_path": "data/object_color/object_color_781.jpg", "annotation": {"race finish line": "black and red"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_782", "file_path": "data/object_color/object_color_782.jpg", "annotation": {"outdoor furniture": "black and red"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_783", "file_path": "data/object_color/object_color_783.jpg", "annotation": {"motorcycle parts": "black and red"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_784", "file_path": "data/object_color/object_color_784.jpg", "annotation": {"bait": "brown"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_785", "file_path": "data/object_color/object_color_785.jpg", "annotation": {"railway track": "brown"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_786", "file_path": "data/object_color/object_color_786.jpg", "annotation": {"rusty mounting bolt": "brown"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_787", "file_path": "data/object_color/object_color_787.jpg", "annotation": {"pom-pom": "red , white , green"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_788", "file_path": "data/object_color/object_color_788.jpg", "annotation": {"Italian flag": "red , white , green"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_789", "file_path": "data/object_color/object_color_789.jpg", "annotation": {"Lebanese flag": "red , white , green"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_790", "file_path": "data/object_color/object_color_790.jpg", "annotation": {"German flag": "black , red , yellow"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_791", "file_path": "data/object_color/object_color_791.jpg", "annotation": {"German flag": "black , red , yellow"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_792", "file_path": "data/object_color/object_color_792.jpg", "annotation": {"German flag": "black , red , yellow"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_793", "file_path": "data/object_color/object_color_793.jpg", "annotation": {"striped fabric": "gray and white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_794", "file_path": "data/object_color/object_color_794.jpg", "annotation": {"curtain": "gray and white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_795", "file_path": "data/object_color/object_color_795.jpg", "annotation": {"chevron pattern": "gray and white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_796", "file_path": "data/object_color/object_color_796.jpg", "annotation": {"epaulette": "black and gold"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_797", "file_path": "data/object_color/object_color_797.jpg", "annotation": {"ethnic pattern": "black and gold"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_798", "file_path": "data/object_color/object_color_798.jpg", "annotation": {"trim strip": "black and gold"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_799", "file_path": "data/object_color/object_color_799.jpg", "annotation": {"Isuzu pickup truck": "maroon"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_800", "file_path": "data/object_color/object_color_800.jpg", "annotation": {"VT pendant": "maroon"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_801", "file_path": "data/object_color/object_color_801.jpg", "annotation": {"cricket pad": "maroon"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_802", "file_path": "data/object_color/object_color_802.jpg", "annotation": {"striped background": "red and blue white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_803", "file_path": "data/object_color/object_color_803.jpg", "annotation": {"flag": "red and blue white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_804", "file_path": "data/object_color/object_color_804.jpg", "annotation": {"striped barber cape": "red and blue white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_805", "file_path": "data/object_color/object_color_805.jpg", "annotation": {"orchid": "white and purple"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_806", "file_path": "data/object_color/object_color_806.jpg", "annotation": {"cosplay outfit": "white and purple"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_807", "file_path": "data/object_color/object_color_807.jpg", "annotation": {"Mewtwo toy": "white and purple"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_808", "file_path": "data/object_color/object_color_808.jpg", "annotation": {"Puerto Rican flag": "red white blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_809", "file_path": "data/object_color/object_color_809.jpg", "annotation": {"Dutch flag": "red white blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_810", "file_path": "data/object_color/object_color_810.jpg", "annotation": {"Thai flag": "red white blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_811", "file_path": "data/object_color/object_color_811.jpg", "annotation": {"Italian flag stripe": "green , white , red"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_812", "file_path": "data/object_color/object_color_812.jpg", "annotation": {"Italian flag": "green , white , red"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_813", "file_path": "data/object_color/object_color_813.jpg", "annotation": {"Mexican flag": "green , white , red"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_814", "file_path": "data/object_color/object_color_814.jpg", "annotation": {"Volkswagen van": "orange and white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_815", "file_path": "data/object_color/object_color_815.jpg", "annotation": {"warning line": "orange and white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_816", "file_path": "data/object_color/object_color_816.jpg", "annotation": {"construction cone": "orange and white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_817", "file_path": "data/object_color/object_color_817.jpg", "annotation": {"checker wooden floor": "black and brown"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_818", "file_path": "data/object_color/object_color_818.jpg", "annotation": {"black and brown shoe": "black and brown"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_819", "file_path": "data/object_color/object_color_819.jpg", "annotation": {"\u4eba\u7269": "gray white black"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_820", "file_path": "data/object_color/object_color_820.jpg", "annotation": {"\u4eba\u7269": "gray white black"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_821", "file_path": "data/object_color/object_color_821.jpg", "annotation": {"Romania flag": "blue , yellow , red"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_822", "file_path": "data/object_color/object_color_822.jpg", "annotation": {"Swiss Guard uniform": "blue , yellow , red"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_823", "file_path": "data/object_color/object_color_823.jpg", "annotation": {"chair and table": "yellow and blue, white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_824", "file_path": "data/object_color/object_color_824.jpg", "annotation": {"aircraft body": "yellow and blue, white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_825", "file_path": "data/object_color/object_color_825.jpg", "annotation": {"chandelier": "golden yellow"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_826", "file_path": "data/object_color/object_color_826.jpg", "annotation": {"tassel": "golden yellow"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_827", "file_path": "data/object_color/object_color_827.jpg", "annotation": {"plastic glove": "transparent"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_828", "file_path": "data/object_color/object_color_828.jpg", "annotation": {"plastic bag": "transparent"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_829", "file_path": "data/object_color/object_color_829.jpg", "annotation": {"eyeshadow": "orange white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_830", "file_path": "data/object_color/object_color_830.jpg", "annotation": {"caution tape": "orange white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_831", "file_path": "data/object_color/object_color_831.jpg", "annotation": {"Russian flag": "red blue white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_832", "file_path": "data/object_color/object_color_832.jpg", "annotation": {"flag": "red blue white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_833", "file_path": "data/object_color/object_color_833.jpg", "annotation": {"tie-dye outfit": "purple and blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_834", "file_path": "data/object_color/object_color_834.jpg", "annotation": {"Kraft Milk Oreo Chocolate Bar Packaging Bag": "purple and blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_835", "file_path": "data/object_color/object_color_835.jpg", "annotation": {"track marking": "green red white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_836", "file_path": "data/object_color/object_color_836.jpg", "annotation": {"Portugal flag": "green red white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_837", "file_path": "data/object_color/object_color_837.jpg", "annotation": {"baby sleeper": "white and gray"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_838", "file_path": "data/object_color/object_color_838.jpg", "annotation": {"floor tile": "white and gray"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_839", "file_path": "data/object_color/object_color_839.jpg", "annotation": {"cycling jersey": "blue black"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_840", "file_path": "data/object_color/object_color_840.jpg", "annotation": {"label": "blue black"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_841", "file_path": "data/object_color/object_color_841.jpg", "annotation": {"FrankBlakeley & Son Ltd logo": "blue and orange"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_842", "file_path": "data/object_color/object_color_842.jpg", "annotation": {"Promise billboard": "blue and orange"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_843", "file_path": "data/object_color/object_color_843.jpg", "annotation": {"scarf": "green and red"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_844", "file_path": "data/object_color/object_color_844.jpg", "annotation": {"umbrella": "green and red"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_845", "file_path": "data/object_color/object_color_845.jpg", "annotation": {"clothes": "neon green"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_846", "file_path": "data/object_color/object_color_846.png", "annotation": {"neon green background": "neon green"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_847", "file_path": "data/object_color/object_color_847.jpg", "annotation": {"colorful hang punching bag": "red , blue , white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_848", "file_path": "data/object_color/object_color_848.jpg", "annotation": {"Serbian flag": "red , blue , white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_849", "file_path": "data/object_color/object_color_849.jpg", "annotation": {"plaid blanket": "red and green white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_850", "file_path": "data/object_color/object_color_850.jpg", "annotation": {"fabric with polka dot pattern": "red and green white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_851", "file_path": "data/object_color/object_color_851.jpg", "annotation": {"ski poles": "yellow black"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_852", "file_path": "data/object_color/object_color_852.jpg", "annotation": {"roof": "yellow black"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_853", "file_path": "data/object_color/object_color_853.jpg", "annotation": {"Ancient Nutrition Multi Collagen Protein container": "wine red, white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_854", "file_path": "data/object_color/object_color_854.jpg", "annotation": {"headscarf": "wine red, white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_855", "file_path": "data/object_color/object_color_855.jpg", "annotation": {"onion and cucumber relish": "purple and green"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_856", "file_path": "data/object_color/object_color_856.jpg", "annotation": {"storefront sign": "purple and green"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_857", "file_path": "data/object_color/object_color_857.jpg", "annotation": {"intelligent sports watch band": "green and orange"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_858", "file_path": "data/object_color/object_color_858.jpg", "annotation": {"Pet First Aid Kit": "green and orange"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_859", "file_path": "data/object_color/object_color_859.jpg", "annotation": {"dog": "brown and white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_860", "file_path": "data/object_color/object_color_860.jpg", "annotation": {"dog": "brown and white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_861", "file_path": "data/object_color/object_color_861.jpg", "annotation": {"film roll": "blue and purple"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_862", "file_path": "data/object_color/object_color_862.jpg", "annotation": {"two men's clothes": "blue and purple"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_863", "file_path": "data/object_color/object_color_863.jpg", "annotation": {"Lidl logo/signage": "blue , yellow , and red"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_864", "file_path": "data/object_color/object_color_864.jpg", "annotation": {"Lidl store sign": "blue , yellow , and red"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_865", "file_path": "data/object_color/object_color_865.jpg", "annotation": {"wallpaper": "dark gray"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_866", "file_path": "data/object_color/object_color_866.jpg", "annotation": {"stone": "dark gray"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_867", "file_path": "data/object_color/object_color_867.jpg", "annotation": {"striped shirt": "red white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_868", "file_path": "data/object_color/object_color_868.jpg", "annotation": {"Cafe Signboard": "red white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_869", "file_path": "data/object_color/object_color_869.jpg", "annotation": {"RAM X-Grip Mount": "black gray"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_870", "file_path": "data/object_color/object_color_870.jpg", "annotation": {"X-ray image": "black gray"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_871", "file_path": "data/object_color/object_color_871.jpg", "annotation": {"chef's hat": "pink white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_872", "file_path": "data/object_color/object_color_872.jpg", "annotation": {"bicycle": "pink white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_873", "file_path": "data/object_color/object_color_873.jpg", "annotation": {"mermaid statue": "blue-green"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_874", "file_path": "data/object_color/object_color_874.jpg", "annotation": {"surfboard": "blue-green"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_875", "file_path": "data/object_color/object_color_875.jpg", "annotation": {"emus": "black and white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_876", "file_path": "data/object_color/object_color_876.jpg", "annotation": {"wheelchair": "black and white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_877", "file_path": "data/object_color/object_color_877.jpg", "annotation": {"volleyball": "white and black"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_878", "file_path": "data/object_color/object_color_878.jpg", "annotation": {"Road Closed Sign": "white and black"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_879", "file_path": "data/object_color/object_color_879.jpg", "annotation": {"Eddie Redmayne": "blonde"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_880", "file_path": "data/object_color/object_color_880.jpg", "annotation": {"woman's hair": "blonde"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_881", "file_path": "data/object_color/object_color_881.jpg", "annotation": {"marble walls": "white gray"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_882", "file_path": "data/object_color/object_color_882.jpg", "annotation": {"signboard": "white gray"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_883", "file_path": "data/object_color/object_color_883.jpg", "annotation": {"spiral galaxy": "pink"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_884", "file_path": "data/object_color/object_color_884.jpg", "annotation": {"ribbon": "pink"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_885", "file_path": "data/object_color/object_color_885.jpg", "annotation": {"beach sand": "light gray"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_886", "file_path": "data/object_color/object_color_886.jpg", "annotation": {"stone structure": "light gray"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_887", "file_path": "data/object_color/object_color_887.jpg", "annotation": {"Bull 3": "brown black"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_888", "file_path": "data/object_color/object_color_888.jpg", "annotation": {"wooden base": "brown black"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_889", "file_path": "data/object_color/object_color_889.jpg", "annotation": {"panel": "blue yellow"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_890", "file_path": "data/object_color/object_color_890.jpg", "annotation": {"banner ad": "blue yellow"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_891", "file_path": "data/object_color/object_color_891.jpg", "annotation": {"cheerlead uniform": "pink black white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_892", "file_path": "data/object_color/object_color_892.jpg", "annotation": {"cheerleader": "pink black"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_893", "file_path": "data/object_color/object_color_893.jpg", "annotation": {"maid outfit": "purple and white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_894", "file_path": "data/object_color/object_color_894.jpg", "annotation": {"bunting flag": "yellow, blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_895", "file_path": "data/object_color/object_color_895.jpg", "annotation": {"Colombian flag": "yellow , blue , red"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_896", "file_path": "data/object_color/object_color_896.jpg", "annotation": {"FamilyMart sign": "green , white , and blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_897", "file_path": "data/object_color/object_color_897.jpg", "annotation": {"Uber Eats app icon": "black and green white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_898", "file_path": "data/object_color/object_color_898.jpg", "annotation": {"air tool": "black and blue, silver"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_899", "file_path": "data/object_color/object_color_899.jpg", "annotation": {"taxi": "orange and blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_900", "file_path": "data/object_color/object_color_900.jpg", "annotation": {"tiger logo": "orange and black, white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_901", "file_path": "data/object_color/object_color_901.jpg", "annotation": {"warning sign": "orange and black"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_902", "file_path": "data/object_color/object_color_902.jpg", "annotation": {"indicator lights": "red , yellow , blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_903", "file_path": "data/object_color/object_color_903.jpg", "annotation": {"background": "red and orange"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_904", "file_path": "data/object_color/object_color_904.jpg", "annotation": {"tape": "yellow and green"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_905", "file_path": "data/object_color/object_color_905.jpg", "annotation": {"waterproof pouch": "beige black"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_906", "file_path": "data/object_color/object_color_906.jpg", "annotation": {"curtain": "purple white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_907", "file_path": "data/object_color/object_color_907.jpg", "annotation": {"flower": "pink yellow"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_908", "file_path": "data/object_color/object_color_908.jpg", "annotation": {"speed limit sign": "red white black"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_909", "file_path": "data/object_color/object_color_909.jpg", "annotation": {"plastic curtain": "transparent and black"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_910", "file_path": "data/object_color/object_color_910.jpg", "annotation": {"circular stone structure": "black and gray mixed"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_911", "file_path": "data/object_color/object_color_911.jpg", "annotation": {"tofu puff": "golden yellow"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_912", "file_path": "data/object_color/object_color_912.jpg", "annotation": {"speaker": "black silver"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_913", "file_path": "data/object_color/object_color_913.jpg", "annotation": {"toilet seat": "black and gray"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_914", "file_path": "data/object_color/object_color_914.jpg", "annotation": {"blister pack": "white silver"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_915", "file_path": "data/object_color/object_color_915.jpg", "annotation": {"house": "white red"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_916", "file_path": "data/object_color/object_color_916.jpg", "annotation": {"McDonald 's sign": "dark green and yellow"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_917", "file_path": "data/object_color/object_color_917.jpg", "annotation": {"baseball sock": "black and yellow white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_918", "file_path": "data/object_color/object_color_918.jpg", "annotation": {"cube": "dark brown, pink, pale pink"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_919", "file_path": "data/object_color/object_color_919.jpg", "annotation": {"flower": "purple yellow"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_920", "file_path": "data/object_color/object_color_920.jpg", "annotation": {"backpack": "purple black"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_921", "file_path": "data/object_color/object_color_921.jpg", "annotation": {"camera": "silver black"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_922", "file_path": "data/object_color/object_color_922.jpg", "annotation": {"sound barrier": "green and gray"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_923", "file_path": "data/object_color/object_color_923.jpg", "annotation": {"assort dried flower": "gray, beige"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_924", "file_path": "data/object_color/object_color_924.jpg", "annotation": {"two girls' hair": "brown and yellow"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_925", "file_path": "data/object_color/object_color_925.jpg", "annotation": {"lid": "coral color"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_926", "file_path": "data/object_color/object_color_926.jpg", "annotation": {"FedEx logo": "purple and red"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_927", "file_path": "data/object_color/object_color_927.jpg", "annotation": {"knit pant": "blue and brown"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_928", "file_path": "data/object_color/object_color_928.jpg", "annotation": {"dry rack": "yellow gray"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_929", "file_path": "data/object_color/object_color_929.jpg", "annotation": {"shorts": "black and brownish-yellow"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_930", "file_path": "data/object_color/object_color_930.jpg", "annotation": {"robe": "light pink"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_931", "file_path": "data/object_color/object_color_931.jpg", "annotation": {"ornate facade": "yellow and blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_932", "file_path": "data/object_color/object_color_932.jpg", "annotation": {"Fabric background with navy color": "dark blue, white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_933", "file_path": "data/object_color/object_color_933.jpg", "annotation": {"floor tile": "dark gray and light gray"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_934", "file_path": "data/object_color/object_color_934.jpg", "annotation": {"floor tile": "brown gray beige"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_935", "file_path": "data/object_color/object_color_935.jpg", "annotation": {"curtain": "black and red white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_936", "file_path": "data/object_color/object_color_936.jpg", "annotation": {"crochet baby hat": "camouflage, purple"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_937", "file_path": "data/object_color/object_color_937.jpg", "annotation": {"ski backpack": "camouflage, blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_938", "file_path": "data/object_color/object_color_938.jpg", "annotation": {"helmet": "blue gray"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_939", "file_path": "data/object_color/object_color_939.jpg", "annotation": {"sea turtle": "green gray"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_940", "file_path": "data/object_color/object_color_940.jpg", "annotation": {"tea packaging": "black, green, white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_941", "file_path": "data/object_color/object_color_941.jpg", "annotation": {"first aid kit": "green blue, orange"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_942", "file_path": "data/object_color/object_color_942.jpg", "annotation": {"dice": "white and red, black"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_943", "file_path": "data/object_color/object_color_943.jpg", "annotation": {"plunger": "blue, green, and white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_944", "file_path": "data/object_color/object_color_944.jpg", "annotation": {"kettlebells": "gray and red"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_945", "file_path": "data/object_color/object_color_945.jpg", "annotation": {"bleacher": "blue red white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_946", "file_path": "data/object_color/object_color_946.jpg", "annotation": {"face paint": "green and red, white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_947", "file_path": "data/object_color/object_color_947.jpg", "annotation": {"Magic : The Gathering Event Deck": "green, red, and black"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_948", "file_path": "data/object_color/object_color_948.jpg", "annotation": {"Boeing building": "white and green gray"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_949", "file_path": "data/object_color/object_color_949.jpg", "annotation": {"barrier tape": "red white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_950", "file_path": "data/object_color/object_color_950.jpg", "annotation": {"awning": "yellow, orange, green"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_951", "file_path": "data/object_color/object_color_951.jpg", "annotation": {"background grid": "light green"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_952", "file_path": "data/object_color/object_color_952.jpg", "annotation": {"pattern vest": "pink, gold"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_953", "file_path": "data/object_color/object_color_953.jpg", "annotation": {"cycling outfit": "white and blue black"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_954", "file_path": "data/object_color/object_color_954.jpg", "annotation": {"floor": "beige gray"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_955", "file_path": "data/object_color/object_color_955.jpg", "annotation": {"mat": "curry yellow"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_956", "file_path": "data/object_color/object_color_956.jpg", "annotation": {"Samsung Galaxy S23 Ultra": "light blue, black, rose gold"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_957", "file_path": "data/object_color/object_color_957.jpg", "annotation": {"logo": "red and green, black"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_958", "file_path": "data/object_color/object_color_958.jpg", "annotation": {"woman's hair": "blond"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_959", "file_path": "data/object_color/object_color_959.jpg", "annotation": {"area rug": "gray white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_960", "file_path": "data/object_color/object_color_960.jpg", "annotation": {"carpet": "red and black, gold"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_961", "file_path": "data/object_color/object_color_961.jpg", "annotation": {"dark streak": "deep blue brown"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_962", "file_path": "data/object_color/object_color_962.jpg", "annotation": {"car": "dark blue white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_963", "file_path": "data/object_color/object_color_963.jpg", "annotation": {"Chinese military website logo": "red green"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_964", "file_path": "data/object_color/object_color_964.jpg", "annotation": {"End Call Button": "red black"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_965", "file_path": "data/object_color/object_color_965.jpg", "annotation": {"hotel sign": "cyan white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_966", "file_path": "data/object_color/object_color_966.jpg", "annotation": {"sauce in a small bowl": "dark brown"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_967", "file_path": "data/object_color/object_color_967.jpg", "annotation": {"wine bottle": "black, gold"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_968", "file_path": "data/object_color/object_color_968.jpg", "annotation": {"Hylunia Grape Seed Body Scrub": "greenish yellow, beige, yellow"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_969", "file_path": "data/object_color/object_color_969.jpg", "annotation": {"hair": "golden, white, beige"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_970", "file_path": "data/object_color/object_color_970.jpg", "annotation": {"baseball cap": "khaki, black"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_971", "file_path": "data/object_color/object_color_971.jpg", "annotation": {"the man wearing a shirt": "wine red, white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_972", "file_path": "data/object_color/object_color_972.jpg", "annotation": {"AS Roma logo": "red yellow black"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_973", "file_path": "data/object_color/object_color_973.jpg", "annotation": {"napkin": "maroon"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_974", "file_path": "data/object_color/object_color_974.jpg", "annotation": {"Lego lava": "red and yellow orange"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_975", "file_path": "data/object_color/object_color_975.jpg", "annotation": {"tent": "red and yellow gray"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_976", "file_path": "data/object_color/object_color_976.jpg", "annotation": {"sticker": "red, yellow, and black"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_977", "file_path": "data/object_color/object_color_977.jpg", "annotation": {"human neck": "light yellow red"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_978", "file_path": "data/object_color/object_color_978.jpg", "annotation": {"awning": "yellow and red"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_979", "file_path": "data/object_color/object_color_979.jpg", "annotation": {"crown": "blue and gold"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_980", "file_path": "data/object_color/object_color_980.jpg", "annotation": {"smiling mouse pattern": "golden red"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_981", "file_path": "data/object_color/object_color_981.jpg", "annotation": {"Duracell AA battery": "black and orange"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_982", "file_path": "data/object_color/object_color_982.jpg", "annotation": {"portable power station": "black and orange, gray"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_983", "file_path": "data/object_color/object_color_983.jpg", "annotation": {"whey protein isolate bag": "black and orange, white"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_984", "file_path": "data/object_color/object_color_984.jpg", "annotation": {"Italian flag": "green, white, red"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_985", "file_path": "data/object_color/object_color_985.jpg", "annotation": {"light": "amber silver"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_986", "file_path": "data/object_color/object_color_986.jpg", "annotation": {"car headlight": "amber black"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_987", "file_path": "data/object_color/object_color_987.jpg", "annotation": {"light": "amber color"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_988", "file_path": "data/object_color/object_color_988.jpg", "annotation": {"bunting": "blue, yellow and green"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_989", "file_path": "data/object_color/object_color_989.jpg", "annotation": {"koi fish": "orange and white, yellow"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_990", "file_path": "data/object_color/object_color_990.jpg", "annotation": {"small dog": "orange and light pink"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_991", "file_path": "data/object_color/object_color_991.jpg", "annotation": {"camisole": "light green"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_992", "file_path": "data/object_color/object_color_992.jpg", "annotation": {"sweater": "light green, brown, blue"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_993", "file_path": "data/object_color/object_color_993.jpg", "annotation": {"eyeshadow swatch": "bronze, brown, red"}, "task": "object_color", "data_type": "image"}

@@ -1,0 +1,996 @@
+{"file_id": "event_1", "file_path": "data/event/event_1.mp4", "annotation": "A character emerges from smoke and fire.", "task": "event", "data_type": "video"}
+{"file_id": "event_2", "file_path": "data/event/event_2.mp4", "annotation": "One character raises their hand.", "task": "event", "data_type": "video"}
+{"file_id": "event_3", "file_path": "data/event/event_3.mp4", "annotation": "A brown bird jumped off the platform", "task": "event", "data_type": "video"}
+{"file_id": "event_4", "file_path": "data/event/event_4.mp4", "annotation": "A mouse makes a frightened expression.", "task": "event", "data_type": "video"}
+{"file_id": "event_5", "file_path": "data/event/event_5.mp4", "annotation": "The black cat blows out a candle.", "task": "event", "data_type": "video"}
+{"file_id": "event_6", "file_path": "data/event/event_6.mp4", "annotation": "Animated birds have a brief conversation.", "task": "event", "data_type": "video"}
+{"file_id": "event_7", "file_path": "data/event/event_7.mp4", "annotation": "Two birds hover over a dog", "task": "event", "data_type": "video"}
+{"file_id": "event_8", "file_path": "data/event/event_8.mp4", "annotation": "A blue cat-like observer watches.", "task": "event", "data_type": "video"}
+{"file_id": "event_9", "file_path": "data/event/event_9.mp4", "annotation": "Group of penguins appears", "task": "event", "data_type": "video"}
+{"file_id": "event_10", "file_path": "data/event/event_10.mp4", "annotation": "The character picks up a knife.", "task": "event", "data_type": "video"}
+{"file_id": "event_11", "file_path": "data/event/event_11.mp4", "annotation": "Opponent leaps for an aerial attack.", "task": "event", "data_type": "video"}
+{"file_id": "event_12", "file_path": "data/event/event_12.mp4", "annotation": "A knight on horseback engages in a sword fight with a soldier.", "task": "event", "data_type": "video"}
+{"file_id": "event_13", "file_path": "data/event/event_13.mp4", "annotation": "Two men close a window behind themselves.", "task": "event", "data_type": "video"}
+{"file_id": "event_14", "file_path": "data/event/event_14.mp4", "annotation": "Small creatures crawl upward from the ground.", "task": "event", "data_type": "video"}
+{"file_id": "event_15", "file_path": "data/event/event_15.mp4", "annotation": "The large bird grabs the boy.", "task": "event", "data_type": "video"}
+{"file_id": "event_16", "file_path": "data/event/event_16.mp4", "annotation": "The man collides with the ice surface.", "task": "event", "data_type": "video"}
+{"file_id": "event_17", "file_path": "data/event/event_17.mp4", "annotation": "The person ran forward.", "task": "event", "data_type": "video"}
+{"file_id": "event_18", "file_path": "data/event/event_18.mp4", "annotation": "The woman in purple clothes follows the man with her gaze.", "task": "event", "data_type": "video"}
+{"file_id": "event_19", "file_path": "data/event/event_19.mp4", "annotation": "A character is suspended in midair.", "task": "event", "data_type": "video"}
+{"file_id": "event_20", "file_path": "data/event/event_20.mp4", "annotation": "Creature lies on the ground", "task": "event", "data_type": "video"}
+{"file_id": "event_21", "file_path": "data/event/event_21.mp4", "annotation": "Red-haired monster looks up", "task": "event", "data_type": "video"}
+{"file_id": "event_22", "file_path": "data/event/event_22.mp4", "annotation": "The large building belonging to the dog company is revealed", "task": "event", "data_type": "video"}
+{"file_id": "event_23", "file_path": "data/event/event_23.mp4", "annotation": "The cow turned its head to look at the camera.", "task": "event", "data_type": "video"}
+{"file_id": "event_24", "file_path": "data/event/event_24.mp4", "annotation": "The man drops the manuscript.", "task": "event", "data_type": "video"}
+{"file_id": "event_25", "file_path": "data/event/event_25.mp4", "annotation": "The girl yelled", "task": "event", "data_type": "video"}
+{"file_id": "event_26", "file_path": "data/event/event_26.mp4", "annotation": "A creature takes off its shoes.", "task": "event", "data_type": "video"}
+{"file_id": "event_27", "file_path": "data/event/event_27.mp4", "annotation": "The blue character holds a fork.", "task": "event", "data_type": "video"}
+{"file_id": "event_28", "file_path": "data/event/event_28.mp4", "annotation": "The dog wags its tail.", "task": "event", "data_type": "video"}
+{"file_id": "event_29", "file_path": "data/event/event_29.mp4", "annotation": "The baby sticks out its tongue.", "task": "event", "data_type": "video"}
+{"file_id": "event_30", "file_path": "data/event/event_30.mp4", "annotation": "Both dogs reach out their paws.", "task": "event", "data_type": "video"}
+{"file_id": "event_31", "file_path": "data/event/event_31.mp4", "annotation": "A flock of sheep stands behind the two dogs.", "task": "event", "data_type": "video"}
+{"file_id": "event_32", "file_path": "data/event/event_32.mp4", "annotation": "The man crossed his arms", "task": "event", "data_type": "video"}
+{"file_id": "event_33", "file_path": "data/event/event_33.mp4", "annotation": "The robot took out a backpack.", "task": "event", "data_type": "video"}
+{"file_id": "event_34", "file_path": "data/event/event_34.mp4", "annotation": "The dinosaur turned its head.", "task": "event", "data_type": "video"}
+{"file_id": "event_35", "file_path": "data/event/event_35.mp4", "annotation": "A black dog scared the large and fluffy dog.", "task": "event", "data_type": "video"}
+{"file_id": "event_36", "file_path": "data/event/event_36.mp4", "annotation": "Man looks up in surprise.", "task": "event", "data_type": "video"}
+{"file_id": "event_37", "file_path": "data/event/event_37.mp4", "annotation": "The robot turns its head", "task": "event", "data_type": "video"}
+{"file_id": "event_38", "file_path": "data/event/event_38.mp4", "annotation": "Characters turned their heads upwards.", "task": "event", "data_type": "video"}
+{"file_id": "event_39", "file_path": "data/event/event_39.mp4", "annotation": "The green creature chased after the mermaid.", "task": "event", "data_type": "video"}
+{"file_id": "event_40", "file_path": "data/event/event_40.mp4", "annotation": "The child ducks backward.", "task": "event", "data_type": "video"}
+{"file_id": "event_41", "file_path": "data/event/event_41.mp4", "annotation": "The woman walked out from the right side of the frame.", "task": "event", "data_type": "video"}
+{"file_id": "event_42", "file_path": "data/event/event_42.mp4", "annotation": "A massive robot and a person run toward the elevator.", "task": "event", "data_type": "video"}
+{"file_id": "event_43", "file_path": "data/event/event_43.mp4", "annotation": "The blue fish speaks.", "task": "event", "data_type": "video"}
+{"file_id": "event_44", "file_path": "data/event/event_44.mp4", "annotation": "The rabbit runs forward.", "task": "event", "data_type": "video"}
+{"file_id": "event_45", "file_path": "data/event/event_45.mp4", "annotation": "Camera pans around the room", "task": "event", "data_type": "video"}
+{"file_id": "event_46", "file_path": "data/event/event_46.mp4", "annotation": "The man speaks.", "task": "event", "data_type": "video"}
+{"file_id": "event_47", "file_path": "data/event/event_47.mp4", "annotation": "Pirate captain looks towards the camera.", "task": "event", "data_type": "video"}
+{"file_id": "event_48", "file_path": "data/event/event_48.mp4", "annotation": "The boy looked at the skeleton.", "task": "event", "data_type": "video"}
+{"file_id": "event_49", "file_path": "data/event/event_49.mp4", "annotation": "Electric current surges towards a frog.", "task": "event", "data_type": "video"}
+{"file_id": "event_50", "file_path": "data/event/event_50.mp4", "annotation": "The envelope falls to the ground", "task": "event", "data_type": "video"}
+{"file_id": "event_51", "file_path": "data/event/event_51.mp4", "annotation": "People dance.", "task": "event", "data_type": "video"}
+{"file_id": "event_52", "file_path": "data/event/event_52.mp4", "annotation": "Two characters peek out from a treehouse.", "task": "event", "data_type": "video"}
+{"file_id": "event_53", "file_path": "data/event/event_53.mp4", "annotation": "Adult character raises their right hand.", "task": "event", "data_type": "video"}
+{"file_id": "event_54", "file_path": "data/event/event_54.mp4", "annotation": "Characters ate.", "task": "event", "data_type": "video"}
+{"file_id": "event_55", "file_path": "data/event/event_55.mp4", "annotation": "Female character turns off light", "task": "event", "data_type": "video"}
+{"file_id": "event_56", "file_path": "data/event/event_56.mp4", "annotation": "Three children characters huddle their heads together.", "task": "event", "data_type": "video"}
+{"file_id": "event_57", "file_path": "data/event/event_57.mp4", "annotation": "Window turns into a wooden wall.", "task": "event", "data_type": "video"}
+{"file_id": "event_58", "file_path": "data/event/event_58.mp4", "annotation": "A little girl comes to the sofa.", "task": "event", "data_type": "video"}
+{"file_id": "event_59", "file_path": "data/event/event_59.mp4", "annotation": "The little girl picks up the round tag on the kitten's neck.", "task": "event", "data_type": "video"}
+{"file_id": "event_60", "file_path": "data/event/event_60.mp4", "annotation": "People run from left to right.", "task": "event", "data_type": "video"}
+{"file_id": "event_61", "file_path": "data/event/event_61.mp4", "annotation": "A character leads another character.", "task": "event", "data_type": "video"}
+{"file_id": "event_62", "file_path": "data/event/event_62.mp4", "annotation": "A man looks to the right.", "task": "event", "data_type": "video"}
+{"file_id": "event_63", "file_path": "data/event/event_63.mp4", "annotation": "Character kneels in front of the toilet.", "task": "event", "data_type": "video"}
+{"file_id": "event_64", "file_path": "data/event/event_64.mp4", "annotation": "The reflection reveals the face of the character with glasses.", "task": "event", "data_type": "video"}
+{"file_id": "event_65", "file_path": "data/event/event_65.mp4", "annotation": "One security guard took water sip.", "task": "event", "data_type": "video"}
+{"file_id": "event_66", "file_path": "data/event/event_66.mp4", "annotation": "Character turned head to look behind.", "task": "event", "data_type": "video"}
+{"file_id": "event_67", "file_path": "data/event/event_67.mp4", "annotation": "Character in shorts opens door twisting body.", "task": "event", "data_type": "video"}
+{"file_id": "event_68", "file_path": "data/event/event_68.mp4", "annotation": "A man watches the woman.", "task": "event", "data_type": "video"}
+{"file_id": "event_69", "file_path": "data/event/event_69.mp4", "annotation": "A shadow kicks the door open", "task": "event", "data_type": "video"}
+{"file_id": "event_70", "file_path": "data/event/event_70.mp4", "annotation": "The girl with black hair blinks", "task": "event", "data_type": "video"}
+{"file_id": "event_71", "file_path": "data/event/event_71.mp4", "annotation": "Character puts on brown glove.", "task": "event", "data_type": "video"}
+{"file_id": "event_72", "file_path": "data/event/event_72.mp4", "annotation": "Colorful specks of light scatter from a location.", "task": "event", "data_type": "video"}
+{"file_id": "event_73", "file_path": "data/event/event_73.mp4", "annotation": "Man leans back to greet a lady.", "task": "event", "data_type": "video"}
+{"file_id": "event_74", "file_path": "data/event/event_74.mp4", "annotation": "The girl makes an angry face and gesture at the boy.", "task": "event", "data_type": "video"}
+{"file_id": "event_75", "file_path": "data/event/event_75.mp4", "annotation": "The man runs off.", "task": "event", "data_type": "video"}
+{"file_id": "event_76", "file_path": "data/event/event_76.mp4", "annotation": "A long-haired girl stands next to the man.", "task": "event", "data_type": "video"}
+{"file_id": "event_77", "file_path": "data/event/event_77.mp4", "annotation": "A boy crouches.", "task": "event", "data_type": "video"}
+{"file_id": "event_78", "file_path": "data/event/event_78.mp4", "annotation": "The man in white looks inside the vehicle.", "task": "event", "data_type": "video"}
+{"file_id": "event_79", "file_path": "data/event/event_79.mp4", "annotation": "A person releases two grab handles underwater.", "task": "event", "data_type": "video"}
+{"file_id": "event_80", "file_path": "data/event/event_80.mp4", "annotation": "The boy and the girl threw the kite out.", "task": "event", "data_type": "video"}
+{"file_id": "event_81", "file_path": "data/event/event_81.mp4", "annotation": "Man with a crew cut stares angrily ahead.", "task": "event", "data_type": "video"}
+{"file_id": "event_82", "file_path": "data/event/event_82.mp4", "annotation": "The woman handed the clothing to the short-bearded man.", "task": "event", "data_type": "video"}
+{"file_id": "event_83", "file_path": "data/event/event_83.mp4", "annotation": "A small dog watches the two men.", "task": "event", "data_type": "video"}
+{"file_id": "event_84", "file_path": "data/event/event_84.mp4", "annotation": "The boy sits up.", "task": "event", "data_type": "video"}
+{"file_id": "event_85", "file_path": "data/event/event_85.mp4", "annotation": "The boy holds still in place.", "task": "event", "data_type": "video"}
+{"file_id": "event_86", "file_path": "data/event/event_86.mp4", "annotation": "Fireworks continue to bloom behind the red dragon.", "task": "event", "data_type": "video"}
+{"file_id": "event_87", "file_path": "data/event/event_87.mp4", "annotation": "A male adult turns around", "task": "event", "data_type": "video"}
+{"file_id": "event_88", "file_path": "data/event/event_88.mp4", "annotation": "A blue cat walks from right to left.", "task": "event", "data_type": "video"}
+{"file_id": "event_89", "file_path": "data/event/event_89.mp4", "annotation": "A black screen appears.", "task": "event", "data_type": "video"}
+{"file_id": "event_90", "file_path": "data/event/event_90.mp4", "annotation": "A soldier in blue attire holds a gun.", "task": "event", "data_type": "video"}
+{"file_id": "event_91", "file_path": "data/event/event_91.mp4", "annotation": "Another soldier rode in", "task": "event", "data_type": "video"}
+{"file_id": "event_92", "file_path": "data/event/event_92.mp4", "annotation": "The sitting soldier watches them run past.", "task": "event", "data_type": "video"}
+{"file_id": "event_93", "file_path": "data/event/event_93.mp4", "annotation": "Three soldiers raise hands high", "task": "event", "data_type": "video"}
+{"file_id": "event_94", "file_path": "data/event/event_94.mp4", "annotation": "A red dashed line snakes across the map.", "task": "event", "data_type": "video"}
+{"file_id": "event_95", "file_path": "data/event/event_95.mp4", "annotation": "The puppy picked up an object.", "task": "event", "data_type": "video"}
+{"file_id": "event_96", "file_path": "data/event/event_96.mp4", "annotation": "The blast wave knocks two soldiers down.", "task": "event", "data_type": "video"}
+{"file_id": "event_97", "file_path": "data/event/event_97.mp4", "annotation": "A dog climbed out of the trench.", "task": "event", "data_type": "video"}
+{"file_id": "event_98", "file_path": "data/event/event_98.mp4", "annotation": "Soldier moved one plank", "task": "event", "data_type": "video"}
+{"file_id": "event_99", "file_path": "data/event/event_99.mp4", "annotation": "The dog runs towards buildings.", "task": "event", "data_type": "video"}
+{"file_id": "event_100", "file_path": "data/event/event_100.mp4", "annotation": "The soldier wearing glasses follows the soldier in the middle.", "task": "event", "data_type": "video"}
+{"file_id": "event_101", "file_path": "data/event/event_101.mp4", "annotation": "Soldier lay down on his side.", "task": "event", "data_type": "video"}
+{"file_id": "event_102", "file_path": "data/event/event_102.mp4", "annotation": "Inside the tent, two other soldiers sat up.", "task": "event", "data_type": "video"}
+{"file_id": "event_103", "file_path": "data/event/event_103.mp4", "annotation": "Soldier with blue helmet lies down, takes aim with gun.", "task": "event", "data_type": "video"}
+{"file_id": "event_104", "file_path": "data/event/event_104.mp4", "annotation": "Three figures walked through the corridor.", "task": "event", "data_type": "video"}
+{"file_id": "event_105", "file_path": "data/event/event_105.mp4", "annotation": "A third soldier stood up.", "task": "event", "data_type": "video"}
+{"file_id": "event_106", "file_path": "data/event/event_106.mp4", "annotation": "The first character moves to the center of the doorway.", "task": "event", "data_type": "video"}
+{"file_id": "event_107", "file_path": "data/event/event_107.mp4", "annotation": "Little boy rushes down the stairs.", "task": "event", "data_type": "video"}
+{"file_id": "event_108", "file_path": "data/event/event_108.mp4", "annotation": "The man and woman kissed towards the snowflake.", "task": "event", "data_type": "video"}
+{"file_id": "event_109", "file_path": "data/event/event_109.mp4", "annotation": "Several children nearby begin to watch the argument.", "task": "event", "data_type": "video"}
+{"file_id": "event_110", "file_path": "data/event/event_110.mp4", "annotation": "Person shows cellphone to two little girls.", "task": "event", "data_type": "video"}
+{"file_id": "event_111", "file_path": "data/event/event_111.mp4", "annotation": "All four individuals ducked down beneath the window.", "task": "event", "data_type": "video"}
+{"file_id": "event_112", "file_path": "data/event/event_112.mp4", "annotation": "Man glanced at packaged food", "task": "event", "data_type": "video"}
+{"file_id": "event_113", "file_path": "data/event/event_113.mp4", "annotation": "Girl's head emerges from object", "task": "event", "data_type": "video"}
+{"file_id": "event_114", "file_path": "data/event/event_114.mp4", "annotation": "Baby laughed.", "task": "event", "data_type": "video"}
+{"file_id": "event_115", "file_path": "data/event/event_115.mp4", "annotation": "Candles on distant wall are blown out.", "task": "event", "data_type": "video"}
+{"file_id": "event_116", "file_path": "data/event/event_116.mp4", "annotation": "Silhouettes pass by blonde woman.", "task": "event", "data_type": "video"}
+{"file_id": "event_117", "file_path": "data/event/event_117.mp4", "annotation": "A small baby hangs on the officer's right chest.", "task": "event", "data_type": "video"}
+{"file_id": "event_118", "file_path": "data/event/event_118.mp4", "annotation": "The fish found something covering the surface.", "task": "event", "data_type": "video"}
+{"file_id": "event_119", "file_path": "data/event/event_119.mp4", "annotation": "A mermaid looks downward.", "task": "event", "data_type": "video"}
+{"file_id": "event_120", "file_path": "data/event/event_120.mp4", "annotation": "A male merman extended his hand to a female merman", "task": "event", "data_type": "video"}
+{"file_id": "event_121", "file_path": "data/event/event_121.mp4", "annotation": "A purple-haired female ghost speaks to the camera.", "task": "event", "data_type": "video"}
+{"file_id": "event_122", "file_path": "data/event/event_122.mp4", "annotation": "Several female characters peek out from beneath the floor", "task": "event", "data_type": "video"}
+{"file_id": "event_123", "file_path": "data/event/event_123.mp4", "annotation": "The person on the right takes a photo.", "task": "event", "data_type": "video"}
+{"file_id": "event_124", "file_path": "data/event/event_124.mp4", "annotation": "Cart moves onto the grass", "task": "event", "data_type": "video"}
+{"file_id": "event_125", "file_path": "data/event/event_125.mp4", "annotation": "Brown-haired man leads holding a black object.", "task": "event", "data_type": "video"}
+{"file_id": "event_126", "file_path": "data/event/event_126.mp4", "annotation": "The female astronaut's feet touch down onto the ground.", "task": "event", "data_type": "video"}
+{"file_id": "event_127", "file_path": "data/event/event_127.mp4", "annotation": "Boy with thinning hair speaks to the bald boy.", "task": "event", "data_type": "video"}
+{"file_id": "event_128", "file_path": "data/event/event_128.mp4", "annotation": "Snoopy props up his cheek with right hand.", "task": "event", "data_type": "video"}
+{"file_id": "event_129", "file_path": "data/event/event_129.mp4", "annotation": "The children hold hands.", "task": "event", "data_type": "video"}
+{"file_id": "event_130", "file_path": "data/event/event_130.mp4", "annotation": "Camera showcases a series of comic images", "task": "event", "data_type": "video"}
+{"file_id": "event_131", "file_path": "data/event/event_131.mp4", "annotation": "Girl speaks to blond-haired boy.", "task": "event", "data_type": "video"}
+{"file_id": "event_132", "file_path": "data/event/event_132.mp4", "annotation": "Snoopy took a look at the bowl.", "task": "event", "data_type": "video"}
+{"file_id": "event_133", "file_path": "data/event/event_133.mp4", "annotation": "A bald little boy rests his left hand on his knee.", "task": "event", "data_type": "video"}
+{"file_id": "event_134", "file_path": "data/event/event_134.mp4", "annotation": "The little girl turned on the projector.", "task": "event", "data_type": "video"}
+{"file_id": "event_135", "file_path": "data/event/event_135.mp4", "annotation": "The ball knocked the child over.", "task": "event", "data_type": "video"}
+{"file_id": "event_136", "file_path": "data/event/event_136.mp4", "annotation": "Production staff names switch on the screen.", "task": "event", "data_type": "video"}
+{"file_id": "event_137", "file_path": "data/event/event_137.mp4", "annotation": "A boy in a yellow shirt stands on a mound of dirt.", "task": "event", "data_type": "video"}
+{"file_id": "event_138", "file_path": "data/event/event_138.mp4", "annotation": "The little boy turns his head back to look", "task": "event", "data_type": "video"}
+{"file_id": "event_139", "file_path": "data/event/event_139.mp4", "annotation": "Papers on the boy's desk are swept away.", "task": "event", "data_type": "video"}
+{"file_id": "event_140", "file_path": "data/event/event_140.mp4", "annotation": "The bald little boy turns his head towards the camera", "task": "event", "data_type": "video"}
+{"file_id": "event_141", "file_path": "data/event/event_141.mp4", "annotation": "The bald boy ran past the mud-playing boy.", "task": "event", "data_type": "video"}
+{"file_id": "event_142", "file_path": "data/event/event_142.mp4", "annotation": "A group of people sway left and right.", "task": "event", "data_type": "video"}
+{"file_id": "event_143", "file_path": "data/event/event_143.mp4", "annotation": "Blonde woman supports man's arm.", "task": "event", "data_type": "video"}
+{"file_id": "event_144", "file_path": "data/event/event_144.mp4", "annotation": "Man in red clothes leans forward.", "task": "event", "data_type": "video"}
+{"file_id": "event_145", "file_path": "data/event/event_145.mp4", "annotation": "The boy keeps tumbling down.", "task": "event", "data_type": "video"}
+{"file_id": "event_146", "file_path": "data/event/event_146.mp4", "annotation": "Treehouse dweller makes a move towards the children", "task": "event", "data_type": "video"}
+{"file_id": "event_147", "file_path": "data/event/event_147.mp4", "annotation": "A phoenix feather falls from the sky.", "task": "event", "data_type": "video"}
+{"file_id": "event_148", "file_path": "data/event/event_148.mp4", "annotation": "The woman puts the crown on herself.", "task": "event", "data_type": "video"}
+{"file_id": "event_149", "file_path": "data/event/event_149.mp4", "annotation": "Camera reveals trail of gems extending to man's feet.", "task": "event", "data_type": "video"}
+{"file_id": "event_150", "file_path": "data/event/event_150.mp4", "annotation": "The man opens the treasure chest.", "task": "event", "data_type": "video"}
+{"file_id": "event_151", "file_path": "data/event/event_151.mp4", "annotation": "Explosions occurred beneath the pumpkin-headed figure.", "task": "event", "data_type": "video"}
+{"file_id": "event_152", "file_path": "data/event/event_152.mp4", "annotation": "Woman pushes old man in chest with stick.", "task": "event", "data_type": "video"}
+{"file_id": "event_153", "file_path": "data/event/event_153.mp4", "annotation": "A woman in white clothes embraces a man in green clothes.", "task": "event", "data_type": "video"}
+{"file_id": "event_154", "file_path": "data/event/event_154.mp4", "annotation": "A brown-haired man is driving the car.", "task": "event", "data_type": "video"}
+{"file_id": "event_155", "file_path": "data/event/event_155.mp4", "annotation": "Vehicle crashed into a house.", "task": "event", "data_type": "video"}
+{"file_id": "event_156", "file_path": "data/event/event_156.mp4", "annotation": "A blond-haired man turns around.", "task": "event", "data_type": "video"}
+{"file_id": "event_157", "file_path": "data/event/event_157.mp4", "annotation": "People are holding guns.", "task": "event", "data_type": "video"}
+{"file_id": "event_158", "file_path": "data/event/event_158.mp4", "annotation": "A bus approached with headlights on.", "task": "event", "data_type": "video"}
+{"file_id": "event_159", "file_path": "data/event/event_159.mp4", "annotation": "The blond man exchanges a look with the brown-haired man.", "task": "event", "data_type": "video"}
+{"file_id": "event_160", "file_path": "data/event/event_160.mp4", "annotation": "An agent takes notes with a pen.", "task": "event", "data_type": "video"}
+{"file_id": "event_161", "file_path": "data/event/event_161.mp4", "annotation": "A robotic arm extends from the spacecraft.", "task": "event", "data_type": "video"}
+{"file_id": "event_162", "file_path": "data/event/event_162.mp4", "annotation": "Rain falls from the sky.", "task": "event", "data_type": "video"}
+{"file_id": "event_163", "file_path": "data/event/event_163.mp4", "annotation": "The individuals struggled to sit up.", "task": "event", "data_type": "video"}
+{"file_id": "event_164", "file_path": "data/event/event_164.mp4", "annotation": "Blond-haired man picks up his cellphone.", "task": "event", "data_type": "video"}
+{"file_id": "event_165", "file_path": "data/event/event_165.mp4", "annotation": "The car quickly moved forward.", "task": "event", "data_type": "video"}
+{"file_id": "event_166", "file_path": "data/event/event_166.mp4", "annotation": "A koala speaks.", "task": "event", "data_type": "video"}
+{"file_id": "event_167", "file_path": "data/event/event_167.mp4", "annotation": "A purple spider's six legs are suspended in air", "task": "event", "data_type": "video"}
+{"file_id": "event_168", "file_path": "data/event/event_168.mp4", "annotation": "Animals fly into the air from flagpole.", "task": "event", "data_type": "video"}
+{"file_id": "event_169", "file_path": "data/event/event_169.mp4", "annotation": "Snake lifts its head.", "task": "event", "data_type": "video"}
+{"file_id": "event_170", "file_path": "data/event/event_170.mp4", "annotation": "Animals swam towards the left side.", "task": "event", "data_type": "video"}
+{"file_id": "event_171", "file_path": "data/event/event_171.mp4", "annotation": "The man parked the vehicle on the cliff's edge", "task": "event", "data_type": "video"}
+{"file_id": "event_172", "file_path": "data/event/event_172.mp4", "annotation": "The creature let out a shout.", "task": "event", "data_type": "video"}
+{"file_id": "event_173", "file_path": "data/event/event_173.mp4", "annotation": "The boy lifts his head.", "task": "event", "data_type": "video"}
+{"file_id": "event_174", "file_path": "data/event/event_174.mp4", "annotation": "Four reptilian creatures walked forward.", "task": "event", "data_type": "video"}
+{"file_id": "event_175", "file_path": "data/event/event_175.mp4", "annotation": "The creature looked at another creature", "task": "event", "data_type": "video"}
+{"file_id": "event_176", "file_path": "data/event/event_176.mp4", "annotation": "The snake advances quickly.", "task": "event", "data_type": "video"}
+{"file_id": "event_177", "file_path": "data/event/event_177.mp4", "annotation": "The girl steps on the boy.", "task": "event", "data_type": "video"}
+{"file_id": "event_178", "file_path": "data/event/event_178.mp4", "annotation": "Woman looks around.", "task": "event", "data_type": "video"}
+{"file_id": "event_179", "file_path": "data/event/event_179.mp4", "annotation": "The woman extends a leg.", "task": "event", "data_type": "video"}
+{"file_id": "event_180", "file_path": "data/event/event_180.mp4", "annotation": "The yellow creature shakes its body.", "task": "event", "data_type": "video"}
+{"file_id": "event_181", "file_path": "data/event/event_181.mp4", "annotation": "The octopus continued to pour things out of the girl's bag.", "task": "event", "data_type": "video"}
+{"file_id": "event_182", "file_path": "data/event/event_182.mp4", "annotation": "The boy crashed into the stone wall.", "task": "event", "data_type": "video"}
+{"file_id": "event_183", "file_path": "data/event/event_183.mp4", "annotation": "The camera focuses on the woman's eyes.", "task": "event", "data_type": "video"}
+{"file_id": "event_184", "file_path": "data/event/event_184.mp4", "annotation": "Three mermaids hold tridents.", "task": "event", "data_type": "video"}
+{"file_id": "event_185", "file_path": "data/event/event_185.mp4", "annotation": "The pink creature threw an object at the orange creature.", "task": "event", "data_type": "video"}
+{"file_id": "event_186", "file_path": "data/event/event_186.mp4", "annotation": "The liquid rises up around the dragon statue.", "task": "event", "data_type": "video"}
+{"file_id": "event_187", "file_path": "data/event/event_187.mp4", "annotation": "SpongeBob runs in circles", "task": "event", "data_type": "video"}
+{"file_id": "event_188", "file_path": "data/event/event_188.mp4", "annotation": "SpongeBob opened the door", "task": "event", "data_type": "video"}
+{"file_id": "event_189", "file_path": "data/event/event_189.mp4", "annotation": "Patrick turns his head.", "task": "event", "data_type": "video"}
+{"file_id": "event_190", "file_path": "data/event/event_190.mp4", "annotation": "The ruffian boss opened his mouth wide.", "task": "event", "data_type": "video"}
+{"file_id": "event_191", "file_path": "data/event/event_191.mp4", "annotation": "A pair of hands grabbed the man.", "task": "event", "data_type": "video"}
+{"file_id": "event_192", "file_path": "data/event/event_192.mp4", "annotation": "The man spoke into the microphone.", "task": "event", "data_type": "video"}
+{"file_id": "event_193", "file_path": "data/event/event_193.mp4", "annotation": "Individual rests hands by pillow.", "task": "event", "data_type": "video"}
+{"file_id": "event_194", "file_path": "data/event/event_194.mp4", "annotation": "A creature reached out to pinch the bag closed", "task": "event", "data_type": "video"}
+{"file_id": "event_195", "file_path": "data/event/event_195.mp4", "annotation": "The boss reached out.", "task": "event", "data_type": "video"}
+{"file_id": "event_196", "file_path": "data/event/event_196.mp4", "annotation": "Person walks toward the left side", "task": "event", "data_type": "video"}
+{"file_id": "event_197", "file_path": "data/event/event_197.mp4", "annotation": "Ruffian boss presses the red button.", "task": "event", "data_type": "video"}
+{"file_id": "event_198", "file_path": "data/event/event_198.mp4", "annotation": "SpongeBob moves forward.", "task": "event", "data_type": "video"}
+{"file_id": "event_199", "file_path": "data/event/event_199.mp4", "annotation": "Figures gradually blur.", "task": "event", "data_type": "video"}
+{"file_id": "event_200", "file_path": "data/event/event_200.mp4", "annotation": "SpongeBob said something.", "task": "event", "data_type": "video"}
+{"file_id": "event_201", "file_path": "data/event/event_201.mp4", "annotation": "A woman and a man were talking.", "task": "event", "data_type": "video"}
+{"file_id": "event_202", "file_path": "data/event/event_202.mp4", "annotation": "A young male speaks.", "task": "event", "data_type": "video"}
+{"file_id": "event_203", "file_path": "data/event/event_203.mp4", "annotation": "A boy runs down a set of stairs.", "task": "event", "data_type": "video"}
+{"file_id": "event_204", "file_path": "data/event/event_204.mp4", "annotation": "A silver car drives on a city road.", "task": "event", "data_type": "video"}
+{"file_id": "event_205", "file_path": "data/event/event_205.mp4", "annotation": "A man beckons the boy over.", "task": "event", "data_type": "video"}
+{"file_id": "event_206", "file_path": "data/event/event_206.mp4", "annotation": "Person lowers the magazine.", "task": "event", "data_type": "video"}
+{"file_id": "event_207", "file_path": "data/event/event_207.mp4", "annotation": "The woman prepares to kiss the man.", "task": "event", "data_type": "video"}
+{"file_id": "event_208", "file_path": "data/event/event_208.mp4", "annotation": "Male actor stretches out his arms.", "task": "event", "data_type": "video"}
+{"file_id": "event_209", "file_path": "data/event/event_209.mp4", "annotation": "Soldiers hold their guns.", "task": "event", "data_type": "video"}
+{"file_id": "event_210", "file_path": "data/event/event_210.mp4", "annotation": "The man with firewood turned around slowly.", "task": "event", "data_type": "video"}
+{"file_id": "event_211", "file_path": "data/event/event_211.mp4", "annotation": "The girl hands the object to the boy", "task": "event", "data_type": "video"}
+{"file_id": "event_212", "file_path": "data/event/event_212.mp4", "annotation": "The woman looks at the object.", "task": "event", "data_type": "video"}
+{"file_id": "event_213", "file_path": "data/event/event_213.mp4", "annotation": "The woman falls from the ladder.", "task": "event", "data_type": "video"}
+{"file_id": "event_214", "file_path": "data/event/event_214.mp4", "annotation": "The woman ran to one side.", "task": "event", "data_type": "video"}
+{"file_id": "event_215", "file_path": "data/event/event_215.mp4", "annotation": "The woman walks to the right.", "task": "event", "data_type": "video"}
+{"file_id": "event_216", "file_path": "data/event/event_216.mp4", "annotation": "Electric sparks emitted from the tent top.", "task": "event", "data_type": "video"}
+{"file_id": "event_217", "file_path": "data/event/event_217.mp4", "annotation": "A woman stood with mouth open.", "task": "event", "data_type": "video"}
+{"file_id": "event_218", "file_path": "data/event/event_218.mp4", "annotation": "Character raised axe", "task": "event", "data_type": "video"}
+{"file_id": "event_219", "file_path": "data/event/event_219.mp4", "annotation": "The man sets the bottle on the table.", "task": "event", "data_type": "video"}
+{"file_id": "event_220", "file_path": "data/event/event_220.mp4", "annotation": "The mechanical arm crushes the glasses.", "task": "event", "data_type": "video"}
+{"file_id": "event_221", "file_path": "data/event/event_221.mp4", "annotation": "Woman opened the door", "task": "event", "data_type": "video"}
+{"file_id": "event_222", "file_path": "data/event/event_222.mp4", "annotation": "A woman walked up", "task": "event", "data_type": "video"}
+{"file_id": "event_223", "file_path": "data/event/event_223.mp4", "annotation": "The blond man bares his teeth.", "task": "event", "data_type": "video"}
+{"file_id": "event_224", "file_path": "data/event/event_224.mp4", "annotation": "The girl holds something in her hand", "task": "event", "data_type": "video"}
+{"file_id": "event_225", "file_path": "data/event/event_225.mp4", "annotation": "The spherical object moved amid ruins.", "task": "event", "data_type": "video"}
+{"file_id": "event_226", "file_path": "data/event/event_226.mp4", "annotation": "They look forward again.", "task": "event", "data_type": "video"}
+{"file_id": "event_227", "file_path": "data/event/event_227.mp4", "annotation": "Police car closely follows the red car.", "task": "event", "data_type": "video"}
+{"file_id": "event_228", "file_path": "data/event/event_228.mp4", "annotation": "A man on the right extends his hand.", "task": "event", "data_type": "video"}
+{"file_id": "event_229", "file_path": "data/event/event_229.mp4", "annotation": "A boy speaks behind two railings.", "task": "event", "data_type": "video"}
+{"file_id": "event_230", "file_path": "data/event/event_230.mp4", "annotation": "A woman looks across the room", "task": "event", "data_type": "video"}
+{"file_id": "event_231", "file_path": "data/event/event_231.mp4", "annotation": "A man runs from inside the tunnel.", "task": "event", "data_type": "video"}
+{"file_id": "event_232", "file_path": "data/event/event_232.mp4", "annotation": "A few people pushed against a barrier.", "task": "event", "data_type": "video"}
+{"file_id": "event_233", "file_path": "data/event/event_233.mp4", "annotation": "A group of children runs forward.", "task": "event", "data_type": "video"}
+{"file_id": "event_234", "file_path": "data/event/event_234.mp4", "annotation": "A woman rides a horse.", "task": "event", "data_type": "video"}
+{"file_id": "event_235", "file_path": "data/event/event_235.mp4", "annotation": "A bald man shouted at the albino orangutan.", "task": "event", "data_type": "video"}
+{"file_id": "event_236", "file_path": "data/event/event_236.mp4", "annotation": "The blonde woman sways her body.", "task": "event", "data_type": "video"}
+{"file_id": "event_237", "file_path": "data/event/event_237.mp4", "annotation": "One man climbs upward to the rooftop.", "task": "event", "data_type": "video"}
+{"file_id": "event_238", "file_path": "data/event/event_238.mp4", "annotation": "Someone walked around in the room.", "task": "event", "data_type": "video"}
+{"file_id": "event_239", "file_path": "data/event/event_239.mp4", "annotation": "The man takes a few steps forward.", "task": "event", "data_type": "video"}
+{"file_id": "event_240", "file_path": "data/event/event_240.mp4", "annotation": "The soldiers stepped back.", "task": "event", "data_type": "video"}
+{"file_id": "event_241", "file_path": "data/event/event_241.mp4", "annotation": "Children flailed their limbs in the air.", "task": "event", "data_type": "video"}
+{"file_id": "event_242", "file_path": "data/event/event_242.mp4", "annotation": "Another girl tilts her head to look at the booklet.", "task": "event", "data_type": "video"}
+{"file_id": "event_243", "file_path": "data/event/event_243.mp4", "annotation": "Woman behind man watches the man", "task": "event", "data_type": "video"}
+{"file_id": "event_244", "file_path": "data/event/event_244.mp4", "annotation": "The woman walks over to the mantelpiece.", "task": "event", "data_type": "video"}
+{"file_id": "event_245", "file_path": "data/event/event_245.mp4", "annotation": "The man kneels on both legs.", "task": "event", "data_type": "video"}
+{"file_id": "event_246", "file_path": "data/event/event_246.mp4", "annotation": "Blood flows from the woman's nose.", "task": "event", "data_type": "video"}
+{"file_id": "event_247", "file_path": "data/event/event_247.mp4", "annotation": "Person behind reacts to man turning head.", "task": "event", "data_type": "video"}
+{"file_id": "event_248", "file_path": "data/event/event_248.mp4", "annotation": "Camera switches to a poster", "task": "event", "data_type": "video"}
+{"file_id": "event_249", "file_path": "data/event/event_249.mp4", "annotation": "The woman turned her head to look at the boy.", "task": "event", "data_type": "video"}
+{"file_id": "event_250", "file_path": "data/event/event_250.mp4", "annotation": "The woman speaks.", "task": "event", "data_type": "video"}
+{"file_id": "event_251", "file_path": "data/event/event_251.mp4", "annotation": "Woman reaches a wall outlet", "task": "event", "data_type": "video"}
+{"file_id": "event_252", "file_path": "data/event/event_252.mp4", "annotation": "Two people pass by the man.", "task": "event", "data_type": "video"}
+{"file_id": "event_253", "file_path": "data/event/event_253.mp4", "annotation": "A man lies in bed.", "task": "event", "data_type": "video"}
+{"file_id": "event_254", "file_path": "data/event/event_254.mp4", "annotation": "A man looks across the restaurant.", "task": "event", "data_type": "video"}
+{"file_id": "event_255", "file_path": "data/event/event_255.mp4", "annotation": "Camera shows the envelope's cover.", "task": "event", "data_type": "video"}
+{"file_id": "event_256", "file_path": "data/event/event_256.mp4", "annotation": "Two men and a girl are in the park", "task": "event", "data_type": "video"}
+{"file_id": "event_257", "file_path": "data/event/event_257.mp4", "annotation": "A man takes a drink from a glass.", "task": "event", "data_type": "video"}
+{"file_id": "event_258", "file_path": "data/event/event_258.mp4", "annotation": "A bearded man walks from the corridor", "task": "event", "data_type": "video"}
+{"file_id": "event_259", "file_path": "data/event/event_259.mp4", "annotation": "Man in floral clothing ran away", "task": "event", "data_type": "video"}
+{"file_id": "event_260", "file_path": "data/event/event_260.mp4", "annotation": "Motorcyclist in red collides with the selfie-taking man.", "task": "event", "data_type": "video"}
+{"file_id": "event_261", "file_path": "data/event/event_261.mp4", "annotation": "The white car rushes towards the roadside.", "task": "event", "data_type": "video"}
+{"file_id": "event_262", "file_path": "data/event/event_262.mp4", "annotation": "The man places the phone on the table.", "task": "event", "data_type": "video"}
+{"file_id": "event_263", "file_path": "data/event/event_263.mp4", "annotation": "Other vehicles were present on the road.", "task": "event", "data_type": "video"}
+{"file_id": "event_264", "file_path": "data/event/event_264.mp4", "annotation": "The punched person falls to the ground.", "task": "event", "data_type": "video"}
+{"file_id": "event_265", "file_path": "data/event/event_265.mp4", "annotation": "Two individuals look ahead inside the helicopter.", "task": "event", "data_type": "video"}
+{"file_id": "event_266", "file_path": "data/event/event_266.mp4", "annotation": "Another person runs on the road.", "task": "event", "data_type": "video"}
+{"file_id": "event_267", "file_path": "data/event/event_267.mp4", "annotation": "Four navy soldiers jump onto the side tables.", "task": "event", "data_type": "video"}
+{"file_id": "event_268", "file_path": "data/event/event_268.mp4", "annotation": "A person opens the back door of a car.", "task": "event", "data_type": "video"}
+{"file_id": "event_269", "file_path": "data/event/event_269.mp4", "annotation": "The person draws a circle around a name.", "task": "event", "data_type": "video"}
+{"file_id": "event_270", "file_path": "data/event/event_270.mp4", "annotation": "Person walks away.", "task": "event", "data_type": "video"}
+{"file_id": "event_271", "file_path": "data/event/event_271.mp4", "annotation": "Elderly person offered support to the person.", "task": "event", "data_type": "video"}
+{"file_id": "event_272", "file_path": "data/event/event_272.mp4", "annotation": "The axe repeatedly strikes with force.", "task": "event", "data_type": "video"}
+{"file_id": "event_273", "file_path": "data/event/event_273.mp4", "annotation": "The man takes something out of the refrigerator.", "task": "event", "data_type": "video"}
+{"file_id": "event_274", "file_path": "data/event/event_274.mp4", "annotation": "The blond man takes a drink.", "task": "event", "data_type": "video"}
+{"file_id": "event_275", "file_path": "data/event/event_275.mp4", "annotation": "The man in a leather jacket walks over.", "task": "event", "data_type": "video"}
+{"file_id": "event_276", "file_path": "data/event/event_276.mp4", "annotation": "Both men start wrestling", "task": "event", "data_type": "video"}
+{"file_id": "event_277", "file_path": "data/event/event_277.mp4", "annotation": "A man watched the person playing the drums.", "task": "event", "data_type": "video"}
+{"file_id": "event_278", "file_path": "data/event/event_278.mp4", "annotation": "The referee is observing from the ground.", "task": "event", "data_type": "video"}
+{"file_id": "event_279", "file_path": "data/event/event_279.mp4", "annotation": "The man on the right pulled up his zipper.", "task": "event", "data_type": "video"}
+{"file_id": "event_280", "file_path": "data/event/event_280.mp4", "annotation": "Camera pans up to capture a lady's face", "task": "event", "data_type": "video"}
+{"file_id": "event_281", "file_path": "data/event/event_281.mp4", "annotation": "The lady waves in the direction of the camera.", "task": "event", "data_type": "video"}
+{"file_id": "event_282", "file_path": "data/event/event_282.mp4", "annotation": "Camera pans upwards", "task": "event", "data_type": "video"}
+{"file_id": "event_283", "file_path": "data/event/event_283.mp4", "annotation": "The camera shows the front of the pedestrians.", "task": "event", "data_type": "video"}
+{"file_id": "event_284", "file_path": "data/event/event_284.mp4", "annotation": "A black car moves from left to right.", "task": "event", "data_type": "video"}
+{"file_id": "event_285", "file_path": "data/event/event_285.mp4", "annotation": "A man bent over.", "task": "event", "data_type": "video"}
+{"file_id": "event_286", "file_path": "data/event/event_286.mp4", "annotation": "The woman lies on her stomach on the sofa.", "task": "event", "data_type": "video"}
+{"file_id": "event_287", "file_path": "data/event/event_287.mp4", "annotation": "The man makes a phone call.", "task": "event", "data_type": "video"}
+{"file_id": "event_288", "file_path": "data/event/event_288.mp4", "annotation": "People are walking by the conversation.", "task": "event", "data_type": "video"}
+{"file_id": "event_289", "file_path": "data/event/event_289.mp4", "annotation": "Man looks to the left.", "task": "event", "data_type": "video"}
+{"file_id": "event_290", "file_path": "data/event/event_290.mp4", "annotation": "Woman with hat looked at the camera direction.", "task": "event", "data_type": "video"}
+{"file_id": "event_291", "file_path": "data/event/event_291.mp4", "annotation": "A woman glanced at the wall.", "task": "event", "data_type": "video"}
+{"file_id": "event_292", "file_path": "data/event/event_292.mp4", "annotation": "Woman with hat took puff of cigarette.", "task": "event", "data_type": "video"}
+{"file_id": "event_293", "file_path": "data/event/event_293.mp4", "annotation": "A woman walks down the stairs.", "task": "event", "data_type": "video"}
+{"file_id": "event_294", "file_path": "data/event/event_294.mp4", "annotation": "A man is lying on his side in bed", "task": "event", "data_type": "video"}
+{"file_id": "event_295", "file_path": "data/event/event_295.mp4", "annotation": "The trunk of the car opens slowly.", "task": "event", "data_type": "video"}
+{"file_id": "event_296", "file_path": "data/event/event_296.mp4", "annotation": "A man stands leaning against a tree.", "task": "event", "data_type": "video"}
+{"file_id": "event_297", "file_path": "data/event/event_297.mp4", "annotation": "The person stands up", "task": "event", "data_type": "video"}
+{"file_id": "event_298", "file_path": "data/event/event_298.mp4", "annotation": "Person with a cane sits down.", "task": "event", "data_type": "video"}
+{"file_id": "event_299", "file_path": "data/event/event_299.mp4", "annotation": "A man bends down to look into the mirror.", "task": "event", "data_type": "video"}
+{"file_id": "event_300", "file_path": "data/event/event_300.mp4", "annotation": "The silhouette of a man sits atop a wall.", "task": "event", "data_type": "video"}
+{"file_id": "event_301", "file_path": "data/event/event_301.mp4", "annotation": "A man knocked down a long-haired man.", "task": "event", "data_type": "video"}
+{"file_id": "event_302", "file_path": "data/event/event_302.mp4", "annotation": "A man pressed the elevator button.", "task": "event", "data_type": "video"}
+{"file_id": "event_303", "file_path": "data/event/event_303.mp4", "annotation": "Man dries hands with towel", "task": "event", "data_type": "video"}
+{"file_id": "event_304", "file_path": "data/event/event_304.mp4", "annotation": "Audience cheers.", "task": "event", "data_type": "video"}
+{"file_id": "event_305", "file_path": "data/event/event_305.mp4", "annotation": "The man opened the door of a storage locker.", "task": "event", "data_type": "video"}
+{"file_id": "event_306", "file_path": "data/event/event_306.mp4", "annotation": "Man supports woman's chin with his left hand.", "task": "event", "data_type": "video"}
+{"file_id": "event_307", "file_path": "data/event/event_307.mp4", "annotation": "Someone walks towards the camera.", "task": "event", "data_type": "video"}
+{"file_id": "event_308", "file_path": "data/event/event_308.mp4", "annotation": "The seated man takes out a cigarette.", "task": "event", "data_type": "video"}
+{"file_id": "event_309", "file_path": "data/event/event_309.mp4", "annotation": "Plants show lush foliage.", "task": "event", "data_type": "video"}
+{"file_id": "event_310", "file_path": "data/event/event_310.mp4", "annotation": "Man wearing a hat emerges from behind a tree", "task": "event", "data_type": "video"}
+{"file_id": "event_311", "file_path": "data/event/event_311.mp4", "annotation": "The camera rotates to face the girl front on.", "task": "event", "data_type": "video"}
+{"file_id": "event_312", "file_path": "data/event/event_312.mp4", "annotation": "The female police officer swings a baton.", "task": "event", "data_type": "video"}
+{"file_id": "event_313", "file_path": "data/event/event_313.mp4", "annotation": "The audience members clapped.", "task": "event", "data_type": "video"}
+{"file_id": "event_314", "file_path": "data/event/event_314.mp4", "annotation": "Woman stands up.", "task": "event", "data_type": "video"}
+{"file_id": "event_315", "file_path": "data/event/event_315.mp4", "annotation": "Man wraps blanket tightly around woman.", "task": "event", "data_type": "video"}
+{"file_id": "event_316", "file_path": "data/event/event_316.mp4", "annotation": "Woman holds square cup in hand.", "task": "event", "data_type": "video"}
+{"file_id": "event_317", "file_path": "data/event/event_317.mp4", "annotation": "The camera moves forward", "task": "event", "data_type": "video"}
+{"file_id": "event_318", "file_path": "data/event/event_318.mp4", "annotation": "Lights swayed on the platform", "task": "event", "data_type": "video"}
+{"file_id": "event_319", "file_path": "data/event/event_319.mp4", "annotation": "The man stood on a piece of equipment", "task": "event", "data_type": "video"}
+{"file_id": "event_320", "file_path": "data/event/event_320.mp4", "annotation": "Orca leaps into the air", "task": "event", "data_type": "video"}
+{"file_id": "event_321", "file_path": "data/event/event_321.mp4", "annotation": "A man and a woman sit on the bed.", "task": "event", "data_type": "video"}
+{"file_id": "event_322", "file_path": "data/event/event_322.mp4", "annotation": "A man is speaking to the camera", "task": "event", "data_type": "video"}
+{"file_id": "event_323", "file_path": "data/event/event_323.mp4", "annotation": "The woman smiles slightly.", "task": "event", "data_type": "video"}
+{"file_id": "event_324", "file_path": "data/event/event_324.mp4", "annotation": "A woman is combing her hair.", "task": "event", "data_type": "video"}
+{"file_id": "event_325", "file_path": "data/event/event_325.mp4", "annotation": "Others engage in archery activities.", "task": "event", "data_type": "video"}
+{"file_id": "event_326", "file_path": "data/event/event_326.mp4", "annotation": "Woman takes flashlight with her right hand.", "task": "event", "data_type": "video"}
+{"file_id": "event_327", "file_path": "data/event/event_327.mp4", "annotation": "A child crawls out from the blankets.", "task": "event", "data_type": "video"}
+{"file_id": "event_328", "file_path": "data/event/event_328.mp4", "annotation": "Man runs forward", "task": "event", "data_type": "video"}
+{"file_id": "event_329", "file_path": "data/event/event_329.mp4", "annotation": "A large group of people jump around together", "task": "event", "data_type": "video"}
+{"file_id": "event_330", "file_path": "data/event/event_330.mp4", "annotation": "The ATM machine spews out cash.", "task": "event", "data_type": "video"}
+{"file_id": "event_331", "file_path": "data/event/event_331.mp4", "annotation": "The man picks up his phone.", "task": "event", "data_type": "video"}
+{"file_id": "event_332", "file_path": "data/event/event_332.mp4", "annotation": "Man in grey-blue kicks basketball into air.", "task": "event", "data_type": "video"}
+{"file_id": "event_333", "file_path": "data/event/event_333.mp4", "annotation": "Driver shifts gears.", "task": "event", "data_type": "video"}
+{"file_id": "event_334", "file_path": "data/event/event_334.mp4", "annotation": "The man held something in his left hand", "task": "event", "data_type": "video"}
+{"file_id": "event_335", "file_path": "data/event/event_335.mp4", "annotation": "The man lay back down again.", "task": "event", "data_type": "video"}
+{"file_id": "event_336", "file_path": "data/event/event_336.mp4", "annotation": "The man in the driver's seat looked towards the passenger seat", "task": "event", "data_type": "video"}
+{"file_id": "event_337", "file_path": "data/event/event_337.mp4", "annotation": "Man looks forward again.", "task": "event", "data_type": "video"}
+{"file_id": "event_338", "file_path": "data/event/event_338.mp4", "annotation": "Man started eating the food.", "task": "event", "data_type": "video"}
+{"file_id": "event_339", "file_path": "data/event/event_339.mp4", "annotation": "Man puts arm around boy in black's shoulder.", "task": "event", "data_type": "video"}
+{"file_id": "event_340", "file_path": "data/event/event_340.mp4", "annotation": "A black cowboy rides a horse.", "task": "event", "data_type": "video"}
+{"file_id": "event_341", "file_path": "data/event/event_341.mp4", "annotation": "A thick burst of flame erupts from below the rocket.", "task": "event", "data_type": "video"}
+{"file_id": "event_342", "file_path": "data/event/event_342.mp4", "annotation": "Two male staff members helped a male astronaut.", "task": "event", "data_type": "video"}
+{"file_id": "event_343", "file_path": "data/event/event_343.mp4", "annotation": "The man takes items out of the cabinet", "task": "event", "data_type": "video"}
+{"file_id": "event_344", "file_path": "data/event/event_344.mp4", "annotation": "Boxer in black shorts rushes into an embrace.", "task": "event", "data_type": "video"}
+{"file_id": "event_345", "file_path": "data/event/event_345.mp4", "annotation": "Another man inspects something behind the sofa.", "task": "event", "data_type": "video"}
+{"file_id": "event_346", "file_path": "data/event/event_346.mp4", "annotation": "Waiter places a dish on the table.", "task": "event", "data_type": "video"}
+{"file_id": "event_347", "file_path": "data/event/event_347.mp4", "annotation": "Male officer holds the door", "task": "event", "data_type": "video"}
+{"file_id": "event_348", "file_path": "data/event/event_348.mp4", "annotation": "The man takes pictures of the woman.", "task": "event", "data_type": "video"}
+{"file_id": "event_349", "file_path": "data/event/event_349.mp4", "annotation": "The woman then returns back into darkness.", "task": "event", "data_type": "video"}
+{"file_id": "event_350", "file_path": "data/event/event_350.mp4", "annotation": "An airplane spirals upward in the sky.", "task": "event", "data_type": "video"}
+{"file_id": "event_351", "file_path": "data/event/event_351.mp4", "annotation": "The man observes the outside through the window.", "task": "event", "data_type": "video"}
+{"file_id": "event_352", "file_path": "data/event/event_352.mp4", "annotation": "The camera zooms out.", "task": "event", "data_type": "video"}
+{"file_id": "event_353", "file_path": "data/event/event_353.mp4", "annotation": "Both men sit down.", "task": "event", "data_type": "video"}
+{"file_id": "event_354", "file_path": "data/event/event_354.mp4", "annotation": "Man operates a laptop.", "task": "event", "data_type": "video"}
+{"file_id": "event_355", "file_path": "data/event/event_355.mp4", "annotation": "The ostrich moves forward.", "task": "event", "data_type": "video"}
+{"file_id": "event_356", "file_path": "data/event/event_356.mp4", "annotation": "Hands swing up and down.", "task": "event", "data_type": "video"}
+{"file_id": "event_357", "file_path": "data/event/event_357.mp4", "annotation": "A dog follows the group of people", "task": "event", "data_type": "video"}
+{"file_id": "event_358", "file_path": "data/event/event_358.mp4", "annotation": "Person eats the fruit.", "task": "event", "data_type": "video"}
+{"file_id": "event_359", "file_path": "data/event/event_359.mp4", "annotation": "A crab moves beside a person's foot", "task": "event", "data_type": "video"}
+{"file_id": "event_360", "file_path": "data/event/event_360.mp4", "annotation": "The woman blew out the candles.", "task": "event", "data_type": "video"}
+{"file_id": "event_361", "file_path": "data/event/event_361.mp4", "annotation": "The camera shows the woman looking down.", "task": "event", "data_type": "video"}
+{"file_id": "event_362", "file_path": "data/event/event_362.mp4", "annotation": "The light tube bursts.", "task": "event", "data_type": "video"}
+{"file_id": "event_363", "file_path": "data/event/event_363.mp4", "annotation": "The man examined the object.", "task": "event", "data_type": "video"}
+{"file_id": "event_364", "file_path": "data/event/event_364.mp4", "annotation": "The man picks up a metal coin.", "task": "event", "data_type": "video"}
+{"file_id": "event_365", "file_path": "data/event/event_365.mp4", "annotation": "The man points ahead.", "task": "event", "data_type": "video"}
+{"file_id": "event_366", "file_path": "data/event/event_366.mp4", "annotation": "The woman says something.", "task": "event", "data_type": "video"}
+{"file_id": "event_367", "file_path": "data/event/event_367.mp4", "annotation": "A woman runs along the highway.", "task": "event", "data_type": "video"}
+{"file_id": "event_368", "file_path": "data/event/event_368.mp4", "annotation": "The woman walks forward.", "task": "event", "data_type": "video"}
+{"file_id": "event_369", "file_path": "data/event/event_369.mp4", "annotation": "One person wipes another person's knee.", "task": "event", "data_type": "video"}
+{"file_id": "event_370", "file_path": "data/event/event_370.mp4", "annotation": "The woman rummages through her bag.", "task": "event", "data_type": "video"}
+{"file_id": "event_371", "file_path": "data/event/event_371.mp4", "annotation": "A man removes his helmet.", "task": "event", "data_type": "video"}
+{"file_id": "event_372", "file_path": "data/event/event_372.mp4", "annotation": "The man pulls open the hung man's clothes.", "task": "event", "data_type": "video"}
+{"file_id": "event_373", "file_path": "data/event/event_373.mp4", "annotation": "A man struggles underwater.", "task": "event", "data_type": "video"}
+{"file_id": "event_374", "file_path": "data/event/event_374.mp4", "annotation": "The man raises his arms.", "task": "event", "data_type": "video"}
+{"file_id": "event_375", "file_path": "data/event/event_375.mp4", "annotation": "The man turned on the light.", "task": "event", "data_type": "video"}
+{"file_id": "event_376", "file_path": "data/event/event_376.mp4", "annotation": "The man walks forward.", "task": "event", "data_type": "video"}
+{"file_id": "event_377", "file_path": "data/event/event_377.mp4", "annotation": "The man follows the woman.", "task": "event", "data_type": "video"}
+{"file_id": "event_378", "file_path": "data/event/event_378.mp4", "annotation": "The audience below applauds.", "task": "event", "data_type": "video"}
+{"file_id": "event_379", "file_path": "data/event/event_379.mp4", "annotation": "A person shifted their chair.", "task": "event", "data_type": "video"}
+{"file_id": "event_380", "file_path": "data/event/event_380.mp4", "annotation": "The man examines the bottle.", "task": "event", "data_type": "video"}
+{"file_id": "event_381", "file_path": "data/event/event_381.mp4", "annotation": "The girl looks towards the camera.", "task": "event", "data_type": "video"}
+{"file_id": "event_382", "file_path": "data/event/event_382.mp4", "annotation": "A person moves forward.", "task": "event", "data_type": "video"}
+{"file_id": "event_383", "file_path": "data/event/event_383.mp4", "annotation": "The man turns his head to his left", "task": "event", "data_type": "video"}
+{"file_id": "event_384", "file_path": "data/event/event_384.mp4", "annotation": "The woman sighed.", "task": "event", "data_type": "video"}
+{"file_id": "event_385", "file_path": "data/event/event_385.mp4", "annotation": "A person stirs an object.", "task": "event", "data_type": "video"}
+{"file_id": "event_386", "file_path": "data/event/event_386.mp4", "annotation": "The scene shows a rocket placed on flat ground in daytime.", "task": "event", "data_type": "video"}
+{"file_id": "event_387", "file_path": "data/event/event_387.mp4", "annotation": "Scene switches", "task": "event", "data_type": "video"}
+{"file_id": "event_388", "file_path": "data/event/event_388.mp4", "annotation": "One person covered the man's face with a towel", "task": "event", "data_type": "video"}
+{"file_id": "event_389", "file_path": "data/event/event_389.mp4", "annotation": "A man in military uniform leans over.", "task": "event", "data_type": "video"}
+{"file_id": "event_390", "file_path": "data/event/event_390.mp4", "annotation": "The woman poured out all the alcohol.", "task": "event", "data_type": "video"}
+{"file_id": "event_391", "file_path": "data/event/event_391.mp4", "annotation": "The two women embraced each other.", "task": "event", "data_type": "video"}
+{"file_id": "event_392", "file_path": "data/event/event_392.mp4", "annotation": "The man propped himself up with his hands.", "task": "event", "data_type": "video"}
+{"file_id": "event_393", "file_path": "data/event/event_393.mp4", "annotation": "They search through someone's belongings.", "task": "event", "data_type": "video"}
+{"file_id": "event_394", "file_path": "data/event/event_394.mp4", "annotation": "A person dressed in white approached.", "task": "event", "data_type": "video"}
+{"file_id": "event_395", "file_path": "data/event/event_395.mp4", "annotation": "A herd of elephants appears on the grassland.", "task": "event", "data_type": "video"}
+{"file_id": "event_396", "file_path": "data/event/event_396.mp4", "annotation": "Two women walk past from the left", "task": "event", "data_type": "video"}
+{"file_id": "event_397", "file_path": "data/event/event_397.mp4", "annotation": "The man falls asleep.", "task": "event", "data_type": "video"}
+{"file_id": "event_398", "file_path": "data/event/event_398.mp4", "annotation": "Man and woman separate.", "task": "event", "data_type": "video"}
+{"file_id": "event_399", "file_path": "data/event/event_399.mp4", "annotation": "Water splashes around from the impact.", "task": "event", "data_type": "video"}
+{"file_id": "event_400", "file_path": "data/event/event_400.mp4", "annotation": "The man took off his glasses.", "task": "event", "data_type": "video"}
+{"file_id": "event_401", "file_path": "data/event/event_401.mp4", "annotation": "They spun together.", "task": "event", "data_type": "video"}
+{"file_id": "event_402", "file_path": "data/event/event_402.mp4", "annotation": "The camera focuses on a woman's profile.", "task": "event", "data_type": "video"}
+{"file_id": "event_403", "file_path": "data/event/event_403.mp4", "annotation": "The lady puts on sunglasses.", "task": "event", "data_type": "video"}
+{"file_id": "event_404", "file_path": "data/event/event_404.mp4", "annotation": "The boy broke into a street dance.", "task": "event", "data_type": "video"}
+{"file_id": "event_405", "file_path": "data/event/event_405.mp4", "annotation": "The girl repeatedly falls through the air.", "task": "event", "data_type": "video"}
+{"file_id": "event_406", "file_path": "data/event/event_406.mp4", "annotation": "Camera switches to another man.", "task": "event", "data_type": "video"}
+{"file_id": "event_407", "file_path": "data/event/event_407.mp4", "annotation": "Gentleman's leap misaligns causing a missed platform landing.", "task": "event", "data_type": "video"}
+{"file_id": "event_408", "file_path": "data/event/event_408.mp4", "annotation": "Man stomped foot and pants changed to black formal attire.", "task": "event", "data_type": "video"}
+{"file_id": "event_409", "file_path": "data/event/event_409.mp4", "annotation": "Lady displays white backpack.", "task": "event", "data_type": "video"}
+{"file_id": "event_410", "file_path": "data/event/event_410.mp4", "annotation": "Young man tosses flowers into the air.", "task": "event", "data_type": "video"}
+{"file_id": "event_411", "file_path": "data/event/event_411.mp4", "annotation": "The scene shifts to the entrance of a mall.", "task": "event", "data_type": "video"}
+{"file_id": "event_412", "file_path": "data/event/event_412.mp4", "annotation": "Person places a plate of ice cream on the desk", "task": "event", "data_type": "video"}
+{"file_id": "event_413", "file_path": "data/event/event_413.mp4", "annotation": "A woman chops lettuce.", "task": "event", "data_type": "video"}
+{"file_id": "event_414", "file_path": "data/event/event_414.mp4", "annotation": "Man covers pot with lid", "task": "event", "data_type": "video"}
+{"file_id": "event_415", "file_path": "data/event/event_415.mp4", "annotation": "A person scoops up marine life with a net.", "task": "event", "data_type": "video"}
+{"file_id": "event_416", "file_path": "data/event/event_416.mp4", "annotation": "Pig\u2019s mouth quivers slightly.", "task": "event", "data_type": "video"}
+{"file_id": "event_417", "file_path": "data/event/event_417.mp4", "annotation": "The child stands up.", "task": "event", "data_type": "video"}
+{"file_id": "event_418", "file_path": "data/event/event_418.mp4", "annotation": "Man performs another flip", "task": "event", "data_type": "video"}
+{"file_id": "event_419", "file_path": "data/event/event_419.mp4", "annotation": "The person in the green mascot suit sat up straight.", "task": "event", "data_type": "video"}
+{"file_id": "event_420", "file_path": "data/event/event_420.mp4", "annotation": "Little pig continues to eat", "task": "event", "data_type": "video"}
+{"file_id": "event_421", "file_path": "data/event/event_421.mp4", "annotation": "Warrior gets down", "task": "event", "data_type": "video"}
+{"file_id": "event_422", "file_path": "data/event/event_422.mp4", "annotation": "Person prepares to water plants.", "task": "event", "data_type": "video"}
+{"file_id": "event_423", "file_path": "data/event/event_423.mp4", "annotation": "A gentleman pours tea leaves into a large iron pot.", "task": "event", "data_type": "video"}
+{"file_id": "event_424", "file_path": "data/event/event_424.mp4", "annotation": "The male diver lands flat on the water's surface.", "task": "event", "data_type": "video"}
+{"file_id": "event_425", "file_path": "data/event/event_425.mp4", "annotation": "Pushing man moves out of the camera frame.", "task": "event", "data_type": "video"}
+{"file_id": "event_426", "file_path": "data/event/event_426.mp4", "annotation": "Guard passes the ball.", "task": "event", "data_type": "video"}
+{"file_id": "event_427", "file_path": "data/event/event_427.mp4", "annotation": "The monkey dodges to the right.", "task": "event", "data_type": "video"}
+{"file_id": "event_428", "file_path": "data/event/event_428.mp4", "annotation": "The snatcher runs off the subway.", "task": "event", "data_type": "video"}
+{"file_id": "event_429", "file_path": "data/event/event_429.mp4", "annotation": "Lady claimed to perform a magic trick.", "task": "event", "data_type": "video"}
+{"file_id": "event_430", "file_path": "data/event/event_430.mp4", "annotation": "Lady pinches the pelican's beak.", "task": "event", "data_type": "video"}
+{"file_id": "event_431", "file_path": "data/event/event_431.mp4", "annotation": "The woman squats down to pick up the hat.", "task": "event", "data_type": "video"}
+{"file_id": "event_432", "file_path": "data/event/event_432.mp4", "annotation": "The woman walks down a smoke-filled corridor", "task": "event", "data_type": "video"}
+{"file_id": "event_433", "file_path": "data/event/event_433.mp4", "annotation": "Person saws shell into long strips.", "task": "event", "data_type": "video"}
+{"file_id": "event_434", "file_path": "data/event/event_434.mp4", "annotation": "A yellow creature emerges from the sand.", "task": "event", "data_type": "video"}
+{"file_id": "event_435", "file_path": "data/event/event_435.mp4", "annotation": "The woman tears the white viscous material off the tree.", "task": "event", "data_type": "video"}
+{"file_id": "event_436", "file_path": "data/event/event_436.mp4", "annotation": "Trucks drive off the boat one by one", "task": "event", "data_type": "video"}
+{"file_id": "event_437", "file_path": "data/event/event_437.mp4", "annotation": "Another boy speaks.", "task": "event", "data_type": "video"}
+{"file_id": "event_438", "file_path": "data/event/event_438.mp4", "annotation": "Fingers press the button on the table", "task": "event", "data_type": "video"}
+{"file_id": "event_439", "file_path": "data/event/event_439.mp4", "annotation": "The woman looks up.", "task": "event", "data_type": "video"}
+{"file_id": "event_440", "file_path": "data/event/event_440.mp4", "annotation": "The woman hoists the bamboo strips and walks forward.", "task": "event", "data_type": "video"}
+{"file_id": "event_441", "file_path": "data/event/event_441.mp4", "annotation": "Woman peels back skin of bamboo shoot", "task": "event", "data_type": "video"}
+{"file_id": "event_442", "file_path": "data/event/event_442.mp4", "annotation": "The person bends over.", "task": "event", "data_type": "video"}
+{"file_id": "event_443", "file_path": "data/event/event_443.mp4", "annotation": "Person wearing brown gloves draws a line on marble.", "task": "event", "data_type": "video"}
+{"file_id": "event_444", "file_path": "data/event/event_444.mp4", "annotation": "The large dog opens the glass door", "task": "event", "data_type": "video"}
+{"file_id": "event_445", "file_path": "data/event/event_445.mp4", "annotation": "Man in white clothes approaches from the left.", "task": "event", "data_type": "video"}
+{"file_id": "event_446", "file_path": "data/event/event_446.mp4", "annotation": "People inside creature revealed as pranksters.", "task": "event", "data_type": "video"}
+{"file_id": "event_447", "file_path": "data/event/event_447.mp4", "annotation": "The person scooped flour with the colander.", "task": "event", "data_type": "video"}
+{"file_id": "event_448", "file_path": "data/event/event_448.mp4", "annotation": "The little boy picked up the bundle of plants.", "task": "event", "data_type": "video"}
+{"file_id": "event_449", "file_path": "data/event/event_449.mp4", "annotation": "Man threw flatbread up into the air.", "task": "event", "data_type": "video"}
+{"file_id": "event_450", "file_path": "data/event/event_450.mp4", "annotation": "The man fell onto the ground.", "task": "event", "data_type": "video"}
+{"file_id": "event_451", "file_path": "data/event/event_451.mp4", "annotation": "The man walked towards the opposite side of the street.", "task": "event", "data_type": "video"}
+{"file_id": "event_452", "file_path": "data/event/event_452.mp4", "annotation": "The bucket tips out mud-smeared crawfish.", "task": "event", "data_type": "video"}
+{"file_id": "event_453", "file_path": "data/event/event_453.mp4", "annotation": "Students walk out of school gates.", "task": "event", "data_type": "video"}
+{"file_id": "event_454", "file_path": "data/event/event_454.mp4", "annotation": "The person spread putty over the mesh.", "task": "event", "data_type": "video"}
+{"file_id": "event_455", "file_path": "data/event/event_455.mp4", "annotation": "Person dives underwater.", "task": "event", "data_type": "video"}
+{"file_id": "event_456", "file_path": "data/event/event_456.mp4", "annotation": "Person tosses the second durian down.", "task": "event", "data_type": "video"}
+{"file_id": "event_457", "file_path": "data/event/event_457.mp4", "annotation": "Dog retreats from cat.", "task": "event", "data_type": "video"}
+{"file_id": "event_458", "file_path": "data/event/event_458.mp4", "annotation": "Person places four pieces of black chocolate on top", "task": "event", "data_type": "video"}
+{"file_id": "event_459", "file_path": "data/event/event_459.mp4", "annotation": "Gentleman kicked the door with his foot.", "task": "event", "data_type": "video"}
+{"file_id": "event_460", "file_path": "data/event/event_460.mp4", "annotation": "Lady stands up from table.", "task": "event", "data_type": "video"}
+{"file_id": "event_461", "file_path": "data/event/event_461.mp4", "annotation": "The gentleman pulls the lady's hand toward his shoulder", "task": "event", "data_type": "video"}
+{"file_id": "event_462", "file_path": "data/event/event_462.mp4", "annotation": "A dog carries a rabbit in its mouth.", "task": "event", "data_type": "video"}
+{"file_id": "event_463", "file_path": "data/event/event_463.mp4", "annotation": "Man ran forward with the shovel.", "task": "event", "data_type": "video"}
+{"file_id": "event_464", "file_path": "data/event/event_464.mp4", "annotation": "The girl smiles and removes the black bag from shoulder", "task": "event", "data_type": "video"}
+{"file_id": "event_465", "file_path": "data/event/event_465.mp4", "annotation": "Rope catches on the man's legs.", "task": "event", "data_type": "video"}
+{"file_id": "event_466", "file_path": "data/event/event_466.mp4", "annotation": "The young men paddled forward in the river.", "task": "event", "data_type": "video"}
+{"file_id": "event_467", "file_path": "data/event/event_467.mp4", "annotation": "The dog turns skilled movements.", "task": "event", "data_type": "video"}
+{"file_id": "event_468", "file_path": "data/event/event_468.mp4", "annotation": "Monkey is embroidered covering its mouth", "task": "event", "data_type": "video"}
+{"file_id": "event_469", "file_path": "data/event/event_469.mp4", "annotation": "Crew-cut man lifted his arm.", "task": "event", "data_type": "video"}
+{"file_id": "event_470", "file_path": "data/event/event_470.mp4", "annotation": "Boy hooks second-to-last ring with crutch.", "task": "event", "data_type": "video"}
+{"file_id": "event_471", "file_path": "data/event/event_471.mp4", "annotation": "Pigeon flies out of balloon", "task": "event", "data_type": "video"}
+{"file_id": "event_472", "file_path": "data/event/event_472.mp4", "annotation": "Other people watch the lady's performance.", "task": "event", "data_type": "video"}
+{"file_id": "event_473", "file_path": "data/event/event_473.mp4", "annotation": "All four danced together", "task": "event", "data_type": "video"}
+{"file_id": "event_474", "file_path": "data/event/event_474.mp4", "annotation": "The second motorcycle and its rider fell.", "task": "event", "data_type": "video"}
+{"file_id": "event_475", "file_path": "data/event/event_475.mp4", "annotation": "The person in red holds a mountaineering pole.", "task": "event", "data_type": "video"}
+{"file_id": "event_476", "file_path": "data/event/event_476.mp4", "annotation": "They perform a forward bend.", "task": "event", "data_type": "video"}
+{"file_id": "event_477", "file_path": "data/event/event_477.mp4", "annotation": "Man follows holding the leash of the dog.", "task": "event", "data_type": "video"}
+{"file_id": "event_478", "file_path": "data/event/event_478.mp4", "annotation": "Man jumps onto treadmill", "task": "event", "data_type": "video"}
+{"file_id": "event_479", "file_path": "data/event/event_479.mp4", "annotation": "Delayed riders mount the track.", "task": "event", "data_type": "video"}
+{"file_id": "event_480", "file_path": "data/event/event_480.mp4", "annotation": "Rope attached to athlete began to slide downward.", "task": "event", "data_type": "video"}
+{"file_id": "event_481", "file_path": "data/event/event_481.mp4", "annotation": "Bald worker cleans the pond from the shore.", "task": "event", "data_type": "video"}
+{"file_id": "event_482", "file_path": "data/event/event_482.mp4", "annotation": "Skier slides down from summit.", "task": "event", "data_type": "video"}
+{"file_id": "event_483", "file_path": "data/event/event_483.mp4", "annotation": "Two lions approach the off-road vehicle from the left.", "task": "event", "data_type": "video"}
+{"file_id": "event_484", "file_path": "data/event/event_484.mp4", "annotation": "Balls roll past the holes at the table's end", "task": "event", "data_type": "video"}
+{"file_id": "event_485", "file_path": "data/event/event_485.mp4", "annotation": "A lady grips loops of rope.", "task": "event", "data_type": "video"}
+{"file_id": "event_486", "file_path": "data/event/event_486.mp4", "annotation": "Man lands on a slide.", "task": "event", "data_type": "video"}
+{"file_id": "event_487", "file_path": "data/event/event_487.mp4", "annotation": "Detached wheel hits speed bump", "task": "event", "data_type": "video"}
+{"file_id": "event_488", "file_path": "data/event/event_488.mp4", "annotation": "The person soars down from a high slope.", "task": "event", "data_type": "video"}
+{"file_id": "event_489", "file_path": "data/event/event_489.mp4", "annotation": "The man holds the crocodile with the tongs.", "task": "event", "data_type": "video"}
+{"file_id": "event_490", "file_path": "data/event/event_490.mp4", "annotation": "Person pours dumplings into the third bowl.", "task": "event", "data_type": "video"}
+{"file_id": "event_491", "file_path": "data/event/event_491.mp4", "annotation": "The man performs gymnastic moves.", "task": "event", "data_type": "video"}
+{"file_id": "event_492", "file_path": "data/event/event_492.mp4", "annotation": "The dog eats the ham sausage off the middle finger.", "task": "event", "data_type": "video"}
+{"file_id": "event_493", "file_path": "data/event/event_493.mp4", "annotation": "The small dog presses the button again", "task": "event", "data_type": "video"}
+{"file_id": "event_494", "file_path": "data/event/event_494.mp4", "annotation": "The soccer ball passes through the truck door", "task": "event", "data_type": "video"}
+{"file_id": "event_495", "file_path": "data/event/event_495.mp4", "annotation": "Person scooped the cormorants out of the river.", "task": "event", "data_type": "video"}
+{"file_id": "event_496", "file_path": "data/event/event_496.mp4", "annotation": "The lady throws the fish back into the stream.", "task": "event", "data_type": "video"}
+{"file_id": "event_497", "file_path": "data/event/event_497.mp4", "annotation": "Lady holds wine bottle and glass while surfing.", "task": "event", "data_type": "video"}
+{"file_id": "event_498", "file_path": "data/event/event_498.mp4", "annotation": "The boy ran back towards the entrance.", "task": "event", "data_type": "video"}
+{"file_id": "event_499", "file_path": "data/event/event_499.mp4", "annotation": "Man throws the plank into the river.", "task": "event", "data_type": "video"}
+{"file_id": "event_500", "file_path": "data/event/event_500.mp4", "annotation": "Koi fish began to swim forward.", "task": "event", "data_type": "video"}
+{"file_id": "event_501", "file_path": "data/event/event_501.mp4", "annotation": "The man stood up.", "task": "event", "data_type": "video"}
+{"file_id": "event_502", "file_path": "data/event/event_502.mp4", "annotation": "Lady stirs seasoning in bowl into paste.", "task": "event", "data_type": "video"}
+{"file_id": "event_503", "file_path": "data/event/event_503.mp4", "annotation": "Paper and petals flutter through the air.", "task": "event", "data_type": "video"}
+{"file_id": "event_504", "file_path": "data/event/event_504.mp4", "annotation": "Someone cut out a flower shape on the dough's outer side.", "task": "event", "data_type": "video"}
+{"file_id": "event_505", "file_path": "data/event/event_505.mp4", "annotation": "Calico cat reached a door.", "task": "event", "data_type": "video"}
+{"file_id": "event_506", "file_path": "data/event/event_506.mp4", "annotation": "A little white cat spread its hind legs.", "task": "event", "data_type": "video"}
+{"file_id": "event_507", "file_path": "data/event/event_507.mp4", "annotation": "The white dog reaches the person's side.", "task": "event", "data_type": "video"}
+{"file_id": "event_508", "file_path": "data/event/event_508.mp4", "annotation": "Second dolphin plunged into the water", "task": "event", "data_type": "video"}
+{"file_id": "event_509", "file_path": "data/event/event_509.mp4", "annotation": "The camera retreats from the approaching puppies.", "task": "event", "data_type": "video"}
+{"file_id": "event_510", "file_path": "data/event/event_510.mp4", "annotation": "Children sit nearby watching the competition.", "task": "event", "data_type": "video"}
+{"file_id": "event_511", "file_path": "data/event/event_511.mp4", "annotation": "The soccer ball continues to spin upwards.", "task": "event", "data_type": "video"}
+{"file_id": "event_512", "file_path": "data/event/event_512.mp4", "annotation": "The other twin lifts one's skirt.", "task": "event", "data_type": "video"}
+{"file_id": "event_513", "file_path": "data/event/event_513.mp4", "annotation": "A panda climbed onto a makeshift swing.", "task": "event", "data_type": "video"}
+{"file_id": "event_514", "file_path": "data/event/event_514.mp4", "annotation": "A panda tumbles from a wooden ramp.", "task": "event", "data_type": "video"}
+{"file_id": "event_515", "file_path": "data/event/event_515.mp4", "annotation": "The female diver blows a kiss.", "task": "event", "data_type": "video"}
+{"file_id": "event_516", "file_path": "data/event/event_516.mp4", "annotation": "The child raises their arms.", "task": "event", "data_type": "video"}
+{"file_id": "event_517", "file_path": "data/event/event_517.mp4", "annotation": "The girl exhibits shaky footing.", "task": "event", "data_type": "video"}
+{"file_id": "event_518", "file_path": "data/event/event_518.mp4", "annotation": "Cartoon piglet accelerates spinning speed.", "task": "event", "data_type": "video"}
+{"file_id": "event_519", "file_path": "data/event/event_519.mp4", "annotation": "The woman suspended herself in midair.", "task": "event", "data_type": "video"}
+{"file_id": "event_520", "file_path": "data/event/event_520.mp4", "annotation": "Athlete glides down a track", "task": "event", "data_type": "video"}
+{"file_id": "event_521", "file_path": "data/event/event_521.mp4", "annotation": "Skydiver stabilizes body position.", "task": "event", "data_type": "video"}
+{"file_id": "event_522", "file_path": "data/event/event_522.mp4", "annotation": "Women move in unison.", "task": "event", "data_type": "video"}
+{"file_id": "event_523", "file_path": "data/event/event_523.mp4", "annotation": "A person places half an egg into the bowl", "task": "event", "data_type": "video"}
+{"file_id": "event_524", "file_path": "data/event/event_524.mp4", "annotation": "The upper kitten makes a sound.", "task": "event", "data_type": "video"}
+{"file_id": "event_525", "file_path": "data/event/event_525.mp4", "annotation": "Front body of the truck is displayed", "task": "event", "data_type": "video"}
+{"file_id": "event_526", "file_path": "data/event/event_526.mp4", "annotation": "Motorcyclists approach a curve on the racetrack.", "task": "event", "data_type": "video"}
+{"file_id": "event_527", "file_path": "data/event/event_527.mp4", "annotation": "The duckling runs forward.", "task": "event", "data_type": "video"}
+{"file_id": "event_528", "file_path": "data/event/event_528.mp4", "annotation": "Snowy scenes appear.", "task": "event", "data_type": "video"}
+{"file_id": "event_529", "file_path": "data/event/event_529.mp4", "annotation": "Two kittens were squatting at the corner.", "task": "event", "data_type": "video"}
+{"file_id": "event_530", "file_path": "data/event/event_530.mp4", "annotation": "Person took a bun", "task": "event", "data_type": "video"}
+{"file_id": "event_531", "file_path": "data/event/event_531.mp4", "annotation": "Other puppy fell down after running a distance.", "task": "event", "data_type": "video"}
+{"file_id": "event_532", "file_path": "data/event/event_532.mp4", "annotation": "The woman stretched out her left leg.", "task": "event", "data_type": "video"}
+{"file_id": "event_533", "file_path": "data/event/event_533.mp4", "annotation": "The man bent his knees.", "task": "event", "data_type": "video"}
+{"file_id": "event_534", "file_path": "data/event/event_534.mp4", "annotation": "Child slides from left to right", "task": "event", "data_type": "video"}
+{"file_id": "event_535", "file_path": "data/event/event_535.mp4", "annotation": "Spray of water flies in all directions", "task": "event", "data_type": "video"}
+{"file_id": "event_536", "file_path": "data/event/event_536.mp4", "annotation": "Two teams play a volleyball match.", "task": "event", "data_type": "video"}
+{"file_id": "event_537", "file_path": "data/event/event_537.mp4", "annotation": "Man turns and walks towards the camera.", "task": "event", "data_type": "video"}
+{"file_id": "event_538", "file_path": "data/event/event_538.mp4", "annotation": "The girl holds a bouquet of flowers.", "task": "event", "data_type": "video"}
+{"file_id": "event_539", "file_path": "data/event/event_539.mp4", "annotation": "The man takes a bite of the hamburger.", "task": "event", "data_type": "video"}
+{"file_id": "event_540", "file_path": "data/event/event_540.mp4", "annotation": "The woman picks up a jacket.", "task": "event", "data_type": "video"}
+{"file_id": "event_541", "file_path": "data/event/event_541.mp4", "annotation": "The man steps back to the right.", "task": "event", "data_type": "video"}
+{"file_id": "event_542", "file_path": "data/event/event_542.mp4", "annotation": "The man walks forward.", "task": "event", "data_type": "video"}
+{"file_id": "event_543", "file_path": "data/event/event_543.mp4", "annotation": "Another donkey walks over.", "task": "event", "data_type": "video"}
+{"file_id": "event_544", "file_path": "data/event/event_544.mp4", "annotation": "Athlete repairs the bicycle.", "task": "event", "data_type": "video"}
+{"file_id": "event_545", "file_path": "data/event/event_545.mp4", "annotation": "The camera followed the motion.", "task": "event", "data_type": "video"}
+{"file_id": "event_546", "file_path": "data/event/event_546.mp4", "annotation": "The boy crouches down on the skateboard.", "task": "event", "data_type": "video"}
+{"file_id": "event_547", "file_path": "data/event/event_547.mp4", "annotation": "A kitten climbed under the tree on the right.", "task": "event", "data_type": "video"}
+{"file_id": "event_548", "file_path": "data/event/event_548.mp4", "annotation": "Person glides down", "task": "event", "data_type": "video"}
+{"file_id": "event_549", "file_path": "data/event/event_549.mp4", "annotation": "Woman put her glasses back on.", "task": "event", "data_type": "video"}
+{"file_id": "event_550", "file_path": "data/event/event_550.mp4", "annotation": "The man falls back down onto the trampoline.", "task": "event", "data_type": "video"}
+{"file_id": "event_551", "file_path": "data/event/event_551.mp4", "annotation": "Water creates a splash.", "task": "event", "data_type": "video"}
+{"file_id": "event_552", "file_path": "data/event/event_552.mp4", "annotation": "The man hugs his knees.", "task": "event", "data_type": "video"}
+{"file_id": "event_553", "file_path": "data/event/event_553.mp4", "annotation": "The man turns around to sit up.", "task": "event", "data_type": "video"}
+{"file_id": "event_554", "file_path": "data/event/event_554.mp4", "annotation": "The man steps back.", "task": "event", "data_type": "video"}
+{"file_id": "event_555", "file_path": "data/event/event_555.mp4", "annotation": "The stream flows on.", "task": "event", "data_type": "video"}
+{"file_id": "event_556", "file_path": "data/event/event_556.mp4", "annotation": "Persons descend together forward.", "task": "event", "data_type": "video"}
+{"file_id": "event_557", "file_path": "data/event/event_557.mp4", "annotation": "The woman coordinates her hands and feet.", "task": "event", "data_type": "video"}
+{"file_id": "event_558", "file_path": "data/event/event_558.mp4", "annotation": "The man walks up beside the cow.", "task": "event", "data_type": "video"}
+{"file_id": "event_559", "file_path": "data/event/event_559.mp4", "annotation": "A person walks around on the left.", "task": "event", "data_type": "video"}
+{"file_id": "event_560", "file_path": "data/event/event_560.mp4", "annotation": "A person washes their hands", "task": "event", "data_type": "video"}
+{"file_id": "event_561", "file_path": "data/event/event_561.mp4", "annotation": "The man lands", "task": "event", "data_type": "video"}
+{"file_id": "event_562", "file_path": "data/event/event_562.mp4", "annotation": "Another girl appears from the right", "task": "event", "data_type": "video"}
+{"file_id": "event_563", "file_path": "data/event/event_563.mp4", "annotation": "The man performs nunchuck movements", "task": "event", "data_type": "video"}
+{"file_id": "event_564", "file_path": "data/event/event_564.mp4", "annotation": "The puppy backs away.", "task": "event", "data_type": "video"}
+{"file_id": "event_565", "file_path": "data/event/event_565.mp4", "annotation": "Camera pans to the right.", "task": "event", "data_type": "video"}
+{"file_id": "event_566", "file_path": "data/event/event_566.mp4", "annotation": "The boy claps his hands.", "task": "event", "data_type": "video"}
+{"file_id": "event_567", "file_path": "data/event/event_567.mp4", "annotation": "The girl behind runs up beside them.", "task": "event", "data_type": "video"}
+{"file_id": "event_568", "file_path": "data/event/event_568.mp4", "annotation": "Second person jumped to touch the object.", "task": "event", "data_type": "video"}
+{"file_id": "event_569", "file_path": "data/event/event_569.mp4", "annotation": "The girls touched their mouths with left hands.", "task": "event", "data_type": "video"}
+{"file_id": "event_570", "file_path": "data/event/event_570.mp4", "annotation": "The man climbs up the wall.", "task": "event", "data_type": "video"}
+{"file_id": "event_571", "file_path": "data/event/event_571.mp4", "annotation": "Child walks forward", "task": "event", "data_type": "video"}
+{"file_id": "event_572", "file_path": "data/event/event_572.mp4", "annotation": "Man in black coat moves stool away.", "task": "event", "data_type": "video"}
+{"file_id": "event_573", "file_path": "data/event/event_573.mp4", "annotation": "Person plants feet on the ground.", "task": "event", "data_type": "video"}
+{"file_id": "event_574", "file_path": "data/event/event_574.mp4", "annotation": "A boy bends over with a basin.", "task": "event", "data_type": "video"}
+{"file_id": "event_575", "file_path": "data/event/event_575.mp4", "annotation": "Parrot moves its foot away.", "task": "event", "data_type": "video"}
+{"file_id": "event_576", "file_path": "data/event/event_576.mp4", "annotation": "Camera panned downward", "task": "event", "data_type": "video"}
+{"file_id": "event_577", "file_path": "data/event/event_577.mp4", "annotation": "The man walks on", "task": "event", "data_type": "video"}
+{"file_id": "event_578", "file_path": "data/event/event_578.mp4", "annotation": "The man looks down", "task": "event", "data_type": "video"}
+{"file_id": "event_579", "file_path": "data/event/event_579.mp4", "annotation": "The woman rides forward with her feet on the motorcycle.", "task": "event", "data_type": "video"}
+{"file_id": "event_580", "file_path": "data/event/event_580.mp4", "annotation": "High-rise building caught fire.", "task": "event", "data_type": "video"}
+{"file_id": "event_581", "file_path": "data/event/event_581.mp4", "annotation": "A large hammer spins in the middle of the scene.", "task": "event", "data_type": "video"}
+{"file_id": "event_582", "file_path": "data/event/event_582.mp4", "annotation": "Group on the bridge watches the situation", "task": "event", "data_type": "video"}
+{"file_id": "event_583", "file_path": "data/event/event_583.mp4", "annotation": "The sitting child holds onto the bamboo pole.", "task": "event", "data_type": "video"}
+{"file_id": "event_584", "file_path": "data/event/event_584.mp4", "annotation": "Woman in yellow shirt reaches out to hit volleyball.", "task": "event", "data_type": "video"}
+{"file_id": "event_585", "file_path": "data/event/event_585.mp4", "annotation": "The girl pushes soil over the duck corpses.", "task": "event", "data_type": "video"}
+{"file_id": "event_586", "file_path": "data/event/event_586.mp4", "annotation": "Interior is undergoing renovation.", "task": "event", "data_type": "video"}
+{"file_id": "event_587", "file_path": "data/event/event_587.mp4", "annotation": "They circle around a pillar", "task": "event", "data_type": "video"}
+{"file_id": "event_588", "file_path": "data/event/event_588.mp4", "annotation": "The man looks up.", "task": "event", "data_type": "video"}
+{"file_id": "event_589", "file_path": "data/event/event_589.mp4", "annotation": "Man grips a pair of tongs", "task": "event", "data_type": "video"}
+{"file_id": "event_590", "file_path": "data/event/event_590.mp4", "annotation": "Small dog extends paw to close the door.", "task": "event", "data_type": "video"}
+{"file_id": "event_591", "file_path": "data/event/event_591.mp4", "annotation": "The woman's right hand swings", "task": "event", "data_type": "video"}
+{"file_id": "event_592", "file_path": "data/event/event_592.mp4", "annotation": "Monkey in pink clothes eats the food.", "task": "event", "data_type": "video"}
+{"file_id": "event_593", "file_path": "data/event/event_593.mp4", "annotation": "Security guard shakes body", "task": "event", "data_type": "video"}
+{"file_id": "event_594", "file_path": "data/event/event_594.mp4", "annotation": "Bird repeats actions", "task": "event", "data_type": "video"}
+{"file_id": "event_595", "file_path": "data/event/event_595.mp4", "annotation": "Man takes off his black coat.", "task": "event", "data_type": "video"}
+{"file_id": "event_596", "file_path": "data/event/event_596.mp4", "annotation": "The soccer player's right leg stretches out.", "task": "event", "data_type": "video"}
+{"file_id": "event_597", "file_path": "data/event/event_597.mp4", "annotation": "Monkey occasionally looks up.", "task": "event", "data_type": "video"}
+{"file_id": "event_598", "file_path": "data/event/event_598.mp4", "annotation": "Balloons burst", "task": "event", "data_type": "video"}
+{"file_id": "event_599", "file_path": "data/event/event_599.mp4", "annotation": "Man places the stick on another sheep.", "task": "event", "data_type": "video"}
+{"file_id": "event_600", "file_path": "data/event/event_600.mp4", "annotation": "Little girl leads group, grabbing woman in red's clothing.", "task": "event", "data_type": "video"}
+{"file_id": "event_601", "file_path": "data/event/event_601.mp4", "annotation": "Person on the left raises hand.", "task": "event", "data_type": "video"}
+{"file_id": "event_602", "file_path": "data/event/event_602.mp4", "annotation": "Man in suit holds pen", "task": "event", "data_type": "video"}
+{"file_id": "event_603", "file_path": "data/event/event_603.mp4", "annotation": "First person drinks the drink", "task": "event", "data_type": "video"}
+{"file_id": "event_604", "file_path": "data/event/event_604.mp4", "annotation": "Person closes the book.", "task": "event", "data_type": "video"}
+{"file_id": "event_605", "file_path": "data/event/event_605.mp4", "annotation": "Girls continue to catch bubbles", "task": "event", "data_type": "video"}
+{"file_id": "event_606", "file_path": "data/event/event_606.mp4", "annotation": "Woman pushes off from the pool's edge", "task": "event", "data_type": "video"}
+{"file_id": "event_607", "file_path": "data/event/event_607.mp4", "annotation": "Fragments fly off the screen.", "task": "event", "data_type": "video"}
+{"file_id": "event_608", "file_path": "data/event/event_608.mp4", "annotation": "A pair of clenched fists moved slightly backward.", "task": "event", "data_type": "video"}
+{"file_id": "event_609", "file_path": "data/event/event_609.mp4", "annotation": "A person takes out a mobile phone in front of the counter.", "task": "event", "data_type": "video"}
+{"file_id": "event_610", "file_path": "data/event/event_610.mp4", "annotation": "Child scoops soil with a shovel", "task": "event", "data_type": "video"}
+{"file_id": "event_611", "file_path": "data/event/event_611.mp4", "annotation": "Close-up of door lock", "task": "event", "data_type": "video"}
+{"file_id": "event_612", "file_path": "data/event/event_612.mp4", "annotation": "Two people stand in front of a sink", "task": "event", "data_type": "video"}
+{"file_id": "event_613", "file_path": "data/event/event_613.mp4", "annotation": "Receiver kicks ball back to the man on the right", "task": "event", "data_type": "video"}
+{"file_id": "event_614", "file_path": "data/event/event_614.mp4", "annotation": "Person sprays cleaner on treadmill handle.", "task": "event", "data_type": "video"}
+{"file_id": "event_615", "file_path": "data/event/event_615.mp4", "annotation": "Woman half-kneels on the ground.", "task": "event", "data_type": "video"}
+{"file_id": "event_616", "file_path": "data/event/event_616.mp4", "annotation": "The man plants his left foot on the hillside.", "task": "event", "data_type": "video"}
+{"file_id": "event_617", "file_path": "data/event/event_617.mp4", "annotation": "Man puts on helmet", "task": "event", "data_type": "video"}
+{"file_id": "event_618", "file_path": "data/event/event_618.mp4", "annotation": "Two individuals walk to the left.", "task": "event", "data_type": "video"}
+{"file_id": "event_619", "file_path": "data/event/event_619.mp4", "annotation": "The leopard slows to a gentle run.", "task": "event", "data_type": "video"}
+{"file_id": "event_620", "file_path": "data/event/event_620.mp4", "annotation": "Person arranges avocado on chocolate toast", "task": "event", "data_type": "video"}
+{"file_id": "event_621", "file_path": "data/event/event_621.mp4", "annotation": "A hummingbird flutters its wings.", "task": "event", "data_type": "video"}
+{"file_id": "event_622", "file_path": "data/event/event_622.mp4", "annotation": "Horse's legs come into view.", "task": "event", "data_type": "video"}
+{"file_id": "event_623", "file_path": "data/event/event_623.mp4", "annotation": "Another lady meets the red ball.", "task": "event", "data_type": "video"}
+{"file_id": "event_624", "file_path": "data/event/event_624.mp4", "annotation": "The person puts on the headphones.", "task": "event", "data_type": "video"}
+{"file_id": "event_625", "file_path": "data/event/event_625.mp4", "annotation": "A person wearing a hat approached the door with a pistol.", "task": "event", "data_type": "video"}
+{"file_id": "event_626", "file_path": "data/event/event_626.mp4", "annotation": "The number rapidly climbs to three-digit numbers.", "task": "event", "data_type": "video"}
+{"file_id": "event_627", "file_path": "data/event/event_627.mp4", "annotation": "A radius sweeps clockwise around the circle.", "task": "event", "data_type": "video"}
+{"file_id": "event_628", "file_path": "data/event/event_628.mp4", "annotation": "Street lights come on.", "task": "event", "data_type": "video"}
+{"file_id": "event_629", "file_path": "data/event/event_629.mp4", "annotation": "A trimmer grooms around the man's mouth.", "task": "event", "data_type": "video"}
+{"file_id": "event_630", "file_path": "data/event/event_630.mp4", "annotation": "Feet jumped back onto the platform", "task": "event", "data_type": "video"}
+{"file_id": "event_631", "file_path": "data/event/event_631.mp4", "annotation": "The traffic light turns red.", "task": "event", "data_type": "video"}
+{"file_id": "event_632", "file_path": "data/event/event_632.mp4", "annotation": "The baby pokes at the fruit several times.", "task": "event", "data_type": "video"}
+{"file_id": "event_633", "file_path": "data/event/event_633.mp4", "annotation": "Person jogs in orange running shoes.", "task": "event", "data_type": "video"}
+{"file_id": "event_634", "file_path": "data/event/event_634.mp4", "annotation": "The dog turns its head forth", "task": "event", "data_type": "video"}
+{"file_id": "event_635", "file_path": "data/event/event_635.mp4", "annotation": "Person in white distributes food to people on the left.", "task": "event", "data_type": "video"}
+{"file_id": "event_636", "file_path": "data/event/event_636.mp4", "annotation": "Food is contained for storage", "task": "event", "data_type": "video"}
+{"file_id": "event_637", "file_path": "data/event/event_637.mp4", "annotation": "A baking pan holds several pancakes.", "task": "event", "data_type": "video"}
+{"file_id": "event_638", "file_path": "data/event/event_638.mp4", "annotation": "Hands spread potting soil around the plant.", "task": "event", "data_type": "video"}
+{"file_id": "event_639", "file_path": "data/event/event_639.mp4", "annotation": "Camera rotates to the left.", "task": "event", "data_type": "video"}
+{"file_id": "event_640", "file_path": "data/event/event_640.mp4", "annotation": "Person holds tweezers.", "task": "event", "data_type": "video"}
+{"file_id": "event_641", "file_path": "data/event/event_641.mp4", "annotation": "Two children stare at the automatic dough mixer.", "task": "event", "data_type": "video"}
+{"file_id": "event_642", "file_path": "data/event/event_642.mp4", "annotation": "A person lifts one corner of the semi-circular pastry.", "task": "event", "data_type": "video"}
+{"file_id": "event_643", "file_path": "data/event/event_643.mp4", "annotation": "The second mat's back is facing up.", "task": "event", "data_type": "video"}
+{"file_id": "event_644", "file_path": "data/event/event_644.mp4", "annotation": "Two people walk past.", "task": "event", "data_type": "video"}
+{"file_id": "event_645", "file_path": "data/event/event_645.mp4", "annotation": "Yellow floating matter tumbles by fish's movement.", "task": "event", "data_type": "video"}
+{"file_id": "event_646", "file_path": "data/event/event_646.mp4", "annotation": "The sun sets on the horizon.", "task": "event", "data_type": "video"}
+{"file_id": "event_647", "file_path": "data/event/event_647.mp4", "annotation": "Person starts chopping the onion.", "task": "event", "data_type": "video"}
+{"file_id": "event_648", "file_path": "data/event/event_648.mp4", "annotation": "A droplet of water poises on either side of the pepper.", "task": "event", "data_type": "video"}
+{"file_id": "event_650", "file_path": "data/event/event_650.mp4", "annotation": "Maroon butterfly flies from left to right", "task": "event", "data_type": "video"}
+{"file_id": "event_651", "file_path": "data/event/event_651.mp4", "annotation": "Person wears long black skirt.", "task": "event", "data_type": "video"}
+{"file_id": "event_652", "file_path": "data/event/event_652.mp4", "annotation": "Left hand is already wrapped with black cloth bandage.", "task": "event", "data_type": "video"}
+{"file_id": "event_653", "file_path": "data/event/event_653.mp4", "annotation": "Second person places towel to left of sink.", "task": "event", "data_type": "video"}
+{"file_id": "event_654", "file_path": "data/event/event_654.mp4", "annotation": "The lionfish is swimming in the water.", "task": "event", "data_type": "video"}
+{"file_id": "event_655", "file_path": "data/event/event_655.mp4", "annotation": "Strand of long hair sways in front of chest.", "task": "event", "data_type": "video"}
+{"file_id": "event_656", "file_path": "data/event/event_656.mp4", "annotation": "Adult men and women face each other.", "task": "event", "data_type": "video"}
+{"file_id": "event_657", "file_path": "data/event/event_657.mp4", "annotation": "Fire light fades away", "task": "event", "data_type": "video"}
+{"file_id": "event_658", "file_path": "data/event/event_658.mp4", "annotation": "Seagull flies away immediately.", "task": "event", "data_type": "video"}
+{"file_id": "event_659", "file_path": "data/event/event_659.mp4", "annotation": "Camera moves upward from feet to lower legs.", "task": "event", "data_type": "video"}
+{"file_id": "event_660", "file_path": "data/event/event_660.mp4", "annotation": "Full sheets moved continuously upwards.", "task": "event", "data_type": "video"}
+{"file_id": "event_661", "file_path": "data/event/event_661.mp4", "annotation": "The water surface ripples.", "task": "event", "data_type": "video"}
+{"file_id": "event_662", "file_path": "data/event/event_662.mp4", "annotation": "Horses raise dust with their hooves.", "task": "event", "data_type": "video"}
+{"file_id": "event_663", "file_path": "data/event/event_663.mp4", "annotation": "Person dribbles towards the basket.", "task": "event", "data_type": "video"}
+{"file_id": "event_664", "file_path": "data/event/event_664.mp4", "annotation": "An eagle is soaring in the sky.", "task": "event", "data_type": "video"}
+{"file_id": "event_665", "file_path": "data/event/event_665.mp4", "annotation": "The three people exchange words.", "task": "event", "data_type": "video"}
+{"file_id": "event_666", "file_path": "data/event/event_666.mp4", "annotation": "A lady gestures with both hands while talking.", "task": "event", "data_type": "video"}
+{"file_id": "event_667", "file_path": "data/event/event_667.mp4", "annotation": "Other vegetables rest in the bowl.", "task": "event", "data_type": "video"}
+{"file_id": "event_668", "file_path": "data/event/event_668.mp4", "annotation": "The leopard walks to the right on the trunk.", "task": "event", "data_type": "video"}
+{"file_id": "event_669", "file_path": "data/event/event_669.mp4", "annotation": "Man and woman hugged each other.", "task": "event", "data_type": "video"}
+{"file_id": "event_670", "file_path": "data/event/event_670.mp4", "annotation": "A white guy repeatedly gestures towards the front.", "task": "event", "data_type": "video"}
+{"file_id": "event_671", "file_path": "data/event/event_671.mp4", "annotation": "The man follows the woman.", "task": "event", "data_type": "video"}
+{"file_id": "event_672", "file_path": "data/event/event_672.mp4", "annotation": "Water rose again.", "task": "event", "data_type": "video"}
+{"file_id": "event_673", "file_path": "data/event/event_673.mp4", "annotation": "The girl flattens the clay with her hands.", "task": "event", "data_type": "video"}
+{"file_id": "event_674", "file_path": "data/event/event_674.mp4", "annotation": "A series of small explosions occurred on the ground.", "task": "event", "data_type": "video"}
+{"file_id": "event_675", "file_path": "data/event/event_675.mp4", "annotation": "A delivery guy rides a bicycle.", "task": "event", "data_type": "video"}
+{"file_id": "event_676", "file_path": "data/event/event_676.mp4", "annotation": "The camera focuses on the female character's profile.", "task": "event", "data_type": "video"}
+{"file_id": "event_677", "file_path": "data/event/event_677.mp4", "annotation": "Workers perform tasks efficiently", "task": "event", "data_type": "video"}
+{"file_id": "event_678", "file_path": "data/event/event_678.mp4", "annotation": "A black car moves through the crowd.", "task": "event", "data_type": "video"}
+{"file_id": "event_679", "file_path": "data/event/event_679.mp4", "annotation": "The young woman points to a drawing inside the notebook.", "task": "event", "data_type": "video"}
+{"file_id": "event_680", "file_path": "data/event/event_680.mp4", "annotation": "Players reveal their choices again.", "task": "event", "data_type": "video"}
+{"file_id": "event_681", "file_path": "data/event/event_681.mp4", "annotation": "A man and a woman opened a paper box", "task": "event", "data_type": "video"}
+{"file_id": "event_682", "file_path": "data/event/event_682.mp4", "annotation": "That person uses a spray bottle.", "task": "event", "data_type": "video"}
+{"file_id": "event_683", "file_path": "data/event/event_683.mp4", "annotation": "The camera films another car.", "task": "event", "data_type": "video"}
+{"file_id": "event_684", "file_path": "data/event/event_684.mp4", "annotation": "The woman smiles.", "task": "event", "data_type": "video"}
+{"file_id": "event_685", "file_path": "data/event/event_685.mp4", "annotation": "The lady climbs up the slope.", "task": "event", "data_type": "video"}
+{"file_id": "event_686", "file_path": "data/event/event_686.mp4", "annotation": "The black athlete takes off running.", "task": "event", "data_type": "video"}
+{"file_id": "event_687", "file_path": "data/event/event_687.mp4", "annotation": "Three hands hold pens above a notebook.", "task": "event", "data_type": "video"}
+{"file_id": "event_688", "file_path": "data/event/event_688.mp4", "annotation": "The lady runs for a few steps.", "task": "event", "data_type": "video"}
+{"file_id": "event_689", "file_path": "data/event/event_689.mp4", "annotation": "Girl pushes tower towards camera.", "task": "event", "data_type": "video"}
+{"file_id": "event_690", "file_path": "data/event/event_690.mp4", "annotation": "The homemade tank travels on the city road.", "task": "event", "data_type": "video"}
+{"file_id": "event_691", "file_path": "data/event/event_691.mp4", "annotation": "Other players slide out of the frame.", "task": "event", "data_type": "video"}
+{"file_id": "event_692", "file_path": "data/event/event_692.mp4", "annotation": "The man's hands play the guitar.", "task": "event", "data_type": "video"}
+{"file_id": "event_693", "file_path": "data/event/event_693.mp4", "annotation": "Little girl lies in bed.", "task": "event", "data_type": "video"}
+{"file_id": "event_694", "file_path": "data/event/event_694.mp4", "annotation": "Another pig crosses the frame.", "task": "event", "data_type": "video"}
+{"file_id": "event_695", "file_path": "data/event/event_695.mp4", "annotation": "Pirate ship sways in the distance.", "task": "event", "data_type": "video"}
+{"file_id": "event_696", "file_path": "data/event/event_696.mp4", "annotation": "The video ends after most of the envelope has burned away.", "task": "event", "data_type": "video"}
+{"file_id": "event_697", "file_path": "data/event/event_697.mp4", "annotation": "The first woman passes the cup to the woman with the thick scarf.", "task": "event", "data_type": "video"}
+{"file_id": "event_698", "file_path": "data/event/event_698.mp4", "annotation": "Sun illuminates the sky.", "task": "event", "data_type": "video"}
+{"file_id": "event_699", "file_path": "data/event/event_699.mp4", "annotation": "Hands reach down", "task": "event", "data_type": "video"}
+{"file_id": "event_700", "file_path": "data/event/event_700.mp4", "annotation": "Gentleman claps hands", "task": "event", "data_type": "video"}
+{"file_id": "event_701", "file_path": "data/event/event_701.mp4", "annotation": "A third bird flies up from below.", "task": "event", "data_type": "video"}
+{"file_id": "event_702", "file_path": "data/event/event_702.mp4", "annotation": "A few small fish swim towards the octopus.", "task": "event", "data_type": "video"}
+{"file_id": "event_703", "file_path": "data/event/event_703.mp4", "annotation": "The dog eats the food.", "task": "event", "data_type": "video"}
+{"file_id": "event_704", "file_path": "data/event/event_704.mp4", "annotation": "Little dogs frolic alongside the feet.", "task": "event", "data_type": "video"}
+{"file_id": "event_705", "file_path": "data/event/event_705.mp4", "annotation": "Tester inserts a cotton swab into the person's mouth", "task": "event", "data_type": "video"}
+{"file_id": "event_706", "file_path": "data/event/event_706.mp4", "annotation": "Person used spatulas to turn the vegetables.", "task": "event", "data_type": "video"}
+{"file_id": "event_707", "file_path": "data/event/event_707.mp4", "annotation": "Another leopard starts running.", "task": "event", "data_type": "video"}
+{"file_id": "event_708", "file_path": "data/event/event_708.mp4", "annotation": "The man picks up the bottle.", "task": "event", "data_type": "video"}
+{"file_id": "event_709", "file_path": "data/event/event_709.mp4", "annotation": "The person uses a tissue.", "task": "event", "data_type": "video"}
+{"file_id": "event_710", "file_path": "data/event/event_710.mp4", "annotation": "Each square contains a moving eye.", "task": "event", "data_type": "video"}
+{"file_id": "event_711", "file_path": "data/event/event_711.mp4", "annotation": "A hand picks up a knight.", "task": "event", "data_type": "video"}
+{"file_id": "event_712", "file_path": "data/event/event_712.mp4", "annotation": "A person bent down beside a black car.", "task": "event", "data_type": "video"}
+{"file_id": "event_713", "file_path": "data/event/event_713.mp4", "annotation": "The front runners cross over a low wall.", "task": "event", "data_type": "video"}
+{"file_id": "event_714", "file_path": "data/event/event_714.mp4", "annotation": "Ships appeared in the distance.", "task": "event", "data_type": "video"}
+{"file_id": "event_715", "file_path": "data/event/event_715.mp4", "annotation": "Another person assumes the position of a goalkeeper", "task": "event", "data_type": "video"}
+{"file_id": "event_716", "file_path": "data/event/event_716.mp4", "annotation": "The woman twists her body.", "task": "event", "data_type": "video"}
+{"file_id": "event_717", "file_path": "data/event/event_717.mp4", "annotation": "The man looks down at his camera.", "task": "event", "data_type": "video"}
+{"file_id": "event_718", "file_path": "data/event/event_718.mp4", "annotation": "Person returns to ground", "task": "event", "data_type": "video"}
+{"file_id": "event_719", "file_path": "data/event/event_719.mp4", "annotation": "Lady shows an expression of surprise.", "task": "event", "data_type": "video"}
+{"file_id": "event_720", "file_path": "data/event/event_720.mp4", "annotation": "Metallic text stops in the center", "task": "event", "data_type": "video"}
+{"file_id": "event_721", "file_path": "data/event/event_721.mp4", "annotation": "Person cycles quickly downhill.", "task": "event", "data_type": "video"}
+{"file_id": "event_722", "file_path": "data/event/event_722.mp4", "annotation": "The man in the middle flips cards onto the table.", "task": "event", "data_type": "video"}
+{"file_id": "event_723", "file_path": "data/event/event_723.mp4", "annotation": "The second person deployed their parachute.", "task": "event", "data_type": "video"}
+{"file_id": "event_724", "file_path": "data/event/event_724.mp4", "annotation": "Little girl stands in the pool.", "task": "event", "data_type": "video"}
+{"file_id": "event_725", "file_path": "data/event/event_725.mp4", "annotation": "A man in the distance waves at the camera.", "task": "event", "data_type": "video"}
+{"file_id": "event_726", "file_path": "data/event/event_726.mp4", "annotation": "The man did a pull-up.", "task": "event", "data_type": "video"}
+{"file_id": "event_727", "file_path": "data/event/event_727.mp4", "annotation": "A man picks up a white windmill model.", "task": "event", "data_type": "video"}
+{"file_id": "event_728", "file_path": "data/event/event_728.mp4", "annotation": "The woman places a lemon slice into the cup.", "task": "event", "data_type": "video"}
+{"file_id": "event_729", "file_path": "data/event/event_729.mp4", "annotation": "The image darkens gradually.", "task": "event", "data_type": "video"}
+{"file_id": "event_730", "file_path": "data/event/event_730.mp4", "annotation": "Another horse sprints forward", "task": "event", "data_type": "video"}
+{"file_id": "event_731", "file_path": "data/event/event_731.mp4", "annotation": "A woman holds a mobile phone.", "task": "event", "data_type": "video"}
+{"file_id": "event_732", "file_path": "data/event/event_732.mp4", "annotation": "The camera captures seaside buildings.", "task": "event", "data_type": "video"}
+{"file_id": "event_733", "file_path": "data/event/event_733.mp4", "annotation": "A person walks up to the scooter.", "task": "event", "data_type": "video"}
+{"file_id": "event_734", "file_path": "data/event/event_734.mp4", "annotation": "Hands reached towards the branches.", "task": "event", "data_type": "video"}
+{"file_id": "event_735", "file_path": "data/event/event_735.mp4", "annotation": "The eagle lands on a cliff face.", "task": "event", "data_type": "video"}
+{"file_id": "event_736", "file_path": "data/event/event_736.mp4", "annotation": "Foot steps forward.", "task": "event", "data_type": "video"}
+{"file_id": "event_737", "file_path": "data/event/event_737.mp4", "annotation": "Person reaches out.", "task": "event", "data_type": "video"}
+{"file_id": "event_738", "file_path": "data/event/event_738.mp4", "annotation": "The top document titled 'contract agreement' quickly turned to ashes.", "task": "event", "data_type": "video"}
+{"file_id": "event_739", "file_path": "data/event/event_739.mp4", "annotation": "The other puppy had been reaching into the food bowl.", "task": "event", "data_type": "video"}
+{"file_id": "event_740", "file_path": "data/event/event_740.mp4", "annotation": "A person reaches out.", "task": "event", "data_type": "video"}
+{"file_id": "event_741", "file_path": "data/event/event_741.mp4", "annotation": "Red blood cells become blocked", "task": "event", "data_type": "video"}
+{"file_id": "event_742", "file_path": "data/event/event_742.mp4", "annotation": "The boy turns his head to look right.", "task": "event", "data_type": "video"}
+{"file_id": "event_743", "file_path": "data/event/event_743.mp4", "annotation": "Person repeats the transferring action.", "task": "event", "data_type": "video"}
+{"file_id": "event_744", "file_path": "data/event/event_744.mp4", "annotation": "A dark shadow moved upwards against a red background.", "task": "event", "data_type": "video"}
+{"file_id": "event_745", "file_path": "data/event/event_745.mp4", "annotation": "A person counts money.", "task": "event", "data_type": "video"}
+{"file_id": "event_746", "file_path": "data/event/event_746.mp4", "annotation": "The clock moves upwards.", "task": "event", "data_type": "video"}
+{"file_id": "event_747", "file_path": "data/event/event_747.mp4", "annotation": "Blonde-haired woman shakes head", "task": "event", "data_type": "video"}
+{"file_id": "event_748", "file_path": "data/event/event_748.mp4", "annotation": "The girl embraced the man.", "task": "event", "data_type": "video"}
+{"file_id": "event_749", "file_path": "data/event/event_749.mp4", "annotation": "The dog shook the water off its body.", "task": "event", "data_type": "video"}
+{"file_id": "event_750", "file_path": "data/event/event_750.mp4", "annotation": "One player kicks the ball.", "task": "event", "data_type": "video"}
+{"file_id": "event_751", "file_path": "data/event/event_751.mp4", "annotation": "Person continues to turn over the ground.", "task": "event", "data_type": "video"}
+{"file_id": "event_752", "file_path": "data/event/event_752.mp4", "annotation": "The moon reaches full brightness.", "task": "event", "data_type": "video"}
+{"file_id": "event_753", "file_path": "data/event/event_753.mp4", "annotation": "Toys move from one hand to another", "task": "event", "data_type": "video"}
+{"file_id": "event_754", "file_path": "data/event/event_754.mp4", "annotation": "The woman rubs her hands together.", "task": "event", "data_type": "video"}
+{"file_id": "event_755", "file_path": "data/event/event_755.mp4", "annotation": "Metal dice come to a stop.", "task": "event", "data_type": "video"}
+{"file_id": "event_756", "file_path": "data/event/event_756.mp4", "annotation": "Boy picks up football", "task": "event", "data_type": "video"}
+{"file_id": "event_757", "file_path": "data/event/event_757.mp4", "annotation": "Person steps onto the ground.", "task": "event", "data_type": "video"}
+{"file_id": "event_758", "file_path": "data/event/event_758.mp4", "annotation": "Passenger holds onto the safety handle.", "task": "event", "data_type": "video"}
+{"file_id": "event_759", "file_path": "data/event/event_759.mp4", "annotation": "Person puts down the bicycle.", "task": "event", "data_type": "video"}
+{"file_id": "event_760", "file_path": "data/event/event_760.mp4", "annotation": "A man in a spacesuit dances indoors.", "task": "event", "data_type": "video"}
+{"file_id": "event_761", "file_path": "data/event/event_761.mp4", "annotation": "Two girls kneel and sit.", "task": "event", "data_type": "video"}
+{"file_id": "event_762", "file_path": "data/event/event_762.mp4", "annotation": "The fighter jet takes off into the sky.", "task": "event", "data_type": "video"}
+{"file_id": "event_763", "file_path": "data/event/event_763.mp4", "annotation": "Red light on the alarm flashes", "task": "event", "data_type": "video"}
+{"file_id": "event_764", "file_path": "data/event/event_764.mp4", "annotation": "The man takes a jump forward.", "task": "event", "data_type": "video"}
+{"file_id": "event_765", "file_path": "data/event/event_765.mp4", "annotation": "Person completes handshake with first individual.", "task": "event", "data_type": "video"}
+{"file_id": "event_766", "file_path": "data/event/event_766.mp4", "annotation": "The man embraces the woman.", "task": "event", "data_type": "video"}
+{"file_id": "event_767", "file_path": "data/event/event_767.mp4", "annotation": "The ant flipped over the leaf.", "task": "event", "data_type": "video"}
+{"file_id": "event_768", "file_path": "data/event/event_768.mp4", "annotation": "A person places bags into the trunk.", "task": "event", "data_type": "video"}
+{"file_id": "event_769", "file_path": "data/event/event_769.mp4", "annotation": "Excess parts are removed from the green cardstock.", "task": "event", "data_type": "video"}
+{"file_id": "event_770", "file_path": "data/event/event_770.mp4", "annotation": "The screen fades to black.", "task": "event", "data_type": "video"}
+{"file_id": "event_771", "file_path": "data/event/event_771.mp4", "annotation": "The person comes to a sudden stop.", "task": "event", "data_type": "video"}
+{"file_id": "event_772", "file_path": "data/event/event_772.mp4", "annotation": "The woman holds the girl.", "task": "event", "data_type": "video"}
+{"file_id": "event_773", "file_path": "data/event/event_773.mp4", "annotation": "The person reaches out with their right hand.", "task": "event", "data_type": "video"}
+{"file_id": "event_774", "file_path": "data/event/event_774.mp4", "annotation": "People disembark the train", "task": "event", "data_type": "video"}
+{"file_id": "event_775", "file_path": "data/event/event_775.mp4", "annotation": "Two women crouch down.", "task": "event", "data_type": "video"}
+{"file_id": "event_776", "file_path": "data/event/event_776.mp4", "annotation": "They withdraw their hands from the block-shaped object", "task": "event", "data_type": "video"}
+{"file_id": "event_777", "file_path": "data/event/event_777.mp4", "annotation": "The cat continues playing with the toy", "task": "event", "data_type": "video"}
+{"file_id": "event_778", "file_path": "data/event/event_778.mp4", "annotation": "Others piled on top of the fallen person.", "task": "event", "data_type": "video"}
+{"file_id": "event_779", "file_path": "data/event/event_779.mp4", "annotation": "The referee stood nearby.", "task": "event", "data_type": "video"}
+{"file_id": "event_780", "file_path": "data/event/event_780.mp4", "annotation": "White smoke moves quickly.", "task": "event", "data_type": "video"}
+{"file_id": "event_781", "file_path": "data/event/event_781.mp4", "annotation": "The red 'warning' appears sequentially.", "task": "event", "data_type": "video"}
+{"file_id": "event_782", "file_path": "data/event/event_782.mp4", "annotation": "They point at each other.", "task": "event", "data_type": "video"}
+{"file_id": "event_783", "file_path": "data/event/event_783.mp4", "annotation": "Camera moves forward", "task": "event", "data_type": "video"}
+{"file_id": "event_784", "file_path": "data/event/event_784.mp4", "annotation": "Punching bag swings upon impact.", "task": "event", "data_type": "video"}
+{"file_id": "event_785", "file_path": "data/event/event_785.mp4", "annotation": "A person drives a four-wheeled vehicle on a planet.", "task": "event", "data_type": "video"}
+{"file_id": "event_786", "file_path": "data/event/event_786.mp4", "annotation": "Dust rose from the ground.", "task": "event", "data_type": "video"}
+{"file_id": "event_787", "file_path": "data/event/event_787.mp4", "annotation": "The woman bent down.", "task": "event", "data_type": "video"}
+{"file_id": "event_788", "file_path": "data/event/event_788.mp4", "annotation": "Other two men turn to the left", "task": "event", "data_type": "video"}
+{"file_id": "event_789", "file_path": "data/event/event_789.mp4", "annotation": "Soldiers advance forward carrying shields", "task": "event", "data_type": "video"}
+{"file_id": "event_790", "file_path": "data/event/event_790.mp4", "annotation": "Individuals interact during singing.", "task": "event", "data_type": "video"}
+{"file_id": "event_791", "file_path": "data/event/event_791.mp4", "annotation": "The Canadian flag flutters in the wind.", "task": "event", "data_type": "video"}
+{"file_id": "event_792", "file_path": "data/event/event_792.mp4", "annotation": "The camera moves downward.", "task": "event", "data_type": "video"}
+{"file_id": "event_793", "file_path": "data/event/event_793.mp4", "annotation": "The men high-five each other.", "task": "event", "data_type": "video"}
+{"file_id": "event_794", "file_path": "data/event/event_794.mp4", "annotation": "Numbers disappear.", "task": "event", "data_type": "video"}
+{"file_id": "event_795", "file_path": "data/event/event_795.mp4", "annotation": "Some giraffes are standing still.", "task": "event", "data_type": "video"}
+{"file_id": "event_796", "file_path": "data/event/event_796.mp4", "annotation": "Pedestrians move about on the road.", "task": "event", "data_type": "video"}
+{"file_id": "event_797", "file_path": "data/event/event_797.mp4", "annotation": "The camera pans left.", "task": "event", "data_type": "video"}
+{"file_id": "event_798", "file_path": "data/event/event_798.mp4", "annotation": "Woman looks up at man.", "task": "event", "data_type": "video"}
+{"file_id": "event_799", "file_path": "data/event/event_799.mp4", "annotation": "The woman speaks to the horse.", "task": "event", "data_type": "video"}
+{"file_id": "event_800", "file_path": "data/event/event_800.mp4", "annotation": "Each screen displays different content.", "task": "event", "data_type": "video"}
+{"file_id": "event_801", "file_path": "data/event/event_801.mp4", "annotation": "The red car heads toward a bicycle.", "task": "event", "data_type": "video"}
+{"file_id": "event_802", "file_path": "data/event/event_802.mp4", "annotation": "Red truck resumes motion through the junction.", "task": "event", "data_type": "video"}
+{"file_id": "event_803", "file_path": "data/event/event_803.mp4", "annotation": "Person lights cigarette", "task": "event", "data_type": "video"}
+{"file_id": "event_805", "file_path": "data/event/event_805.mp4", "annotation": "Person chops a sausage", "task": "event", "data_type": "video"}
+{"file_id": "event_806", "file_path": "data/event/event_806.mp4", "annotation": "Individual turns on bathtub tap.", "task": "event", "data_type": "video"}
+{"file_id": "event_807", "file_path": "data/event/event_807.mp4", "annotation": "Football match takes place on field.", "task": "event", "data_type": "video"}
+{"file_id": "event_808", "file_path": "data/event/event_808.mp4", "annotation": "Individual takes a warm bath in a bathtub.", "task": "event", "data_type": "video"}
+{"file_id": "event_809", "file_path": "data/event/event_809.mp4", "annotation": "Dog jumps into the basket from the ground.", "task": "event", "data_type": "video"}
+{"file_id": "event_810", "file_path": "data/event/event_810.mp4", "annotation": "The owner keeps the dog on a leash.", "task": "event", "data_type": "video"}
+{"file_id": "event_811", "file_path": "data/event/event_811.mp4", "annotation": "Badminton falls to ground on ninth pass.", "task": "event", "data_type": "video"}
+{"file_id": "event_812", "file_path": "data/event/event_812.mp4", "annotation": "Car key with red plastic ring becomes visible", "task": "event", "data_type": "video"}
+{"file_id": "event_813", "file_path": "data/event/event_813.mp4", "annotation": "Person with long hair pops the balloon.", "task": "event", "data_type": "video"}
+{"file_id": "event_814", "file_path": "data/event/event_814.mp4", "annotation": "People engage in conversation.", "task": "event", "data_type": "video"}
+{"file_id": "event_815", "file_path": "data/event/event_815.mp4", "annotation": "Spectator captures the match on mobile phone.", "task": "event", "data_type": "video"}
+{"file_id": "event_816", "file_path": "data/event/event_816.mp4", "annotation": "Different types of fish glide through water in tanks.", "task": "event", "data_type": "video"}
+{"file_id": "event_817", "file_path": "data/event/event_817.mp4", "annotation": "Person A sends the first pass", "task": "event", "data_type": "video"}
+{"file_id": "event_818", "file_path": "data/event/event_818.mp4", "annotation": "The green team seizes opportunity.", "task": "event", "data_type": "video"}
+{"file_id": "event_819", "file_path": "data/event/event_819.mp4", "annotation": "The corpulent individual holds a controller.", "task": "event", "data_type": "video"}
+{"file_id": "event_820", "file_path": "data/event/event_820.mp4", "annotation": "The audience captures the performance.", "task": "event", "data_type": "video"}
+{"file_id": "event_821", "file_path": "data/event/event_821.mp4", "annotation": "Third parrot from left flies to person's right hand.", "task": "event", "data_type": "video"}
+{"file_id": "event_822", "file_path": "data/event/event_822.mp4", "annotation": "Individual opens a hefty book.", "task": "event", "data_type": "video"}
+{"file_id": "event_823", "file_path": "data/event/event_823.mp4", "annotation": "Paper catches fire on table", "task": "event", "data_type": "video"}
+{"file_id": "event_824", "file_path": "data/event/event_824.mp4", "annotation": "Person reaches lowest point of first push-up.", "task": "event", "data_type": "video"}
+{"file_id": "event_825", "file_path": "data/event/event_825.mp4", "annotation": "The cat eats the food.", "task": "event", "data_type": "video"}
+{"file_id": "event_826", "file_path": "data/event/event_826.mp4", "annotation": "The red team takes out the third blue character", "task": "event", "data_type": "video"}
+{"file_id": "event_827", "file_path": "data/event/event_827.mp4", "annotation": "Individual steps back.", "task": "event", "data_type": "video"}
+{"file_id": "event_828", "file_path": "data/event/event_828.mp4", "annotation": "The individual searches the vicinity.", "task": "event", "data_type": "video"}
+{"file_id": "event_829", "file_path": "data/event/event_829.mp4", "annotation": "Individual in black executes a dive", "task": "event", "data_type": "video"}
+{"file_id": "event_830", "file_path": "data/event/event_830.mp4", "annotation": "The car veers to the left.", "task": "event", "data_type": "video"}
+{"file_id": "event_831", "file_path": "data/event/event_831.mp4", "annotation": "A person hand-feeds the smaller black and white dog.", "task": "event", "data_type": "video"}
+{"file_id": "event_832", "file_path": "data/event/event_832.mp4", "annotation": "The traffic police attempt to intervene.", "task": "event", "data_type": "video"}
+{"file_id": "event_833", "file_path": "data/event/event_833.mp4", "annotation": "Player in blue fails the shot.", "task": "event", "data_type": "video"}
+{"file_id": "event_834", "file_path": "data/event/event_834.mp4", "annotation": "Soccer game is underway on green field", "task": "event", "data_type": "video"}
+{"file_id": "event_835", "file_path": "data/event/event_835.mp4", "annotation": "Person rides red motorcycle", "task": "event", "data_type": "video"}
+{"file_id": "event_836", "file_path": "data/event/event_836.mp4", "annotation": "Bicycles get damaged", "task": "event", "data_type": "video"}
+{"file_id": "event_837", "file_path": "data/event/event_837.mp4", "annotation": "The player from the black team falls to the ground.", "task": "event", "data_type": "video"}
+{"file_id": "event_838", "file_path": "data/event/event_838.mp4", "annotation": "Red team's score remains unchanged.", "task": "event", "data_type": "video"}
+{"file_id": "event_839", "file_path": "data/event/event_839.mp4", "annotation": "Person spreads tofu cubes on baking tray.", "task": "event", "data_type": "video"}
+{"file_id": "event_840", "file_path": "data/event/event_840.mp4", "annotation": "Some firefighters don yellow helmets", "task": "event", "data_type": "video"}
+{"file_id": "event_841", "file_path": "data/event/event_841.mp4", "annotation": "Individual pours blue curacao into a glass.", "task": "event", "data_type": "video"}
+{"file_id": "event_842", "file_path": "data/event/event_842.mp4", "annotation": "Individual places hands behind head.", "task": "event", "data_type": "video"}
+{"file_id": "event_843", "file_path": "data/event/event_843.mp4", "annotation": "Individual places a rubber band around middle finger and thumb.", "task": "event", "data_type": "video"}
+{"file_id": "event_844", "file_path": "data/event/event_844.mp4", "annotation": "Individual eats in the car.", "task": "event", "data_type": "video"}
+{"file_id": "event_845", "file_path": "data/event/event_845.mp4", "annotation": "Monkey strides past painting.", "task": "event", "data_type": "video"}
+{"file_id": "event_846", "file_path": "data/event/event_846.mp4", "annotation": "Individual wearing black approaches white car.", "task": "event", "data_type": "video"}
+{"file_id": "event_847", "file_path": "data/event/event_847.mp4", "annotation": "A person sits in the passenger seat.", "task": "event", "data_type": "video"}
+{"file_id": "event_848", "file_path": "data/event/event_848.mp4", "annotation": "A person enjoys a meal at a restaurant", "task": "event", "data_type": "video"}
+{"file_id": "event_849", "file_path": "data/event/event_849.mp4", "annotation": "Adults and children show excitement.", "task": "event", "data_type": "video"}
+{"file_id": "event_850", "file_path": "data/event/event_850.mp4", "annotation": "Individual gathers bedding from bed.", "task": "event", "data_type": "video"}
+{"file_id": "event_851", "file_path": "data/event/event_851.mp4", "annotation": "The elder unrolls the package over the sink.", "task": "event", "data_type": "video"}
+{"file_id": "event_852", "file_path": "data/event/event_852.mp4", "annotation": "The following vehicle collides with the stopping car.", "task": "event", "data_type": "video"}
+{"file_id": "event_853", "file_path": "data/event/event_853.mp4", "annotation": "Lateral and longitudinal traffic flows at intersection.", "task": "event", "data_type": "video"}
+{"file_id": "event_854", "file_path": "data/event/event_854.mp4", "annotation": "White team scores a goal.", "task": "event", "data_type": "video"}
+{"file_id": "event_855", "file_path": "data/event/event_855.mp4", "annotation": "The player scores a goal.", "task": "event", "data_type": "video"}
+{"file_id": "event_856", "file_path": "data/event/event_856.mp4", "annotation": "Player 27 shoots a three-pointer.", "task": "event", "data_type": "video"}
+{"file_id": "event_857", "file_path": "data/event/event_857.mp4", "annotation": "Wire mesh door shuts promptly.", "task": "event", "data_type": "video"}
+{"file_id": "event_858", "file_path": "data/event/event_858.mp4", "annotation": "Individual in blue T-shirt gestures to place cap on head.", "task": "event", "data_type": "video"}
+{"file_id": "event_859", "file_path": "data/event/event_859.mp4", "annotation": "The individual in the gray hoodie extends the knife.", "task": "event", "data_type": "video"}
+{"file_id": "event_860", "file_path": "data/event/event_860.mp4", "annotation": "The car follows a grey vehicle.", "task": "event", "data_type": "video"}
+{"file_id": "event_861", "file_path": "data/event/event_861.mp4", "annotation": "Red car halts to yield to grey car.", "task": "event", "data_type": "video"}
+{"file_id": "event_862", "file_path": "data/event/event_862.mp4", "annotation": "A gray car prepares to cross the intersection.", "task": "event", "data_type": "video"}
+{"file_id": "event_863", "file_path": "data/event/event_863.mp4", "annotation": "A white vehicle moves horizontally past from the right.", "task": "event", "data_type": "video"}
+{"file_id": "event_864", "file_path": "data/event/event_864.mp4", "annotation": "Stairs lead towards a grass-blanketed hill.", "task": "event", "data_type": "video"}
+{"file_id": "event_865", "file_path": "data/event/event_865.mp4", "annotation": "Representatives wait at the finish point.", "task": "event", "data_type": "video"}
+{"file_id": "event_866", "file_path": "data/event/event_866.mp4", "annotation": "Player in jersey number twenty-three misses the layup.", "task": "event", "data_type": "video"}
+{"file_id": "event_867", "file_path": "data/event/event_867.mp4", "annotation": "Individual pushes keyboard forward", "task": "event", "data_type": "video"}
+{"file_id": "event_868", "file_path": "data/event/event_868.mp4", "annotation": "An orange deer lies on the ice.", "task": "event", "data_type": "video"}
+{"file_id": "event_869", "file_path": "data/event/event_869.mp4", "annotation": "Player is about to touch down", "task": "event", "data_type": "video"}
+{"file_id": "event_870", "file_path": "data/event/event_870.mp4", "annotation": "Player number two fakes a move against the defense.", "task": "event", "data_type": "video"}
+{"file_id": "event_871", "file_path": "data/event/event_871.mp4", "annotation": "The individual combs hair with a black comb", "task": "event", "data_type": "video"}
+{"file_id": "event_872", "file_path": "data/event/event_872.mp4", "annotation": "The blue vehicle catches fire.", "task": "event", "data_type": "video"}
+{"file_id": "event_873", "file_path": "data/event/event_873.mp4", "annotation": "Player 23 attempts to pass the ball", "task": "event", "data_type": "video"}
+{"file_id": "event_874", "file_path": "data/event/event_874.mp4", "annotation": "Individual with blond hair wears beige coat.", "task": "event", "data_type": "video"}
+{"file_id": "event_875", "file_path": "data/event/event_875.mp4", "annotation": "A white car proceeds along the road.", "task": "event", "data_type": "video"}
+{"file_id": "event_876", "file_path": "data/event/event_876.mp4", "annotation": "The red car moves at a faster pace.", "task": "event", "data_type": "video"}
+{"file_id": "event_877", "file_path": "data/event/event_877.mp4", "annotation": "A traffic light turns green.", "task": "event", "data_type": "video"}
+{"file_id": "event_878", "file_path": "data/event/event_878.mp4", "annotation": "Gamer crosses white tarp", "task": "event", "data_type": "video"}
+{"file_id": "event_879", "file_path": "data/event/event_879.mp4", "annotation": "The character returns fire towards the enemy.", "task": "event", "data_type": "video"}
+{"file_id": "event_880", "file_path": "data/event/event_880.mp4", "annotation": "Photographer departs from the scene.", "task": "event", "data_type": "video"}
+{"file_id": "event_881", "file_path": "data/event/event_881.mp4", "annotation": "Individual stands upright on surfboard.", "task": "event", "data_type": "video"}
+{"file_id": "event_882", "file_path": "data/event/event_882.mp4", "annotation": "The adult pans his camera around.", "task": "event", "data_type": "video"}
+{"file_id": "event_883", "file_path": "data/event/event_883.mp4", "annotation": "Player number twenty-one takes corner kick.", "task": "event", "data_type": "video"}
+{"file_id": "event_884", "file_path": "data/event/event_884.mp4", "annotation": "The individual discards the ashes and soil.", "task": "event", "data_type": "video"}
+{"file_id": "event_885", "file_path": "data/event/event_885.mp4", "annotation": "The person picks up the lid.", "task": "event", "data_type": "video"}
+{"file_id": "event_886", "file_path": "data/event/event_886.mp4", "annotation": "Child walks past train window.", "task": "event", "data_type": "video"}
+{"file_id": "event_887", "file_path": "data/event/event_887.mp4", "annotation": "Cook places logo-marked seaweeds into ramen bowls", "task": "event", "data_type": "video"}
+{"file_id": "event_888", "file_path": "data/event/event_888.mp4", "annotation": "Player lies flat on the ground.", "task": "event", "data_type": "video"}
+{"file_id": "event_889", "file_path": "data/event/event_889.mp4", "annotation": "The player pinpoints their location on the map.", "task": "event", "data_type": "video"}
+{"file_id": "event_890", "file_path": "data/event/event_890.mp4", "annotation": "Individual jumps onto the bed.", "task": "event", "data_type": "video"}
+{"file_id": "event_891", "file_path": "data/event/event_891.mp4", "annotation": "Game character stands up.", "task": "event", "data_type": "video"}
+{"file_id": "event_892", "file_path": "data/event/event_892.mp4", "annotation": "Person in blue vest abandons a car.", "task": "event", "data_type": "video"}
+{"file_id": "event_893", "file_path": "data/event/event_893.mp4", "annotation": "Person drives motorcycle at high speed.", "task": "event", "data_type": "video"}
+{"file_id": "event_894", "file_path": "data/event/event_894.mp4", "annotation": "Cars move in orderly fashion.", "task": "event", "data_type": "video"}
+{"file_id": "event_895", "file_path": "data/event/event_895.mp4", "annotation": "White car obstructs the path of the FedEx truck.", "task": "event", "data_type": "video"}
+{"file_id": "event_896", "file_path": "data/event/event_896.mp4", "annotation": "The shuttlecock hits the ground.", "task": "event", "data_type": "video"}
+{"file_id": "event_897", "file_path": "data/event/event_897.mp4", "annotation": "Black car flips over.", "task": "event", "data_type": "video"}
+{"file_id": "event_898", "file_path": "data/event/event_898.mp4", "annotation": "Both cars maintain persistent side-by-side position.", "task": "event", "data_type": "video"}
+{"file_id": "event_899", "file_path": "data/event/event_899.mp4", "annotation": "iUseNoMouse attacks a tower", "task": "event", "data_type": "video"}
+{"file_id": "event_900", "file_path": "data/event/event_900.mp4", "annotation": "Person with braided hair skateboards amidst a crowd.", "task": "event", "data_type": "video"}
+{"file_id": "event_901", "file_path": "data/event/event_901.mp4", "annotation": "Butter gradually melts in the pan.", "task": "event", "data_type": "video"}
+{"file_id": "event_902", "file_path": "data/event/event_902.mp4", "annotation": "Vehicle with camera comes to a stop.", "task": "event", "data_type": "video"}
+{"file_id": "event_903", "file_path": "data/event/event_903.mp4", "annotation": "Red team's player number eight catches the ball mid-air.", "task": "event", "data_type": "video"}
+{"file_id": "event_904", "file_path": "data/event/event_904.mp4", "annotation": "The orange chameleon stays on the tree.", "task": "event", "data_type": "video"}
+{"file_id": "event_905", "file_path": "data/event/event_905.mp4", "annotation": "Melted ice causes water level to rise.", "task": "event", "data_type": "video"}
+{"file_id": "event_906", "file_path": "data/event/event_906.mp4", "annotation": "A man sprays a solution onto the rust-covered metal strip.", "task": "event", "data_type": "video"}
+{"file_id": "event_907", "file_path": "data/event/event_907.mp4", "annotation": "The voltage tester is inserted into a socket.", "task": "event", "data_type": "video"}
+{"file_id": "event_908", "file_path": "data/event/event_908.mp4", "annotation": "Bottle labeled 'lime water' appears.", "task": "event", "data_type": "video"}
+{"file_id": "event_909", "file_path": "data/event/event_909.mp4", "annotation": "The person drops white objects into the third glass of water.", "task": "event", "data_type": "video"}
+{"file_id": "event_910", "file_path": "data/event/event_910.mp4", "annotation": "African-American individual bends their left arm.", "task": "event", "data_type": "video"}
+{"file_id": "event_911", "file_path": "data/event/event_911.mp4", "annotation": "Towering trees surround the sphere.", "task": "event", "data_type": "video"}
+{"file_id": "event_912", "file_path": "data/event/event_912.mp4", "annotation": "Person may inadvertently touch the wires.", "task": "event", "data_type": "video"}
+{"file_id": "event_913", "file_path": "data/event/event_913.mp4", "annotation": "Goalkeeper clothed in yellow effectively blocks the shot", "task": "event", "data_type": "video"}
+{"file_id": "event_914", "file_path": "data/event/event_914.mp4", "annotation": "Player in red jersey and white shoes embraces teammate", "task": "event", "data_type": "video"}
+{"file_id": "event_915", "file_path": "data/event/event_915.mp4", "annotation": "Athlete number 184 displays the national flag to the crowd.", "task": "event", "data_type": "video"}
+{"file_id": "event_916", "file_path": "data/event/event_916.mp4", "annotation": "Players compete for the top spot.", "task": "event", "data_type": "video"}
+{"file_id": "event_917", "file_path": "data/event/event_917.mp4", "annotation": "A person with red hair stands surrounded by fallen people.", "task": "event", "data_type": "video"}
+{"file_id": "event_918", "file_path": "data/event/event_918.mp4", "annotation": "Another player joins to form a circle.", "task": "event", "data_type": "video"}
+{"file_id": "event_919", "file_path": "data/event/event_919.mp4", "annotation": "Person stretches legs.", "task": "event", "data_type": "video"}
+{"file_id": "event_920", "file_path": "data/event/event_920.mp4", "annotation": "Super Mario closes on princess.", "task": "event", "data_type": "video"}
+{"file_id": "event_921", "file_path": "data/event/event_921.mp4", "annotation": "Horse's hooves touch the track.", "task": "event", "data_type": "video"}
+{"file_id": "event_922", "file_path": "data/event/event_922.mp4", "annotation": "Person's hand throws trash into the can", "task": "event", "data_type": "video"}
+{"file_id": "event_923", "file_path": "data/event/event_923.mp4", "annotation": "Adult carries monkey.", "task": "event", "data_type": "video"}
+{"file_id": "event_924", "file_path": "data/event/event_924.mp4", "annotation": "Child on the left wears white slippers", "task": "event", "data_type": "video"}
+{"file_id": "event_925", "file_path": "data/event/event_925.mp4", "annotation": "Mother searches for something to eat.", "task": "event", "data_type": "video"}
+{"file_id": "event_926", "file_path": "data/event/event_926.mp4", "annotation": "Both individuals display smiles.", "task": "event", "data_type": "video"}
+{"file_id": "event_927", "file_path": "data/event/event_927.mp4", "annotation": "Individual stands at the pool's edge", "task": "event", "data_type": "video"}
+{"file_id": "event_928", "file_path": "data/event/event_928.mp4", "annotation": "Child in hijab starts laughing.", "task": "event", "data_type": "video"}
+{"file_id": "event_929", "file_path": "data/event/event_929.mp4", "annotation": "Students turn attention to blonde student.", "task": "event", "data_type": "video"}
+{"file_id": "event_930", "file_path": "data/event/event_930.mp4", "annotation": "Individual dries hair with towel", "task": "event", "data_type": "video"}
+{"file_id": "event_931", "file_path": "data/event/event_931.mp4", "annotation": "Short-haired individual jumps to take a shot.", "task": "event", "data_type": "video"}
+{"file_id": "event_932", "file_path": "data/event/event_932.mp4", "annotation": "Person holds a yellow pen with left hand.", "task": "event", "data_type": "video"}
+{"file_id": "event_933", "file_path": "data/event/event_933.mp4", "annotation": "The person peels the grape", "task": "event", "data_type": "video"}
+{"file_id": "event_934", "file_path": "data/event/event_934.mp4", "annotation": "Person rubs hands together", "task": "event", "data_type": "video"}
+{"file_id": "event_935", "file_path": "data/event/event_935.mp4", "annotation": "Car passes by small houses.", "task": "event", "data_type": "video"}
+{"file_id": "event_936", "file_path": "data/event/event_936.mp4", "annotation": "Two individuals stand on opposite sides of a table.", "task": "event", "data_type": "video"}
+{"file_id": "event_937", "file_path": "data/event/event_937.mp4", "annotation": "View lowers to show the sea", "task": "event", "data_type": "video"}
+{"file_id": "event_938", "file_path": "data/event/event_938.mp4", "annotation": "Individual attempts to take red suitcase.", "task": "event", "data_type": "video"}
+{"file_id": "event_939", "file_path": "data/event/event_939.mp4", "annotation": "Person attempts to leap from one red ball to another.", "task": "event", "data_type": "video"}
+{"file_id": "event_940", "file_path": "data/event/event_940.mp4", "annotation": "Individual prepares spices.", "task": "event", "data_type": "video"}
+{"file_id": "event_941", "file_path": "data/event/event_941.mp4", "annotation": "Elderly individual closes gray oven door.", "task": "event", "data_type": "video"}
+{"file_id": "event_942", "file_path": "data/event/event_942.mp4", "annotation": "Competitor wearing grey shoes records the video.", "task": "event", "data_type": "video"}
+{"file_id": "event_943", "file_path": "data/event/event_943.mp4", "annotation": "Shark prepares to attack person on left", "task": "event", "data_type": "video"}
+{"file_id": "event_944", "file_path": "data/event/event_944.mp4", "annotation": "Boxer in black shorts raises arms to protect face.", "task": "event", "data_type": "video"}
+{"file_id": "event_945", "file_path": "data/event/event_945.mp4", "annotation": "Deer's eye remains open.", "task": "event", "data_type": "video"}
+{"file_id": "event_946", "file_path": "data/event/event_946.mp4", "annotation": "Blue dinosaur and accomplices escape in truck.", "task": "event", "data_type": "video"}
+{"file_id": "event_947", "file_path": "data/event/event_947.mp4", "annotation": "First other waves red cloth.", "task": "event", "data_type": "video"}
+{"file_id": "event_948", "file_path": "data/event/event_948.mp4", "annotation": "More people fasten safety gear on a person.", "task": "event", "data_type": "video"}
+{"file_id": "event_949", "file_path": "data/event/event_949.mp4", "annotation": "A blue barrel with a brown interior appears.", "task": "event", "data_type": "video"}
+{"file_id": "event_950", "file_path": "data/event/event_950.mp4", "annotation": "An individual brandishes a transparent cup.", "task": "event", "data_type": "video"}
+{"file_id": "event_951", "file_path": "data/event/event_951.mp4", "annotation": "Motorcycle accelerates on road.", "task": "event", "data_type": "video"}
+{"file_id": "event_952", "file_path": "data/event/event_952.mp4", "annotation": "A yellow bag of potato chips is seen with an attached string", "task": "event", "data_type": "video"}
+{"file_id": "event_953", "file_path": "data/event/event_953.mp4", "annotation": "Riders traverse a flat stretch.", "task": "event", "data_type": "video"}
+{"file_id": "event_954", "file_path": "data/event/event_954.mp4", "annotation": "Person stretches feet towards stream.", "task": "event", "data_type": "video"}
+{"file_id": "event_955", "file_path": "data/event/event_955.mp4", "annotation": "Person spreads a gray quilt over the bed.", "task": "event", "data_type": "video"}
+{"file_id": "event_956", "file_path": "data/event/event_956.mp4", "annotation": "The individual showcases a 'Loreal' mascara to the camera.", "task": "event", "data_type": "video"}
+{"file_id": "event_957", "file_path": "data/event/event_957.mp4", "annotation": "Individual walks by a beige sofa.", "task": "event", "data_type": "video"}
+{"file_id": "event_958", "file_path": "data/event/event_958.mp4", "annotation": "An individual with long hair walks forward.", "task": "event", "data_type": "video"}
+{"file_id": "event_959", "file_path": "data/event/event_959.mp4", "annotation": "Child on the left wears a red Christmas hat.", "task": "event", "data_type": "video"}
+{"file_id": "event_960", "file_path": "data/event/event_960.mp4", "annotation": "The character with a cat picture bag is seen from different angles.", "task": "event", "data_type": "video"}
+{"file_id": "event_961", "file_path": "data/event/event_961.mp4", "annotation": "Person throws off orange bedspread", "task": "event", "data_type": "video"}
+{"file_id": "event_962", "file_path": "data/event/event_962.mp4", "annotation": "Child begins crying on black sofa.", "task": "event", "data_type": "video"}
+{"file_id": "event_963", "file_path": "data/event/event_963.mp4", "annotation": "Cars billow smoke while turning", "task": "event", "data_type": "video"}
+{"file_id": "event_964", "file_path": "data/event/event_964.mp4", "annotation": "Camera captures the front view of the red-trimmed car.", "task": "event", "data_type": "video"}
+{"file_id": "event_965", "file_path": "data/event/event_965.mp4", "annotation": "Brown-haired person holds a knife", "task": "event", "data_type": "video"}
+{"file_id": "event_966", "file_path": "data/event/event_966.mp4", "annotation": "Individual slides leftwards on a skateboard", "task": "event", "data_type": "video"}
+{"file_id": "event_967", "file_path": "data/event/event_967.mp4", "annotation": "The second individual subsequently kneels.", "task": "event", "data_type": "video"}
+{"file_id": "event_968", "file_path": "data/event/event_968.mp4", "annotation": "A white candle rests atop a brown table.", "task": "event", "data_type": "video"}
+{"file_id": "event_969", "file_path": "data/event/event_969.mp4", "annotation": "The liquid changes color to red.", "task": "event", "data_type": "video"}
+{"file_id": "event_970", "file_path": "data/event/event_970.mp4", "annotation": "The sun sets.", "task": "event", "data_type": "video"}
+{"file_id": "event_971", "file_path": "data/event/event_971.mp4", "annotation": "High-velocity winds swirl around houses.", "task": "event", "data_type": "video"}
+{"file_id": "event_972", "file_path": "data/event/event_972.mp4", "annotation": "Individual with short hair looks unhappy.", "task": "event", "data_type": "video"}
+{"file_id": "event_973", "file_path": "data/event/event_973.mp4", "annotation": "Kid on the left shows paper.", "task": "event", "data_type": "video"}
+{"file_id": "event_974", "file_path": "data/event/event_974.mp4", "annotation": "Daisies scatter on the grassy floor.", "task": "event", "data_type": "video"}
+{"file_id": "event_975", "file_path": "data/event/event_975.mp4", "annotation": "Character ascends into the blue sky.", "task": "event", "data_type": "video"}
+{"file_id": "event_976", "file_path": "data/event/event_976.mp4", "annotation": "Individual wipes the nightstand with a white napkin.", "task": "event", "data_type": "video"}
+{"file_id": "event_977", "file_path": "data/event/event_977.mp4", "annotation": "Blue car moves erratically.", "task": "event", "data_type": "video"}
+{"file_id": "event_978", "file_path": "data/event/event_978.mp4", "annotation": "Two cars are about to collide at the cross", "task": "event", "data_type": "video"}
+{"file_id": "event_979", "file_path": "data/event/event_979.mp4", "annotation": "The vehicle crashes into the trees on the right side", "task": "event", "data_type": "video"}
+{"file_id": "event_982", "file_path": "data/event/event_982.mp4", "annotation": "Opponent rolled behind a stone carving", "task": "event", "data_type": "video"}
+{"file_id": "event_983", "file_path": "data/event/event_983.mp4", "annotation": "Shield emits a yellow glow.", "task": "event", "data_type": "video"}
+{"file_id": "event_984", "file_path": "data/event/event_984.mp4", "annotation": "Individual appears terrified.", "task": "event", "data_type": "video"}
+{"file_id": "event_985", "file_path": "data/event/event_985.mp4", "annotation": "Opponent in blue shirt shouts in celebration.", "task": "event", "data_type": "video"}
+{"file_id": "event_986", "file_path": "data/event/event_986.mp4", "annotation": "Snake drags the worker towards the ceiling.", "task": "event", "data_type": "video"}
+{"file_id": "event_987", "file_path": "data/event/event_987.mp4", "annotation": "Sniper refrains from taking the shot", "task": "event", "data_type": "video"}
+{"file_id": "event_988", "file_path": "data/event/event_988.mp4", "annotation": "Mario starts behind six other runners.", "task": "event", "data_type": "video"}
+{"file_id": "event_989", "file_path": "data/event/event_989.mp4", "annotation": "The person speaks.", "task": "event", "data_type": "video"}
+{"file_id": "event_990", "file_path": "data/event/event_990.mp4", "annotation": "Cartoon character on the right takes a shot at the mouse.", "task": "event", "data_type": "video"}
+{"file_id": "event_991", "file_path": "data/event/event_991.mp4", "annotation": "Astronauts display terrified expressions.", "task": "event", "data_type": "video"}
+{"file_id": "event_992", "file_path": "data/event/event_992.mp4", "annotation": "Individual presses remote's buttons.", "task": "event", "data_type": "video"}
+{"file_id": "event_993", "file_path": "data/event/event_993.mp4", "annotation": "Spray lands on the painting's face.", "task": "event", "data_type": "video"}
+{"file_id": "event_994", "file_path": "data/event/event_994.mp4", "annotation": "Individual retrieves a snack from the machine.", "task": "event", "data_type": "video"}
+{"file_id": "event_995", "file_path": "data/event/event_995.mp4", "annotation": "Person breaks off sodium metal on newspaper", "task": "event", "data_type": "video"}
+{"file_id": "event_996", "file_path": "data/event/event_996.mp4", "annotation": "Goalkeeper fails to stop ball", "task": "event", "data_type": "video"}
+{"file_id": "event_997", "file_path": "data/event/event_997.mp4", "annotation": "Individual with monitor head knocks books from individual's hands.", "task": "event", "data_type": "video"}
+{"file_id": "event_998", "file_path": "data/event/event_998.mp4", "annotation": "Child near yellow toy truck introduces falling risk.", "task": "event", "data_type": "video"}
+{"file_id": "event_999", "file_path": "data/event/event_999.mp4", "annotation": "Splash occurs in water.", "task": "event", "data_type": "video"}
+{"file_id": "event_1000", "file_path": "data/event/event_1000.mp4", "annotation": "Wooden trap launches purple squirrel into the air.", "task": "event", "data_type": "video"}

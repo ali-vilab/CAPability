@@ -1,0 +1,958 @@
+{"file_id": "scene_0", "file_path": "data/scene/scene_0.jpg", "annotation": "park", "task": "scene", "data_type": "image"}
+{"file_id": "scene_1", "file_path": "data/scene/scene_1.jpg", "annotation": "by the lake", "task": "scene", "data_type": "image"}
+{"file_id": "scene_2", "file_path": "data/scene/scene_2.jpg", "annotation": "grassland", "task": "scene", "data_type": "image"}
+{"file_id": "scene_3", "file_path": "data/scene/scene_3.jpg", "annotation": "garden", "task": "scene", "data_type": "image"}
+{"file_id": "scene_4", "file_path": "data/scene/scene_4.jpg", "annotation": "the sea surface below the mountain", "task": "scene", "data_type": "image"}
+{"file_id": "scene_5", "file_path": "data/scene/scene_5.jpg", "annotation": "in front of the palace", "task": "scene", "data_type": "image"}
+{"file_id": "scene_6", "file_path": "data/scene/scene_6.jpg", "annotation": "the reflection of mountains in a lake", "task": "scene", "data_type": "image"}
+{"file_id": "scene_7", "file_path": "data/scene/scene_7.jpg", "annotation": "on the sea", "task": "scene", "data_type": "image"}
+{"file_id": "scene_8", "file_path": "data/scene/scene_8.jpg", "annotation": "on the sea surface", "task": "scene", "data_type": "image"}
+{"file_id": "scene_9", "file_path": "data/scene/scene_9.jpg", "annotation": "cheese warehouse", "task": "scene", "data_type": "image"}
+{"file_id": "scene_10", "file_path": "data/scene/scene_10.jpg", "annotation": "grassland", "task": "scene", "data_type": "image"}
+{"file_id": "scene_11", "file_path": "data/scene/scene_11.jpg", "annotation": "indoor weightlifting competition", "task": "scene", "data_type": "image"}
+{"file_id": "scene_12", "file_path": "data/scene/scene_12.jpg", "annotation": "competition backdrop", "task": "scene", "data_type": "image"}
+{"file_id": "scene_13", "file_path": "data/scene/scene_13.jpg", "annotation": "indoor track and field arena", "task": "scene", "data_type": "image"}
+{"file_id": "scene_14", "file_path": "data/scene/scene_14.jpg", "annotation": "on the river surface", "task": "scene", "data_type": "image"}
+{"file_id": "scene_15", "file_path": "data/scene/scene_15.jpg", "annotation": "park", "task": "scene", "data_type": "image"}
+{"file_id": "scene_16", "file_path": "data/scene/scene_16.jpg", "annotation": "airport ticket office", "task": "scene", "data_type": "image"}
+{"file_id": "scene_17", "file_path": "data/scene/scene_17.jpg", "annotation": "golf course", "task": "scene", "data_type": "image"}
+{"file_id": "scene_18", "file_path": "data/scene/scene_18.jpg", "annotation": "countryside cottage", "task": "scene", "data_type": "image"}
+{"file_id": "scene_19", "file_path": "data/scene/scene_19.jpg", "annotation": "street art at night", "task": "scene", "data_type": "image"}
+{"file_id": "scene_20", "file_path": "data/scene/scene_20.jpg", "annotation": "tattoo studio", "task": "scene", "data_type": "image"}
+{"file_id": "scene_21", "file_path": "data/scene/scene_21.jpg", "annotation": "garden", "task": "scene", "data_type": "image"}
+{"file_id": "scene_22", "file_path": "data/scene/scene_22.jpg", "annotation": "city square at night", "task": "scene", "data_type": "image"}
+{"file_id": "scene_23", "file_path": "data/scene/scene_23.jpg", "annotation": "forest waterfall", "task": "scene", "data_type": "image"}
+{"file_id": "scene_24", "file_path": "data/scene/scene_24.jpg", "annotation": "beside the cruise ship", "task": "scene", "data_type": "image"}
+{"file_id": "scene_25", "file_path": "data/scene/scene_25.jpg", "annotation": "on the table", "task": "scene", "data_type": "image"}
+{"file_id": "scene_26", "file_path": "data/scene/scene_26.jpg", "annotation": "on the table", "task": "scene", "data_type": "image"}
+{"file_id": "scene_27", "file_path": "data/scene/scene_27.jpg", "annotation": "amusement park", "task": "scene", "data_type": "image"}
+{"file_id": "scene_28", "file_path": "data/scene/scene_28.jpg", "annotation": "desert at sunset", "task": "scene", "data_type": "image"}
+{"file_id": "scene_29", "file_path": "data/scene/scene_29.jpg", "annotation": "in the grass", "task": "scene", "data_type": "image"}
+{"file_id": "scene_30", "file_path": "data/scene/scene_30.jpg", "annotation": "town street", "task": "scene", "data_type": "image"}
+{"file_id": "scene_31", "file_path": "data/scene/scene_31.jpg", "annotation": "sports field", "task": "scene", "data_type": "image"}
+{"file_id": "scene_32", "file_path": "data/scene/scene_32.jpg", "annotation": "on the grass", "task": "scene", "data_type": "image"}
+{"file_id": "scene_33", "file_path": "data/scene/scene_33.jpg", "annotation": "street side", "task": "scene", "data_type": "image"}
+{"file_id": "scene_34", "file_path": "data/scene/scene_34.jpg", "annotation": "by the beach", "task": "scene", "data_type": "image"}
+{"file_id": "scene_35", "file_path": "data/scene/scene_35.jpg", "annotation": "in the grass", "task": "scene", "data_type": "image"}
+{"file_id": "scene_36", "file_path": "data/scene/scene_36.jpg", "annotation": "desert", "task": "scene", "data_type": "image"}
+{"file_id": "scene_37", "file_path": "data/scene/scene_37.jpg", "annotation": "in front of the gymnasium", "task": "scene", "data_type": "image"}
+{"file_id": "scene_38", "file_path": "data/scene/scene_38.jpg", "annotation": "in front of the guard post of the government building", "task": "scene", "data_type": "image"}
+{"file_id": "scene_39", "file_path": "data/scene/scene_39.jpg", "annotation": "the bridge under construction", "task": "scene", "data_type": "image"}
+{"file_id": "scene_40", "file_path": "data/scene/scene_40.jpg", "annotation": "city outline", "task": "scene", "data_type": "image"}
+{"file_id": "scene_41", "file_path": "data/scene/scene_41.jpg", "annotation": "city skyline and lake", "task": "scene", "data_type": "image"}
+{"file_id": "scene_42", "file_path": "data/scene/scene_42.jpg", "annotation": "under the big tree", "task": "scene", "data_type": "image"}
+{"file_id": "scene_43", "file_path": "data/scene/scene_43.jpg", "annotation": "city silhouette", "task": "scene", "data_type": "image"}
+{"file_id": "scene_44", "file_path": "data/scene/scene_44.jpg", "annotation": "cave entrance", "task": "scene", "data_type": "image"}
+{"file_id": "scene_45", "file_path": "data/scene/scene_45.jpg", "annotation": "garden", "task": "scene", "data_type": "image"}
+{"file_id": "scene_46", "file_path": "data/scene/scene_46.jpg", "annotation": "luxury villa by the sea", "task": "scene", "data_type": "image"}
+{"file_id": "scene_47", "file_path": "data/scene/scene_47.jpg", "annotation": "the entrance to the residential area", "task": "scene", "data_type": "image"}
+{"file_id": "scene_48", "file_path": "data/scene/scene_48.jpg", "annotation": "indoor car showroom", "task": "scene", "data_type": "image"}
+{"file_id": "scene_49", "file_path": "data/scene/scene_49.jpg", "annotation": "blue sky", "task": "scene", "data_type": "image"}
+{"file_id": "scene_50", "file_path": "data/scene/scene_50.jpg", "annotation": "beside the bonfire", "task": "scene", "data_type": "image"}
+{"file_id": "scene_51", "file_path": "data/scene/scene_51.jpg", "annotation": "building entrance", "task": "scene", "data_type": "image"}
+{"file_id": "scene_52", "file_path": "data/scene/scene_52.jpg", "annotation": "by the sea", "task": "scene", "data_type": "image"}
+{"file_id": "scene_53", "file_path": "data/scene/scene_53.jpg", "annotation": "garden", "task": "scene", "data_type": "image"}
+{"file_id": "scene_54", "file_path": "data/scene/scene_54.jpg", "annotation": "beside the store signboard", "task": "scene", "data_type": "image"}
+{"file_id": "scene_55", "file_path": "data/scene/scene_55.jpg", "annotation": "tall buildings", "task": "scene", "data_type": "image"}
+{"file_id": "scene_56", "file_path": "data/scene/scene_56.jpg", "annotation": "surfing", "task": "scene", "data_type": "image"}
+{"file_id": "scene_57", "file_path": "data/scene/scene_57.jpg", "annotation": "garden", "task": "scene", "data_type": "image"}
+{"file_id": "scene_58", "file_path": "data/scene/scene_58.jpg", "annotation": "forest trail", "task": "scene", "data_type": "image"}
+{"file_id": "scene_59", "file_path": "data/scene/scene_59.jpg", "annotation": "plastic track", "task": "scene", "data_type": "image"}
+{"file_id": "scene_60", "file_path": "data/scene/scene_60.jpg", "annotation": "in front of the temple", "task": "scene", "data_type": "image"}
+{"file_id": "scene_61", "file_path": "data/scene/scene_61.jpg", "annotation": "blue sky", "task": "scene", "data_type": "image"}
+{"file_id": "scene_62", "file_path": "data/scene/scene_62.jpg", "annotation": "in front of the castle", "task": "scene", "data_type": "image"}
+{"file_id": "scene_63", "file_path": "data/scene/scene_63.jpg", "annotation": "parade", "task": "scene", "data_type": "image"}
+{"file_id": "scene_64", "file_path": "data/scene/scene_64.jpg", "annotation": "underwater cave", "task": "scene", "data_type": "image"}
+{"file_id": "scene_65", "file_path": "data/scene/scene_65.jpg", "annotation": "on the sea surface", "task": "scene", "data_type": "image"}
+{"file_id": "scene_66", "file_path": "data/scene/scene_66.jpg", "annotation": "grassland", "task": "scene", "data_type": "image"}
+{"file_id": "scene_67", "file_path": "data/scene/scene_67.jpg", "annotation": "by the roadside", "task": "scene", "data_type": "image"}
+{"file_id": "scene_68", "file_path": "data/scene/scene_68.jpg", "annotation": "on the desktop", "task": "scene", "data_type": "image"}
+{"file_id": "scene_69", "file_path": "data/scene/scene_69.jpg", "annotation": "in front of the abandoned building", "task": "scene", "data_type": "image"}
+{"file_id": "scene_70", "file_path": "data/scene/scene_70.jpg", "annotation": "beside the golden wheat field", "task": "scene", "data_type": "image"}
+{"file_id": "scene_71", "file_path": "data/scene/scene_71.jpg", "annotation": "woods", "task": "scene", "data_type": "image"}
+{"file_id": "scene_72", "file_path": "data/scene/scene_72.jpg", "annotation": "in front of the cottage", "task": "scene", "data_type": "image"}
+{"file_id": "scene_73", "file_path": "data/scene/scene_73.jpg", "annotation": "on the park bench", "task": "scene", "data_type": "image"}
+{"file_id": "scene_74", "file_path": "data/scene/scene_74.jpg", "annotation": "equestrian competition venue", "task": "scene", "data_type": "image"}
+{"file_id": "scene_75", "file_path": "data/scene/scene_75.jpg", "annotation": "on the table", "task": "scene", "data_type": "image"}
+{"file_id": "scene_76", "file_path": "data/scene/scene_76.jpg", "annotation": "on the table", "task": "scene", "data_type": "image"}
+{"file_id": "scene_77", "file_path": "data/scene/scene_77.jpg", "annotation": "outdoor parking lot", "task": "scene", "data_type": "image"}
+{"file_id": "scene_78", "file_path": "data/scene/scene_78.jpg", "annotation": "city outline", "task": "scene", "data_type": "image"}
+{"file_id": "scene_79", "file_path": "data/scene/scene_79.jpg", "annotation": "forest", "task": "scene", "data_type": "image"}
+{"file_id": "scene_80", "file_path": "data/scene/scene_80.jpg", "annotation": "faucet display stand", "task": "scene", "data_type": "image"}
+{"file_id": "scene_81", "file_path": "data/scene/scene_81.jpg", "annotation": "historical relics", "task": "scene", "data_type": "image"}
+{"file_id": "scene_82", "file_path": "data/scene/scene_82.jpg", "annotation": "on the grass", "task": "scene", "data_type": "image"}
+{"file_id": "scene_83", "file_path": "data/scene/scene_83.jpg", "annotation": "beside the cabin in the woods", "task": "scene", "data_type": "image"}
+{"file_id": "scene_84", "file_path": "data/scene/scene_84.jpg", "annotation": "outdoor courtyard", "task": "scene", "data_type": "image"}
+{"file_id": "scene_85", "file_path": "data/scene/scene_85.jpg", "annotation": "in front of the building", "task": "scene", "data_type": "image"}
+{"file_id": "scene_86", "file_path": "data/scene/scene_86.jpg", "annotation": "the entrance of a building", "task": "scene", "data_type": "image"}
+{"file_id": "scene_87", "file_path": "data/scene/scene_87.jpg", "annotation": "water town", "task": "scene", "data_type": "image"}
+{"file_id": "scene_88", "file_path": "data/scene/scene_88.jpg", "annotation": "garden", "task": "scene", "data_type": "image"}
+{"file_id": "scene_89", "file_path": "data/scene/scene_89.jpg", "annotation": "on the water surface", "task": "scene", "data_type": "image"}
+{"file_id": "scene_90", "file_path": "data/scene/scene_90.jpg", "annotation": "beside the sunflower field", "task": "scene", "data_type": "image"}
+{"file_id": "scene_91", "file_path": "data/scene/scene_91.jpg", "annotation": "on the table", "task": "scene", "data_type": "image"}
+{"file_id": "scene_92", "file_path": "data/scene/scene_92.jpg", "annotation": "under the balcony", "task": "scene", "data_type": "image"}
+{"file_id": "scene_93", "file_path": "data/scene/scene_93.jpg", "annotation": "empty square", "task": "scene", "data_type": "image"}
+{"file_id": "scene_94", "file_path": "data/scene/scene_94.jpg", "annotation": "in front of the palace", "task": "scene", "data_type": "image"}
+{"file_id": "scene_95", "file_path": "data/scene/scene_95.jpg", "annotation": "by the roadside", "task": "scene", "data_type": "image"}
+{"file_id": "scene_96", "file_path": "data/scene/scene_96.jpg", "annotation": "dressing room", "task": "scene", "data_type": "image"}
+{"file_id": "scene_97", "file_path": "data/scene/scene_97.jpg", "annotation": "marathon race", "task": "scene", "data_type": "image"}
+{"file_id": "scene_98", "file_path": "data/scene/scene_98.jpg", "annotation": "next to the MAX&Co event board", "task": "scene", "data_type": "image"}
+{"file_id": "scene_99", "file_path": "data/scene/scene_99.jpg", "annotation": "ground", "task": "scene", "data_type": "image"}
+{"file_id": "scene_100", "file_path": "data/scene/scene_100.jpg", "annotation": "on the outdoor sidewalk", "task": "scene", "data_type": "image"}
+{"file_id": "scene_101", "file_path": "data/scene/scene_101.jpg", "annotation": "living room", "task": "scene", "data_type": "image"}
+{"file_id": "scene_102", "file_path": "data/scene/scene_102.jpg", "annotation": "farm", "task": "scene", "data_type": "image"}
+{"file_id": "scene_103", "file_path": "data/scene/scene_103.jpg", "annotation": "on the board", "task": "scene", "data_type": "image"}
+{"file_id": "scene_104", "file_path": "data/scene/scene_104.jpg", "annotation": "penguin habitat", "task": "scene", "data_type": "image"}
+{"file_id": "scene_105", "file_path": "data/scene/scene_105.jpg", "annotation": "on the table", "task": "scene", "data_type": "image"}
+{"file_id": "scene_106", "file_path": "data/scene/scene_106.jpg", "annotation": "in front of the palace", "task": "scene", "data_type": "image"}
+{"file_id": "scene_107", "file_path": "data/scene/scene_107.jpg", "annotation": "in front of the graffiti wall", "task": "scene", "data_type": "image"}
+{"file_id": "scene_108", "file_path": "data/scene/scene_108.jpg", "annotation": "city outline", "task": "scene", "data_type": "image"}
+{"file_id": "scene_109", "file_path": "data/scene/scene_109.jpg", "annotation": "town under the volcano", "task": "scene", "data_type": "image"}
+{"file_id": "scene_110", "file_path": "data/scene/scene_110.jpg", "annotation": "Military Exhibition Area", "task": "scene", "data_type": "image"}
+{"file_id": "scene_111", "file_path": "data/scene/scene_111.jpg", "annotation": "outdoor parking lot", "task": "scene", "data_type": "image"}
+{"file_id": "scene_112", "file_path": "data/scene/scene_112.jpg", "annotation": "stadium", "task": "scene", "data_type": "image"}
+{"file_id": "scene_113", "file_path": "data/scene/scene_113.jpg", "annotation": "by the monument fountain", "task": "scene", "data_type": "image"}
+{"file_id": "scene_114", "file_path": "data/scene/scene_114.jpg", "annotation": "auditorium entrance", "task": "scene", "data_type": "image"}
+{"file_id": "scene_115", "file_path": "data/scene/scene_115.jpg", "annotation": "at the entrance of the fish shop", "task": "scene", "data_type": "image"}
+{"file_id": "scene_116", "file_path": "data/scene/scene_116.jpg", "annotation": "sports venue", "task": "scene", "data_type": "image"}
+{"file_id": "scene_117", "file_path": "data/scene/scene_117.jpg", "annotation": "business street", "task": "scene", "data_type": "image"}
+{"file_id": "scene_118", "file_path": "data/scene/scene_118.jpg", "annotation": "tennis court", "task": "scene", "data_type": "image"}
+{"file_id": "scene_119", "file_path": "data/scene/scene_119.jpg", "annotation": "city streets", "task": "scene", "data_type": "image"}
+{"file_id": "scene_120", "file_path": "data/scene/scene_120.jpg", "annotation": "urban architecture", "task": "scene", "data_type": "image"}
+{"file_id": "scene_121", "file_path": "data/scene/scene_121.jpg", "annotation": "living room and kitchen", "task": "scene", "data_type": "image"}
+{"file_id": "scene_122", "file_path": "data/scene/scene_122.jpg", "annotation": "in front of the car wash shop", "task": "scene", "data_type": "image"}
+{"file_id": "scene_123", "file_path": "data/scene/scene_123.jpg", "annotation": "park trail", "task": "scene", "data_type": "image"}
+{"file_id": "scene_124", "file_path": "data/scene/scene_124.jpg", "annotation": "race track", "task": "scene", "data_type": "image"}
+{"file_id": "scene_125", "file_path": "data/scene/scene_125.jpg", "annotation": "indoor conference room", "task": "scene", "data_type": "image"}
+{"file_id": "scene_126", "file_path": "data/scene/scene_126.jpg", "annotation": "in the grass", "task": "scene", "data_type": "image"}
+{"file_id": "scene_127", "file_path": "data/scene/scene_127.jpg", "annotation": "Starbucks at the airport", "task": "scene", "data_type": "image"}
+{"file_id": "scene_128", "file_path": "data/scene/scene_128.jpg", "annotation": "car repair shop", "task": "scene", "data_type": "image"}
+{"file_id": "scene_129", "file_path": "data/scene/scene_129.jpg", "annotation": "on the dining table", "task": "scene", "data_type": "image"}
+{"file_id": "scene_130", "file_path": "data/scene/scene_130.jpg", "annotation": "suburb", "task": "scene", "data_type": "image"}
+{"file_id": "scene_131", "file_path": "data/scene/scene_131.jpg", "annotation": "family laundry room", "task": "scene", "data_type": "image"}
+{"file_id": "scene_132", "file_path": "data/scene/scene_132.jpg", "annotation": "hotel room", "task": "scene", "data_type": "image"}
+{"file_id": "scene_133", "file_path": "data/scene/scene_133.jpg", "annotation": "blue sky", "task": "scene", "data_type": "image"}
+{"file_id": "scene_134", "file_path": "data/scene/scene_134.jpg", "annotation": "night sky", "task": "scene", "data_type": "image"}
+{"file_id": "scene_135", "file_path": "data/scene/scene_135.jpg", "annotation": "on the high seas", "task": "scene", "data_type": "image"}
+{"file_id": "scene_136", "file_path": "data/scene/scene_136.jpg", "annotation": "a corner of the park", "task": "scene", "data_type": "image"}
+{"file_id": "scene_137", "file_path": "data/scene/scene_137.jpg", "annotation": "city streets", "task": "scene", "data_type": "image"}
+{"file_id": "scene_138", "file_path": "data/scene/scene_138.jpg", "annotation": "tropical church", "task": "scene", "data_type": "image"}
+{"file_id": "scene_139", "file_path": "data/scene/scene_139.jpg", "annotation": "beside the palace railing", "task": "scene", "data_type": "image"}
+{"file_id": "scene_140", "file_path": "data/scene/scene_140.jpg", "annotation": "beside the street stall", "task": "scene", "data_type": "image"}
+{"file_id": "scene_141", "file_path": "data/scene/scene_141.jpg", "annotation": "Rainy night street", "task": "scene", "data_type": "image"}
+{"file_id": "scene_142", "file_path": "data/scene/scene_142.jpg", "annotation": "on the sea", "task": "scene", "data_type": "image"}
+{"file_id": "scene_143", "file_path": "data/scene/scene_143.jpg", "annotation": "in front of the landmark building", "task": "scene", "data_type": "image"}
+{"file_id": "scene_144", "file_path": "data/scene/scene_144.jpg", "annotation": "swamp land", "task": "scene", "data_type": "image"}
+{"file_id": "scene_145", "file_path": "data/scene/scene_145.jpg", "annotation": "on the grass", "task": "scene", "data_type": "image"}
+{"file_id": "scene_146", "file_path": "data/scene/scene_146.jpg", "annotation": "in the woods", "task": "scene", "data_type": "image"}
+{"file_id": "scene_147", "file_path": "data/scene/scene_147.jpg", "annotation": "on the street", "task": "scene", "data_type": "image"}
+{"file_id": "scene_148", "file_path": "data/scene/scene_148.jpg", "annotation": "night view of the small town", "task": "scene", "data_type": "image"}
+{"file_id": "scene_149", "file_path": "data/scene/scene_149.jpg", "annotation": "on the dining table", "task": "scene", "data_type": "image"}
+{"file_id": "scene_150", "file_path": "data/scene/scene_150.jpg", "annotation": "on the dining table", "task": "scene", "data_type": "image"}
+{"file_id": "scene_151", "file_path": "data/scene/scene_151.jpg", "annotation": "wine cabinet", "task": "scene", "data_type": "image"}
+{"file_id": "scene_152", "file_path": "data/scene/scene_152.jpg", "annotation": "Sakura Street", "task": "scene", "data_type": "image"}
+{"file_id": "scene_153", "file_path": "data/scene/scene_153.jpg", "annotation": "in front of the shop", "task": "scene", "data_type": "image"}
+{"file_id": "scene_154", "file_path": "data/scene/scene_154.jpg", "annotation": "on the dining table", "task": "scene", "data_type": "image"}
+{"file_id": "scene_155", "file_path": "data/scene/scene_155.jpg", "annotation": "by the river", "task": "scene", "data_type": "image"}
+{"file_id": "scene_156", "file_path": "data/scene/scene_156.jpg", "annotation": "suburban area", "task": "scene", "data_type": "image"}
+{"file_id": "scene_157", "file_path": "data/scene/scene_157.jpg", "annotation": "in front of the church square", "task": "scene", "data_type": "image"}
+{"file_id": "scene_158", "file_path": "data/scene/scene_158.jpg", "annotation": "sunflower garden", "task": "scene", "data_type": "image"}
+{"file_id": "scene_159", "file_path": "data/scene/scene_159.jpg", "annotation": "background board of an event", "task": "scene", "data_type": "image"}
+{"file_id": "scene_160", "file_path": "data/scene/scene_160.jpg", "annotation": "inside the container", "task": "scene", "data_type": "image"}
+{"file_id": "scene_161", "file_path": "data/scene/scene_161.jpg", "annotation": "parade", "task": "scene", "data_type": "image"}
+{"file_id": "scene_162", "file_path": "data/scene/scene_162.jpg", "annotation": "garden", "task": "scene", "data_type": "image"}
+{"file_id": "scene_163", "file_path": "data/scene/scene_163.jpg", "annotation": "outside the restaurant decorated for Christmas", "task": "scene", "data_type": "image"}
+{"file_id": "scene_164", "file_path": "data/scene/scene_164.jpg", "annotation": "on the dining table", "task": "scene", "data_type": "image"}
+{"file_id": "scene_165", "file_path": "data/scene/scene_165.jpg", "annotation": "green fields", "task": "scene", "data_type": "image"}
+{"file_id": "scene_166", "file_path": "data/scene/scene_166.jpg", "annotation": "city square", "task": "scene", "data_type": "image"}
+{"file_id": "scene_167", "file_path": "data/scene/scene_167.jpg", "annotation": "beside the earthen wall", "task": "scene", "data_type": "image"}
+{"file_id": "scene_168", "file_path": "data/scene/scene_168.jpg", "annotation": "leisure area of the park", "task": "scene", "data_type": "image"}
+{"file_id": "scene_169", "file_path": "data/scene/scene_169.jpg", "annotation": "background of an event", "task": "scene", "data_type": "image"}
+{"file_id": "scene_170", "file_path": "data/scene/scene_170.jpg", "annotation": "on the grassland", "task": "scene", "data_type": "image"}
+{"file_id": "scene_171", "file_path": "data/scene/scene_171.jpg", "annotation": "desert", "task": "scene", "data_type": "image"}
+{"file_id": "scene_172", "file_path": "data/scene/scene_172.jpg", "annotation": "a corner of the street", "task": "scene", "data_type": "image"}
+{"file_id": "scene_173", "file_path": "data/scene/scene_173.jpg", "annotation": "the hill behind the hotel", "task": "scene", "data_type": "image"}
+{"file_id": "scene_174", "file_path": "data/scene/scene_174.jpg", "annotation": "beside the church", "task": "scene", "data_type": "image"}
+{"file_id": "scene_175", "file_path": "data/scene/scene_175.jpg", "annotation": "outside the wall", "task": "scene", "data_type": "image"}
+{"file_id": "scene_176", "file_path": "data/scene/scene_176.jpg", "annotation": "on the street", "task": "scene", "data_type": "image"}
+{"file_id": "scene_177", "file_path": "data/scene/scene_177.jpg", "annotation": "on the high seas", "task": "scene", "data_type": "image"}
+{"file_id": "scene_178", "file_path": "data/scene/scene_178.jpg", "annotation": "pit stop", "task": "scene", "data_type": "image"}
+{"file_id": "scene_179", "file_path": "data/scene/scene_179.jpg", "annotation": "the town on the hillside", "task": "scene", "data_type": "image"}
+{"file_id": "scene_180", "file_path": "data/scene/scene_180.jpg", "annotation": "Taekwondo competition venue", "task": "scene", "data_type": "image"}
+{"file_id": "scene_181", "file_path": "data/scene/scene_181.jpg", "annotation": "on the table", "task": "scene", "data_type": "image"}
+{"file_id": "scene_182", "file_path": "data/scene/scene_182.jpg", "annotation": "a corner of the living room", "task": "scene", "data_type": "image"}
+{"file_id": "scene_183", "file_path": "data/scene/scene_183.jpg", "annotation": "parade and assembly", "task": "scene", "data_type": "image"}
+{"file_id": "scene_184", "file_path": "data/scene/scene_184.jpg", "annotation": "in front of the outdoor temple", "task": "scene", "data_type": "image"}
+{"file_id": "scene_185", "file_path": "data/scene/scene_185.jpg", "annotation": "in the grass", "task": "scene", "data_type": "image"}
+{"file_id": "scene_186", "file_path": "data/scene/scene_186.jpg", "annotation": "barn", "task": "scene", "data_type": "image"}
+{"file_id": "scene_187", "file_path": "data/scene/scene_187.jpg", "annotation": "on the grass", "task": "scene", "data_type": "image"}
+{"file_id": "scene_188", "file_path": "data/scene/scene_188.jpg", "annotation": "urban landscape", "task": "scene", "data_type": "image"}
+{"file_id": "scene_189", "file_path": "data/scene/scene_189.jpg", "annotation": "shopping mall", "task": "scene", "data_type": "image"}
+{"file_id": "scene_190", "file_path": "data/scene/scene_190.jpg", "annotation": "before the waterfall", "task": "scene", "data_type": "image"}
+{"file_id": "scene_191", "file_path": "data/scene/scene_191.jpg", "annotation": "temporary service station", "task": "scene", "data_type": "image"}
+{"file_id": "scene_192", "file_path": "data/scene/scene_192.jpg", "annotation": "city streets", "task": "scene", "data_type": "image"}
+{"file_id": "scene_193", "file_path": "data/scene/scene_193.jpg", "annotation": "city skyline", "task": "scene", "data_type": "image"}
+{"file_id": "scene_194", "file_path": "data/scene/scene_194.jpg", "annotation": "indoor photography studio", "task": "scene", "data_type": "image"}
+{"file_id": "scene_195", "file_path": "data/scene/scene_195.jpg", "annotation": "bus stop", "task": "scene", "data_type": "image"}
+{"file_id": "scene_196", "file_path": "data/scene/scene_196.jpg", "annotation": "small bridge in the river", "task": "scene", "data_type": "image"}
+{"file_id": "scene_197", "file_path": "data/scene/scene_197.jpg", "annotation": "on the lake surface", "task": "scene", "data_type": "image"}
+{"file_id": "scene_198", "file_path": "data/scene/scene_198.jpg", "annotation": "under the big tree", "task": "scene", "data_type": "image"}
+{"file_id": "scene_199", "file_path": "data/scene/scene_199.jpg", "annotation": "city silhouette", "task": "scene", "data_type": "image"}
+{"file_id": "scene_200", "file_path": "data/scene/scene_200.jpg", "annotation": "on the table", "task": "scene", "data_type": "image"}
+{"file_id": "scene_201", "file_path": "data/scene/scene_201.jpg", "annotation": "garage", "task": "scene", "data_type": "image"}
+{"file_id": "scene_202", "file_path": "data/scene/scene_202.jpg", "annotation": "underground parking garage", "task": "scene", "data_type": "image"}
+{"file_id": "scene_203", "file_path": "data/scene/scene_203.jpg", "annotation": "garbage collection point", "task": "scene", "data_type": "image"}
+{"file_id": "scene_204", "file_path": "data/scene/scene_204.jpg", "annotation": "Chinese teahouse", "task": "scene", "data_type": "image"}
+{"file_id": "scene_205", "file_path": "data/scene/scene_205.jpg", "annotation": "audience seats", "task": "scene", "data_type": "image"}
+{"file_id": "scene_206", "file_path": "data/scene/scene_206.jpg", "annotation": "by the river", "task": "scene", "data_type": "image"}
+{"file_id": "scene_207", "file_path": "data/scene/scene_207.jpg", "annotation": "city port", "task": "scene", "data_type": "image"}
+{"file_id": "scene_208", "file_path": "data/scene/scene_208.jpg", "annotation": "forest trail", "task": "scene", "data_type": "image"}
+{"file_id": "scene_209", "file_path": "data/scene/scene_209.jpg", "annotation": "audience seats", "task": "scene", "data_type": "image"}
+{"file_id": "scene_210", "file_path": "data/scene/scene_210.jpg", "annotation": "on the square", "task": "scene", "data_type": "image"}
+{"file_id": "scene_211", "file_path": "data/scene/scene_211.jpg", "annotation": "in front of the outdoor palace", "task": "scene", "data_type": "image"}
+{"file_id": "scene_212", "file_path": "data/scene/scene_212.jpg", "annotation": "on the grass", "task": "scene", "data_type": "image"}
+{"file_id": "scene_213", "file_path": "data/scene/scene_213.jpg", "annotation": "beside the signpost", "task": "scene", "data_type": "image"}
+{"file_id": "scene_214", "file_path": "data/scene/scene_214.jpg", "annotation": "on the chopping board", "task": "scene", "data_type": "image"}
+{"file_id": "scene_215", "file_path": "data/scene/scene_215.jpg", "annotation": "city streets", "task": "scene", "data_type": "image"}
+{"file_id": "scene_216", "file_path": "data/scene/scene_216.jpg", "annotation": "on the lake surface", "task": "scene", "data_type": "image"}
+{"file_id": "scene_217", "file_path": "data/scene/scene_217.jpg", "annotation": "city square", "task": "scene", "data_type": "image"}
+{"file_id": "scene_218", "file_path": "data/scene/scene_218.jpg", "annotation": "dry land", "task": "scene", "data_type": "image"}
+{"file_id": "scene_219", "file_path": "data/scene/scene_219.jpg", "annotation": "granite countertop", "task": "scene", "data_type": "image"}
+{"file_id": "scene_220", "file_path": "data/scene/scene_220.jpg", "annotation": "a corner of the garden", "task": "scene", "data_type": "image"}
+{"file_id": "scene_221", "file_path": "data/scene/scene_221.jpg", "annotation": "Vineyard Path", "task": "scene", "data_type": "image"}
+{"file_id": "scene_222", "file_path": "data/scene/scene_222.jpg", "annotation": "Skewer stand", "task": "scene", "data_type": "image"}
+{"file_id": "scene_223", "file_path": "data/scene/scene_223.jpg", "annotation": "in front of the government building", "task": "scene", "data_type": "image"}
+{"file_id": "scene_224", "file_path": "data/scene/scene_224.jpg", "annotation": "outdoor parking lot", "task": "scene", "data_type": "image"}
+{"file_id": "scene_225", "file_path": "data/scene/scene_225.jpg", "annotation": "in front of the Christmas tree by the building", "task": "scene", "data_type": "image"}
+{"file_id": "scene_226", "file_path": "data/scene/scene_226.jpg", "annotation": "bountiful grape harvest", "task": "scene", "data_type": "image"}
+{"file_id": "scene_227", "file_path": "data/scene/scene_227.jpg", "annotation": "rehearsal room", "task": "scene", "data_type": "image"}
+{"file_id": "scene_228", "file_path": "data/scene/scene_228.jpg", "annotation": "by the river", "task": "scene", "data_type": "image"}
+{"file_id": "scene_229", "file_path": "data/scene/scene_229.jpg", "annotation": "Ginkgo Avenue", "task": "scene", "data_type": "image"}
+{"file_id": "scene_230", "file_path": "data/scene/scene_230.jpg", "annotation": "park", "task": "scene", "data_type": "image"}
+{"file_id": "scene_231", "file_path": "data/scene/scene_231.jpg", "annotation": "the entrance of the bookstore", "task": "scene", "data_type": "image"}
+{"file_id": "scene_232", "file_path": "data/scene/scene_232.jpg", "annotation": "by the lake", "task": "scene", "data_type": "image"}
+{"file_id": "scene_233", "file_path": "data/scene/scene_233.jpg", "annotation": "on the desktop", "task": "scene", "data_type": "image"}
+{"file_id": "scene_234", "file_path": "data/scene/scene_234.jpg", "annotation": "in front of the palace", "task": "scene", "data_type": "image"}
+{"file_id": "scene_235", "file_path": "data/scene/scene_235.jpg", "annotation": "stairwell", "task": "scene", "data_type": "image"}
+{"file_id": "scene_236", "file_path": "data/scene/scene_236.jpg", "annotation": "train station exit", "task": "scene", "data_type": "image"}
+{"file_id": "scene_237", "file_path": "data/scene/scene_237.jpg", "annotation": "desert", "task": "scene", "data_type": "image"}
+{"file_id": "scene_238", "file_path": "data/scene/scene_238.jpg", "annotation": "on the ground", "task": "scene", "data_type": "image"}
+{"file_id": "scene_239", "file_path": "data/scene/scene_239.jpg", "annotation": "city streets", "task": "scene", "data_type": "image"}
+{"file_id": "scene_240", "file_path": "data/scene/scene_240.jpg", "annotation": "on the dining table", "task": "scene", "data_type": "image"}
+{"file_id": "scene_241", "file_path": "data/scene/scene_241.jpg", "annotation": "in front of the log cabin", "task": "scene", "data_type": "image"}
+{"file_id": "scene_242", "file_path": "data/scene/scene_242.jpg", "annotation": "high-altitude work", "task": "scene", "data_type": "image"}
+{"file_id": "scene_243", "file_path": "data/scene/scene_243.jpg", "annotation": "forest", "task": "scene", "data_type": "image"}
+{"file_id": "scene_244", "file_path": "data/scene/scene_244.jpg", "annotation": "city streets", "task": "scene", "data_type": "image"}
+{"file_id": "scene_245", "file_path": "data/scene/scene_245.jpg", "annotation": "before the river-crossing bridge", "task": "scene", "data_type": "image"}
+{"file_id": "scene_246", "file_path": "data/scene/scene_246.jpg", "annotation": "barren grassland", "task": "scene", "data_type": "image"}
+{"file_id": "scene_247", "file_path": "data/scene/scene_247.jpg", "annotation": "Chinatown streets", "task": "scene", "data_type": "image"}
+{"file_id": "scene_248", "file_path": "data/scene/scene_248.jpg", "annotation": "clear blue sky without clouds", "task": "scene", "data_type": "image"}
+{"file_id": "scene_249", "file_path": "data/scene/scene_249.jpg", "annotation": "on the indoor windowsill", "task": "scene", "data_type": "image"}
+{"file_id": "scene_250", "file_path": "data/scene/scene_250.jpg", "annotation": "penguin habitat", "task": "scene", "data_type": "image"}
+{"file_id": "scene_251", "file_path": "data/scene/scene_251.jpg", "annotation": "in the river water", "task": "scene", "data_type": "image"}
+{"file_id": "scene_252", "file_path": "data/scene/scene_252.jpg", "annotation": "gym", "task": "scene", "data_type": "image"}
+{"file_id": "scene_253", "file_path": "data/scene/scene_253.jpg", "annotation": "Carpet Exchange", "task": "scene", "data_type": "image"}
+{"file_id": "scene_254", "file_path": "data/scene/scene_254.jpg", "annotation": "in the woods", "task": "scene", "data_type": "image"}
+{"file_id": "scene_255", "file_path": "data/scene/scene_255.jpg", "annotation": "in the church corridor", "task": "scene", "data_type": "image"}
+{"file_id": "scene_256", "file_path": "data/scene/scene_256.jpg", "annotation": "in the rice field", "task": "scene", "data_type": "image"}
+{"file_id": "scene_257", "file_path": "data/scene/scene_257.jpg", "annotation": "on the high seas", "task": "scene", "data_type": "image"}
+{"file_id": "scene_258", "file_path": "data/scene/scene_258.jpg", "annotation": "outdoor park", "task": "scene", "data_type": "image"}
+{"file_id": "scene_259", "file_path": "data/scene/scene_259.jpg", "annotation": "on the grass", "task": "scene", "data_type": "image"}
+{"file_id": "scene_260", "file_path": "data/scene/scene_260.jpg", "annotation": "grassland", "task": "scene", "data_type": "image"}
+{"file_id": "scene_261", "file_path": "data/scene/scene_261.jpg", "annotation": "on the table", "task": "scene", "data_type": "image"}
+{"file_id": "scene_262", "file_path": "data/scene/scene_262.jpg", "annotation": "on the water surface", "task": "scene", "data_type": "image"}
+{"file_id": "scene_263", "file_path": "data/scene/scene_263.jpg", "annotation": "graffiti stone side", "task": "scene", "data_type": "image"}
+{"file_id": "scene_264", "file_path": "data/scene/scene_264.jpg", "annotation": "indoor mall ceiling", "task": "scene", "data_type": "image"}
+{"file_id": "scene_265", "file_path": "data/scene/scene_265.jpg", "annotation": "on the subway", "task": "scene", "data_type": "image"}
+{"file_id": "scene_266", "file_path": "data/scene/scene_266.jpg", "annotation": "on the desktop", "task": "scene", "data_type": "image"}
+{"file_id": "scene_267", "file_path": "data/scene/scene_267.jpg", "annotation": "park", "task": "scene", "data_type": "image"}
+{"file_id": "scene_268", "file_path": "data/scene/scene_268.jpg", "annotation": "beside the bicycle track", "task": "scene", "data_type": "image"}
+{"file_id": "scene_269", "file_path": "data/scene/scene_269.jpg", "annotation": "on the table", "task": "scene", "data_type": "image"}
+{"file_id": "scene_270", "file_path": "data/scene/scene_270.jpg", "annotation": "martial arts training hall", "task": "scene", "data_type": "image"}
+{"file_id": "scene_271", "file_path": "data/scene/scene_271.jpg", "annotation": "cliff by the sea", "task": "scene", "data_type": "image"}
+{"file_id": "scene_272", "file_path": "data/scene/scene_272.jpg", "annotation": "performance venue", "task": "scene", "data_type": "image"}
+{"file_id": "scene_273", "file_path": "data/scene/scene_273.jpg", "annotation": "Ocean Park Entrance", "task": "scene", "data_type": "image"}
+{"file_id": "scene_274", "file_path": "data/scene/scene_274.jpg", "annotation": "store entrance", "task": "scene", "data_type": "image"}
+{"file_id": "scene_275", "file_path": "data/scene/scene_275.jpg", "annotation": "building entrance", "task": "scene", "data_type": "image"}
+{"file_id": "scene_276", "file_path": "data/scene/scene_276.jpg", "annotation": "sandy ground", "task": "scene", "data_type": "image"}
+{"file_id": "scene_277", "file_path": "data/scene/scene_277.jpg", "annotation": "zoo", "task": "scene", "data_type": "image"}
+{"file_id": "scene_278", "file_path": "data/scene/scene_278.jpg", "annotation": "in front of the exhibition hall", "task": "scene", "data_type": "image"}
+{"file_id": "scene_279", "file_path": "data/scene/scene_279.jpg", "annotation": "by the fountain in the park", "task": "scene", "data_type": "image"}
+{"file_id": "scene_280", "file_path": "data/scene/scene_280.jpg", "annotation": "on the high seas", "task": "scene", "data_type": "image"}
+{"file_id": "scene_281", "file_path": "data/scene/scene_281.jpg", "annotation": "On the runway at the seaside airport", "task": "scene", "data_type": "image"}
+{"file_id": "scene_282", "file_path": "data/scene/scene_282.jpg", "annotation": "port", "task": "scene", "data_type": "image"}
+{"file_id": "scene_283", "file_path": "data/scene/scene_283.jpg", "annotation": "beside the roadside outdoors", "task": "scene", "data_type": "image"}
+{"file_id": "scene_284", "file_path": "data/scene/scene_284.jpg", "annotation": "store entrance", "task": "scene", "data_type": "image"}
+{"file_id": "scene_285", "file_path": "data/scene/scene_285.jpg", "annotation": "in front of the sedan", "task": "scene", "data_type": "image"}
+{"file_id": "scene_286", "file_path": "data/scene/scene_286.jpg", "annotation": "park", "task": "scene", "data_type": "image"}
+{"file_id": "scene_287", "file_path": "data/scene/scene_287.jpg", "annotation": "in the cave", "task": "scene", "data_type": "image"}
+{"file_id": "scene_288", "file_path": "data/scene/scene_288.jpg", "annotation": "city riverbank", "task": "scene", "data_type": "image"}
+{"file_id": "scene_289", "file_path": "data/scene/scene_289.jpg", "annotation": "on the dining table", "task": "scene", "data_type": "image"}
+{"file_id": "scene_290", "file_path": "data/scene/scene_290.jpg", "annotation": "cliff plank path", "task": "scene", "data_type": "image"}
+{"file_id": "scene_291", "file_path": "data/scene/scene_291.jpg", "annotation": "city streets", "task": "scene", "data_type": "image"}
+{"file_id": "scene_292", "file_path": "data/scene/scene_292.jpg", "annotation": "lounge", "task": "scene", "data_type": "image"}
+{"file_id": "scene_293", "file_path": "data/scene/scene_293.jpg", "annotation": "on the suspension bridge over the cliff face", "task": "scene", "data_type": "image"}
+{"file_id": "scene_294", "file_path": "data/scene/scene_294.jpg", "annotation": "on the dining table", "task": "scene", "data_type": "image"}
+{"file_id": "scene_295", "file_path": "data/scene/scene_295.jpg", "annotation": "on the desktop", "task": "scene", "data_type": "image"}
+{"file_id": "scene_296", "file_path": "data/scene/scene_296.jpg", "annotation": "party hall", "task": "scene", "data_type": "image"}
+{"file_id": "scene_297", "file_path": "data/scene/scene_297.jpg", "annotation": "on the table", "task": "scene", "data_type": "image"}
+{"file_id": "scene_298", "file_path": "data/scene/scene_298.jpg", "annotation": "parking lot", "task": "scene", "data_type": "image"}
+{"file_id": "scene_299", "file_path": "data/scene/scene_299.jpg", "annotation": "bedroom", "task": "scene", "data_type": "image"}
+{"file_id": "scene_300", "file_path": "data/scene/scene_300.jpg", "annotation": "port city", "task": "scene", "data_type": "image"}
+{"file_id": "scene_301", "file_path": "data/scene/scene_301.jpg", "annotation": "on the table", "task": "scene", "data_type": "image"}
+{"file_id": "scene_302", "file_path": "data/scene/scene_302.jpg", "annotation": "racecourse", "task": "scene", "data_type": "image"}
+{"file_id": "scene_303", "file_path": "data/scene/scene_303.jpg", "annotation": "on the street", "task": "scene", "data_type": "image"}
+{"file_id": "scene_304", "file_path": "data/scene/scene_304.jpg", "annotation": "forest", "task": "scene", "data_type": "image"}
+{"file_id": "scene_305", "file_path": "data/scene/scene_305.jpg", "annotation": "before the corridor", "task": "scene", "data_type": "image"}
+{"file_id": "scene_306", "file_path": "data/scene/scene_306.jpg", "annotation": "in front of the church", "task": "scene", "data_type": "image"}
+{"file_id": "scene_307", "file_path": "data/scene/scene_307.jpg", "annotation": "sea", "task": "scene", "data_type": "image"}
+{"file_id": "scene_308", "file_path": "data/scene/scene_308.png", "annotation": "city streets", "task": "scene", "data_type": "image"}
+{"file_id": "scene_309", "file_path": "data/scene/scene_309.jpg", "annotation": "forest", "task": "scene", "data_type": "image"}
+{"file_id": "scene_310", "file_path": "data/scene/scene_310.jpg", "annotation": "sightseeing bus", "task": "scene", "data_type": "image"}
+{"file_id": "scene_311", "file_path": "data/scene/scene_311.jpg", "annotation": "tall buildings stand close together", "task": "scene", "data_type": "image"}
+{"file_id": "scene_312", "file_path": "data/scene/scene_312.jpg", "annotation": "City Square", "task": "scene", "data_type": "image"}
+{"file_id": "scene_313", "file_path": "data/scene/scene_313.jpg", "annotation": "beside the cruise ship", "task": "scene", "data_type": "image"}
+{"file_id": "scene_314", "file_path": "data/scene/scene_314.jpg", "annotation": "in front of the cottage", "task": "scene", "data_type": "image"}
+{"file_id": "scene_315", "file_path": "data/scene/scene_315.jpg", "annotation": "mountain town", "task": "scene", "data_type": "image"}
+{"file_id": "scene_316", "file_path": "data/scene/scene_316.jpg", "annotation": "on the dining table", "task": "scene", "data_type": "image"}
+{"file_id": "scene_317", "file_path": "data/scene/scene_317.jpg", "annotation": "fire scene", "task": "scene", "data_type": "image"}
+{"file_id": "scene_318", "file_path": "data/scene/scene_318.jpg", "annotation": "in the grass", "task": "scene", "data_type": "image"}
+{"file_id": "scene_319", "file_path": "data/scene/scene_319.jpg", "annotation": "Sports Center Entrance", "task": "scene", "data_type": "image"}
+{"file_id": "scene_320", "file_path": "data/scene/scene_320.jpg", "annotation": "in front of the palace", "task": "scene", "data_type": "image"}
+{"file_id": "scene_321", "file_path": "data/scene/scene_321.jpg", "annotation": "registration desk for consultation", "task": "scene", "data_type": "image"}
+{"file_id": "scene_322", "file_path": "data/scene/scene_322.jpg", "annotation": "wood processing workshop", "task": "scene", "data_type": "image"}
+{"file_id": "scene_323", "file_path": "data/scene/scene_323.jpg", "annotation": "seaside residential area", "task": "scene", "data_type": "image"}
+{"file_id": "scene_324", "file_path": "data/scene/scene_324.jpg", "annotation": "palace complex", "task": "scene", "data_type": "image"}
+{"file_id": "scene_325", "file_path": "data/scene/scene_325.jpg", "annotation": "on the table", "task": "scene", "data_type": "image"}
+{"file_id": "scene_326", "file_path": "data/scene/scene_326.jpg", "annotation": "entrance to the subway station", "task": "scene", "data_type": "image"}
+{"file_id": "scene_327", "file_path": "data/scene/scene_327.jpg", "annotation": "sightseeing bus", "task": "scene", "data_type": "image"}
+{"file_id": "scene_328", "file_path": "data/scene/scene_328.jpg", "annotation": "on the grassland", "task": "scene", "data_type": "image"}
+{"file_id": "scene_329", "file_path": "data/scene/scene_329.jpg", "annotation": "on the sea", "task": "scene", "data_type": "image"}
+{"file_id": "scene_330", "file_path": "data/scene/scene_330.jpg", "annotation": "on the jeans", "task": "scene", "data_type": "image"}
+{"file_id": "scene_331", "file_path": "data/scene/scene_331.jpg", "annotation": "outdoor activities", "task": "scene", "data_type": "image"}
+{"file_id": "scene_332", "file_path": "data/scene/scene_332.jpg", "annotation": "riverside town", "task": "scene", "data_type": "image"}
+{"file_id": "scene_333", "file_path": "data/scene/scene_333.jpg", "annotation": "kayak racing venue", "task": "scene", "data_type": "image"}
+{"file_id": "scene_334", "file_path": "data/scene/scene_334.jpg", "annotation": "forest", "task": "scene", "data_type": "image"}
+{"file_id": "scene_335", "file_path": "data/scene/scene_335.jpg", "annotation": " riverside scenery", "task": "scene", "data_type": "image"}
+{"file_id": "scene_336", "file_path": "data/scene/scene_336.jpg", "annotation": "coastal city", "task": "scene", "data_type": "image"}
+{"file_id": "scene_337", "file_path": "data/scene/scene_337.jpg", "annotation": "Riverside residential area", "task": "scene", "data_type": "image"}
+{"file_id": "scene_338", "file_path": "data/scene/scene_338.jpg", "annotation": "in front of the courtyard", "task": "scene", "data_type": "image"}
+{"file_id": "scene_339", "file_path": "data/scene/scene_339.jpg", "annotation": "on the dining table", "task": "scene", "data_type": "image"}
+{"file_id": "scene_340", "file_path": "data/scene/scene_340.jpg", "annotation": "city streets", "task": "scene", "data_type": "image"}
+{"file_id": "scene_341", "file_path": "data/scene/scene_341.jpg", "annotation": "a corner of the city", "task": "scene", "data_type": "image"}
+{"file_id": "scene_342", "file_path": "data/scene/scene_342.jpg", "annotation": "beside the large ship", "task": "scene", "data_type": "image"}
+{"file_id": "scene_343", "file_path": "data/scene/scene_343.jpg", "annotation": "Square Before the Mountain", "task": "scene", "data_type": "image"}
+{"file_id": "scene_344", "file_path": "data/scene/scene_344.jpg", "annotation": "park", "task": "scene", "data_type": "image"}
+{"file_id": "scene_345", "file_path": "data/scene/scene_345.jpg", "annotation": "on the table", "task": "scene", "data_type": "image"}
+{"file_id": "scene_346", "file_path": "data/scene/scene_346.jpg", "annotation": "beside a stream in the mountains", "task": "scene", "data_type": "image"}
+{"file_id": "scene_347", "file_path": "data/scene/scene_347.jpg", "annotation": "beside the outdoor ground stone pit", "task": "scene", "data_type": "image"}
+{"file_id": "scene_348", "file_path": "data/scene/scene_348.jpg", "annotation": "Viewing platform in front of the waterfall", "task": "scene", "data_type": "image"}
+{"file_id": "scene_349", "file_path": "data/scene/scene_349.jpg", "annotation": "coastal town", "task": "scene", "data_type": "image"}
+{"file_id": "scene_350", "file_path": "data/scene/scene_350.jpg", "annotation": "by the lake", "task": "scene", "data_type": "image"}
+{"file_id": "scene_351", "file_path": "data/scene/scene_351.jpg", "annotation": "woodland path", "task": "scene", "data_type": "image"}
+{"file_id": "scene_352", "file_path": "data/scene/scene_352.jpg", "annotation": "in front of the airport hall", "task": "scene", "data_type": "image"}
+{"file_id": "scene_353", "file_path": "data/scene/scene_353.jpg", "annotation": "pedestrian street", "task": "scene", "data_type": "image"}
+{"file_id": "scene_354", "file_path": "data/scene/scene_354.jpg", "annotation": "in front of the resort hotel", "task": "scene", "data_type": "image"}
+{"file_id": "scene_355", "file_path": "data/scene/scene_355.jpg", "annotation": "drying ground", "task": "scene", "data_type": "image"}
+{"file_id": "scene_356", "file_path": "data/scene/scene_356.jpg", "annotation": "kitchen", "task": "scene", "data_type": "image"}
+{"file_id": "scene_357", "file_path": "data/scene/scene_357.jpg", "annotation": "threshing floor", "task": "scene", "data_type": "image"}
+{"file_id": "scene_358", "file_path": "data/scene/scene_358.jpg", "annotation": "bridge spanning the river", "task": "scene", "data_type": "image"}
+{"file_id": "scene_359", "file_path": "data/scene/scene_359.png", "annotation": "on the high seas", "task": "scene", "data_type": "image"}
+{"file_id": "scene_360", "file_path": "data/scene/scene_360.jpg", "annotation": "refugee camp", "task": "scene", "data_type": "image"}
+{"file_id": "scene_361", "file_path": "data/scene/scene_361.jpg", "annotation": "on the table", "task": "scene", "data_type": "image"}
+{"file_id": "scene_362", "file_path": "data/scene/scene_362.jpg", "annotation": "car factory", "task": "scene", "data_type": "image"}
+{"file_id": "scene_363", "file_path": "data/scene/scene_363.jpg", "annotation": "beside the railway tracks", "task": "scene", "data_type": "image"}
+{"file_id": "scene_364", "file_path": "data/scene/scene_364.jpg", "annotation": "on the sea", "task": "scene", "data_type": "image"}
+{"file_id": "scene_365", "file_path": "data/scene/scene_365.jpg", "annotation": "Flower Garden", "task": "scene", "data_type": "image"}
+{"file_id": "scene_366", "file_path": "data/scene/scene_366.jpg", "annotation": "in the grass", "task": "scene", "data_type": "image"}
+{"file_id": "scene_367", "file_path": "data/scene/scene_367.jpg", "annotation": "on the grassland", "task": "scene", "data_type": "image"}
+{"file_id": "scene_368", "file_path": "data/scene/scene_368.jpg", "annotation": "inside the zoo fence", "task": "scene", "data_type": "image"}
+{"file_id": "scene_369", "file_path": "data/scene/scene_369.jpg", "annotation": "by the river", "task": "scene", "data_type": "image"}
+{"file_id": "scene_370", "file_path": "data/scene/scene_370.jpg", "annotation": "inside the warehouse", "task": "scene", "data_type": "image"}
+{"file_id": "scene_371", "file_path": "data/scene/scene_371.jpg", "annotation": "the entrance of the jewelry store", "task": "scene", "data_type": "image"}
+{"file_id": "scene_372", "file_path": "data/scene/scene_372.jpg", "annotation": "by the lake", "task": "scene", "data_type": "image"}
+{"file_id": "scene_373", "file_path": "data/scene/scene_373.jpg", "annotation": "on the dining table", "task": "scene", "data_type": "image"}
+{"file_id": "scene_374", "file_path": "data/scene/scene_374.jpg", "annotation": "busy street", "task": "scene", "data_type": "image"}
+{"file_id": "scene_375", "file_path": "data/scene/scene_375.jpg", "annotation": "residential area roadside", "task": "scene", "data_type": "image"}
+{"file_id": "scene_376", "file_path": "data/scene/scene_376.jpg", "annotation": "grassland", "task": "scene", "data_type": "image"}
+{"file_id": "scene_377", "file_path": "data/scene/scene_377.jpg", "annotation": "by the seaside", "task": "scene", "data_type": "image"}
+{"file_id": "scene_378", "file_path": "data/scene/scene_378.jpg", "annotation": "suburb", "task": "scene", "data_type": "image"}
+{"file_id": "scene_379", "file_path": "data/scene/scene_379.jpg", "annotation": "Rugby field", "task": "scene", "data_type": "image"}
+{"file_id": "scene_380", "file_path": "data/scene/scene_380.jpg", "annotation": "beside the railway tracks", "task": "scene", "data_type": "image"}
+{"file_id": "scene_381", "file_path": "data/scene/scene_381.jpg", "annotation": "on the snow-covered ground", "task": "scene", "data_type": "image"}
+{"file_id": "scene_382", "file_path": "data/scene/scene_382.jpg", "annotation": "by the lake in front of the palace", "task": "scene", "data_type": "image"}
+{"file_id": "scene_383", "file_path": "data/scene/scene_383.jpg", "annotation": "forest", "task": "scene", "data_type": "image"}
+{"file_id": "scene_384", "file_path": "data/scene/scene_384.jpg", "annotation": "on the high seas", "task": "scene", "data_type": "image"}
+{"file_id": "scene_385", "file_path": "data/scene/scene_385.jpg", "annotation": "in front of the palace", "task": "scene", "data_type": "image"}
+{"file_id": "scene_386", "file_path": "data/scene/scene_386.jpg", "annotation": "grassland", "task": "scene", "data_type": "image"}
+{"file_id": "scene_387", "file_path": "data/scene/scene_387.jpg", "annotation": "in front of the computer desk", "task": "scene", "data_type": "image"}
+{"file_id": "scene_388", "file_path": "data/scene/scene_388.jpg", "annotation": "the chimpanzee habitat at the zoo", "task": "scene", "data_type": "image"}
+{"file_id": "scene_389", "file_path": "data/scene/scene_389.jpg", "annotation": "corridor", "task": "scene", "data_type": "image"}
+{"file_id": "scene_390", "file_path": "data/scene/scene_390.jpg", "annotation": "viewing platform", "task": "scene", "data_type": "image"}
+{"file_id": "scene_391", "file_path": "data/scene/scene_391.jpg", "annotation": "town before the mountain", "task": "scene", "data_type": "image"}
+{"file_id": "scene_392", "file_path": "data/scene/scene_392.jpg", "annotation": "Seaside street", "task": "scene", "data_type": "image"}
+{"file_id": "scene_393", "file_path": "data/scene/scene_393.jpg", "annotation": "ancestral hall", "task": "scene", "data_type": "image"}
+{"file_id": "scene_394", "file_path": "data/scene/scene_394.jpg", "annotation": "city skyline", "task": "scene", "data_type": "image"}
+{"file_id": "scene_395", "file_path": "data/scene/scene_395.jpg", "annotation": "in front of the cottage", "task": "scene", "data_type": "image"}
+{"file_id": "scene_396", "file_path": "data/scene/scene_396.jpg", "annotation": "plantation", "task": "scene", "data_type": "image"}
+{"file_id": "scene_397", "file_path": "data/scene/scene_397.jpg", "annotation": "City Square", "task": "scene", "data_type": "image"}
+{"file_id": "scene_398", "file_path": "data/scene/scene_398.jpg", "annotation": "forest", "task": "scene", "data_type": "image"}
+{"file_id": "scene_399", "file_path": "data/scene/scene_399.jpg", "annotation": "on the grass", "task": "scene", "data_type": "image"}
+{"file_id": "scene_400", "file_path": "data/scene/scene_400.jpg", "annotation": "on the water surface", "task": "scene", "data_type": "image"}
+{"file_id": "scene_401", "file_path": "data/scene/scene_401.jpg", "annotation": "by the forest", "task": "scene", "data_type": "image"}
+{"file_id": "scene_402", "file_path": "data/scene/scene_402.jpg", "annotation": "wood shop", "task": "scene", "data_type": "image"}
+{"file_id": "scene_403", "file_path": "data/scene/scene_403.jpg", "annotation": "beside the railway tracks", "task": "scene", "data_type": "image"}
+{"file_id": "scene_404", "file_path": "data/scene/scene_404.jpg", "annotation": "park", "task": "scene", "data_type": "image"}
+{"file_id": "scene_405", "file_path": "data/scene/scene_405.jpg", "annotation": "seafloor", "task": "scene", "data_type": "image"}
+{"file_id": "scene_406", "file_path": "data/scene/scene_406.jpg", "annotation": "on the sea surface", "task": "scene", "data_type": "image"}
+{"file_id": "scene_407", "file_path": "data/scene/scene_407.jpg", "annotation": "on the street in front of the temple", "task": "scene", "data_type": "image"}
+{"file_id": "scene_408", "file_path": "data/scene/scene_408.jpg", "annotation": "in the woods", "task": "scene", "data_type": "image"}
+{"file_id": "scene_409", "file_path": "data/scene/scene_409.jpg", "annotation": "city alley", "task": "scene", "data_type": "image"}
+{"file_id": "scene_410", "file_path": "data/scene/scene_410.jpg", "annotation": "city streets", "task": "scene", "data_type": "image"}
+{"file_id": "scene_411", "file_path": "data/scene/scene_411.jpg", "annotation": "by the river", "task": "scene", "data_type": "image"}
+{"file_id": "scene_412", "file_path": "data/scene/scene_412.jpg", "annotation": "industrial area", "task": "scene", "data_type": "image"}
+{"file_id": "scene_413", "file_path": "data/scene/scene_413.jpg", "annotation": "indoor gymnasium", "task": "scene", "data_type": "image"}
+{"file_id": "scene_414", "file_path": "data/scene/scene_414.jpg", "annotation": "stadium", "task": "scene", "data_type": "image"}
+{"file_id": "scene_415", "file_path": "data/scene/scene_415.jpg", "annotation": "the entrance to the park and pier", "task": "scene", "data_type": "image"}
+{"file_id": "scene_416", "file_path": "data/scene/scene_416.jpg", "annotation": "living room", "task": "scene", "data_type": "image"}
+{"file_id": "scene_417", "file_path": "data/scene/scene_417.jpg", "annotation": "busy city streets", "task": "scene", "data_type": "image"}
+{"file_id": "scene_418", "file_path": "data/scene/scene_418.jpg", "annotation": "outside the high-rise residential building", "task": "scene", "data_type": "image"}
+{"file_id": "scene_419", "file_path": "data/scene/scene_419.jpg", "annotation": "a corner of the room", "task": "scene", "data_type": "image"}
+{"file_id": "scene_420", "file_path": "data/scene/scene_420.jpg", "annotation": "garden", "task": "scene", "data_type": "image"}
+{"file_id": "scene_421", "file_path": "data/scene/scene_421.jpg", "annotation": "golf course", "task": "scene", "data_type": "image"}
+{"file_id": "scene_422", "file_path": "data/scene/scene_422.jpg", "annotation": "before the ancient castle", "task": "scene", "data_type": "image"}
+{"file_id": "scene_423", "file_path": "data/scene/scene_423.jpg", "annotation": "in the grass", "task": "scene", "data_type": "image"}
+{"file_id": "scene_424", "file_path": "data/scene/scene_424.jpg", "annotation": "in front of the display cabinet", "task": "scene", "data_type": "image"}
+{"file_id": "scene_425", "file_path": "data/scene/scene_425.jpg", "annotation": "outdoor square", "task": "scene", "data_type": "image"}
+{"file_id": "scene_426", "file_path": "data/scene/scene_426.jpg", "annotation": "in front of the house after the snow", "task": "scene", "data_type": "image"}
+{"file_id": "scene_427", "file_path": "data/scene/scene_427.jpg", "annotation": "apartment living room", "task": "scene", "data_type": "image"}
+{"file_id": "scene_428", "file_path": "data/scene/scene_428.jpg", "annotation": "city streets", "task": "scene", "data_type": "image"}
+{"file_id": "scene_429", "file_path": "data/scene/scene_429.jpg", "annotation": "by the sea", "task": "scene", "data_type": "image"}
+{"file_id": "scene_430", "file_path": "data/scene/scene_430.jpg", "annotation": "city streets", "task": "scene", "data_type": "image"}
+{"file_id": "scene_431", "file_path": "data/scene/scene_431.jpg", "annotation": "operating room", "task": "scene", "data_type": "image"}
+{"file_id": "scene_432", "file_path": "data/scene/scene_432.jpg", "annotation": "in the air", "task": "scene", "data_type": "image"}
+{"file_id": "scene_433", "file_path": "data/scene/scene_433.jpg", "annotation": "in front of the palace", "task": "scene", "data_type": "image"}
+{"file_id": "scene_434", "file_path": "data/scene/scene_434.jpg", "annotation": "shrine entrance", "task": "scene", "data_type": "image"}
+{"file_id": "scene_435", "file_path": "data/scene/scene_435.jpg", "annotation": "in front of the ancient city wall", "task": "scene", "data_type": "image"}
+{"file_id": "scene_436", "file_path": "data/scene/scene_436.jpg", "annotation": "exhibition hall", "task": "scene", "data_type": "image"}
+{"file_id": "scene_437", "file_path": "data/scene/scene_437.jpg", "annotation": "in front of the palace", "task": "scene", "data_type": "image"}
+{"file_id": "scene_438", "file_path": "data/scene/scene_438.jpg", "annotation": "outdoor volleyball court", "task": "scene", "data_type": "image"}
+{"file_id": "scene_439", "file_path": "data/scene/scene_439.jpg", "annotation": "continuous mountains", "task": "scene", "data_type": "image"}
+{"file_id": "scene_440", "file_path": "data/scene/scene_440.jpg", "annotation": "in front of the landmark building", "task": "scene", "data_type": "image"}
+{"file_id": "scene_441", "file_path": "data/scene/scene_441.jpg", "annotation": "on the grassland", "task": "scene", "data_type": "image"}
+{"file_id": "scene_442", "file_path": "data/scene/scene_442.jpg", "annotation": "business street", "task": "scene", "data_type": "image"}
+{"file_id": "scene_443", "file_path": "data/scene/scene_443.jpg", "annotation": "garage entrance", "task": "scene", "data_type": "image"}
+{"file_id": "scene_444", "file_path": "data/scene/scene_444.jpg", "annotation": "in front of the palace square", "task": "scene", "data_type": "image"}
+{"file_id": "scene_445", "file_path": "data/scene/scene_445.jpg", "annotation": "museum exhibition", "task": "scene", "data_type": "image"}
+{"file_id": "scene_446", "file_path": "data/scene/scene_446.jpg", "annotation": "reef edge", "task": "scene", "data_type": "image"}
+{"file_id": "scene_447", "file_path": "data/scene/scene_447.jpg", "annotation": "ski resort", "task": "scene", "data_type": "image"}
+{"file_id": "scene_448", "file_path": "data/scene/scene_448.jpg", "annotation": "in the bushes", "task": "scene", "data_type": "image"}
+{"file_id": "scene_449", "file_path": "data/scene/scene_449.jpg", "annotation": "entrance to the ancient town", "task": "scene", "data_type": "image"}
+{"file_id": "scene_450", "file_path": "data/scene/scene_450.jpg", "annotation": "Entrance of Fushimi Inari Taisha", "task": "scene", "data_type": "image"}
+{"file_id": "scene_451", "file_path": "data/scene/scene_451.jpg", "annotation": "basketball court", "task": "scene", "data_type": "image"}
+{"file_id": "scene_452", "file_path": "data/scene/scene_452.jpg", "annotation": "street vendor", "task": "scene", "data_type": "image"}
+{"file_id": "scene_453", "file_path": "data/scene/scene_453.jpg", "annotation": "park", "task": "scene", "data_type": "image"}
+{"file_id": "scene_454", "file_path": "data/scene/scene_454.jpg", "annotation": "on the viewing platform", "task": "scene", "data_type": "image"}
+{"file_id": "scene_455", "file_path": "data/scene/scene_455.jpg", "annotation": "beside the pavilion in the park", "task": "scene", "data_type": "image"}
+{"file_id": "scene_456", "file_path": "data/scene/scene_456.jpg", "annotation": "before the lighthouse", "task": "scene", "data_type": "image"}
+{"file_id": "scene_457", "file_path": "data/scene/scene_457.jpg", "annotation": "nursery", "task": "scene", "data_type": "image"}
+{"file_id": "scene_458", "file_path": "data/scene/scene_458.jpg", "annotation": "before the stilt house under construction", "task": "scene", "data_type": "image"}
+{"file_id": "scene_459", "file_path": "data/scene/scene_459.jpg", "annotation": "on the high seas", "task": "scene", "data_type": "image"}
+{"file_id": "scene_460", "file_path": "data/scene/scene_460.jpg", "annotation": "on the sea", "task": "scene", "data_type": "image"}
+{"file_id": "scene_461", "file_path": "data/scene/scene_461.jpg", "annotation": "in front of the church", "task": "scene", "data_type": "image"}
+{"file_id": "scene_462", "file_path": "data/scene/scene_462.jpg", "annotation": "on the stage", "task": "scene", "data_type": "image"}
+{"file_id": "scene_463", "file_path": "data/scene/scene_463.jpg", "annotation": "in front of the cabin in the woods", "task": "scene", "data_type": "image"}
+{"file_id": "scene_464", "file_path": "data/scene/scene_464.jpg", "annotation": "race track", "task": "scene", "data_type": "image"}
+{"file_id": "scene_465", "file_path": "data/scene/scene_465.jpg", "annotation": "the lawn in front of the palace", "task": "scene", "data_type": "image"}
+{"file_id": "scene_466", "file_path": "data/scene/scene_466.jpg", "annotation": "entrance to the train station", "task": "scene", "data_type": "image"}
+{"file_id": "scene_467", "file_path": "data/scene/scene_467.jpg", "annotation": "on the table", "task": "scene", "data_type": "image"}
+{"file_id": "scene_468", "file_path": "data/scene/scene_468.jpg", "annotation": "on the grass", "task": "scene", "data_type": "image"}
+{"file_id": "scene_469", "file_path": "data/scene/scene_469.jpg", "annotation": "suburb", "task": "scene", "data_type": "image"}
+{"file_id": "scene_470", "file_path": "data/scene/scene_470.jpg", "annotation": "supermarket shopping area", "task": "scene", "data_type": "image"}
+{"file_id": "scene_471", "file_path": "data/scene/scene_471.jpg", "annotation": "on the beach", "task": "scene", "data_type": "image"}
+{"file_id": "scene_472", "file_path": "data/scene/scene_472.jpg", "annotation": "high-altitude flight", "task": "scene", "data_type": "image"}
+{"file_id": "scene_473", "file_path": "data/scene/scene_473.jpg", "annotation": "on the parched land", "task": "scene", "data_type": "image"}
+{"file_id": "scene_474", "file_path": "data/scene/scene_474.jpg", "annotation": "in front of the computer", "task": "scene", "data_type": "image"}
+{"file_id": "scene_475", "file_path": "data/scene/scene_475.jpg", "annotation": "on the street", "task": "scene", "data_type": "image"}
+{"file_id": "scene_476", "file_path": "data/scene/scene_476.jpg", "annotation": "mill operating room", "task": "scene", "data_type": "image"}
+{"file_id": "scene_477", "file_path": "data/scene/scene_477.jpg", "annotation": "outline of a rural town", "task": "scene", "data_type": "image"}
+{"file_id": "scene_478", "file_path": "data/scene/scene_478.jpg", "annotation": "on the shelf", "task": "scene", "data_type": "image"}
+{"file_id": "scene_479", "file_path": "data/scene/scene_479.jpg", "annotation": "on the grassland", "task": "scene", "data_type": "image"}
+{"file_id": "scene_480", "file_path": "data/scene/scene_480.jpg", "annotation": "in front of the memorial site", "task": "scene", "data_type": "image"}
+{"file_id": "scene_481", "file_path": "data/scene/scene_481.jpg", "annotation": "on the dining table", "task": "scene", "data_type": "image"}
+{"file_id": "scene_482", "file_path": "data/scene/scene_482.jpg", "annotation": "by the river", "task": "scene", "data_type": "image"}
+{"file_id": "scene_483", "file_path": "data/scene/scene_483.jpg", "annotation": "on the table", "task": "scene", "data_type": "image"}
+{"file_id": "scene_484", "file_path": "data/scene/scene_484.jpg", "annotation": "background board", "task": "scene", "data_type": "image"}
+{"file_id": "scene_485", "file_path": "data/scene/scene_485.jpg", "annotation": "inside the car testing ground", "task": "scene", "data_type": "image"}
+{"file_id": "scene_486", "file_path": "data/scene/scene_486.jpg", "annotation": "football field", "task": "scene", "data_type": "image"}
+{"file_id": "scene_487", "file_path": "data/scene/scene_487.jpg", "annotation": "in front of the countryside house", "task": "scene", "data_type": "image"}
+{"file_id": "scene_488", "file_path": "data/scene/scene_488.jpg", "annotation": "beside a mountain path", "task": "scene", "data_type": "image"}
+{"file_id": "scene_489", "file_path": "data/scene/scene_489.jpg", "annotation": "River Market", "task": "scene", "data_type": "image"}
+{"file_id": "scene_490", "file_path": "data/scene/scene_490.jpg", "annotation": "next to the cafe", "task": "scene", "data_type": "image"}
+{"file_id": "scene_491", "file_path": "data/scene/scene_491.jpg", "annotation": "city streets", "task": "scene", "data_type": "image"}
+{"file_id": "scene_492", "file_path": "data/scene/scene_492.jpg", "annotation": "in front of the collapsed house", "task": "scene", "data_type": "image"}
+{"file_id": "scene_493", "file_path": "data/scene/scene_493.jpg", "annotation": "on the table", "task": "scene", "data_type": "image"}
+{"file_id": "scene_494", "file_path": "data/scene/scene_494.jpg", "annotation": "market stall", "task": "scene", "data_type": "image"}
+{"file_id": "scene_495", "file_path": "data/scene/scene_495.jpg", "annotation": "beside the green field", "task": "scene", "data_type": "image"}
+{"file_id": "scene_496", "file_path": "data/scene/scene_496.jpg", "annotation": "city streets", "task": "scene", "data_type": "image"}
+{"file_id": "scene_497", "file_path": "data/scene/scene_497.jpg", "annotation": "coastal town", "task": "scene", "data_type": "image"}
+{"file_id": "scene_498", "file_path": "data/scene/scene_498.jpg", "annotation": "blue sky and white clouds", "task": "scene", "data_type": "image"}
+{"file_id": "scene_499", "file_path": "data/scene/scene_499.jpg", "annotation": "rest room", "task": "scene", "data_type": "image"}
+{"file_id": "scene_500", "file_path": "data/scene/scene_500.jpg", "annotation": "viaduct in the mountains", "task": "scene", "data_type": "image"}
+{"file_id": "scene_501", "file_path": "data/scene/scene_501.jpg", "annotation": "under the streetlights at night", "task": "scene", "data_type": "image"}
+{"file_id": "scene_502", "file_path": "data/scene/scene_502.jpg", "annotation": "at the foot of a rock mountain covered in ice and snow", "task": "scene", "data_type": "image"}
+{"file_id": "scene_503", "file_path": "data/scene/scene_503.jpg", "annotation": "in front of the house", "task": "scene", "data_type": "image"}
+{"file_id": "scene_504", "file_path": "data/scene/scene_504.jpg", "annotation": "in front of the ancient building", "task": "scene", "data_type": "image"}
+{"file_id": "scene_505", "file_path": "data/scene/scene_505.jpg", "annotation": "outdoor sports field", "task": "scene", "data_type": "image"}
+{"file_id": "scene_506", "file_path": "data/scene/scene_506.jpg", "annotation": "rural areas", "task": "scene", "data_type": "image"}
+{"file_id": "scene_507", "file_path": "data/scene/scene_507.jpg", "annotation": "outdoor caf\u00e9", "task": "scene", "data_type": "image"}
+{"file_id": "scene_508", "file_path": "data/scene/scene_508.jpg", "annotation": "restaurant", "task": "scene", "data_type": "image"}
+{"file_id": "scene_509", "file_path": "data/scene/scene_509.jpg", "annotation": "on the table", "task": "scene", "data_type": "image"}
+{"file_id": "scene_510", "file_path": "data/scene/scene_510.jpg", "annotation": "supermarket alcohol section", "task": "scene", "data_type": "image"}
+{"file_id": "scene_511", "file_path": "data/scene/scene_511.jpg", "annotation": "city park", "task": "scene", "data_type": "image"}
+{"file_id": "scene_512", "file_path": "data/scene/scene_512.jpg", "annotation": "living room", "task": "scene", "data_type": "image"}
+{"file_id": "scene_513", "file_path": "data/scene/scene_513.jpg", "annotation": "streets after snow", "task": "scene", "data_type": "image"}
+{"file_id": "scene_514", "file_path": "data/scene/scene_514.jpg", "annotation": "night view", "task": "scene", "data_type": "image"}
+{"file_id": "scene_515", "file_path": "data/scene/scene_515.jpg", "annotation": "candle making workshop", "task": "scene", "data_type": "image"}
+{"file_id": "scene_516", "file_path": "data/scene/scene_516.jpg", "annotation": "City Square", "task": "scene", "data_type": "image"}
+{"file_id": "scene_517", "file_path": "data/scene/scene_517.jpg", "annotation": "port entrance", "task": "scene", "data_type": "image"}
+{"file_id": "scene_518", "file_path": "data/scene/scene_518.jpg", "annotation": "horse field", "task": "scene", "data_type": "image"}
+{"file_id": "scene_519", "file_path": "data/scene/scene_519.jpg", "annotation": "city night view", "task": "scene", "data_type": "image"}
+{"file_id": "scene_520", "file_path": "data/scene/scene_520.jpg", "annotation": "city streets", "task": "scene", "data_type": "image"}
+{"file_id": "scene_521", "file_path": "data/scene/scene_521.jpg", "annotation": "on the dining table", "task": "scene", "data_type": "image"}
+{"file_id": "scene_522", "file_path": "data/scene/scene_522.jpg", "annotation": "Winter Park", "task": "scene", "data_type": "image"}
+{"file_id": "scene_523", "file_path": "data/scene/scene_523.jpg", "annotation": "in the ocean", "task": "scene", "data_type": "image"}
+{"file_id": "scene_524", "file_path": "data/scene/scene_524.jpg", "annotation": "under the indoor skylight", "task": "scene", "data_type": "image"}
+{"file_id": "scene_525", "file_path": "data/scene/scene_525.jpg", "annotation": "boating in the park lake", "task": "scene", "data_type": "image"}
+{"file_id": "scene_526", "file_path": "data/scene/scene_526.jpg", "annotation": "outdoor car exhibition venue", "task": "scene", "data_type": "image"}
+{"file_id": "scene_527", "file_path": "data/scene/scene_527.jpg", "annotation": "on the table", "task": "scene", "data_type": "image"}
+{"file_id": "scene_528", "file_path": "data/scene/scene_528.jpg", "annotation": "alley in the city", "task": "scene", "data_type": "image"}
+{"file_id": "scene_529", "file_path": "data/scene/scene_529.jpg", "annotation": "beside the farmland", "task": "scene", "data_type": "image"}
+{"file_id": "scene_530", "file_path": "data/scene/scene_530.jpg", "annotation": "in front of the outdoor square", "task": "scene", "data_type": "image"}
+{"file_id": "scene_531", "file_path": "data/scene/scene_531.jpg", "annotation": "rowing on the lake", "task": "scene", "data_type": "image"}
+{"file_id": "scene_532", "file_path": "data/scene/scene_532.jpg", "annotation": "beside the stone wall", "task": "scene", "data_type": "image"}
+{"file_id": "scene_533", "file_path": "data/scene/scene_533.jpg", "annotation": "in front of the residential area", "task": "scene", "data_type": "image"}
+{"file_id": "scene_534", "file_path": "data/scene/scene_534.jpg", "annotation": "museum entrance", "task": "scene", "data_type": "image"}
+{"file_id": "scene_535", "file_path": "data/scene/scene_535.jpg", "annotation": "in front of the memorial hall", "task": "scene", "data_type": "image"}
+{"file_id": "scene_536", "file_path": "data/scene/scene_536.jpg", "annotation": "tarmac", "task": "scene", "data_type": "image"}
+{"file_id": "scene_537", "file_path": "data/scene/scene_537.jpg", "annotation": "Giraffe Area in the Zoo", "task": "scene", "data_type": "image"}
+{"file_id": "scene_538", "file_path": "data/scene/scene_538.jpg", "annotation": "Exhibition Center Entrance", "task": "scene", "data_type": "image"}
+{"file_id": "scene_539", "file_path": "data/scene/scene_539.jpg", "annotation": "by the port", "task": "scene", "data_type": "image"}
+{"file_id": "scene_540", "file_path": "data/scene/scene_540.jpg", "annotation": "beside the viaduct in the valley", "task": "scene", "data_type": "image"}
+{"file_id": "scene_541", "file_path": "data/scene/scene_541.jpg", "annotation": "on the rock", "task": "scene", "data_type": "image"}
+{"file_id": "scene_542", "file_path": "data/scene/scene_542.jpg", "annotation": "night market stall", "task": "scene", "data_type": "image"}
+{"file_id": "scene_543", "file_path": "data/scene/scene_543.jpg", "annotation": "pigsty", "task": "scene", "data_type": "image"}
+{"file_id": "scene_544", "file_path": "data/scene/scene_544.jpg", "annotation": "in front of the Christmas tree", "task": "scene", "data_type": "image"}
+{"file_id": "scene_545", "file_path": "data/scene/scene_545.jpg", "annotation": "a corner of the city at dusk", "task": "scene", "data_type": "image"}
+{"file_id": "scene_546", "file_path": "data/scene/scene_546.jpg", "annotation": "living room", "task": "scene", "data_type": "image"}
+{"file_id": "scene_547", "file_path": "data/scene/scene_547.jpg", "annotation": "beside the highway", "task": "scene", "data_type": "image"}
+{"file_id": "scene_548", "file_path": "data/scene/scene_548.jpg", "annotation": "in the woods", "task": "scene", "data_type": "image"}
+{"file_id": "scene_549", "file_path": "data/scene/scene_549.jpg", "annotation": "paint store", "task": "scene", "data_type": "image"}
+{"file_id": "scene_550", "file_path": "data/scene/scene_550.jpg", "annotation": "wild grassland", "task": "scene", "data_type": "image"}
+{"file_id": "scene_551", "file_path": "data/scene/scene_551.jpg", "annotation": "grassland", "task": "scene", "data_type": "image"}
+{"file_id": "scene_552", "file_path": "data/scene/scene_552.jpg", "annotation": "on the high seas", "task": "scene", "data_type": "image"}
+{"file_id": "scene_553", "file_path": "data/scene/scene_553.jpg", "annotation": "on the road", "task": "scene", "data_type": "image"}
+{"file_id": "scene_554", "file_path": "data/scene/scene_554.jpg", "annotation": "rowing on the lake", "task": "scene", "data_type": "image"}
+{"file_id": "scene_555", "file_path": "data/scene/scene_555.jpg", "annotation": "Sakura Avenue", "task": "scene", "data_type": "image"}
+{"file_id": "scene_556", "file_path": "data/scene/scene_556.jpg", "annotation": "living room", "task": "scene", "data_type": "image"}
+{"file_id": "scene_557", "file_path": "data/scene/scene_557.jpg", "annotation": "on the dining table", "task": "scene", "data_type": "image"}
+{"file_id": "scene_558", "file_path": "data/scene/scene_558.jpg", "annotation": "on the dining table", "task": "scene", "data_type": "image"}
+{"file_id": "scene_559", "file_path": "data/scene/scene_559.jpg", "annotation": "on the pedestrian overpass", "task": "scene", "data_type": "image"}
+{"file_id": "scene_560", "file_path": "data/scene/scene_560.jpg", "annotation": "before the parade", "task": "scene", "data_type": "image"}
+{"file_id": "scene_561", "file_path": "data/scene/scene_561.jpg", "annotation": "parking lot", "task": "scene", "data_type": "image"}
+{"file_id": "scene_562", "file_path": "data/scene/scene_562.jpg", "annotation": "indoor corridor", "task": "scene", "data_type": "image"}
+{"file_id": "scene_563", "file_path": "data/scene/scene_563.jpg", "annotation": "under the tent for outdoor activities", "task": "scene", "data_type": "image"}
+{"file_id": "scene_564", "file_path": "data/scene/scene_564.jpg", "annotation": "city riverside", "task": "scene", "data_type": "image"}
+{"file_id": "scene_565", "file_path": "data/scene/scene_565.jpg", "annotation": "forest", "task": "scene", "data_type": "image"}
+{"file_id": "scene_566", "file_path": "data/scene/scene_566.jpg", "annotation": "forest", "task": "scene", "data_type": "image"}
+{"file_id": "scene_567", "file_path": "data/scene/scene_567.jpg", "annotation": "on the bridge", "task": "scene", "data_type": "image"}
+{"file_id": "scene_568", "file_path": "data/scene/scene_568.jpg", "annotation": "in front of the church cemetery", "task": "scene", "data_type": "image"}
+{"file_id": "scene_569", "file_path": "data/scene/scene_569.jpg", "annotation": "inside the castle", "task": "scene", "data_type": "image"}
+{"file_id": "scene_570", "file_path": "data/scene/scene_570.jpg", "annotation": "garden", "task": "scene", "data_type": "image"}
+{"file_id": "scene_571", "file_path": "data/scene/scene_571.jpg", "annotation": "city streets", "task": "scene", "data_type": "image"}
+{"file_id": "scene_572", "file_path": "data/scene/scene_572.jpg", "annotation": "country estate", "task": "scene", "data_type": "image"}
+{"file_id": "scene_573", "file_path": "data/scene/scene_573.jpg", "annotation": "temporary shelter", "task": "scene", "data_type": "image"}
+{"file_id": "scene_574", "file_path": "data/scene/scene_574.jpg", "annotation": "ski resort", "task": "scene", "data_type": "image"}
+{"file_id": "scene_575", "file_path": "data/scene/scene_575.jpg", "annotation": "woodland path", "task": "scene", "data_type": "image"}
+{"file_id": "scene_576", "file_path": "data/scene/scene_576.jpg", "annotation": "rural muddy road side", "task": "scene", "data_type": "image"}
+{"file_id": "scene_577", "file_path": "data/scene/scene_577.jpg", "annotation": "the interior of the car", "task": "scene", "data_type": "image"}
+{"file_id": "scene_578", "file_path": "data/scene/scene_578.jpg", "annotation": "concert hall", "task": "scene", "data_type": "image"}
+{"file_id": "scene_579", "file_path": "data/scene/scene_579.jpg", "annotation": "in front of the residential area", "task": "scene", "data_type": "image"}
+{"file_id": "scene_580", "file_path": "data/scene/scene_580.jpg", "annotation": "undefined", "task": "scene", "data_type": "image"}
+{"file_id": "scene_581", "file_path": "data/scene/scene_581.jpg", "annotation": "on the beach", "task": "scene", "data_type": "image"}
+{"file_id": "scene_582", "file_path": "data/scene/scene_582.jpg", "annotation": "city streets", "task": "scene", "data_type": "image"}
+{"file_id": "scene_583", "file_path": "data/scene/scene_583.jpg", "annotation": "on the panel", "task": "scene", "data_type": "image"}
+{"file_id": "scene_584", "file_path": "data/scene/scene_584.jpg", "annotation": "beside the track", "task": "scene", "data_type": "image"}
+{"file_id": "scene_585", "file_path": "data/scene/scene_585.jpg", "annotation": "on the overpass", "task": "scene", "data_type": "image"}
+{"file_id": "scene_586", "file_path": "data/scene/scene_586.jpg", "annotation": "exhibition hall", "task": "scene", "data_type": "image"}
+{"file_id": "scene_587", "file_path": "data/scene/scene_587.jpg", "annotation": "port city", "task": "scene", "data_type": "image"}
+{"file_id": "scene_588", "file_path": "data/scene/scene_588.jpg", "annotation": "living room", "task": "scene", "data_type": "image"}
+{"file_id": "scene_589", "file_path": "data/scene/scene_589.jpg", "annotation": "in front of the outdoor signpost", "task": "scene", "data_type": "image"}
+{"file_id": "scene_590", "file_path": "data/scene/scene_590.jpg", "annotation": "by the fountain", "task": "scene", "data_type": "image"}
+{"file_id": "scene_591", "file_path": "data/scene/scene_591.jpg", "annotation": "forest", "task": "scene", "data_type": "image"}
+{"file_id": "scene_592", "file_path": "data/scene/scene_592.jpg", "annotation": "in the bushes", "task": "scene", "data_type": "image"}
+{"file_id": "scene_593", "file_path": "data/scene/scene_593.jpg", "annotation": "beside the railway tracks", "task": "scene", "data_type": "image"}
+{"file_id": "scene_594", "file_path": "data/scene/scene_594.jpg", "annotation": "outdoor parking lot", "task": "scene", "data_type": "image"}
+{"file_id": "scene_595", "file_path": "data/scene/scene_595.jpg", "annotation": "the entrance of ancient buildings", "task": "scene", "data_type": "image"}
+{"file_id": "scene_596", "file_path": "data/scene/scene_596.jpg", "annotation": "on the desktop", "task": "scene", "data_type": "image"}
+{"file_id": "scene_597", "file_path": "data/scene/scene_597.jpg", "annotation": "golf course", "task": "scene", "data_type": "image"}
+{"file_id": "scene_598", "file_path": "data/scene/scene_598.jpg", "annotation": "on the high seas", "task": "scene", "data_type": "image"}
+{"file_id": "scene_599", "file_path": "data/scene/scene_599.jpg", "annotation": "ski resort", "task": "scene", "data_type": "image"}
+{"file_id": "scene_600", "file_path": "data/scene/scene_600.jpg", "annotation": "outdoor parking lot", "task": "scene", "data_type": "image"}
+{"file_id": "scene_601", "file_path": "data/scene/scene_601.jpg", "annotation": "beside the church graveyard", "task": "scene", "data_type": "image"}
+{"file_id": "scene_602", "file_path": "data/scene/scene_602.jpg", "annotation": "seafloor", "task": "scene", "data_type": "image"}
+{"file_id": "scene_603", "file_path": "data/scene/scene_603.jpg", "annotation": "on the table", "task": "scene", "data_type": "image"}
+{"file_id": "scene_604", "file_path": "data/scene/scene_604.jpg", "annotation": "scenic views of a small town", "task": "scene", "data_type": "image"}
+{"file_id": "scene_605", "file_path": "data/scene/scene_605.jpg", "annotation": "coffee showroom", "task": "scene", "data_type": "image"}
+{"file_id": "scene_606", "file_path": "data/scene/scene_606.jpg", "annotation": "on the wooden boardwalk", "task": "scene", "data_type": "image"}
+{"file_id": "scene_607", "file_path": "data/scene/scene_607.jpg", "annotation": "living room", "task": "scene", "data_type": "image"}
+{"file_id": "scene_608", "file_path": "data/scene/scene_608.jpg", "annotation": "on the table", "task": "scene", "data_type": "image"}
+{"file_id": "scene_609", "file_path": "data/scene/scene_609.jpg", "annotation": "city outline", "task": "scene", "data_type": "image"}
+{"file_id": "scene_610", "file_path": "data/scene/scene_610.jpg", "annotation": "next to the protest activities", "task": "scene", "data_type": "image"}
+{"file_id": "scene_611", "file_path": "data/scene/scene_611.jpg", "annotation": "in front of the car dealership", "task": "scene", "data_type": "image"}
+{"file_id": "scene_612", "file_path": "data/scene/scene_612.jpg", "annotation": "Rainy city streets", "task": "scene", "data_type": "image"}
+{"file_id": "scene_613", "file_path": "data/scene/scene_613.jpg", "annotation": "in the car's cockpit", "task": "scene", "data_type": "image"}
+{"file_id": "scene_614", "file_path": "data/scene/scene_614.jpg", "annotation": "street stall", "task": "scene", "data_type": "image"}
+{"file_id": "scene_615", "file_path": "data/scene/scene_615.jpg", "annotation": "outdoor car exhibition area", "task": "scene", "data_type": "image"}
+{"file_id": "scene_616", "file_path": "data/scene/scene_616.jpg", "annotation": "outdoor aircraft exhibition area", "task": "scene", "data_type": "image"}
+{"file_id": "scene_617", "file_path": "data/scene/scene_617.jpg", "annotation": "tropical rainforest", "task": "scene", "data_type": "image"}
+{"file_id": "scene_618", "file_path": "data/scene/scene_618.jpg", "annotation": "on the lake", "task": "scene", "data_type": "image"}
+{"file_id": "scene_619", "file_path": "data/scene/scene_619.jpg", "annotation": "in the lake", "task": "scene", "data_type": "image"}
+{"file_id": "scene_620", "file_path": "data/scene/scene_620.jpg", "annotation": "outdoor restaurant", "task": "scene", "data_type": "image"}
+{"file_id": "scene_621", "file_path": "data/scene/scene_621.jpg", "annotation": "country path", "task": "scene", "data_type": "image"}
+{"file_id": "scene_622", "file_path": "data/scene/scene_622.jpg", "annotation": "military training ground", "task": "scene", "data_type": "image"}
+{"file_id": "scene_623", "file_path": "data/scene/scene_623.jpg", "annotation": "bridal shop", "task": "scene", "data_type": "image"}
+{"file_id": "scene_624", "file_path": "data/scene/scene_624.jpg", "annotation": "the city after the snow", "task": "scene", "data_type": "image"}
+{"file_id": "scene_625", "file_path": "data/scene/scene_625.jpg", "annotation": "country store", "task": "scene", "data_type": "image"}
+{"file_id": "scene_626", "file_path": "data/scene/scene_626.jpg", "annotation": "under the tower", "task": "scene", "data_type": "image"}
+{"file_id": "scene_627", "file_path": "data/scene/scene_627.jpg", "annotation": "dock", "task": "scene", "data_type": "image"}
+{"file_id": "scene_628", "file_path": "data/scene/scene_628.jpg", "annotation": "beside the background of an event", "task": "scene", "data_type": "image"}
+{"file_id": "scene_629", "file_path": "data/scene/scene_629.jpg", "annotation": "amusement park", "task": "scene", "data_type": "image"}
+{"file_id": "scene_630", "file_path": "data/scene/scene_630.jpg", "annotation": "on the sea surface", "task": "scene", "data_type": "image"}
+{"file_id": "scene_631", "file_path": "data/scene/scene_631.jpg", "annotation": "logistics center", "task": "scene", "data_type": "image"}
+{"file_id": "scene_632", "file_path": "data/scene/scene_632.jpg", "annotation": "leather dyeing yard", "task": "scene", "data_type": "image"}
+{"file_id": "scene_633", "file_path": "data/scene/scene_633.jpg", "annotation": "on the table", "task": "scene", "data_type": "image"}
+{"file_id": "scene_634", "file_path": "data/scene/scene_634.jpg", "annotation": "by the lake", "task": "scene", "data_type": "image"}
+{"file_id": "scene_635", "file_path": "data/scene/scene_635.jpg", "annotation": "in the grass", "task": "scene", "data_type": "image"}
+{"file_id": "scene_636", "file_path": "data/scene/scene_636.jpg", "annotation": "the entrance of the hotel", "task": "scene", "data_type": "image"}
+{"file_id": "scene_637", "file_path": "data/scene/scene_637.jpg", "annotation": "city streets", "task": "scene", "data_type": "image"}
+{"file_id": "scene_638", "file_path": "data/scene/scene_638.jpg", "annotation": "Flower Market", "task": "scene", "data_type": "image"}
+{"file_id": "scene_639", "file_path": "data/scene/scene_639.jpg", "annotation": "military parking lot", "task": "scene", "data_type": "image"}
+{"file_id": "scene_640", "file_path": "data/scene/scene_640.jpg", "annotation": "city square at night", "task": "scene", "data_type": "image"}
+{"file_id": "scene_641", "file_path": "data/scene/scene_641.jpg", "annotation": "workshop", "task": "scene", "data_type": "image"}
+{"file_id": "scene_642", "file_path": "data/scene/scene_642.jpg", "annotation": "in the grass", "task": "scene", "data_type": "image"}
+{"file_id": "scene_643", "file_path": "data/scene/scene_643.jpg", "annotation": "at the foot of the Great Wall", "task": "scene", "data_type": "image"}
+{"file_id": "scene_644", "file_path": "data/scene/scene_644.jpg", "annotation": "city road", "task": "scene", "data_type": "image"}
+{"file_id": "scene_645", "file_path": "data/scene/scene_645.jpg", "annotation": "beside the ancient castle", "task": "scene", "data_type": "image"}
+{"file_id": "scene_646", "file_path": "data/scene/scene_646.jpg", "annotation": "street carnival", "task": "scene", "data_type": "image"}
+{"file_id": "scene_647", "file_path": "data/scene/scene_647.jpg", "annotation": "beside the small bridge under the cliff", "task": "scene", "data_type": "image"}
+{"file_id": "scene_648", "file_path": "data/scene/scene_648.jpg", "annotation": "blue sky", "task": "scene", "data_type": "image"}
+{"file_id": "scene_649", "file_path": "data/scene/scene_649.jpg", "annotation": "cricket ground", "task": "scene", "data_type": "image"}
+{"file_id": "scene_650", "file_path": "data/scene/scene_650.jpg", "annotation": "at sea", "task": "scene", "data_type": "image"}
+{"file_id": "scene_651", "file_path": "data/scene/scene_651.jpg", "annotation": "before the Buddha statue", "task": "scene", "data_type": "image"}
+{"file_id": "scene_652", "file_path": "data/scene/scene_652.jpg", "annotation": "outdoor gathering", "task": "scene", "data_type": "image"}
+{"file_id": "scene_653", "file_path": "data/scene/scene_653.jpg", "annotation": "in front of the stall", "task": "scene", "data_type": "image"}
+{"file_id": "scene_654", "file_path": "data/scene/scene_654.jpg", "annotation": "blue sky and white clouds", "task": "scene", "data_type": "image"}
+{"file_id": "scene_655", "file_path": "data/scene/scene_655.jpg", "annotation": "on the table", "task": "scene", "data_type": "image"}
+{"file_id": "scene_656", "file_path": "data/scene/scene_656.jpg", "annotation": "golf course", "task": "scene", "data_type": "image"}
+{"file_id": "scene_657", "file_path": "data/scene/scene_657.jpg", "annotation": "on the sea surface", "task": "scene", "data_type": "image"}
+{"file_id": "scene_658", "file_path": "data/scene/scene_658.jpg", "annotation": "grassland", "task": "scene", "data_type": "image"}
+{"file_id": "scene_659", "file_path": "data/scene/scene_659.jpg", "annotation": "urban ruins", "task": "scene", "data_type": "image"}
+{"file_id": "scene_660", "file_path": "data/scene/scene_660.jpg", "annotation": "bicycle exhibition", "task": "scene", "data_type": "image"}
+{"file_id": "scene_661", "file_path": "data/scene/scene_661.jpg", "annotation": "island", "task": "scene", "data_type": "image"}
+{"file_id": "scene_662", "file_path": "data/scene/scene_662.jpg", "annotation": "on the sea surface", "task": "scene", "data_type": "image"}
+{"file_id": "scene_663", "file_path": "data/scene/scene_663.jpg", "annotation": "duck shed", "task": "scene", "data_type": "image"}
+{"file_id": "scene_664", "file_path": "data/scene/scene_664.jpg", "annotation": "on the dining table", "task": "scene", "data_type": "image"}
+{"file_id": "scene_665", "file_path": "data/scene/scene_665.jpg", "annotation": "Rural Laundry Day", "task": "scene", "data_type": "image"}
+{"file_id": "scene_666", "file_path": "data/scene/scene_666.jpg", "annotation": "mine", "task": "scene", "data_type": "image"}
+{"file_id": "scene_667", "file_path": "data/scene/scene_667.jpg", "annotation": "theme park", "task": "scene", "data_type": "image"}
+{"file_id": "scene_668", "file_path": "data/scene/scene_668.jpg", "annotation": "business district", "task": "scene", "data_type": "image"}
+{"file_id": "scene_669", "file_path": "data/scene/scene_669.jpg", "annotation": "on the lake surface", "task": "scene", "data_type": "image"}
+{"file_id": "scene_670", "file_path": "data/scene/scene_670.jpg", "annotation": "on the dining table", "task": "scene", "data_type": "image"}
+{"file_id": "scene_671", "file_path": "data/scene/scene_671.jpg", "annotation": "small town street", "task": "scene", "data_type": "image"}
+{"file_id": "scene_672", "file_path": "data/scene/scene_672.jpg", "annotation": "on the table", "task": "scene", "data_type": "image"}
+{"file_id": "scene_673", "file_path": "data/scene/scene_673.jpg", "annotation": "disco hall", "task": "scene", "data_type": "image"}
+{"file_id": "scene_674", "file_path": "data/scene/scene_674.jpg", "annotation": "band performance", "task": "scene", "data_type": "image"}
+{"file_id": "scene_675", "file_path": "data/scene/scene_675.jpg", "annotation": "in front of the newspaper kiosk", "task": "scene", "data_type": "image"}
+{"file_id": "scene_676", "file_path": "data/scene/scene_676.jpg", "annotation": "in the woods", "task": "scene", "data_type": "image"}
+{"file_id": "scene_677", "file_path": "data/scene/scene_677.jpg", "annotation": "city streets", "task": "scene", "data_type": "image"}
+{"file_id": "scene_678", "file_path": "data/scene/scene_678.jpg", "annotation": "in front of the mall", "task": "scene", "data_type": "image"}
+{"file_id": "scene_679", "file_path": "data/scene/scene_679.jpg", "annotation": "town at the foot of the mountain", "task": "scene", "data_type": "image"}
+{"file_id": "scene_680", "file_path": "data/scene/scene_680.jpg", "annotation": "on the grass", "task": "scene", "data_type": "image"}
+{"file_id": "scene_681", "file_path": "data/scene/scene_681.jpg", "annotation": "by the pond in front of the church", "task": "scene", "data_type": "image"}
+{"file_id": "scene_682", "file_path": "data/scene/scene_682.jpg", "annotation": "city streets", "task": "scene", "data_type": "image"}
+{"file_id": "scene_683", "file_path": "data/scene/scene_683.jpg", "annotation": "houses with staggered and well-arranged layouts", "task": "scene", "data_type": "image"}
+{"file_id": "scene_684", "file_path": "data/scene/scene_684.jpg", "annotation": "on the grass", "task": "scene", "data_type": "image"}
+{"file_id": "scene_685", "file_path": "data/scene/scene_685.jpg", "annotation": "woods", "task": "scene", "data_type": "image"}
+{"file_id": "scene_686", "file_path": "data/scene/scene_686.jpg", "annotation": "beach wrestling competition", "task": "scene", "data_type": "image"}
+{"file_id": "scene_687", "file_path": "data/scene/scene_687.jpg", "annotation": "in front of the residential area", "task": "scene", "data_type": "image"}
+{"file_id": "scene_688", "file_path": "data/scene/scene_688.jpg", "annotation": "on the sea surface", "task": "scene", "data_type": "image"}
+{"file_id": "scene_689", "file_path": "data/scene/scene_689.jpg", "annotation": "in front of the palace", "task": "scene", "data_type": "image"}
+{"file_id": "scene_690", "file_path": "data/scene/scene_690.jpg", "annotation": "shopping mall", "task": "scene", "data_type": "image"}
+{"file_id": "scene_691", "file_path": "data/scene/scene_691.jpg", "annotation": "beside the building", "task": "scene", "data_type": "image"}
+{"file_id": "scene_692", "file_path": "data/scene/scene_692.jpg", "annotation": "on the windowsill", "task": "scene", "data_type": "image"}
+{"file_id": "scene_693", "file_path": "data/scene/scene_693.jpg", "annotation": "gymnasium", "task": "scene", "data_type": "image"}
+{"file_id": "scene_694", "file_path": "data/scene/scene_694.jpg", "annotation": "outdoor clothes drying area", "task": "scene", "data_type": "image"}
+{"file_id": "scene_695", "file_path": "data/scene/scene_695.jpg", "annotation": "in front of the residential area", "task": "scene", "data_type": "image"}
+{"file_id": "scene_696", "file_path": "data/scene/scene_696.jpg", "annotation": "in front of the courtyard", "task": "scene", "data_type": "image"}
+{"file_id": "scene_697", "file_path": "data/scene/scene_697.jpg", "annotation": "on the dining table", "task": "scene", "data_type": "image"}
+{"file_id": "scene_698", "file_path": "data/scene/scene_698.jpg", "annotation": "wilderness", "task": "scene", "data_type": "image"}
+{"file_id": "scene_699", "file_path": "data/scene/scene_699.jpg", "annotation": "beside the colorful wall", "task": "scene", "data_type": "image"}
+{"file_id": "scene_700", "file_path": "data/scene/scene_700.jpg", "annotation": "forest", "task": "scene", "data_type": "image"}
+{"file_id": "scene_701", "file_path": "data/scene/scene_701.jpg", "annotation": "party hall", "task": "scene", "data_type": "image"}
+{"file_id": "scene_702", "file_path": "data/scene/scene_702.jpg", "annotation": "port", "task": "scene", "data_type": "image"}
+{"file_id": "scene_703", "file_path": "data/scene/scene_703.jpg", "annotation": "in front of the modern building", "task": "scene", "data_type": "image"}
+{"file_id": "scene_704", "file_path": "data/scene/scene_704.jpg", "annotation": "Flamingo habitat at the zoo", "task": "scene", "data_type": "image"}
+{"file_id": "scene_705", "file_path": "data/scene/scene_705.jpg", "annotation": "Rally in front of the monument", "task": "scene", "data_type": "image"}
+{"file_id": "scene_706", "file_path": "data/scene/scene_706.jpg", "annotation": "mountainous area", "task": "scene", "data_type": "image"}
+{"file_id": "scene_707", "file_path": "data/scene/scene_707.jpg", "annotation": "parking lot", "task": "scene", "data_type": "image"}
+{"file_id": "scene_708", "file_path": "data/scene/scene_708.jpg", "annotation": "in front of the store", "task": "scene", "data_type": "image"}
+{"file_id": "scene_709", "file_path": "data/scene/scene_709.jpg", "annotation": "beside the event background", "task": "scene", "data_type": "image"}
+{"file_id": "scene_710", "file_path": "data/scene/scene_710.jpg", "annotation": "next to the American flag", "task": "scene", "data_type": "image"}
+{"file_id": "scene_711", "file_path": "data/scene/scene_711.jpg", "annotation": "on the table", "task": "scene", "data_type": "image"}
+{"file_id": "scene_712", "file_path": "data/scene/scene_712.jpg", "annotation": "orchard", "task": "scene", "data_type": "image"}
+{"file_id": "scene_713", "file_path": "data/scene/scene_713.jpg", "annotation": "children's playroom", "task": "scene", "data_type": "image"}
+{"file_id": "scene_714", "file_path": "data/scene/scene_714.jpg", "annotation": "kitchen", "task": "scene", "data_type": "image"}
+{"file_id": "scene_715", "file_path": "data/scene/scene_715.jpg", "annotation": "in the pavilion", "task": "scene", "data_type": "image"}
+{"file_id": "scene_716", "file_path": "data/scene/scene_716.jpg", "annotation": "living room", "task": "scene", "data_type": "image"}
+{"file_id": "scene_717", "file_path": "data/scene/scene_717.jpg", "annotation": "continuous mountains", "task": "scene", "data_type": "image"}
+{"file_id": "scene_718", "file_path": "data/scene/scene_718.jpg", "annotation": "under the balcony", "task": "scene", "data_type": "image"}
+{"file_id": "scene_719", "file_path": "data/scene/scene_719.jpg", "annotation": "ruins", "task": "scene", "data_type": "image"}
+{"file_id": "scene_720", "file_path": "data/scene/scene_720.jpg", "annotation": "on the grass", "task": "scene", "data_type": "image"}
+{"file_id": "scene_721", "file_path": "data/scene/scene_721.jpg", "annotation": "business street", "task": "scene", "data_type": "image"}
+{"file_id": "scene_722", "file_path": "data/scene/scene_722.jpg", "annotation": "blue sky and white clouds", "task": "scene", "data_type": "image"}
+{"file_id": "scene_723", "file_path": "data/scene/scene_723.jpg", "annotation": "bank entrance", "task": "scene", "data_type": "image"}
+{"file_id": "scene_724", "file_path": "data/scene/scene_724.jpg", "annotation": "luxurious living room", "task": "scene", "data_type": "image"}
+{"file_id": "scene_725", "file_path": "data/scene/scene_725.jpg", "annotation": "temple entrance", "task": "scene", "data_type": "image"}
+{"file_id": "scene_726", "file_path": "data/scene/scene_726.jpg", "annotation": "tall buildings stand close together", "task": "scene", "data_type": "image"}
+{"file_id": "scene_727", "file_path": "data/scene/scene_727.jpg", "annotation": "outside the window", "task": "scene", "data_type": "image"}
+{"file_id": "scene_728", "file_path": "data/scene/scene_728.jpg", "annotation": "outdoor sports field", "task": "scene", "data_type": "image"}
+{"file_id": "scene_729", "file_path": "data/scene/scene_729.jpg", "annotation": "on the sea surface", "task": "scene", "data_type": "image"}
+{"file_id": "scene_730", "file_path": "data/scene/scene_730.jpg", "annotation": "by the beach", "task": "scene", "data_type": "image"}
+{"file_id": "scene_731", "file_path": "data/scene/scene_731.jpg", "annotation": "park", "task": "scene", "data_type": "image"}
+{"file_id": "scene_732", "file_path": "data/scene/scene_732.jpg", "annotation": "European-style streets", "task": "scene", "data_type": "image"}
+{"file_id": "scene_733", "file_path": "data/scene/scene_733.jpg", "annotation": "in front of the brick wall billboard", "task": "scene", "data_type": "image"}
+{"file_id": "scene_734", "file_path": "data/scene/scene_734.jpg", "annotation": "logistics park", "task": "scene", "data_type": "image"}
+{"file_id": "scene_735", "file_path": "data/scene/scene_735.jpg", "annotation": "on the stage", "task": "scene", "data_type": "image"}
+{"file_id": "scene_736", "file_path": "data/scene/scene_736.jpg", "annotation": "solar power plant", "task": "scene", "data_type": "image"}
+{"file_id": "scene_737", "file_path": "data/scene/scene_737.jpg", "annotation": "rural scene", "task": "scene", "data_type": "image"}
+{"file_id": "scene_738", "file_path": "data/scene/scene_738.jpg", "annotation": "in front of the residential area", "task": "scene", "data_type": "image"}
+{"file_id": "scene_739", "file_path": "data/scene/scene_739.jpg", "annotation": "on the stove", "task": "scene", "data_type": "image"}
+{"file_id": "scene_740", "file_path": "data/scene/scene_740.jpg", "annotation": "airport", "task": "scene", "data_type": "image"}
+{"file_id": "scene_741", "file_path": "data/scene/scene_741.jpg", "annotation": "on the table", "task": "scene", "data_type": "image"}
+{"file_id": "scene_742", "file_path": "data/scene/scene_742.jpg", "annotation": "mountains by the sea", "task": "scene", "data_type": "image"}
+{"file_id": "scene_743", "file_path": "data/scene/scene_743.jpg", "annotation": "garden", "task": "scene", "data_type": "image"}
+{"file_id": "scene_744", "file_path": "data/scene/scene_744.jpg", "annotation": "in front of a building", "task": "scene", "data_type": "image"}
+{"file_id": "scene_745", "file_path": "data/scene/scene_745.jpg", "annotation": "marathon race track", "task": "scene", "data_type": "image"}
+{"file_id": "scene_746", "file_path": "data/scene/scene_746.jpg", "annotation": "highway side", "task": "scene", "data_type": "image"}
+{"file_id": "scene_747", "file_path": "data/scene/scene_747.jpg", "annotation": "city streets", "task": "scene", "data_type": "image"}
+{"file_id": "scene_748", "file_path": "data/scene/scene_748.jpg", "annotation": "cable car waiting area", "task": "scene", "data_type": "image"}
+{"file_id": "scene_749", "file_path": "data/scene/scene_749.jpg", "annotation": "on a wilderness path", "task": "scene", "data_type": "image"}
+{"file_id": "scene_750", "file_path": "data/scene/scene_750.jpg", "annotation": "on the river", "task": "scene", "data_type": "image"}
+{"file_id": "scene_751", "file_path": "data/scene/scene_751.jpg", "annotation": "in the sea", "task": "scene", "data_type": "image"}
+{"file_id": "scene_752", "file_path": "data/scene/scene_752.jpg", "annotation": "snowy forest scenery", "task": "scene", "data_type": "image"}
+{"file_id": "scene_753", "file_path": "data/scene/scene_753.jpg", "annotation": "on the river", "task": "scene", "data_type": "image"}
+{"file_id": "scene_754", "file_path": "data/scene/scene_754.jpg", "annotation": "in the garden", "task": "scene", "data_type": "image"}
+{"file_id": "scene_755", "file_path": "data/scene/scene_755.jpg", "annotation": "sea overpass", "task": "scene", "data_type": "image"}
+{"file_id": "scene_756", "file_path": "data/scene/scene_756.jpg", "annotation": "by the lake", "task": "scene", "data_type": "image"}
+{"file_id": "scene_757", "file_path": "data/scene/scene_757.jpg", "annotation": "backdrop cloth", "task": "scene", "data_type": "image"}
+{"file_id": "scene_758", "file_path": "data/scene/scene_758.jpg", "annotation": "outdoor work area", "task": "scene", "data_type": "image"}
+{"file_id": "scene_759", "file_path": "data/scene/scene_759.jpg", "annotation": "in front of the outdoor temple", "task": "scene", "data_type": "image"}
+{"file_id": "scene_760", "file_path": "data/scene/scene_760.jpg", "annotation": "outdoor activity venue", "task": "scene", "data_type": "image"}
+{"file_id": "scene_761", "file_path": "data/scene/scene_761.jpg", "annotation": "sunflower field", "task": "scene", "data_type": "image"}
+{"file_id": "scene_762", "file_path": "data/scene/scene_762.jpg", "annotation": "city streets", "task": "scene", "data_type": "image"}
+{"file_id": "scene_763", "file_path": "data/scene/scene_763.jpg", "annotation": "on the square", "task": "scene", "data_type": "image"}
+{"file_id": "scene_764", "file_path": "data/scene/scene_764.jpg", "annotation": "in front of the courtyard", "task": "scene", "data_type": "image"}
+{"file_id": "scene_765", "file_path": "data/scene/scene_765.jpg", "annotation": "by the river", "task": "scene", "data_type": "image"}
+{"file_id": "scene_766", "file_path": "data/scene/scene_766.jpg", "annotation": "pond", "task": "scene", "data_type": "image"}
+{"file_id": "scene_767", "file_path": "data/scene/scene_767.jpg", "annotation": "audience seats", "task": "scene", "data_type": "image"}
+{"file_id": "scene_768", "file_path": "data/scene/scene_768.jpg", "annotation": "in front of the palace", "task": "scene", "data_type": "image"}
+{"file_id": "scene_769", "file_path": "data/scene/scene_769.jpg", "annotation": "recycling plant", "task": "scene", "data_type": "image"}
+{"file_id": "scene_770", "file_path": "data/scene/scene_770.jpg", "annotation": "indoor table tennis table", "task": "scene", "data_type": "image"}
+{"file_id": "scene_771", "file_path": "data/scene/scene_771.jpg", "annotation": "street vendor", "task": "scene", "data_type": "image"}
+{"file_id": "scene_772", "file_path": "data/scene/scene_772.jpg", "annotation": "snow-covered mountain scenery", "task": "scene", "data_type": "image"}
+{"file_id": "scene_773", "file_path": "data/scene/scene_773.jpg", "annotation": "in front of the landmark building", "task": "scene", "data_type": "image"}
+{"file_id": "scene_774", "file_path": "data/scene/scene_774.jpg", "annotation": "ocean", "task": "scene", "data_type": "image"}
+{"file_id": "scene_775", "file_path": "data/scene/scene_775.jpg", "annotation": "restaurant", "task": "scene", "data_type": "image"}
+{"file_id": "scene_776", "file_path": "data/scene/scene_776.jpg", "annotation": "fruit stand", "task": "scene", "data_type": "image"}
+{"file_id": "scene_777", "file_path": "data/scene/scene_777.jpg", "annotation": "parade", "task": "scene", "data_type": "image"}
+{"file_id": "scene_778", "file_path": "data/scene/scene_778.jpg", "annotation": "parking lot", "task": "scene", "data_type": "image"}
+{"file_id": "scene_779", "file_path": "data/scene/scene_779.jpg", "annotation": "in front of the glass display window", "task": "scene", "data_type": "image"}
+{"file_id": "scene_780", "file_path": "data/scene/scene_780.jpg", "annotation": "Christmas market", "task": "scene", "data_type": "image"}
+{"file_id": "scene_781", "file_path": "data/scene/scene_781.jpg", "annotation": "military base", "task": "scene", "data_type": "image"}
+{"file_id": "scene_782", "file_path": "data/scene/scene_782.jpg", "annotation": "coffee shop lounge area", "task": "scene", "data_type": "image"}
+{"file_id": "scene_783", "file_path": "data/scene/scene_783.jpg", "annotation": "on the table", "task": "scene", "data_type": "image"}
+{"file_id": "scene_784", "file_path": "data/scene/scene_784.jpg", "annotation": "swimming pool", "task": "scene", "data_type": "image"}
+{"file_id": "scene_785", "file_path": "data/scene/scene_785.jpg", "annotation": "beside the green belt", "task": "scene", "data_type": "image"}
+{"file_id": "scene_786", "file_path": "data/scene/scene_786.jpg", "annotation": "on the dining table", "task": "scene", "data_type": "image"}
+{"file_id": "scene_787", "file_path": "data/scene/scene_787.jpg", "annotation": "clear sky", "task": "scene", "data_type": "image"}
+{"file_id": "scene_788", "file_path": "data/scene/scene_788.jpg", "annotation": "museum entrance", "task": "scene", "data_type": "image"}
+{"file_id": "scene_789", "file_path": "data/scene/scene_789.jpg", "annotation": "on the table", "task": "scene", "data_type": "image"}
+{"file_id": "scene_790", "file_path": "data/scene/scene_790.jpg", "annotation": "beside the bushes", "task": "scene", "data_type": "image"}
+{"file_id": "scene_791", "file_path": "data/scene/scene_791.jpg", "annotation": "rowing on the lake", "task": "scene", "data_type": "image"}
+{"file_id": "scene_792", "file_path": "data/scene/scene_792.jpg", "annotation": "audience seats", "task": "scene", "data_type": "image"}
+{"file_id": "scene_793", "file_path": "data/scene/scene_793.jpg", "annotation": "in the ocean", "task": "scene", "data_type": "image"}
+{"file_id": "scene_794", "file_path": "data/scene/scene_794.jpg", "annotation": "by the sea", "task": "scene", "data_type": "image"}
+{"file_id": "scene_795", "file_path": "data/scene/scene_795.jpg", "annotation": "doorway", "task": "scene", "data_type": "image"}
+{"file_id": "scene_796", "file_path": "data/scene/scene_796.jpg", "annotation": "by the ancient bridge", "task": "scene", "data_type": "image"}
+{"file_id": "scene_797", "file_path": "data/scene/scene_797.jpg", "annotation": "snow mountain", "task": "scene", "data_type": "image"}
+{"file_id": "scene_798", "file_path": "data/scene/scene_798.jpg", "annotation": "park", "task": "scene", "data_type": "image"}
+{"file_id": "scene_799", "file_path": "data/scene/scene_799.jpg", "annotation": "by the window", "task": "scene", "data_type": "image"}
+{"file_id": "scene_800", "file_path": "data/scene/scene_800.jpg", "annotation": "outside the wall", "task": "scene", "data_type": "image"}
+{"file_id": "scene_801", "file_path": "data/scene/scene_801.jpg", "annotation": "on the sea surface", "task": "scene", "data_type": "image"}
+{"file_id": "scene_802", "file_path": "data/scene/scene_802.jpg", "annotation": "on the table", "task": "scene", "data_type": "image"}
+{"file_id": "scene_803", "file_path": "data/scene/scene_803.jpg", "annotation": "bar", "task": "scene", "data_type": "image"}
+{"file_id": "scene_804", "file_path": "data/scene/scene_804.jpg", "annotation": "monitoring room", "task": "scene", "data_type": "image"}
+{"file_id": "scene_805", "file_path": "data/scene/scene_805.jpg", "annotation": "city square", "task": "scene", "data_type": "image"}
+{"file_id": "scene_806", "file_path": "data/scene/scene_806.jpg", "annotation": "by the sunflowers in front of the house", "task": "scene", "data_type": "image"}
+{"file_id": "scene_807", "file_path": "data/scene/scene_807.jpg", "annotation": "in front of the sentry post", "task": "scene", "data_type": "image"}
+{"file_id": "scene_808", "file_path": "data/scene/scene_808.jpg", "annotation": "on the dining table", "task": "scene", "data_type": "image"}
+{"file_id": "scene_809", "file_path": "data/scene/scene_809.jpg", "annotation": "clothing store", "task": "scene", "data_type": "image"}
+{"file_id": "scene_810", "file_path": "data/scene/scene_810.jpg", "annotation": "Children's Activity Hall", "task": "scene", "data_type": "image"}
+{"file_id": "scene_811", "file_path": "data/scene/scene_811.jpg", "annotation": " lakeside town", "task": "scene", "data_type": "image"}
+{"file_id": "scene_812", "file_path": "data/scene/scene_812.jpg", "annotation": "Prosperous commercial street night view", "task": "scene", "data_type": "image"}
+{"file_id": "scene_813", "file_path": "data/scene/scene_813.jpg", "annotation": "power plant after sunset", "task": "scene", "data_type": "image"}
+{"file_id": "scene_814", "file_path": "data/scene/scene_814.jpg", "annotation": "beside the port", "task": "scene", "data_type": "image"}
+{"file_id": "scene_815", "file_path": "data/scene/scene_815.jpg", "annotation": "in front of the outdoor Christmas tree", "task": "scene", "data_type": "image"}
+{"file_id": "scene_816", "file_path": "data/scene/scene_816.jpg", "annotation": "shooting range", "task": "scene", "data_type": "image"}
+{"file_id": "scene_817", "file_path": "data/scene/scene_817.jpg", "annotation": "in the garden", "task": "scene", "data_type": "image"}
+{"file_id": "scene_818", "file_path": "data/scene/scene_818.jpg", "annotation": "on the dining table", "task": "scene", "data_type": "image"}
+{"file_id": "scene_819", "file_path": "data/scene/scene_819.jpg", "annotation": "swimming pool", "task": "scene", "data_type": "image"}
+{"file_id": "scene_820", "file_path": "data/scene/scene_820.jpg", "annotation": "parking lot", "task": "scene", "data_type": "image"}
+{"file_id": "scene_821", "file_path": "data/scene/scene_821.jpg", "annotation": "in front of the traditional village", "task": "scene", "data_type": "image"}
+{"file_id": "scene_822", "file_path": "data/scene/scene_822.jpg", "annotation": "in front of the landmark building", "task": "scene", "data_type": "image"}
+{"file_id": "scene_823", "file_path": "data/scene/scene_823.jpg", "annotation": "in the courtyard", "task": "scene", "data_type": "image"}
+{"file_id": "scene_824", "file_path": "data/scene/scene_824.jpg", "annotation": "outdoor grassland", "task": "scene", "data_type": "image"}
+{"file_id": "scene_825", "file_path": "data/scene/scene_825.jpg", "annotation": "in front of the outdoor stall", "task": "scene", "data_type": "image"}
+{"file_id": "scene_826", "file_path": "data/scene/scene_826.jpg", "annotation": "by the beach", "task": "scene", "data_type": "image"}
+{"file_id": "scene_827", "file_path": "data/scene/scene_827.jpg", "annotation": "outdoor rest scene", "task": "scene", "data_type": "image"}
+{"file_id": "scene_828", "file_path": "data/scene/scene_828.jpg", "annotation": "mountain pasture", "task": "scene", "data_type": "image"}
+{"file_id": "scene_829", "file_path": "data/scene/scene_829.jpg", "annotation": "play area", "task": "scene", "data_type": "image"}
+{"file_id": "scene_830", "file_path": "data/scene/scene_830.jpg", "annotation": "marathon race track", "task": "scene", "data_type": "image"}
+{"file_id": "scene_831", "file_path": "data/scene/scene_831.jpg", "annotation": "in the bushes", "task": "scene", "data_type": "image"}
+{"file_id": "scene_832", "file_path": "data/scene/scene_832.jpg", "annotation": "open-air market", "task": "scene", "data_type": "image"}
+{"file_id": "scene_833", "file_path": "data/scene/scene_833.jpg", "annotation": "school parking lot", "task": "scene", "data_type": "image"}
+{"file_id": "scene_834", "file_path": "data/scene/scene_834.jpg", "annotation": "in front of the palace", "task": "scene", "data_type": "image"}
+{"file_id": "scene_835", "file_path": "data/scene/scene_835.jpg", "annotation": "by the sea", "task": "scene", "data_type": "image"}
+{"file_id": "scene_836", "file_path": "data/scene/scene_836.jpg", "annotation": "in the middle of the lake", "task": "scene", "data_type": "image"}
+{"file_id": "scene_837", "file_path": "data/scene/scene_837.jpg", "annotation": "by the sea", "task": "scene", "data_type": "image"}
+{"file_id": "scene_838", "file_path": "data/scene/scene_838.jpg", "annotation": "by the sea", "task": "scene", "data_type": "image"}
+{"file_id": "scene_839", "file_path": "data/scene/scene_839.jpg", "annotation": "soldier training ground", "task": "scene", "data_type": "image"}
+{"file_id": "scene_840", "file_path": "data/scene/scene_840.jpg", "annotation": "country path", "task": "scene", "data_type": "image"}
+{"file_id": "scene_841", "file_path": "data/scene/scene_841.jpg", "annotation": "sky over the cable-stayed bridge", "task": "scene", "data_type": "image"}
+{"file_id": "scene_842", "file_path": "data/scene/scene_842.jpg", "annotation": "on the sand", "task": "scene", "data_type": "image"}
+{"file_id": "scene_843", "file_path": "data/scene/scene_843.jpg", "annotation": "by the roadside", "task": "scene", "data_type": "image"}
+{"file_id": "scene_844", "file_path": "data/scene/scene_844.jpg", "annotation": "city streets", "task": "scene", "data_type": "image"}
+{"file_id": "scene_845", "file_path": "data/scene/scene_845.jpg", "annotation": "market fair", "task": "scene", "data_type": "image"}
+{"file_id": "scene_846", "file_path": "data/scene/scene_846.jpg", "annotation": "glacier", "task": "scene", "data_type": "image"}
+{"file_id": "scene_847", "file_path": "data/scene/scene_847.jpg", "annotation": "on the sea", "task": "scene", "data_type": "image"}
+{"file_id": "scene_848", "file_path": "data/scene/scene_848.jpg", "annotation": "park", "task": "scene", "data_type": "image"}
+{"file_id": "scene_849", "file_path": "data/scene/scene_849.jpg", "annotation": "on the road", "task": "scene", "data_type": "image"}
+{"file_id": "scene_850", "file_path": "data/scene/scene_850.jpg", "annotation": "on the bus", "task": "scene", "data_type": "image"}
+{"file_id": "scene_851", "file_path": "data/scene/scene_851.jpg", "annotation": "under the arcade", "task": "scene", "data_type": "image"}
+{"file_id": "scene_852", "file_path": "data/scene/scene_852.jpg", "annotation": "factory entrance", "task": "scene", "data_type": "image"}
+{"file_id": "scene_853", "file_path": "data/scene/scene_853.jpg", "annotation": "in front of the palace", "task": "scene", "data_type": "image"}
+{"file_id": "scene_854", "file_path": "data/scene/scene_854.jpg", "annotation": "indoor skylight", "task": "scene", "data_type": "image"}
+{"file_id": "scene_855", "file_path": "data/scene/scene_855.jpg", "annotation": "on the high seas", "task": "scene", "data_type": "image"}
+{"file_id": "scene_856", "file_path": "data/scene/scene_856.jpg", "annotation": "outdoor military exhibition ground", "task": "scene", "data_type": "image"}
+{"file_id": "scene_857", "file_path": "data/scene/scene_857.jpg", "annotation": "zoo", "task": "scene", "data_type": "image"}
+{"file_id": "scene_858", "file_path": "data/scene/scene_858.jpg", "annotation": "under the clear sky", "task": "scene", "data_type": "image"}
+{"file_id": "scene_859", "file_path": "data/scene/scene_859.jpg", "annotation": "race track", "task": "scene", "data_type": "image"}
+{"file_id": "scene_860", "file_path": "data/scene/scene_860.jpg", "annotation": "Bicycle parking area", "task": "scene", "data_type": "image"}
+{"file_id": "scene_861", "file_path": "data/scene/scene_861.jpg", "annotation": "in front of the courtyard", "task": "scene", "data_type": "image"}
+{"file_id": "scene_862", "file_path": "data/scene/scene_862.jpg", "annotation": "outdoor skating rink", "task": "scene", "data_type": "image"}
+{"file_id": "scene_863", "file_path": "data/scene/scene_863.jpg", "annotation": "ticket queue waiting area", "task": "scene", "data_type": "image"}
+{"file_id": "scene_864", "file_path": "data/scene/scene_864.jpg", "annotation": "in the sky", "task": "scene", "data_type": "image"}
+{"file_id": "scene_865", "file_path": "data/scene/scene_865.jpg", "annotation": "exhibition center", "task": "scene", "data_type": "image"}
+{"file_id": "scene_866", "file_path": "data/scene/scene_866.jpg", "annotation": "by the sea", "task": "scene", "data_type": "image"}
+{"file_id": "scene_867", "file_path": "data/scene/scene_867.jpg", "annotation": "carnival venue", "task": "scene", "data_type": "image"}
+{"file_id": "scene_868", "file_path": "data/scene/scene_868.jpg", "annotation": "street performance", "task": "scene", "data_type": "image"}
+{"file_id": "scene_869", "file_path": "data/scene/scene_869.jpg", "annotation": "busy street market", "task": "scene", "data_type": "image"}
+{"file_id": "scene_870", "file_path": "data/scene/scene_870.jpg", "annotation": "medieval battlefield", "task": "scene", "data_type": "image"}
+{"file_id": "scene_871", "file_path": "data/scene/scene_871.jpg", "annotation": "exhibition hall", "task": "scene", "data_type": "image"}
+{"file_id": "scene_872", "file_path": "data/scene/scene_872.jpg", "annotation": "outside the government gate", "task": "scene", "data_type": "image"}
+{"file_id": "scene_873", "file_path": "data/scene/scene_873.jpg", "annotation": "on the cobblestones", "task": "scene", "data_type": "image"}
+{"file_id": "scene_874", "file_path": "data/scene/scene_874.jpg", "annotation": "the parking lot in front of the factory", "task": "scene", "data_type": "image"}
+{"file_id": "scene_875", "file_path": "data/scene/scene_875.jpg", "annotation": "steamer basket inside", "task": "scene", "data_type": "image"}
+{"file_id": "scene_876", "file_path": "data/scene/scene_876.jpg", "annotation": "outside the shop", "task": "scene", "data_type": "image"}
+{"file_id": "scene_877", "file_path": "data/scene/scene_877.jpg", "annotation": "vegetable garden", "task": "scene", "data_type": "image"}
+{"file_id": "scene_878", "file_path": "data/scene/scene_878.jpg", "annotation": "desert", "task": "scene", "data_type": "image"}
+{"file_id": "scene_879", "file_path": "data/scene/scene_879.jpg", "annotation": "night market", "task": "scene", "data_type": "image"}
+{"file_id": "scene_880", "file_path": "data/scene/scene_880.jpg", "annotation": "square", "task": "scene", "data_type": "image"}
+{"file_id": "scene_881", "file_path": "data/scene/scene_881.jpg", "annotation": "city streets", "task": "scene", "data_type": "image"}
+{"file_id": "scene_882", "file_path": "data/scene/scene_882.jpg", "annotation": "city square", "task": "scene", "data_type": "image"}
+{"file_id": "scene_883", "file_path": "data/scene/scene_883.jpg", "annotation": "park", "task": "scene", "data_type": "image"}
+{"file_id": "scene_884", "file_path": "data/scene/scene_884.jpg", "annotation": "square", "task": "scene", "data_type": "image"}
+{"file_id": "scene_885", "file_path": "data/scene/scene_885.jpg", "annotation": "the entrance of the building", "task": "scene", "data_type": "image"}
+{"file_id": "scene_886", "file_path": "data/scene/scene_886.jpg", "annotation": "park", "task": "scene", "data_type": "image"}
+{"file_id": "scene_887", "file_path": "data/scene/scene_887.jpg", "annotation": "in front of the shopping mall", "task": "scene", "data_type": "image"}
+{"file_id": "scene_888", "file_path": "data/scene/scene_888.jpg", "annotation": "on the sofa", "task": "scene", "data_type": "image"}
+{"file_id": "scene_889", "file_path": "data/scene/scene_889.jpg", "annotation": "mountain range", "task": "scene", "data_type": "image"}
+{"file_id": "scene_890", "file_path": "data/scene/scene_890.jpg", "annotation": "cliffside town by the sea", "task": "scene", "data_type": "image"}
+{"file_id": "scene_891", "file_path": "data/scene/scene_891.jpg", "annotation": "underwater world", "task": "scene", "data_type": "image"}
+{"file_id": "scene_892", "file_path": "data/scene/scene_892.jpg", "annotation": "castle in the forest", "task": "scene", "data_type": "image"}
+{"file_id": "scene_893", "file_path": "data/scene/scene_893.jpg", "annotation": "in front of the construction building", "task": "scene", "data_type": "image"}
+{"file_id": "scene_894", "file_path": "data/scene/scene_894.jpg", "annotation": "garden", "task": "scene", "data_type": "image"}
+{"file_id": "scene_895", "file_path": "data/scene/scene_895.jpg", "annotation": "beside the track", "task": "scene", "data_type": "image"}
+{"file_id": "scene_896", "file_path": "data/scene/scene_896.jpg", "annotation": "living room", "task": "scene", "data_type": "image"}
+{"file_id": "scene_897", "file_path": "data/scene/scene_897.jpg", "annotation": "in front of the outdoor stove", "task": "scene", "data_type": "image"}
+{"file_id": "scene_898", "file_path": "data/scene/scene_898.jpg", "annotation": "a corner of the city", "task": "scene", "data_type": "image"}
+{"file_id": "scene_899", "file_path": "data/scene/scene_899.jpg", "annotation": "on the grass", "task": "scene", "data_type": "image"}
+{"file_id": "scene_900", "file_path": "data/scene/scene_900.jpg", "annotation": "on the table", "task": "scene", "data_type": "image"}
+{"file_id": "scene_901", "file_path": "data/scene/scene_901.jpg", "annotation": "seafloor", "task": "scene", "data_type": "image"}
+{"file_id": "scene_902", "file_path": "data/scene/scene_902.jpg", "annotation": "in front of the flooded house", "task": "scene", "data_type": "image"}
+{"file_id": "scene_903", "file_path": "data/scene/scene_903.jpg", "annotation": "indoor swimming pool", "task": "scene", "data_type": "image"}
+{"file_id": "scene_904", "file_path": "data/scene/scene_904.jpg", "annotation": "living room", "task": "scene", "data_type": "image"}
+{"file_id": "scene_905", "file_path": "data/scene/scene_905.jpg", "annotation": "subway platform", "task": "scene", "data_type": "image"}
+{"file_id": "scene_906", "file_path": "data/scene/scene_906.jpg", "annotation": "Rocket launch site", "task": "scene", "data_type": "image"}
+{"file_id": "scene_907", "file_path": "data/scene/scene_907.jpg", "annotation": "skydiving", "task": "scene", "data_type": "image"}
+{"file_id": "scene_908", "file_path": "data/scene/scene_908.jpg", "annotation": "park", "task": "scene", "data_type": "image"}
+{"file_id": "scene_909", "file_path": "data/scene/scene_909.jpg", "annotation": "ski resort", "task": "scene", "data_type": "image"}
+{"file_id": "scene_910", "file_path": "data/scene/scene_910.jpg", "annotation": "on the table", "task": "scene", "data_type": "image"}
+{"file_id": "scene_911", "file_path": "data/scene/scene_911.jpg", "annotation": "greenhouse shed", "task": "scene", "data_type": "image"}
+{"file_id": "scene_912", "file_path": "data/scene/scene_912.jpg", "annotation": "zoo", "task": "scene", "data_type": "image"}
+{"file_id": "scene_913", "file_path": "data/scene/scene_913.jpg", "annotation": "bookstore", "task": "scene", "data_type": "image"}
+{"file_id": "scene_914", "file_path": "data/scene/scene_914.jpg", "annotation": "in the grass", "task": "scene", "data_type": "image"}
+{"file_id": "scene_915", "file_path": "data/scene/scene_915.jpg", "annotation": "in front of the palace", "task": "scene", "data_type": "image"}
+{"file_id": "scene_916", "file_path": "data/scene/scene_916.jpg", "annotation": "in front of the castle", "task": "scene", "data_type": "image"}
+{"file_id": "scene_917", "file_path": "data/scene/scene_917.jpg", "annotation": "city streets", "task": "scene", "data_type": "image"}
+{"file_id": "scene_918", "file_path": "data/scene/scene_918.jpg", "annotation": "on the grass", "task": "scene", "data_type": "image"}
+{"file_id": "scene_919", "file_path": "data/scene/scene_919.jpg", "annotation": "on the sea", "task": "scene", "data_type": "image"}
+{"file_id": "scene_920", "file_path": "data/scene/scene_920.jpg", "annotation": "beside the parade float at night", "task": "scene", "data_type": "image"}
+{"file_id": "scene_921", "file_path": "data/scene/scene_921.jpg", "annotation": "by the sea", "task": "scene", "data_type": "image"}
+{"file_id": "scene_922", "file_path": "data/scene/scene_922.jpg", "annotation": "gallery", "task": "scene", "data_type": "image"}
+{"file_id": "scene_923", "file_path": "data/scene/scene_923.jpg", "annotation": "city streets", "task": "scene", "data_type": "image"}
+{"file_id": "scene_924", "file_path": "data/scene/scene_924.jpg", "annotation": "by the sea", "task": "scene", "data_type": "image"}
+{"file_id": "scene_925", "file_path": "data/scene/scene_925.jpg", "annotation": "outdoor wishing area", "task": "scene", "data_type": "image"}
+{"file_id": "scene_926", "file_path": "data/scene/scene_926.jpg", "annotation": "on the dining table", "task": "scene", "data_type": "image"}
+{"file_id": "scene_927", "file_path": "data/scene/scene_927.jpg", "annotation": "under the eaves", "task": "scene", "data_type": "image"}
+{"file_id": "scene_928", "file_path": "data/scene/scene_928.jpg", "annotation": "outdoor parking lot", "task": "scene", "data_type": "image"}
+{"file_id": "scene_929", "file_path": "data/scene/scene_929.jpg", "annotation": "in front of the palace", "task": "scene", "data_type": "image"}
+{"file_id": "scene_930", "file_path": "data/scene/scene_930.jpg", "annotation": "on the grass", "task": "scene", "data_type": "image"}
+{"file_id": "scene_931", "file_path": "data/scene/scene_931.jpg", "annotation": "on the table", "task": "scene", "data_type": "image"}
+{"file_id": "scene_932", "file_path": "data/scene/scene_932.jpg", "annotation": "by the barbecue grill", "task": "scene", "data_type": "image"}
+{"file_id": "scene_933", "file_path": "data/scene/scene_933.jpg", "annotation": "on the elevated highway", "task": "scene", "data_type": "image"}
+{"file_id": "scene_934", "file_path": "data/scene/scene_934.jpg", "annotation": "on the dining table", "task": "scene", "data_type": "image"}
+{"file_id": "scene_935", "file_path": "data/scene/scene_935.jpg", "annotation": "rowing on the lake", "task": "scene", "data_type": "image"}
+{"file_id": "scene_936", "file_path": "data/scene/scene_936.jpg", "annotation": "next to the military camp", "task": "scene", "data_type": "image"}
+{"file_id": "scene_937", "file_path": "data/scene/scene_937.jpg", "annotation": "muddy road", "task": "scene", "data_type": "image"}
+{"file_id": "scene_938", "file_path": "data/scene/scene_938.jpg", "annotation": "living room", "task": "scene", "data_type": "image"}
+{"file_id": "scene_939", "file_path": "data/scene/scene_939.jpg", "annotation": "outside the shop window", "task": "scene", "data_type": "image"}
+{"file_id": "scene_940", "file_path": "data/scene/scene_940.jpg", "annotation": "in the sky", "task": "scene", "data_type": "image"}
+{"file_id": "scene_941", "file_path": "data/scene/scene_941.jpg", "annotation": "street dance competition", "task": "scene", "data_type": "image"}
+{"file_id": "scene_942", "file_path": "data/scene/scene_942.jpg", "annotation": "paintball field", "task": "scene", "data_type": "image"}
+{"file_id": "scene_943", "file_path": "data/scene/scene_943.jpg", "annotation": "beside the residential building", "task": "scene", "data_type": "image"}
+{"file_id": "scene_944", "file_path": "data/scene/scene_944.jpg", "annotation": "military exercises", "task": "scene", "data_type": "image"}
+{"file_id": "scene_945", "file_path": "data/scene/scene_945.jpg", "annotation": "street market", "task": "scene", "data_type": "image"}
+{"file_id": "scene_946", "file_path": "data/scene/scene_946.jpg", "annotation": "Bicycle Parking Area", "task": "scene", "data_type": "image"}
+{"file_id": "scene_947", "file_path": "data/scene/scene_947.jpg", "annotation": "by the lake", "task": "scene", "data_type": "image"}
+{"file_id": "scene_948", "file_path": "data/scene/scene_948.jpg", "annotation": "inside the shop", "task": "scene", "data_type": "image"}
+{"file_id": "scene_949", "file_path": "data/scene/scene_949.jpg", "annotation": "by the river", "task": "scene", "data_type": "image"}
+{"file_id": "scene_950", "file_path": "data/scene/scene_950.jpg", "annotation": "on the grass", "task": "scene", "data_type": "image"}
+{"file_id": "scene_951", "file_path": "data/scene/scene_951.jpg", "annotation": "in front of the villa", "task": "scene", "data_type": "image"}
+{"file_id": "scene_952", "file_path": "data/scene/scene_952.jpg", "annotation": "on the table", "task": "scene", "data_type": "image"}
+{"file_id": "scene_953", "file_path": "data/scene/scene_953.jpg", "annotation": "by the pond", "task": "scene", "data_type": "image"}
+{"file_id": "scene_954", "file_path": "data/scene/scene_954.jpg", "annotation": "on the city streets", "task": "scene", "data_type": "image"}
+{"file_id": "scene_955", "file_path": "data/scene/scene_955.jpg", "annotation": "parking lot", "task": "scene", "data_type": "image"}
+{"file_id": "scene_956", "file_path": "data/scene/scene_956.jpg", "annotation": "on the sea", "task": "scene", "data_type": "image"}
+{"file_id": "scene_957", "file_path": "data/scene/scene_957.jpg", "annotation": "croquet court", "task": "scene", "data_type": "image"}

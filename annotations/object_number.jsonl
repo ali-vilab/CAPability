@@ -1,0 +1,970 @@
+{"file_id": "object_number_0", "file_path": "data/object_number/object_number_0.jpg", "annotation": {"red birdcage": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_1", "file_path": "data/object_number/object_number_1.jpg", "annotation": {"pink spice": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_2", "file_path": "data/object_number/object_number_2.jpg", "annotation": {"UCS logo": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_3", "file_path": "data/object_number/object_number_3.jpg", "annotation": {"pot": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_4", "file_path": "data/object_number/object_number_4.jpg", "annotation": {"metal hook": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_5", "file_path": "data/object_number/object_number_5.jpg", "annotation": {"cricket player": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_6", "file_path": "data/object_number/object_number_6.jpg", "annotation": {"high heel shoe": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_7", "file_path": "data/object_number/object_number_7.jpg", "annotation": {"Nike shoe": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_8", "file_path": "data/object_number/object_number_8.jpg", "annotation": {"tree": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_9", "file_path": "data/object_number/object_number_9.jpg", "annotation": {"exposed electrical conductor": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_10", "file_path": "data/object_number/object_number_10.jpg", "annotation": {"plastic bottle": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_11", "file_path": "data/object_number/object_number_11.jpg", "annotation": {"wrap": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_12", "file_path": "data/object_number/object_number_12.jpg", "annotation": {"man": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_13", "file_path": "data/object_number/object_number_13.jpg", "annotation": {"lightning icon": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_14", "file_path": "data/object_number/object_number_14.jpg", "annotation": {"Saturday column": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_15", "file_path": "data/object_number/object_number_15.jpg", "annotation": {"second photograph of footballer celebrate": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_16", "file_path": "data/object_number/object_number_16.jpg", "annotation": {"white sportswear": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_17", "file_path": "data/object_number/object_number_17.jpg", "annotation": {"line on the track": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_18", "file_path": "data/object_number/object_number_18.jpg", "annotation": {"jersey": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_19", "file_path": "data/object_number/object_number_19.jpg", "annotation": {"shelf": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_20", "file_path": "data/object_number/object_number_20.jpg", "annotation": {"people without shirts": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_21", "file_path": "data/object_number/object_number_21.jpg", "annotation": {"porridge": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_22", "file_path": "data/object_number/object_number_22.jpg", "annotation": {"window": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_23", "file_path": "data/object_number/object_number_23.jpg", "annotation": {"door": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_24", "file_path": "data/object_number/object_number_24.jpg", "annotation": {"party green hat": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_25", "file_path": "data/object_number/object_number_25.jpg", "annotation": {"dragon statue": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_26", "file_path": "data/object_number/object_number_26.jpg", "annotation": {"pillow": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_27", "file_path": "data/object_number/object_number_27.jpg", "annotation": {"pillar": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_28", "file_path": "data/object_number/object_number_28.jpg", "annotation": {"ski board": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_29", "file_path": "data/object_number/object_number_29.jpg", "annotation": {"dog": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_30", "file_path": "data/object_number/object_number_30.jpg", "annotation": {"hand": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_31", "file_path": "data/object_number/object_number_31.jpg", "annotation": {"sneaker": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_32", "file_path": "data/object_number/object_number_32.jpg", "annotation": {"hut": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_33", "file_path": "data/object_number/object_number_33.jpg", "annotation": {"Louvre Pyramid": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_34", "file_path": "data/object_number/object_number_34.jpg", "annotation": {"red hand icon": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_35", "file_path": "data/object_number/object_number_35.jpg", "annotation": {"copper mug": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_36", "file_path": "data/object_number/object_number_36.jpg", "annotation": {"yellow paddle": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_37", "file_path": "data/object_number/object_number_37.jpg", "annotation": {"bicycle pedal": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_38", "file_path": "data/object_number/object_number_38.jpg", "annotation": {"helmet": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_39", "file_path": "data/object_number/object_number_39.jpg", "annotation": {"colorful_coasters": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_40", "file_path": "data/object_number/object_number_40.jpg", "annotation": {"saw stool": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_41", "file_path": "data/object_number/object_number_41.jpg", "annotation": {"dipping sauce bowl": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_42", "file_path": "data/object_number/object_number_42.jpg", "annotation": {"certification mark": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_43", "file_path": "data/object_number/object_number_43.jpg", "annotation": {"plate": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_44", "file_path": "data/object_number/object_number_44.jpg", "annotation": {"fencer": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_45", "file_path": "data/object_number/object_number_45.jpg", "annotation": {"the person wearing a jersey": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_46", "file_path": "data/object_number/object_number_46.jpg", "annotation": {"yellow road on the map": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_47", "file_path": "data/object_number/object_number_47.jpg", "annotation": {"pink arrow": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_48", "file_path": "data/object_number/object_number_48.jpg", "annotation": {"jersey": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_49", "file_path": "data/object_number/object_number_49.jpg", "annotation": {"hairpin": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_50", "file_path": "data/object_number/object_number_50.jpg", "annotation": {"toilet flush button": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_51", "file_path": "data/object_number/object_number_51.jpg", "annotation": {"ball": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_52", "file_path": "data/object_number/object_number_52.jpg", "annotation": {"wind turbine": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_53", "file_path": "data/object_number/object_number_53.jpg", "annotation": {"wine glass": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_54", "file_path": "data/object_number/object_number_54.jpg", "annotation": {"white frost glass lamp shade": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_55", "file_path": "data/object_number/object_number_55.jpg", "annotation": {"black jacket": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_56", "file_path": "data/object_number/object_number_56.jpg", "annotation": {"lettuce plant": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_57", "file_path": "data/object_number/object_number_57.jpg", "annotation": {"shoe": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_58", "file_path": "data/object_number/object_number_58.jpg", "annotation": {"white plate": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_59", "file_path": "data/object_number/object_number_59.jpg", "annotation": {"The bird on the table": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_60", "file_path": "data/object_number/object_number_60.jpg", "annotation": {"fencing uniform": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_61", "file_path": "data/object_number/object_number_61.jpg", "annotation": {"door": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_62", "file_path": "data/object_number/object_number_62.jpg", "annotation": {"handrail": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_63", "file_path": "data/object_number/object_number_63.jpg", "annotation": {"Calvin Klein Jeans shirt": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_64", "file_path": "data/object_number/object_number_64.jpg", "annotation": {"glove": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_65", "file_path": "data/object_number/object_number_65.jpg", "annotation": {"arrow": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_66", "file_path": "data/object_number/object_number_66.jpg", "annotation": {"display cabinet clothes": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_67", "file_path": "data/object_number/object_number_67.jpg", "annotation": {"boy": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_68", "file_path": "data/object_number/object_number_68.jpg", "annotation": {"basketball net": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_69", "file_path": "data/object_number/object_number_69.jpg", "annotation": {"rectangular tile with geometric pattern": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_70", "file_path": "data/object_number/object_number_70.jpg", "annotation": {"aircraft": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_71", "file_path": "data/object_number/object_number_71.jpg", "annotation": {"footwear": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_72", "file_path": "data/object_number/object_number_72.jpg", "annotation": {"lamp": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_73", "file_path": "data/object_number/object_number_73.jpg", "annotation": {"vase": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_74", "file_path": "data/object_number/object_number_74.jpg", "annotation": {"dal": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_75", "file_path": "data/object_number/object_number_75.jpg", "annotation": {"benches": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_76", "file_path": "data/object_number/object_number_76.jpg", "annotation": {"berries": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_77", "file_path": "data/object_number/object_number_77.jpg", "annotation": {"peacock": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_78", "file_path": "data/object_number/object_number_78.jpg", "annotation": {"thali": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_79", "file_path": "data/object_number/object_number_79.jpg", "annotation": {"conical hat": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_80", "file_path": "data/object_number/object_number_80.jpg", "annotation": {"bird cages": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_81", "file_path": "data/object_number/object_number_81.jpg", "annotation": {"picture frame": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_82", "file_path": "data/object_number/object_number_82.jpg", "annotation": {"grab bars": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_83", "file_path": "data/object_number/object_number_83.jpg", "annotation": {"cat": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_84", "file_path": "data/object_number/object_number_84.jpg", "annotation": {"baby bottle": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_85", "file_path": "data/object_number/object_number_85.jpg", "annotation": {"juttis": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_86", "file_path": "data/object_number/object_number_86.jpg", "annotation": {"sneakers": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_87", "file_path": "data/object_number/object_number_87.jpg", "annotation": {"goose": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_88", "file_path": "data/object_number/object_number_88.jpg", "annotation": {"color sample": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_89", "file_path": "data/object_number/object_number_89.jpg", "annotation": {"Amazon Prime tape": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_90", "file_path": "data/object_number/object_number_90.jpg", "annotation": {"giraffe": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_91", "file_path": "data/object_number/object_number_91.jpg", "annotation": {"windows": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_92", "file_path": "data/object_number/object_number_92.jpg", "annotation": {"pita bread skin": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_93", "file_path": "data/object_number/object_number_93.jpg", "annotation": {"lavalier microphones": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_94", "file_path": "data/object_number/object_number_94.jpg", "annotation": {"cartoon characters": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_95", "file_path": "data/object_number/object_number_95.jpg", "annotation": {"headrest": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_96", "file_path": "data/object_number/object_number_96.jpg", "annotation": {"rainbow": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_97", "file_path": "data/object_number/object_number_97.jpg", "annotation": {"green chilies": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_98", "file_path": "data/object_number/object_number_98.jpg", "annotation": {"chevron": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_99", "file_path": "data/object_number/object_number_99.jpg", "annotation": {"sculpted pillar": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_100", "file_path": "data/object_number/object_number_100.jpg", "annotation": {"shallots": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_101", "file_path": "data/object_number/object_number_101.jpg", "annotation": {"beef chunks": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_102", "file_path": "data/object_number/object_number_102.jpg", "annotation": {"house": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_103", "file_path": "data/object_number/object_number_103.jpg", "annotation": {"dress": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_104", "file_path": "data/object_number/object_number_104.jpg", "annotation": {"banner": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_105", "file_path": "data/object_number/object_number_105.jpg", "annotation": {"winch": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_106", "file_path": "data/object_number/object_number_106.jpg", "annotation": {"red envelopes": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_107", "file_path": "data/object_number/object_number_107.jpg", "annotation": {"revolving door": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_108", "file_path": "data/object_number/object_number_108.jpg", "annotation": {"teapots": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_109", "file_path": "data/object_number/object_number_109.jpg", "annotation": {"dog": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_110", "file_path": "data/object_number/object_number_110.jpg", "annotation": {"stadium": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_111", "file_path": "data/object_number/object_number_111.jpg", "annotation": {"cane": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_112", "file_path": "data/object_number/object_number_112.jpg", "annotation": {"hose clamps": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_113", "file_path": "data/object_number/object_number_113.jpg", "annotation": {"earrings": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_114", "file_path": "data/object_number/object_number_114.jpg", "annotation": {"jersey number": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_115", "file_path": "data/object_number/object_number_115.jpg", "annotation": {"sneakers": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_116", "file_path": "data/object_number/object_number_116.jpg", "annotation": {"gold chain": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_117", "file_path": "data/object_number/object_number_117.jpg", "annotation": {"press the key": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_118", "file_path": "data/object_number/object_number_118.jpg", "annotation": {"automatic glass door": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_119", "file_path": "data/object_number/object_number_119.jpg", "annotation": {"chopsticks": 2}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_120", "file_path": "data/object_number/object_number_120.jpg", "annotation": {"tram": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_121", "file_path": "data/object_number/object_number_121.jpg", "annotation": {"laptop": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_122", "file_path": "data/object_number/object_number_122.jpg", "annotation": {"the person on the platform": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_123", "file_path": "data/object_number/object_number_123.jpg", "annotation": {"lava beads": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_124", "file_path": "data/object_number/object_number_124.jpg", "annotation": {"information panel": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_125", "file_path": "data/object_number/object_number_125.jpg", "annotation": {"air conditioner": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_126", "file_path": "data/object_number/object_number_126.jpg", "annotation": {"stain glass window": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_127", "file_path": "data/object_number/object_number_127.jpg", "annotation": {"flower": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_128", "file_path": "data/object_number/object_number_128.jpg", "annotation": {"har gow": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_129", "file_path": "data/object_number/object_number_129.jpg", "annotation": {"t-shirt": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_130", "file_path": "data/object_number/object_number_130.jpg", "annotation": {"orange people icon": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_131", "file_path": "data/object_number/object_number_131.jpg", "annotation": {"bracelet": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_132", "file_path": "data/object_number/object_number_132.jpg", "annotation": {"presentation screen": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_133", "file_path": "data/object_number/object_number_133.jpg", "annotation": {"flower model": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_134", "file_path": "data/object_number/object_number_134.jpg", "annotation": {"athlete": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_135", "file_path": "data/object_number/object_number_135.jpg", "annotation": {"circular mark": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_136", "file_path": "data/object_number/object_number_136.jpg", "annotation": {"red-skinned radish": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_137", "file_path": "data/object_number/object_number_137.jpg", "annotation": {"beer": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_138", "file_path": "data/object_number/object_number_138.jpg", "annotation": {"outdoor wooden furniture": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_139", "file_path": "data/object_number/object_number_139.jpg", "annotation": {"wheel": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_140", "file_path": "data/object_number/object_number_140.jpg", "annotation": {"red glass panel": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_141", "file_path": "data/object_number/object_number_141.jpg", "annotation": {"clay crafts": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_142", "file_path": "data/object_number/object_number_142.png", "annotation": {"purple eye": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_143", "file_path": "data/object_number/object_number_143.jpg", "annotation": {"Postbank advertisement sign": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_144", "file_path": "data/object_number/object_number_144.jpg", "annotation": {"stitch pattern": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_145", "file_path": "data/object_number/object_number_145.jpg", "annotation": {"Windows": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_146", "file_path": "data/object_number/object_number_146.jpg", "annotation": {"people": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_147", "file_path": "data/object_number/object_number_147.jpg", "annotation": {"flag": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_148", "file_path": "data/object_number/object_number_148.jpg", "annotation": {"nose": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_149", "file_path": "data/object_number/object_number_149.jpg", "annotation": {"coat": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_150", "file_path": "data/object_number/object_number_150.jpg", "annotation": {"meatball": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_151", "file_path": "data/object_number/object_number_151.jpg", "annotation": {"girl": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_152", "file_path": "data/object_number/object_number_152.jpg", "annotation": {"backpack": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_153", "file_path": "data/object_number/object_number_153.jpg", "annotation": {"leash": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_154", "file_path": "data/object_number/object_number_154.jpg", "annotation": {"plants with flower pots": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_155", "file_path": "data/object_number/object_number_155.jpg", "annotation": {"MAC": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_156", "file_path": "data/object_number/object_number_156.jpg", "annotation": {"yellow football team uniform": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_157", "file_path": "data/object_number/object_number_157.jpg", "annotation": {"page": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_158", "file_path": "data/object_number/object_number_158.jpg", "annotation": {"braise meatball": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_159", "file_path": "data/object_number/object_number_159.jpg", "annotation": {"text": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_160", "file_path": "data/object_number/object_number_160.jpg", "annotation": {"cue stick": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_161", "file_path": "data/object_number/object_number_161.jpg", "annotation": {"crispy broccoli & carrot fritter": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_162", "file_path": "data/object_number/object_number_162.jpg", "annotation": {"baby": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_163", "file_path": "data/object_number/object_number_163.jpg", "annotation": {"martial art uniform": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_164", "file_path": "data/object_number/object_number_164.jpg", "annotation": {"tie": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_165", "file_path": "data/object_number/object_number_165.jpg", "annotation": {"tiger cub": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_166", "file_path": "data/object_number/object_number_166.jpg", "annotation": {"gift box": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_167", "file_path": "data/object_number/object_number_167.jpg", "annotation": {"people": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_168", "file_path": "data/object_number/object_number_168.jpg", "annotation": {"fried snacks": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_169", "file_path": "data/object_number/object_number_169.jpg", "annotation": {"rugby player": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_170", "file_path": "data/object_number/object_number_170.jpg", "annotation": {"pot": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_171", "file_path": "data/object_number/object_number_171.jpg", "annotation": {"pillow": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_172", "file_path": "data/object_number/object_number_172.jpg", "annotation": {"green storage box": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_173", "file_path": "data/object_number/object_number_173.jpg", "annotation": {"balcony": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_174", "file_path": "data/object_number/object_number_174.jpg", "annotation": {"toy wooden products": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_175", "file_path": "data/object_number/object_number_175.jpg", "annotation": {"snake head": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_176", "file_path": "data/object_number/object_number_176.jpg", "annotation": {"ship": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_177", "file_path": "data/object_number/object_number_177.jpg", "annotation": {"ship": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_178", "file_path": "data/object_number/object_number_178.jpg", "annotation": {"plastic_containers": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_179", "file_path": "data/object_number/object_number_179.jpg", "annotation": {"coca-cola ornament": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_180", "file_path": "data/object_number/object_number_180.jpg", "annotation": {"arch window": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_181", "file_path": "data/object_number/object_number_181.jpg", "annotation": {"race cars": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_182", "file_path": "data/object_number/object_number_182.jpg", "annotation": {"cell phones": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_183", "file_path": "data/object_number/object_number_183.jpg", "annotation": {"lego minifigure": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_184", "file_path": "data/object_number/object_number_184.jpg", "annotation": {"luncheon meat": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_185", "file_path": "data/object_number/object_number_185.jpg", "annotation": {"ship section": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_186", "file_path": "data/object_number/object_number_186.jpg", "annotation": {"sand sculpture": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_187", "file_path": "data/object_number/object_number_187.jpg", "annotation": {"animal": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_188", "file_path": "data/object_number/object_number_188.jpg", "annotation": {"gasoline tank": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_189", "file_path": "data/object_number/object_number_189.jpg", "annotation": {"flower cart": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_190", "file_path": "data/object_number/object_number_190.jpg", "annotation": {"seal": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_191", "file_path": "data/object_number/object_number_191.jpg", "annotation": {"mini_prisms": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_192", "file_path": "data/object_number/object_number_192.jpg", "annotation": {"drinks": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_193", "file_path": "data/object_number/object_number_193.jpg", "annotation": {"circular building": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_194", "file_path": "data/object_number/object_number_194.jpg", "annotation": {"books": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_195", "file_path": "data/object_number/object_number_195.jpg", "annotation": {"man": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_196", "file_path": "data/object_number/object_number_196.jpg", "annotation": {"garbage containers": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_197", "file_path": "data/object_number/object_number_197.jpg", "annotation": {"stuffed bread": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_198", "file_path": "data/object_number/object_number_198.jpg", "annotation": {"bird": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_199", "file_path": "data/object_number/object_number_199.jpg", "annotation": {"swimming goggles": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_200", "file_path": "data/object_number/object_number_200.jpg", "annotation": {"lamp": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_201", "file_path": "data/object_number/object_number_201.jpg", "annotation": {"roasted lamb legs": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_202", "file_path": "data/object_number/object_number_202.jpg", "annotation": {"carrots": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_203", "file_path": "data/object_number/object_number_203.jpg", "annotation": {"bowl with food": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_204", "file_path": "data/object_number/object_number_204.jpg", "annotation": {"tracks": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_205", "file_path": "data/object_number/object_number_205.jpg", "annotation": {"cardboard boxes": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_206", "file_path": "data/object_number/object_number_206.jpg", "annotation": {"burger patties": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_207", "file_path": "data/object_number/object_number_207.jpg", "annotation": {"rose buds": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_208", "file_path": "data/object_number/object_number_208.jpg", "annotation": {"popcorn buckets": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_209", "file_path": "data/object_number/object_number_209.jpg", "annotation": {"cellphone case": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_210", "file_path": "data/object_number/object_number_210.jpg", "annotation": {"house": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_211", "file_path": "data/object_number/object_number_211.jpg", "annotation": {"roasted lambs": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_212", "file_path": "data/object_number/object_number_212.jpg", "annotation": {"paddleboard": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_213", "file_path": "data/object_number/object_number_213.jpg", "annotation": {"chocolate sandwich cookies": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_214", "file_path": "data/object_number/object_number_214.jpg", "annotation": {"petal": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_215", "file_path": "data/object_number/object_number_215.jpg", "annotation": {"broccoli": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_216", "file_path": "data/object_number/object_number_216.jpg", "annotation": {"sandwiches": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_217", "file_path": "data/object_number/object_number_217.jpg", "annotation": {"rollers": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_218", "file_path": "data/object_number/object_number_218.jpg", "annotation": {"racecars": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_219", "file_path": "data/object_number/object_number_219.jpg", "annotation": {"headscarf": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_220", "file_path": "data/object_number/object_number_220.jpg", "annotation": {"tide pods": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_221", "file_path": "data/object_number/object_number_221.jpg", "annotation": {"alien": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_222", "file_path": "data/object_number/object_number_222.jpg", "annotation": {"wooden barrel": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_223", "file_path": "data/object_number/object_number_223.jpg", "annotation": {"fried fish fillets": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_224", "file_path": "data/object_number/object_number_224.jpg", "annotation": {"gift": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_225", "file_path": "data/object_number/object_number_225.jpg", "annotation": {"flower pot": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_226", "file_path": "data/object_number/object_number_226.jpg", "annotation": {"sunflower": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_227", "file_path": "data/object_number/object_number_227.jpg", "annotation": {"string lights": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_228", "file_path": "data/object_number/object_number_228.jpg", "annotation": {"sealed small bag": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_229", "file_path": "data/object_number/object_number_229.jpg", "annotation": {"building": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_230", "file_path": "data/object_number/object_number_230.jpg", "annotation": {"aisles": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_231", "file_path": "data/object_number/object_number_231.jpg", "annotation": {"dog": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_232", "file_path": "data/object_number/object_number_232.jpg", "annotation": {"paper roll": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_233", "file_path": "data/object_number/object_number_233.jpg", "annotation": {"plate": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_234", "file_path": "data/object_number/object_number_234.jpg", "annotation": {"sculpture person": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_235", "file_path": "data/object_number/object_number_235.jpg", "annotation": {"dish": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_236", "file_path": "data/object_number/object_number_236.jpg", "annotation": {"dog bed": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_237", "file_path": "data/object_number/object_number_237.jpg", "annotation": {"soccer ball": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_238", "file_path": "data/object_number/object_number_238.jpg", "annotation": {"cucumber": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_239", "file_path": "data/object_number/object_number_239.jpg", "annotation": {"packaged mushrooms": 3}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_240", "file_path": "data/object_number/object_number_240.jpg", "annotation": {"food": 4}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_241", "file_path": "data/object_number/object_number_241.jpg", "annotation": {"jacket": 4}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_242", "file_path": "data/object_number/object_number_242.jpg", "annotation": {"person": 4}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_243", "file_path": "data/object_number/object_number_243.jpg", "annotation": {"stinky tofu": 4}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_244", "file_path": "data/object_number/object_number_244.jpg", "annotation": {"stain glass window": 4}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_245", "file_path": "data/object_number/object_number_245.jpg", "annotation": {"food image": 4}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_246", "file_path": "data/object_number/object_number_246.jpg", "annotation": {"window": 4}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_247", "file_path": "data/object_number/object_number_247.jpg", "annotation": {"calligraphy panel": 4}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_248", "file_path": "data/object_number/object_number_248.jpg", "annotation": {"window": 4}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_249", "file_path": "data/object_number/object_number_249.jpg", "annotation": {"brown sandal": 4}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_250", "file_path": "data/object_number/object_number_250.jpg", "annotation": {"steam dumpling": 4}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_251", "file_path": "data/object_number/object_number_251.jpg", "annotation": {"shoe": 4}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_252", "file_path": "data/object_number/object_number_252.jpg", "annotation": {"table": 4}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_253", "file_path": "data/object_number/object_number_253.jpg", "annotation": {"delivery box": 4}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_254", "file_path": "data/object_number/object_number_254.jpg", "annotation": {"snowboard boot": 4}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_255", "file_path": "data/object_number/object_number_255.jpg", "annotation": {"girl": 4}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_256", "file_path": "data/object_number/object_number_256.jpg", "annotation": {"cloth bag": 4}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_257", "file_path": "data/object_number/object_number_257.jpg", "annotation": {"musical instrument": 4}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_258", "file_path": "data/object_number/object_number_258.jpg", "annotation": {"metal beam": 4}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_259", "file_path": "data/object_number/object_number_259.jpg", "annotation": {"cylindrical pillar": 4}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_260", "file_path": "data/object_number/object_number_260.jpg", "annotation": {"missile": 4}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_261", "file_path": "data/object_number/object_number_261.jpg", "annotation": {"woman": 4}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_262", "file_path": "data/object_number/object_number_262.jpg", "annotation": {"metal cabinet": 4}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_263", "file_path": "data/object_number/object_number_263.jpg", "annotation": {"stand-up paddle board": 4}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_264", "file_path": "data/object_number/object_number_264.jpg", "annotation": {"shoe": 4}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_265", "file_path": "data/object_number/object_number_265.jpg", "annotation": {"tie": 4}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_266", "file_path": "data/object_number/object_number_266.jpg", "annotation": {"people": 4}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_267", "file_path": "data/object_number/object_number_267.jpg", "annotation": {"navigation bar": 4}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_268", "file_path": "data/object_number/object_number_268.jpg", "annotation": {"cushion": 4}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_269", "file_path": "data/object_number/object_number_269.jpg", "annotation": {"knob": 4}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_270", "file_path": "data/object_number/object_number_270.jpg", "annotation": {"propeller": 4}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_271", "file_path": "data/object_number/object_number_271.jpg", "annotation": {"hand": 4}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_272", "file_path": "data/object_number/object_number_272.jpg", "annotation": {"people": 4}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_273", "file_path": "data/object_number/object_number_273.jpg", "annotation": {"Person": 4}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_274", "file_path": "data/object_number/object_number_274.jpg", "annotation": {"house": 4}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_275", "file_path": "data/object_number/object_number_275.jpg", "annotation": {"cargo truck": 4}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_276", "file_path": "data/object_number/object_number_276.jpg", "annotation": {"round hole": 4}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_277", "file_path": "data/object_number/object_number_277.jpg", "annotation": {"mobile display stand": 4}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_278", "file_path": "data/object_number/object_number_278.jpg", "annotation": {"window": 4}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_279", "file_path": "data/object_number/object_number_279.jpg", "annotation": {"claw mark": 4}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_280", "file_path": "data/object_number/object_number_280.jpg", "annotation": {"yellow square dim sum": 4}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_281", "file_path": "data/object_number/object_number_281.jpg", "annotation": {"brownish-red pastry": 4}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_282", "file_path": "data/object_number/object_number_282.jpg", "annotation": {"Olympic ring logo": 4}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_283", "file_path": "data/object_number/object_number_283.jpg", "annotation": {"people": 4}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_284", "file_path": "data/object_number/object_number_284.jpg", "annotation": {"blue flower": 4}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_285", "file_path": "data/object_number/object_number_285.jpg", "annotation": {"PolyA": 4}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_286", "file_path": "data/object_number/object_number_286.jpg", "annotation": {"bikini swimsuit": 4}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_287", "file_path": "data/object_number/object_number_287.jpg", "annotation": {"people": 4}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_288", "file_path": "data/object_number/object_number_288.jpg", "annotation": {"box glove": 4}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_289", "file_path": "data/object_number/object_number_289.jpg", "annotation": {"menu bar": 4}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_290", "file_path": "data/object_number/object_number_290.jpg", "annotation": {"people in the background": 4}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_291", "file_path": "data/object_number/object_number_291.jpg", "annotation": {"yellow shirt": 4}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_292", "file_path": "data/object_number/object_number_292.jpg", "annotation": {"fuel price": 4}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_293", "file_path": "data/object_number/object_number_293.jpg", "annotation": {"bike rack": 4}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_294", "file_path": "data/object_number/object_number_294.jpg", "annotation": {"toe": 4}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_295", "file_path": "data/object_number/object_number_295.jpg", "annotation": {"magazine pouch": 4}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_296", "file_path": "data/object_number/object_number_296.jpg", "annotation": {"flag": 4}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_297", "file_path": "data/object_number/object_number_297.jpg", "annotation": {"palm tree": 4}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_298", "file_path": "data/object_number/object_number_298.jpg", "annotation": {"flour corn tortilla pattern": 4}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_299", "file_path": "data/object_number/object_number_299.jpg", "annotation": {"house": 4}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_300", "file_path": "data/object_number/object_number_300.jpg", "annotation": {"broccoli": 4}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_301", "file_path": "data/object_number/object_number_301.jpg", "annotation": {"pillows": 4}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_302", "file_path": "data/object_number/object_number_302.jpg", "annotation": {"surfboards": 4}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_303", "file_path": "data/object_number/object_number_303.jpg", "annotation": {"red and green hairpin": 4}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_304", "file_path": "data/object_number/object_number_304.jpg", "annotation": {"rocket engine": 4}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_305", "file_path": "data/object_number/object_number_305.jpg", "annotation": {"cooked fish fillets": 4}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_306", "file_path": "data/object_number/object_number_306.jpg", "annotation": {"gift cards": 4}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_307", "file_path": "data/object_number/object_number_307.jpg", "annotation": {"toy astronaut": 4}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_308", "file_path": "data/object_number/object_number_308.jpg", "annotation": {"duck": 4}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_309", "file_path": "data/object_number/object_number_309.jpg", "annotation": {"whale": 4}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_310", "file_path": "data/object_number/object_number_310.jpg", "annotation": {"dish": 4}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_311", "file_path": "data/object_number/object_number_311.jpg", "annotation": {"notepad": 4}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_312", "file_path": "data/object_number/object_number_312.jpg", "annotation": {"gun": 4}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_313", "file_path": "data/object_number/object_number_313.jpg", "annotation": {"cups": 4}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_314", "file_path": "data/object_number/object_number_314.jpg", "annotation": {"clothing store": 4}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_315", "file_path": "data/object_number/object_number_315.jpg", "annotation": {"cows": 4}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_316", "file_path": "data/object_number/object_number_316.jpg", "annotation": {"tripods": 4}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_317", "file_path": "data/object_number/object_number_317.jpg", "annotation": {"house": 4}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_318", "file_path": "data/object_number/object_number_318.jpg", "annotation": {"toy wolverine": 4}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_319", "file_path": "data/object_number/object_number_319.jpg", "annotation": {"flowers": 4}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_320", "file_path": "data/object_number/object_number_320.jpg", "annotation": {"robot": 4}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_321", "file_path": "data/object_number/object_number_321.jpg", "annotation": {"t-shirt": 4}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_322", "file_path": "data/object_number/object_number_322.jpg", "annotation": {"gashapon machines": 4}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_323", "file_path": "data/object_number/object_number_323.jpg", "annotation": {"quesadillas": 4}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_324", "file_path": "data/object_number/object_number_324.jpg", "annotation": {"egg pancake wrap": 4}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_325", "file_path": "data/object_number/object_number_325.jpg", "annotation": {"surgical gloves": 4}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_326", "file_path": "data/object_number/object_number_326.jpg", "annotation": {"drinking fountain": 4}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_327", "file_path": "data/object_number/object_number_327.jpg", "annotation": {"tortillas": 4}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_328", "file_path": "data/object_number/object_number_328.jpg", "annotation": {"trash can": 4}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_329", "file_path": "data/object_number/object_number_329.jpg", "annotation": {"metal pots": 4}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_330", "file_path": "data/object_number/object_number_330.jpg", "annotation": {"runners": 4}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_331", "file_path": "data/object_number/object_number_331.jpg", "annotation": {"person": 4}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_332", "file_path": "data/object_number/object_number_332.jpg", "annotation": {"giraffe": 4}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_333", "file_path": "data/object_number/object_number_333.jpg", "annotation": {"trays of insects": 4}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_334", "file_path": "data/object_number/object_number_334.jpg", "annotation": {"dolphin": 4}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_335", "file_path": "data/object_number/object_number_335.jpg", "annotation": {"youtiao": 4}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_336", "file_path": "data/object_number/object_number_336.jpg", "annotation": {"tubas": 4}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_337", "file_path": "data/object_number/object_number_337.jpg", "annotation": {"bison statues": 4}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_338", "file_path": "data/object_number/object_number_338.jpg", "annotation": {"hippopotamus": 4}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_339", "file_path": "data/object_number/object_number_339.jpg", "annotation": {"graph": 4}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_340", "file_path": "data/object_number/object_number_340.jpg", "annotation": {"crane": 4}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_341", "file_path": "data/object_number/object_number_341.jpg", "annotation": {"stele": 4}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_342", "file_path": "data/object_number/object_number_342.jpg", "annotation": {"paper doll": 4}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_343", "file_path": "data/object_number/object_number_343.jpg", "annotation": {"athlete with a baseball glove": 4}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_344", "file_path": "data/object_number/object_number_344.jpg", "annotation": {"balloon": 4}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_345", "file_path": "data/object_number/object_number_345.jpg", "annotation": {"harp": 4}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_346", "file_path": "data/object_number/object_number_346.jpg", "annotation": {"bottle": 4}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_347", "file_path": "data/object_number/object_number_347.jpg", "annotation": {"outdoor table": 4}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_348", "file_path": "data/object_number/object_number_348.jpg", "annotation": {"saxophone reeds": 4}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_349", "file_path": "data/object_number/object_number_349.jpg", "annotation": {"shark": 4}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_350", "file_path": "data/object_number/object_number_350.jpg", "annotation": {"human": 5}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_351", "file_path": "data/object_number/object_number_351.jpg", "annotation": {"sunflower": 5}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_352", "file_path": "data/object_number/object_number_352.jpg", "annotation": {"a teacup with water": 5}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_353", "file_path": "data/object_number/object_number_353.jpg", "annotation": {"COVID-19 rapid antigen test kit": 5}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_354", "file_path": "data/object_number/object_number_354.jpg", "annotation": {"house": 5}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_355", "file_path": "data/object_number/object_number_355.jpg", "annotation": {"wooden figurine": 5}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_356", "file_path": "data/object_number/object_number_356.jpg", "annotation": {"empty plate": 5}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_357", "file_path": "data/object_number/object_number_357.jpg", "annotation": {"school uniform": 5}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_358", "file_path": "data/object_number/object_number_358.jpg", "annotation": {"round barrel": 5}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_359", "file_path": "data/object_number/object_number_359.jpg", "annotation": {"button": 5}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_360", "file_path": "data/object_number/object_number_360.jpg", "annotation": {"person": 5}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_361", "file_path": "data/object_number/object_number_361.jpg", "annotation": {"compression pant": 5}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_362", "file_path": "data/object_number/object_number_362.jpg", "annotation": {"bath bomb in the bowl": 5}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_363", "file_path": "data/object_number/object_number_363.jpg", "annotation": {"tire": 5}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_364", "file_path": "data/object_number/object_number_364.jpg", "annotation": {"black car": 5}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_365", "file_path": "data/object_number/object_number_365.jpg", "annotation": {"duck hang": 5}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_366", "file_path": "data/object_number/object_number_366.jpg", "annotation": {"people": 5}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_367", "file_path": "data/object_number/object_number_367.jpg", "annotation": {"spent ammunition casing": 5}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_368", "file_path": "data/object_number/object_number_368.jpg", "annotation": {"shoe": 5}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_369", "file_path": "data/object_number/object_number_369.jpg", "annotation": {"red and white pillars": 5}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_370", "file_path": "data/object_number/object_number_370.jpg", "annotation": {"line": 5}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_371", "file_path": "data/object_number/object_number_371.jpg", "annotation": {"button": 5}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_372", "file_path": "data/object_number/object_number_372.jpg", "annotation": {"carrot": 5}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_373", "file_path": "data/object_number/object_number_373.jpg", "annotation": {"spotlight": 5}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_374", "file_path": "data/object_number/object_number_374.jpg", "annotation": {"parking space": 5}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_375", "file_path": "data/object_number/object_number_375.jpg", "annotation": {"people": 5}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_376", "file_path": "data/object_number/object_number_376.jpg", "annotation": {"knit pillow": 5}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_377", "file_path": "data/object_number/object_number_377.jpg", "annotation": {"miniature building": 5}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_378", "file_path": "data/object_number/object_number_378.jpg", "annotation": {"light": 5}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_379", "file_path": "data/object_number/object_number_379.jpg", "annotation": {"round bamboo steamer": 5}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_380", "file_path": "data/object_number/object_number_380.jpg", "annotation": {"white bun": 5}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_381", "file_path": "data/object_number/object_number_381.jpg", "annotation": {"helmet": 5}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_382", "file_path": "data/object_number/object_number_382.jpg", "annotation": {"Christmas tree with hanging lights": 5}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_383", "file_path": "data/object_number/object_number_383.jpg", "annotation": {"Post-it Flags": 5}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_384", "file_path": "data/object_number/object_number_384.jpg", "annotation": {"window": 5}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_385", "file_path": "data/object_number/object_number_385.jpg", "annotation": {"candy": 5}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_386", "file_path": "data/object_number/object_number_386.jpg", "annotation": {"man": 5}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_387", "file_path": "data/object_number/object_number_387.jpg", "annotation": {"rubber arrow fletches": 5}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_388", "file_path": "data/object_number/object_number_388.jpg", "annotation": {"fried pastry": 5}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_389", "file_path": "data/object_number/object_number_389.jpg", "annotation": {"girl": 5}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_390", "file_path": "data/object_number/object_number_390.jpg", "annotation": {"person": 5}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_391", "file_path": "data/object_number/object_number_391.jpg", "annotation": {"potato cut into star shape": 5}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_392", "file_path": "data/object_number/object_number_392.jpg", "annotation": {"star": 5}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_393", "file_path": "data/object_number/object_number_393.jpg", "annotation": {"dumpling": 5}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_394", "file_path": "data/object_number/object_number_394.jpg", "annotation": {"# 404066 color swatch": 5}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_395", "file_path": "data/object_number/object_number_395.jpg", "annotation": {"flag": 5}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_396", "file_path": "data/object_number/object_number_396.jpg", "annotation": {"bird graphic": 5}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_397", "file_path": "data/object_number/object_number_397.jpg", "annotation": {"stairs": 5}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_398", "file_path": "data/object_number/object_number_398.jpg", "annotation": {"bay leaves": 5}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_399", "file_path": "data/object_number/object_number_399.jpg", "annotation": {"gold bars": 5}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_400", "file_path": "data/object_number/object_number_400.jpg", "annotation": {"glass bottle": 5}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_401", "file_path": "data/object_number/object_number_401.jpg", "annotation": {"shopping carts": 5}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_402", "file_path": "data/object_number/object_number_402.jpg", "annotation": {"street light": 5}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_403", "file_path": "data/object_number/object_number_403.jpg", "annotation": {"bench": 5}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_404", "file_path": "data/object_number/object_number_404.jpg", "annotation": {"wooden crate": 5}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_405", "file_path": "data/object_number/object_number_405.jpg", "annotation": {"blue traffic sign": 5}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_406", "file_path": "data/object_number/object_number_406.jpg", "annotation": {"water bottles": 5}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_407", "file_path": "data/object_number/object_number_407.jpg", "annotation": {"sliced figs": 5}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_408", "file_path": "data/object_number/object_number_408.jpg", "annotation": {"hot dogs": 5}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_409", "file_path": "data/object_number/object_number_409.jpg", "annotation": {"sculptures": 5}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_410", "file_path": "data/object_number/object_number_410.jpg", "annotation": {"biscuits": 5}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_411", "file_path": "data/object_number/object_number_411.jpg", "annotation": {"flower bud": 5}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_412", "file_path": "data/object_number/object_number_412.jpg", "annotation": {"supertree": 5}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_413", "file_path": "data/object_number/object_number_413.jpg", "annotation": {"sailboat": 5}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_414", "file_path": "data/object_number/object_number_414.jpg", "annotation": {"jalapeno": 5}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_415", "file_path": "data/object_number/object_number_415.jpg", "annotation": {"fishing_lure": 5}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_416", "file_path": "data/object_number/object_number_416.jpg", "annotation": {"buoy": 5}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_417", "file_path": "data/object_number/object_number_417.jpg", "annotation": {"plums on the tree": 5}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_418", "file_path": "data/object_number/object_number_418.jpg", "annotation": {"duckling": 5}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_419", "file_path": "data/object_number/object_number_419.jpg", "annotation": {"ketchup packets": 5}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_420", "file_path": "data/object_number/object_number_420.jpg", "annotation": {"house": 5}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_421", "file_path": "data/object_number/object_number_421.jpg", "annotation": {"cartoon character": 5}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_422", "file_path": "data/object_number/object_number_422.jpg", "annotation": {"breads": 5}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_423", "file_path": "data/object_number/object_number_423.jpg", "annotation": {"closet": 5}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_424", "file_path": "data/object_number/object_number_424.jpg", "annotation": {"lifebuoy": 5}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_425", "file_path": "data/object_number/object_number_425.jpg", "annotation": {"archaeological_layers": 5}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_426", "file_path": "data/object_number/object_number_426.jpg", "annotation": {"naan": 5}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_427", "file_path": "data/object_number/object_number_427.jpg", "annotation": {"bottle": 5}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_428", "file_path": "data/object_number/object_number_428.jpg", "annotation": {"plate": 5}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_429", "file_path": "data/object_number/object_number_429.jpg", "annotation": {"construction loader": 5}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_430", "file_path": "data/object_number/object_number_430.jpg", "annotation": {"dome": 5}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_431", "file_path": "data/object_number/object_number_431.jpg", "annotation": {"stinky tofu": 5}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_432", "file_path": "data/object_number/object_number_432.jpg", "annotation": {"cooking_pot": 5}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_433", "file_path": "data/object_number/object_number_433.jpg", "annotation": {"gamelan": 5}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_434", "file_path": "data/object_number/object_number_434.jpg", "annotation": {"website": 5}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_435", "file_path": "data/object_number/object_number_435.jpg", "annotation": {"squirrel": 5}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_436", "file_path": "data/object_number/object_number_436.jpg", "annotation": {"gazebo": 5}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_437", "file_path": "data/object_number/object_number_437.jpg", "annotation": {"Parkia speciosa": 5}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_438", "file_path": "data/object_number/object_number_438.jpg", "annotation": {"artwork": 5}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_439", "file_path": "data/object_number/object_number_439.jpg", "annotation": {"crane": 5}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_440", "file_path": "data/object_number/object_number_440.jpg", "annotation": {"car": 5}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_441", "file_path": "data/object_number/object_number_441.jpg", "annotation": {"rocket launch tower": 5}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_442", "file_path": "data/object_number/object_number_442.jpg", "annotation": {"cooking pots": 5}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_443", "file_path": "data/object_number/object_number_443.jpg", "annotation": {"cherry blossom tree": 5}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_444", "file_path": "data/object_number/object_number_444.jpg", "annotation": {"purple lavender fields": 5}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_445", "file_path": "data/object_number/object_number_445.jpg", "annotation": {"print cartridges": 5}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_446", "file_path": "data/object_number/object_number_446.jpg", "annotation": {"beret": 5}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_447", "file_path": "data/object_number/object_number_447.jpg", "annotation": {"shoe": 5}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_448", "file_path": "data/object_number/object_number_448.jpg", "annotation": {"car air freshener stick": 5}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_449", "file_path": "data/object_number/object_number_449.jpg", "annotation": {"sailboat": 5}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_450", "file_path": "data/object_number/object_number_450.jpg", "annotation": {"tomatoes": 5}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_451", "file_path": "data/object_number/object_number_451.jpg", "annotation": {"umbrella": 5}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_452", "file_path": "data/object_number/object_number_452.jpg", "annotation": {"man": 5}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_453", "file_path": "data/object_number/object_number_453.jpg", "annotation": {"makeup remover pads": 5}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_454", "file_path": "data/object_number/object_number_454.jpg", "annotation": {"chili_pepper": 5}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_455", "file_path": "data/object_number/object_number_455.jpg", "annotation": {"motorcycle": 5}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_456", "file_path": "data/object_number/object_number_456.jpg", "annotation": {"bus seat": 5}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_457", "file_path": "data/object_number/object_number_457.jpg", "annotation": {"people": 5}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_458", "file_path": "data/object_number/object_number_458.jpg", "annotation": {"boat": 5}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_459", "file_path": "data/object_number/object_number_459.jpg", "annotation": {"toy chicken": 5}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_460", "file_path": "data/object_number/object_number_460.jpg", "annotation": {"steering wheel buttons": 6}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_461", "file_path": "data/object_number/object_number_461.jpg", "annotation": {"advertisement banner": 6}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_462", "file_path": "data/object_number/object_number_462.jpg", "annotation": {"ship window": 6}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_463", "file_path": "data/object_number/object_number_463.jpg", "annotation": {"people": 6}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_464", "file_path": "data/object_number/object_number_464.jpg", "annotation": {"person": 6}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_465", "file_path": "data/object_number/object_number_465.jpg", "annotation": {"safety suit": 6}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_466", "file_path": "data/object_number/object_number_466.jpg", "annotation": {"dragon carving": 6}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_467", "file_path": "data/object_number/object_number_467.jpg", "annotation": {"shoe": 6}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_468", "file_path": "data/object_number/object_number_468.jpg", "annotation": {"window": 6}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_469", "file_path": "data/object_number/object_number_469.jpg", "annotation": {"people": 6}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_470", "file_path": "data/object_number/object_number_470.jpg", "annotation": {"chair": 6}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_471", "file_path": "data/object_number/object_number_471.jpg", "annotation": {"blue dot": 6}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_472", "file_path": "data/object_number/object_number_472.jpg", "annotation": {"people": 6}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_473", "file_path": "data/object_number/object_number_473.jpg", "annotation": {"people": 6}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_474", "file_path": "data/object_number/object_number_474.jpg", "annotation": {"woman": 6}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_475", "file_path": "data/object_number/object_number_475.jpg", "annotation": {"name": 6}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_476", "file_path": "data/object_number/object_number_476.jpg", "annotation": {"numeral symbol": 6}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_477", "file_path": "data/object_number/object_number_477.jpg", "annotation": {"crystal": 6}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_478", "file_path": "data/object_number/object_number_478.jpg", "annotation": {"blue and white porcelain decorations hanging on the rope": 6}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_479", "file_path": "data/object_number/object_number_479.jpg", "annotation": {"the man with the golden helmet": 6}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_480", "file_path": "data/object_number/object_number_480.jpg", "annotation": {"football guernsey": 6}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_481", "file_path": "data/object_number/object_number_481.jpg", "annotation": {"spool of thread": 6}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_482", "file_path": "data/object_number/object_number_482.jpg", "annotation": {"recess lighting": 6}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_483", "file_path": "data/object_number/object_number_483.jpg", "annotation": {"person": 6}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_484", "file_path": "data/object_number/object_number_484.jpg", "annotation": {"red snowflake ornament": 6}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_485", "file_path": "data/object_number/object_number_485.jpg", "annotation": {"paper clip": 6}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_486", "file_path": "data/object_number/object_number_486.jpg", "annotation": {"Happy Independence Day Poster": 6}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_487", "file_path": "data/object_number/object_number_487.jpg", "annotation": {"decorative lattice design": 6}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_488", "file_path": "data/object_number/object_number_488.jpg", "annotation": {"white pillars": 6}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_489", "file_path": "data/object_number/object_number_489.jpg", "annotation": {"signboard": 6}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_490", "file_path": "data/object_number/object_number_490.jpg", "annotation": {"person": 6}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_491", "file_path": "data/object_number/object_number_491.jpg", "annotation": {"Dragon Balls": 6}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_492", "file_path": "data/object_number/object_number_492.jpg", "annotation": {"Paul Pogba card": 6}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_493", "file_path": "data/object_number/object_number_493.jpg", "annotation": {"people": 6}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_494", "file_path": "data/object_number/object_number_494.jpg", "annotation": {"car": 6}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_495", "file_path": "data/object_number/object_number_495.jpg", "annotation": {"building": 6}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_496", "file_path": "data/object_number/object_number_496.jpg", "annotation": {"a box of condoms": 6}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_497", "file_path": "data/object_number/object_number_497.jpg", "annotation": {"ticket gate": 6}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_498", "file_path": "data/object_number/object_number_498.jpg", "annotation": {"red fish": 6}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_499", "file_path": "data/object_number/object_number_499.jpg", "annotation": {"pen": 6}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_500", "file_path": "data/object_number/object_number_500.jpg", "annotation": {"letter block": 6}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_501", "file_path": "data/object_number/object_number_501.jpg", "annotation": {"bitter melon": 6}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_502", "file_path": "data/object_number/object_number_502.jpg", "annotation": {"people": 6}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_503", "file_path": "data/object_number/object_number_503.jpg", "annotation": {"person": 6}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_504", "file_path": "data/object_number/object_number_504.jpg", "annotation": {"window": 6}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_505", "file_path": "data/object_number/object_number_505.jpg", "annotation": {"jacket": 6}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_506", "file_path": "data/object_number/object_number_506.jpg", "annotation": {"person": 6}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_507", "file_path": "data/object_number/object_number_507.jpg", "annotation": {"ceiling light": 6}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_508", "file_path": "data/object_number/object_number_508.jpg", "annotation": {"car window": 6}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_509", "file_path": "data/object_number/object_number_509.jpg", "annotation": {"signboard": 6}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_510", "file_path": "data/object_number/object_number_510.jpg", "annotation": {"people sitting on chairs": 6}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_511", "file_path": "data/object_number/object_number_511.jpg", "annotation": {"blinds": 6}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_512", "file_path": "data/object_number/object_number_512.jpg", "annotation": {"blue pillow": 6}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_513", "file_path": "data/object_number/object_number_513.jpg", "annotation": {"white pill": 6}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_514", "file_path": "data/object_number/object_number_514.jpg", "annotation": {"girl": 6}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_515", "file_path": "data/object_number/object_number_515.jpg", "annotation": {"Egg Pancake": 6}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_516", "file_path": "data/object_number/object_number_516.jpg", "annotation": {"link": 6}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_517", "file_path": "data/object_number/object_number_517.jpg", "annotation": {"bottle": 6}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_518", "file_path": "data/object_number/object_number_518.jpg", "annotation": {"toy mushrooms": 6}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_519", "file_path": "data/object_number/object_number_519.jpg", "annotation": {"window": 6}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_520", "file_path": "data/object_number/object_number_520.jpg", "annotation": {"plane": 6}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_521", "file_path": "data/object_number/object_number_521.jpg", "annotation": {"fried meat": 6}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_522", "file_path": "data/object_number/object_number_522.jpg", "annotation": {"passengers": 6}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_523", "file_path": "data/object_number/object_number_523.jpg", "annotation": {"speech bubble": 6}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_524", "file_path": "data/object_number/object_number_524.jpg", "annotation": {"construction vehicles": 6}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_525", "file_path": "data/object_number/object_number_525.jpg", "annotation": {"paw print charms": 6}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_526", "file_path": "data/object_number/object_number_526.jpg", "annotation": {"life ring": 6}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_527", "file_path": "data/object_number/object_number_527.jpg", "annotation": {"meatballs": 6}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_528", "file_path": "data/object_number/object_number_528.jpg", "annotation": {"flower pots": 6}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_529", "file_path": "data/object_number/object_number_529.jpg", "annotation": {"train seats": 6}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_530", "file_path": "data/object_number/object_number_530.jpg", "annotation": {"video game character": 6}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_531", "file_path": "data/object_number/object_number_531.jpg", "annotation": {"airplane": 6}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_532", "file_path": "data/object_number/object_number_532.jpg", "annotation": {"a bundle of money": 6}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_533", "file_path": "data/object_number/object_number_533.jpg", "annotation": {"dumplings": 6}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_534", "file_path": "data/object_number/object_number_534.jpg", "annotation": {"green pepper": 6}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_535", "file_path": "data/object_number/object_number_535.jpg", "annotation": {"green pepper": 6}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_536", "file_path": "data/object_number/object_number_536.jpg", "annotation": {"speech bubble": 6}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_537", "file_path": "data/object_number/object_number_537.jpg", "annotation": {"lamppost": 6}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_538", "file_path": "data/object_number/object_number_538.jpg", "annotation": {"railing": 6}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_539", "file_path": "data/object_number/object_number_539.jpg", "annotation": {"rollers": 6}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_540", "file_path": "data/object_number/object_number_540.jpg", "annotation": {"monkey": 6}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_541", "file_path": "data/object_number/object_number_541.jpg", "annotation": {"box of chocolate bars": 6}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_542", "file_path": "data/object_number/object_number_542.jpg", "annotation": {"person": 6}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_543", "file_path": "data/object_number/object_number_543.jpg", "annotation": {"fighter jet": 6}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_544", "file_path": "data/object_number/object_number_544.jpg", "annotation": {"lemon slice": 6}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_545", "file_path": "data/object_number/object_number_545.jpg", "annotation": {"deer": 6}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_546", "file_path": "data/object_number/object_number_546.jpg", "annotation": {"escalator": 6}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_547", "file_path": "data/object_number/object_number_547.jpg", "annotation": {"the screen in the picture": 6}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_548", "file_path": "data/object_number/object_number_548.jpg", "annotation": {"horse girl": 6}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_549", "file_path": "data/object_number/object_number_549.jpg", "annotation": {"stone carvings": 6}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_550", "file_path": "data/object_number/object_number_550.jpg", "annotation": {"blue lights on the lawn": 6}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_551", "file_path": "data/object_number/object_number_551.jpg", "annotation": {"meatballs": 6}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_552", "file_path": "data/object_number/object_number_552.jpg", "annotation": {"spools of thread": 6}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_553", "file_path": "data/object_number/object_number_553.jpg", "annotation": {"pieces of fabric": 6}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_554", "file_path": "data/object_number/object_number_554.jpg", "annotation": {"bicycle": 6}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_555", "file_path": "data/object_number/object_number_555.jpg", "annotation": {"number": 6}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_556", "file_path": "data/object_number/object_number_556.jpg", "annotation": {"airplane": 6}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_557", "file_path": "data/object_number/object_number_557.jpg", "annotation": {"kid": 6}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_558", "file_path": "data/object_number/object_number_558.jpg", "annotation": {"musical instrument": 6}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_559", "file_path": "data/object_number/object_number_559.jpg", "annotation": {"bowl of yellow liquid": 7}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_560", "file_path": "data/object_number/object_number_560.jpg", "annotation": {"speech bubble": 7}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_561", "file_path": "data/object_number/object_number_561.jpg", "annotation": {"wine glass": 7}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_562", "file_path": "data/object_number/object_number_562.jpg", "annotation": {"person": 7}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_563", "file_path": "data/object_number/object_number_563.jpg", "annotation": {"light come through skylight": 7}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_564", "file_path": "data/object_number/object_number_564.jpg", "annotation": {"people": 7}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_565", "file_path": "data/object_number/object_number_565.jpg", "annotation": {"bunny craft": 7}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_566", "file_path": "data/object_number/object_number_566.jpg", "annotation": {"crown": 7}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_567", "file_path": "data/object_number/object_number_567.jpg", "annotation": {"rainbow_light_pattern": 7}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_568", "file_path": "data/object_number/object_number_568.jpg", "annotation": {"people": 7}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_569", "file_path": "data/object_number/object_number_569.jpg", "annotation": {"small bowl": 7}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_570", "file_path": "data/object_number/object_number_570.jpg", "annotation": {"Dragon Balls": 7}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_571", "file_path": "data/object_number/object_number_571.jpg", "annotation": {"green shirt": 7}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_572", "file_path": "data/object_number/object_number_572.jpg", "annotation": {"glass bottle": 7}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_573", "file_path": "data/object_number/object_number_573.jpg", "annotation": {"bird": 7}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_574", "file_path": "data/object_number/object_number_574.jpg", "annotation": {"Naga serpent": 7}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_575", "file_path": "data/object_number/object_number_575.jpg", "annotation": {"Dragon Balls": 7}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_576", "file_path": "data/object_number/object_number_576.jpg", "annotation": {"ball-shaped food on the plate": 7}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_577", "file_path": "data/object_number/object_number_577.jpg", "annotation": {"dwarf": 7}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_578", "file_path": "data/object_number/object_number_578.jpg", "annotation": {"pig trotter": 7}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_579", "file_path": "data/object_number/object_number_579.jpg", "annotation": {"year": 7}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_580", "file_path": "data/object_number/object_number_580.jpg", "annotation": {"metal cylinder": 7}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_581", "file_path": "data/object_number/object_number_581.jpg", "annotation": {"Amazon box": 7}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_582", "file_path": "data/object_number/object_number_582.jpg", "annotation": {"Characters": 7}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_583", "file_path": "data/object_number/object_number_583.jpg", "annotation": {"red sign": 7}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_584", "file_path": "data/object_number/object_number_584.jpg", "annotation": {"green glove": 7}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_585", "file_path": "data/object_number/object_number_585.jpg", "annotation": {"packaging bag": 7}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_586", "file_path": "data/object_number/object_number_586.jpg", "annotation": {"girl": 7}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_587", "file_path": "data/object_number/object_number_587.jpg", "annotation": {"animal costume": 7}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_588", "file_path": "data/object_number/object_number_588.jpg", "annotation": {"bowl for holding ingredients": 7}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_589", "file_path": "data/object_number/object_number_589.jpg", "annotation": {"energy efficiency rating": 7}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_590", "file_path": "data/object_number/object_number_590.jpg", "annotation": {"hydroelectric turbine": 7}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_591", "file_path": "data/object_number/object_number_591.jpg", "annotation": {"almond": 7}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_592", "file_path": "data/object_number/object_number_592.jpg", "annotation": {"red , white , and blue decoration": 7}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_593", "file_path": "data/object_number/object_number_593.jpg", "annotation": {"outdoor table": 7}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_594", "file_path": "data/object_number/object_number_594.jpg", "annotation": {"button": 7}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_595", "file_path": "data/object_number/object_number_595.jpg", "annotation": {"skier": 7}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_596", "file_path": "data/object_number/object_number_596.jpg", "annotation": {"color-coded energy rating scale": 7}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_597", "file_path": "data/object_number/object_number_597.jpg", "annotation": {"person": 7}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_598", "file_path": "data/object_number/object_number_598.jpg", "annotation": {"blue and red uniform": 7}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_599", "file_path": "data/object_number/object_number_599.jpg", "annotation": {"helmet": 7}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_600", "file_path": "data/object_number/object_number_600.jpg", "annotation": {"person": 7}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_601", "file_path": "data/object_number/object_number_601.jpg", "annotation": {"cow": 7}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_602", "file_path": "data/object_number/object_number_602.jpg", "annotation": {"white person": 7}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_603", "file_path": "data/object_number/object_number_603.jpg", "annotation": {"fishing net": 7}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_604", "file_path": "data/object_number/object_number_604.jpg", "annotation": {"Ushanka hat with badge": 7}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_605", "file_path": "data/object_number/object_number_605.jpg", "annotation": {"toys of various colors": 7}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_606", "file_path": "data/object_number/object_number_606.jpg", "annotation": {"bicycle tire": 7}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_607", "file_path": "data/object_number/object_number_607.jpg", "annotation": {"people": 7}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_608", "file_path": "data/object_number/object_number_608.jpg", "annotation": {"step": 7}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_609", "file_path": "data/object_number/object_number_609.jpg", "annotation": {"leaf": 7}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_610", "file_path": "data/object_number/object_number_610.jpg", "annotation": {"red shutter": 7}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_611", "file_path": "data/object_number/object_number_611.jpg", "annotation": {"croissants": 7}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_612", "file_path": "data/object_number/object_number_612.jpg", "annotation": {"building": 7}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_613", "file_path": "data/object_number/object_number_613.jpg", "annotation": {"chia seed bags": 7}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_614", "file_path": "data/object_number/object_number_614.jpg", "annotation": {"cup noodles": 7}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_615", "file_path": "data/object_number/object_number_615.jpg", "annotation": {"basketball players on the court": 7}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_616", "file_path": "data/object_number/object_number_616.jpg", "annotation": {"egg carton": 7}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_617", "file_path": "data/object_number/object_number_617.jpg", "annotation": {"green stones": 7}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_618", "file_path": "data/object_number/object_number_618.jpg", "annotation": {"aisles": 7}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_619", "file_path": "data/object_number/object_number_619.jpg", "annotation": {"wine glasses": 7}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_620", "file_path": "data/object_number/object_number_620.jpg", "annotation": {"statue": 7}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_621", "file_path": "data/object_number/object_number_621.jpg", "annotation": {"crate": 7}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_622", "file_path": "data/object_number/object_number_622.jpg", "annotation": {"ashes urn": 7}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_623", "file_path": "data/object_number/object_number_623.jpg", "annotation": {"bird": 7}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_624", "file_path": "data/object_number/object_number_624.jpg", "annotation": {"meat chunks": 7}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_625", "file_path": "data/object_number/object_number_625.jpg", "annotation": {"sour cream": 7}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_626", "file_path": "data/object_number/object_number_626.jpg", "annotation": {"cashew": 7}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_627", "file_path": "data/object_number/object_number_627.jpg", "annotation": {"men": 7}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_628", "file_path": "data/object_number/object_number_628.jpg", "annotation": {"skyscraper": 7}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_629", "file_path": "data/object_number/object_number_629.jpg", "annotation": {"guns": 7}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_630", "file_path": "data/object_number/object_number_630.jpg", "annotation": {"cookie": 7}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_631", "file_path": "data/object_number/object_number_631.jpg", "annotation": {"penguin": 7}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_632", "file_path": "data/object_number/object_number_632.jpg", "annotation": {"pillar": 7}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_633", "file_path": "data/object_number/object_number_633.jpg", "annotation": {"eggs": 7}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_634", "file_path": "data/object_number/object_number_634.jpg", "annotation": {"flag": 7}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_635", "file_path": "data/object_number/object_number_635.jpg", "annotation": {"nests": 7}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_636", "file_path": "data/object_number/object_number_636.jpg", "annotation": {"tower": 7}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_637", "file_path": "data/object_number/object_number_637.jpg", "annotation": {"orange": 7}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_638", "file_path": "data/object_number/object_number_638.jpg", "annotation": {"clock": 7}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_639", "file_path": "data/object_number/object_number_639.jpg", "annotation": {"speech bubble": 8}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_640", "file_path": "data/object_number/object_number_640.jpg", "annotation": {"lawn": 8}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_641", "file_path": "data/object_number/object_number_641.jpg", "annotation": {"the dancing person": 8}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_642", "file_path": "data/object_number/object_number_642.jpg", "annotation": {"pillow": 8}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_643", "file_path": "data/object_number/object_number_643.jpg", "annotation": {"information panel": 8}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_644", "file_path": "data/object_number/object_number_644.jpg", "annotation": {"dancer8": 8}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_645", "file_path": "data/object_number/object_number_645.jpg", "annotation": {"people": 8}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_646", "file_path": "data/object_number/object_number_646.jpg", "annotation": {"I will push you in front of zombie to save my dog sticker": 8}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_647", "file_path": "data/object_number/object_number_647.jpg", "annotation": {"person": 8}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_648", "file_path": "data/object_number/object_number_648.jpg", "annotation": {"dancer": 8}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_649", "file_path": "data/object_number/object_number_649.jpg", "annotation": {"screw": 8}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_650", "file_path": "data/object_number/object_number_650.jpg", "annotation": {"round food in the bowl": 8}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_651", "file_path": "data/object_number/object_number_651.jpg", "annotation": {"liquor bottle": 8}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_652", "file_path": "data/object_number/object_number_652.jpg", "annotation": {"jacket": 8}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_653", "file_path": "data/object_number/object_number_653.jpg", "annotation": {"window": 8}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_654", "file_path": "data/object_number/object_number_654.jpg", "annotation": {"people": 8}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_655", "file_path": "data/object_number/object_number_655.jpg", "annotation": {"person": 8}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_656", "file_path": "data/object_number/object_number_656.jpg", "annotation": {"message bubble": 8}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_657", "file_path": "data/object_number/object_number_657.jpg", "annotation": {"fork": 8}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_658", "file_path": "data/object_number/object_number_658.jpg", "annotation": {"arch": 8}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_659", "file_path": "data/object_number/object_number_659.jpg", "annotation": {"football cleat": 8}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_660", "file_path": "data/object_number/object_number_660.jpg", "annotation": {"traffic cone": 8}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_661", "file_path": "data/object_number/object_number_661.jpg", "annotation": {"people": 8}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_662", "file_path": "data/object_number/object_number_662.jpg", "annotation": {"bird": 8}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_663", "file_path": "data/object_number/object_number_663.jpg", "annotation": {"character": 8}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_664", "file_path": "data/object_number/object_number_664.jpg", "annotation": {"Floral art on white walls": 8}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_665", "file_path": "data/object_number/object_number_665.jpg", "annotation": {"sneaker": 8}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_666", "file_path": "data/object_number/object_number_666.jpg", "annotation": {"picture frame": 8}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_667", "file_path": "data/object_number/object_number_667.jpg", "annotation": {"speech bubble": 8}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_668", "file_path": "data/object_number/object_number_668.jpg", "annotation": {"Drano Max Gel bottle": 8}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_669", "file_path": "data/object_number/object_number_669.jpg", "annotation": {"entrance door": 8}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_670", "file_path": "data/object_number/object_number_670.jpg", "annotation": {"hand": 8}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_671", "file_path": "data/object_number/object_number_671.jpg", "annotation": {"really human body": 8}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_672", "file_path": "data/object_number/object_number_672.jpg", "annotation": {"white text box": 8}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_673", "file_path": "data/object_number/object_number_673.jpg", "annotation": {"colorful arc": 8}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_674", "file_path": "data/object_number/object_number_674.jpg", "annotation": {"person": 8}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_675", "file_path": "data/object_number/object_number_675.jpg", "annotation": {"window": 8}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_676", "file_path": "data/object_number/object_number_676.jpg", "annotation": {"glass": 8}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_677", "file_path": "data/object_number/object_number_677.jpg", "annotation": {"boy": 8}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_678", "file_path": "data/object_number/object_number_678.jpg", "annotation": {"white pillars": 8}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_679", "file_path": "data/object_number/object_number_679.jpg", "annotation": {"people": 8}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_680", "file_path": "data/object_number/object_number_680.jpg", "annotation": {"book9": 8}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_681", "file_path": "data/object_number/object_number_681.jpg", "annotation": {"movie icon": 8}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_682", "file_path": "data/object_number/object_number_682.jpg", "annotation": {"\u9505\u70e4\u5e97\u8c03\u6599": 8}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_683", "file_path": "data/object_number/object_number_683.jpg", "annotation": {"button": 8}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_684", "file_path": "data/object_number/object_number_684.jpg", "annotation": {"riot police": 8}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_685", "file_path": "data/object_number/object_number_685.jpg", "annotation": {"meatball": 8}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_686", "file_path": "data/object_number/object_number_686.jpg", "annotation": {"Ji Min phone case": 8}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_687", "file_path": "data/object_number/object_number_687.jpg", "annotation": {"comic": 8}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_688", "file_path": "data/object_number/object_number_688.jpg", "annotation": {"pearl": 8}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_689", "file_path": "data/object_number/object_number_689.jpg", "annotation": {"user avatar": 8}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_690", "file_path": "data/object_number/object_number_690.jpg", "annotation": {"people": 8}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_691", "file_path": "data/object_number/object_number_691.jpg", "annotation": {"shoe": 8}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_692", "file_path": "data/object_number/object_number_692.png", "annotation": {"button": 8}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_693", "file_path": "data/object_number/object_number_693.jpg", "annotation": {"weight plate": 8}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_694", "file_path": "data/object_number/object_number_694.jpg", "annotation": {"car": 8}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_695", "file_path": "data/object_number/object_number_695.jpg", "annotation": {"flag": 8}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_696", "file_path": "data/object_number/object_number_696.jpg", "annotation": {"second floor window": 8}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_697", "file_path": "data/object_number/object_number_697.jpg", "annotation": {"elephant carving on the wall": 8}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_698", "file_path": "data/object_number/object_number_698.jpg", "annotation": {"Sprite can": 8}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_699", "file_path": "data/object_number/object_number_699.jpg", "annotation": {"price sign": 8}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_700", "file_path": "data/object_number/object_number_700.jpg", "annotation": {"rose hips": 8}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_701", "file_path": "data/object_number/object_number_701.jpg", "annotation": {"suit": 8}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_702", "file_path": "data/object_number/object_number_702.jpg", "annotation": {"window": 8}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_703", "file_path": "data/object_number/object_number_703.jpg", "annotation": {"crow": 8}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_704", "file_path": "data/object_number/object_number_704.jpg", "annotation": {"arepas": 8}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_705", "file_path": "data/object_number/object_number_705.jpg", "annotation": {"terracotta warrior": 4}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_706", "file_path": "data/object_number/object_number_706.jpg", "annotation": {"square": 8}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_707", "file_path": "data/object_number/object_number_707.jpg", "annotation": {"food": 8}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_708", "file_path": "data/object_number/object_number_708.jpg", "annotation": {"Avenger": 8}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_709", "file_path": "data/object_number/object_number_709.jpg", "annotation": {"runway": 8}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_710", "file_path": "data/object_number/object_number_710.jpg", "annotation": {"outdoor gym equipment": 8}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_711", "file_path": "data/object_number/object_number_711.jpg", "annotation": {"red chilies": 8}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_712", "file_path": "data/object_number/object_number_712.jpg", "annotation": {"electrical pole": 8}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_713", "file_path": "data/object_number/object_number_713.jpg", "annotation": {"people": 8}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_714", "file_path": "data/object_number/object_number_714.jpg", "annotation": {"baby clothes": 8}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_715", "file_path": "data/object_number/object_number_715.jpg", "annotation": {"numbers": 8}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_716", "file_path": "data/object_number/object_number_716.jpg", "annotation": {"antelope": 8}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_717", "file_path": "data/object_number/object_number_717.jpg", "annotation": {"xiaolongbao": 8}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_718", "file_path": "data/object_number/object_number_718.jpg", "annotation": {"whole orange": 8}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_719", "file_path": "data/object_number/object_number_719.jpg", "annotation": {"cheerleader": 8}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_720", "file_path": "data/object_number/object_number_720.jpg", "annotation": {"hamburger patty": 8}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_721", "file_path": "data/object_number/object_number_721.jpg", "annotation": {"chicken": 8}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_722", "file_path": "data/object_number/object_number_722.jpg", "annotation": {"wood pellets": 8}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_723", "file_path": "data/object_number/object_number_723.jpg", "annotation": {"baozi": 8}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_724", "file_path": "data/object_number/object_number_724.jpg", "annotation": {"prawns": 8}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_725", "file_path": "data/object_number/object_number_725.jpg", "annotation": {"orange balls": 8}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_726", "file_path": "data/object_number/object_number_726.jpg", "annotation": {"baozi": 8}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_727", "file_path": "data/object_number/object_number_727.jpg", "annotation": {"chandelier": 8}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_728", "file_path": "data/object_number/object_number_728.jpg", "annotation": {"cylindrical pillar": 9}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_729", "file_path": "data/object_number/object_number_729.jpg", "annotation": {"yellow wheat sheaf": 9}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_730", "file_path": "data/object_number/object_number_730.jpg", "annotation": {"oar": 9}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_731", "file_path": "data/object_number/object_number_731.jpg", "annotation": {"wall-mounted lamp": 9}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_732", "file_path": "data/object_number/object_number_732.jpg", "annotation": {"run track": 9}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_733", "file_path": "data/object_number/object_number_733.jpg", "annotation": {"frame the photo": 9}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_734", "file_path": "data/object_number/object_number_734.jpg", "annotation": {"t-shirt": 9}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_735", "file_path": "data/object_number/object_number_735.jpg", "annotation": {"safety helmet": 9}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_736", "file_path": "data/object_number/object_number_736.png", "annotation": {"bird": 9}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_737", "file_path": "data/object_number/object_number_737.jpg", "annotation": {"people": 9}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_738", "file_path": "data/object_number/object_number_738.jpg", "annotation": {"people wearing masks": 9}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_739", "file_path": "data/object_number/object_number_739.jpg", "annotation": {"lamp post": 9}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_740", "file_path": "data/object_number/object_number_740.jpg", "annotation": {"wine glass": 9}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_741", "file_path": "data/object_number/object_number_741.jpg", "annotation": {"Coca-Cola packaging": 9}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_742", "file_path": "data/object_number/object_number_742.jpg", "annotation": {"metal lid": 9}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_743", "file_path": "data/object_number/object_number_743.jpg", "annotation": {"child": 9}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_744", "file_path": "data/object_number/object_number_744.jpg", "annotation": {"arm": 9}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_745", "file_path": "data/object_number/object_number_745.jpg", "annotation": {"customer": 9}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_746", "file_path": "data/object_number/object_number_746.jpg", "annotation": {"blue panel": 9}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_747", "file_path": "data/object_number/object_number_747.jpg", "annotation": {"sushi": 9}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_748", "file_path": "data/object_number/object_number_748.jpg", "annotation": {"red check mark": 9}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_749", "file_path": "data/object_number/object_number_749.jpg", "annotation": {"arched window": 9}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_750", "file_path": "data/object_number/object_number_750.jpg", "annotation": {"girl": 9}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_751", "file_path": "data/object_number/object_number_751.jpg", "annotation": {"people": 9}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_752", "file_path": "data/object_number/object_number_752.jpg", "annotation": {"yellow fry square": 9}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_753", "file_path": "data/object_number/object_number_753.jpg", "annotation": {"bamboo steamer": 9}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_754", "file_path": "data/object_number/object_number_754.jpg", "annotation": {"duck": 9}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_755", "file_path": "data/object_number/object_number_755.jpg", "annotation": {"APP icon": 9}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_756", "file_path": "data/object_number/object_number_756.jpg", "annotation": {"window": 9}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_757", "file_path": "data/object_number/object_number_757.jpg", "annotation": {"pizza slice": 9}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_758", "file_path": "data/object_number/object_number_758.jpg", "annotation": {"black glass bottle": 9}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_759", "file_path": "data/object_number/object_number_759.jpg", "annotation": {"building": 9}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_760", "file_path": "data/object_number/object_number_760.jpg", "annotation": {"green chair": 9}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_761", "file_path": "data/object_number/object_number_761.jpg", "annotation": {"coconut cover ball": 9}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_762", "file_path": "data/object_number/object_number_762.jpg", "annotation": {"child": 9}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_763", "file_path": "data/object_number/object_number_763.jpg", "annotation": {"circular spotlight": 9}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_764", "file_path": "data/object_number/object_number_764.jpg", "annotation": {"buffalo": 9}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_765", "file_path": "data/object_number/object_number_765.jpg", "annotation": {"chocolate": 9}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_766", "file_path": "data/object_number/object_number_766.jpg", "annotation": {"makeup_palettes": 9}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_767", "file_path": "data/object_number/object_number_767.jpg", "annotation": {"train": 9}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_768", "file_path": "data/object_number/object_number_768.jpg", "annotation": {"dome": 9}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_769", "file_path": "data/object_number/object_number_769.jpg", "annotation": {"ceiling_lights": 9}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_770", "file_path": "data/object_number/object_number_770.jpg", "annotation": {"plastic bag holders": 9}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_771", "file_path": "data/object_number/object_number_771.jpg", "annotation": {"robe": 9}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_772", "file_path": "data/object_number/object_number_772.jpg", "annotation": {"flower": 9}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_773", "file_path": "data/object_number/object_number_773.jpg", "annotation": {"xiaolongbao": 9}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_774", "file_path": "data/object_number/object_number_774.jpg", "annotation": {"ballerina": 9}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_775", "file_path": "data/object_number/object_number_775.jpg", "annotation": {"valentine card": 9}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_776", "file_path": "data/object_number/object_number_776.jpg", "annotation": {"log": 9}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_777", "file_path": "data/object_number/object_number_777.jpg", "annotation": {"small statues": 9}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_778", "file_path": "data/object_number/object_number_778.jpg", "annotation": {"palm tree": 9}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_779", "file_path": "data/object_number/object_number_779.jpg", "annotation": {"fried pork ribs": 9}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_780", "file_path": "data/object_number/object_number_780.jpg", "annotation": {"kabobs": 9}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_781", "file_path": "data/object_number/object_number_781.jpg", "annotation": {"wooden trays": 9}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_782", "file_path": "data/object_number/object_number_782.jpg", "annotation": {"pry tools": 9}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_783", "file_path": "data/object_number/object_number_783.jpg", "annotation": {"bloomed pink roses": 9}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_784", "file_path": "data/object_number/object_number_784.jpg", "annotation": {"muffin cups": 9}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_785", "file_path": "data/object_number/object_number_785.jpg", "annotation": {"awning": 9}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_786", "file_path": "data/object_number/object_number_786.jpg", "annotation": {"people": 9}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_787", "file_path": "data/object_number/object_number_787.jpg", "annotation": {"top": 10}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_788", "file_path": "data/object_number/object_number_788.jpg", "annotation": {"man": 10}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_789", "file_path": "data/object_number/object_number_789.jpg", "annotation": {"window": 10}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_790", "file_path": "data/object_number/object_number_790.jpg", "annotation": {"soldier": 10}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_791", "file_path": "data/object_number/object_number_791.jpg", "annotation": {"Rubik's cube": 10}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_792", "file_path": "data/object_number/object_number_792.jpg", "annotation": {"bundle": 10}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_793", "file_path": "data/object_number/object_number_793.jpg", "annotation": {"people": 10}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_794", "file_path": "data/object_number/object_number_794.jpg", "annotation": {"palm tree": 10}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_795", "file_path": "data/object_number/object_number_795.jpg", "annotation": {"people": 10}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_796", "file_path": "data/object_number/object_number_796.jpg", "annotation": {"paragliders": 10}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_797", "file_path": "data/object_number/object_number_797.jpg", "annotation": {"shoe": 10}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_798", "file_path": "data/object_number/object_number_798.jpg", "annotation": {"shoe": 10}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_799", "file_path": "data/object_number/object_number_799.jpg", "annotation": {"number keypad": 10}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_800", "file_path": "data/object_number/object_number_800.jpg", "annotation": {"Number keypad": 10}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_801", "file_path": "data/object_number/object_number_801.jpg", "annotation": {"people": 10}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_802", "file_path": "data/object_number/object_number_802.jpg", "annotation": {"red rose": 10}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_803", "file_path": "data/object_number/object_number_803.jpg", "annotation": {"sailboat": 10}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_804", "file_path": "data/object_number/object_number_804.jpg", "annotation": {"name": 10}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_805", "file_path": "data/object_number/object_number_805.jpg", "annotation": {"people": 10}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_806", "file_path": "data/object_number/object_number_806.jpg", "annotation": {"leopard": 10}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_807", "file_path": "data/object_number/object_number_807.jpg", "annotation": {"book": 10}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_808", "file_path": "data/object_number/object_number_808.jpg", "annotation": {"balloon": 10}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_809", "file_path": "data/object_number/object_number_809.jpg", "annotation": {"nerf dart": 10}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_810", "file_path": "data/object_number/object_number_810.jpg", "annotation": {"lane divider": 10}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_811", "file_path": "data/object_number/object_number_811.jpg", "annotation": {"cup mark": 10}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_812", "file_path": "data/object_number/object_number_812.jpg", "annotation": {"number keypad": 10}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_813", "file_path": "data/object_number/object_number_813.jpg", "annotation": {"silver connector": 10}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_814", "file_path": "data/object_number/object_number_814.jpg", "annotation": {"arch window": 10}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_815", "file_path": "data/object_number/object_number_815.jpg", "annotation": {"green_terminal_blocks": 10}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_816", "file_path": "data/object_number/object_number_816.jpg", "annotation": {"the person in red clothes": 10}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_817", "file_path": "data/object_number/object_number_817.jpg", "annotation": {"people": 10}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_818", "file_path": "data/object_number/object_number_818.jpg", "annotation": {"wooden chair": 10}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_819", "file_path": "data/object_number/object_number_819.jpg", "annotation": {"red umbrella": 10}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_820", "file_path": "data/object_number/object_number_820.jpg", "annotation": {"completed skyscraper": 10}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_821", "file_path": "data/object_number/object_number_821.jpg", "annotation": {"rectangle": 10}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_822", "file_path": "data/object_number/object_number_822.jpg", "annotation": {"grey cushions": 10}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_823", "file_path": "data/object_number/object_number_823.jpg", "annotation": {"pillar": 10}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_824", "file_path": "data/object_number/object_number_824.jpg", "annotation": {"light": 10}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_825", "file_path": "data/object_number/object_number_825.jpg", "annotation": {"bullet casing": 10}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_826", "file_path": "data/object_number/object_number_826.jpg", "annotation": {"kid": 10}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_827", "file_path": "data/object_number/object_number_827.jpg", "annotation": {"stone sarcophagus": 10}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_828", "file_path": "data/object_number/object_number_828.jpg", "annotation": {"hijab": 10}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_829", "file_path": "data/object_number/object_number_829.jpg", "annotation": {"deep-fried": 10}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_830", "file_path": "data/object_number/object_number_830.jpg", "annotation": {"barbell rod": 10}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_831", "file_path": "data/object_number/object_number_831.jpg", "annotation": {"circular stone pillar": 10}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_832", "file_path": "data/object_number/object_number_832.jpg", "annotation": {"awning": 10}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_833", "file_path": "data/object_number/object_number_833.jpg", "annotation": {"sushi": 10}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_834", "file_path": "data/object_number/object_number_834.jpg", "annotation": {"crayons": 10}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_835", "file_path": "data/object_number/object_number_835.jpg", "annotation": {"a few packs of pasta": 10}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_836", "file_path": "data/object_number/object_number_836.jpg", "annotation": {"water jet": 11}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_837", "file_path": "data/object_number/object_number_837.jpg", "annotation": {"apps": 11}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_838", "file_path": "data/object_number/object_number_838.jpg", "annotation": {"Scrabble letter tile": 11}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_839", "file_path": "data/object_number/object_number_839.jpg", "annotation": {"w7 red": 11}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_840", "file_path": "data/object_number/object_number_840.jpg", "annotation": {"person": 11}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_841", "file_path": "data/object_number/object_number_841.jpg", "annotation": {"clothes hanger": 11}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_842", "file_path": "data/object_number/object_number_842.jpg", "annotation": {"lifeboat": 11}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_843", "file_path": "data/object_number/object_number_843.jpg", "annotation": {"red soccer field area": 11}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_844", "file_path": "data/object_number/object_number_844.jpg", "annotation": {"orange bell pepper": 11}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_845", "file_path": "data/object_number/object_number_845.jpg", "annotation": {"yellow flower": 11}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_846", "file_path": "data/object_number/object_number_846.jpg", "annotation": {"the person wearing a helmet": 11}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_847", "file_path": "data/object_number/object_number_847.jpg", "annotation": {"photo": 11}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_848", "file_path": "data/object_number/object_number_848.jpg", "annotation": {"clock": 11}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_849", "file_path": "data/object_number/object_number_849.jpg", "annotation": {"people": 11}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_850", "file_path": "data/object_number/object_number_850.jpg", "annotation": {"ski pole": 11}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_851", "file_path": "data/object_number/object_number_851.jpg", "annotation": {"tent": 11}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_852", "file_path": "data/object_number/object_number_852.jpg", "annotation": {"tree": 11}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_853", "file_path": "data/object_number/object_number_853.jpg", "annotation": {"money symbol": 11}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_854", "file_path": "data/object_number/object_number_854.jpg", "annotation": {"window": 11}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_855", "file_path": "data/object_number/object_number_855.jpg", "annotation": {"decorated windows": 11}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_856", "file_path": "data/object_number/object_number_856.jpg", "annotation": {"window": 11}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_857", "file_path": "data/object_number/object_number_857.jpg", "annotation": {"items in the shopping cart": 11}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_858", "file_path": "data/object_number/object_number_858.jpg", "annotation": {"crispy cookie": 11}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_859", "file_path": "data/object_number/object_number_859.jpg", "annotation": {"statues": 11}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_860", "file_path": "data/object_number/object_number_860.jpg", "annotation": {"Popcorn chicken on the table": 11}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_861", "file_path": "data/object_number/object_number_861.jpg", "annotation": {"traffic light": 11}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_862", "file_path": "data/object_number/object_number_862.jpg", "annotation": {"gravestone": 11}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_863", "file_path": "data/object_number/object_number_863.jpg", "annotation": {"webpage wireframe": 11}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_864", "file_path": "data/object_number/object_number_864.jpg", "annotation": {"cargo ship": 11}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_865", "file_path": "data/object_number/object_number_865.jpg", "annotation": {"sushi": 11}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_866", "file_path": "data/object_number/object_number_866.jpg", "annotation": {"letter": 12}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_867", "file_path": "data/object_number/object_number_867.jpg", "annotation": {"directional arrows": 12}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_868", "file_path": "data/object_number/object_number_868.jpg", "annotation": {"Corona Extra bottle": 12}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_869", "file_path": "data/object_number/object_number_869.jpg", "annotation": {"star": 12}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_870", "file_path": "data/object_number/object_number_870.jpg", "annotation": {"dumbbell weight": 12}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_871", "file_path": "data/object_number/object_number_871.jpg", "annotation": {"speech bubble": 12}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_872", "file_path": "data/object_number/object_number_872.jpg", "annotation": {"window": 12}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_873", "file_path": "data/object_number/object_number_873.jpg", "annotation": {"clock": 12}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_874", "file_path": "data/object_number/object_number_874.jpg", "annotation": {"gray rod": 12}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_875", "file_path": "data/object_number/object_number_875.jpg", "annotation": {"Chrysanthemum carinatum flower": 12}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_876", "file_path": "data/object_number/object_number_876.jpg", "annotation": {"the dancing person": 12}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_877", "file_path": "data/object_number/object_number_877.jpg", "annotation": {"cow print cushion": 12}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_878", "file_path": "data/object_number/object_number_878.jpg", "annotation": {"people": 12}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_879", "file_path": "data/object_number/object_number_879.jpg", "annotation": {"list of month": 12}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_880", "file_path": "data/object_number/object_number_880.jpg", "annotation": {"tile": 12}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_881", "file_path": "data/object_number/object_number_881.jpg", "annotation": {"the person in the photo": 12}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_882", "file_path": "data/object_number/object_number_882.jpg", "annotation": {"percentage value": 12}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_883", "file_path": "data/object_number/object_number_883.jpg", "annotation": {"aluminum can": 12}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_884", "file_path": "data/object_number/object_number_884.jpg", "annotation": {"person": 12}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_885", "file_path": "data/object_number/object_number_885.jpg", "annotation": {"the person wearing red pants": 12}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_886", "file_path": "data/object_number/object_number_886.jpg", "annotation": {"shoe": 12}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_887", "file_path": "data/object_number/object_number_887.jpg", "annotation": {"palm tree": 12}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_888", "file_path": "data/object_number/object_number_888.jpg", "annotation": {"linguine": 12}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_889", "file_path": "data/object_number/object_number_889.jpg", "annotation": {"potted plant": 12}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_890", "file_path": "data/object_number/object_number_890.jpg", "annotation": {"drink bottles": 12}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_891", "file_path": "data/object_number/object_number_891.jpg", "annotation": {"girl": 12}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_892", "file_path": "data/object_number/object_number_892.jpg", "annotation": {"rosehips": 12}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_893", "file_path": "data/object_number/object_number_893.jpg", "annotation": {"color sample": 12}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_894", "file_path": "data/object_number/object_number_894.jpg", "annotation": {"windmills": 12}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_895", "file_path": "data/object_number/object_number_895.jpg", "annotation": {"palm tree": 12}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_896", "file_path": "data/object_number/object_number_896.jpg", "annotation": {"person": 13}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_897", "file_path": "data/object_number/object_number_897.jpg", "annotation": {"dining chair": 13}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_898", "file_path": "data/object_number/object_number_898.jpg", "annotation": {"cat-shaped charm": 13}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_899", "file_path": "data/object_number/object_number_899.jpg", "annotation": {"taco-shaped cooky": 13}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_900", "file_path": "data/object_number/object_number_900.jpg", "annotation": {"bug spray": 13}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_901", "file_path": "data/object_number/object_number_901.jpg", "annotation": {"people": 13}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_902", "file_path": "data/object_number/object_number_902.jpg", "annotation": {"people": 13}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_903", "file_path": "data/object_number/object_number_903.jpg", "annotation": {"bread": 13}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_904", "file_path": "data/object_number/object_number_904.jpg", "annotation": {"yellow pumpkin": 13}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_905", "file_path": "data/object_number/object_number_905.jpg", "annotation": {"people": 13}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_906", "file_path": "data/object_number/object_number_906.jpg", "annotation": {"flag": 13}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_907", "file_path": "data/object_number/object_number_907.jpg", "annotation": {"yellow star": 13}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_908", "file_path": "data/object_number/object_number_908.jpg", "annotation": {"speech balloon": 13}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_909", "file_path": "data/object_number/object_number_909.jpg", "annotation": {"price tag": 13}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_910", "file_path": "data/object_number/object_number_910.jpg", "annotation": {"rose hips": 13}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_911", "file_path": "data/object_number/object_number_911.jpg", "annotation": {"coconut milk cans": 13}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_912", "file_path": "data/object_number/object_number_912.jpg", "annotation": {"wooden spool": 13}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_913", "file_path": "data/object_number/object_number_913.jpg", "annotation": {"wine corks": 13}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_914", "file_path": "data/object_number/object_number_914.jpg", "annotation": {"berry": 13}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_915", "file_path": "data/object_number/object_number_915.jpg", "annotation": {"paper boat": 13}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_916", "file_path": "data/object_number/object_number_916.jpg", "annotation": {"Aircraft transparent passenger window": 14}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_917", "file_path": "data/object_number/object_number_917.jpg", "annotation": {"white windows": 14}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_918", "file_path": "data/object_number/object_number_918.jpg", "annotation": {"banana handle": 14}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_919", "file_path": "data/object_number/object_number_919.jpg", "annotation": {"paper clip": 14}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_920", "file_path": "data/object_number/object_number_920.jpg", "annotation": {"Percentages": 14}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_921", "file_path": "data/object_number/object_number_921.jpg", "annotation": {"people": 14}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_922", "file_path": "data/object_number/object_number_922.jpg", "annotation": {"skier": 14}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_923", "file_path": "data/object_number/object_number_923.jpg", "annotation": {"red light": 14}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_924", "file_path": "data/object_number/object_number_924.jpg", "annotation": {"heart": 14}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_925", "file_path": "data/object_number/object_number_925.jpg", "annotation": {"boots": 14}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_926", "file_path": "data/object_number/object_number_926.jpg", "annotation": {"window": 14}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_927", "file_path": "data/object_number/object_number_927.jpg", "annotation": {"people": 14}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_928", "file_path": "data/object_number/object_number_928.jpg", "annotation": {"plant label": 14}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_929", "file_path": "data/object_number/object_number_929.jpg", "annotation": {"person": 14}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_930", "file_path": "data/object_number/object_number_930.jpg", "annotation": {"yellow price tag": 14}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_931", "file_path": "data/object_number/object_number_931.jpg", "annotation": {"red seat": 14}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_932", "file_path": "data/object_number/object_number_932.jpg", "annotation": {"container": 14}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_933", "file_path": "data/object_number/object_number_933.jpg", "annotation": {"strip pattern": 14}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_934", "file_path": "data/object_number/object_number_934.jpg", "annotation": {"paddle": 14}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_935", "file_path": "data/object_number/object_number_935.jpg", "annotation": {"shoe": 14}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_936", "file_path": "data/object_number/object_number_936.jpg", "annotation": {"stinky tofu": 14}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_937", "file_path": "data/object_number/object_number_937.jpg", "annotation": {"gondola": 14}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_938", "file_path": "data/object_number/object_number_938.jpg", "annotation": {"japanese beetle": 14}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_939", "file_path": "data/object_number/object_number_939.jpg", "annotation": {"column beam": 14}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_940", "file_path": "data/object_number/object_number_940.jpg", "annotation": {"speech bubble": 15}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_941", "file_path": "data/object_number/object_number_941.jpg", "annotation": {"palm tree": 15}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_942", "file_path": "data/object_number/object_number_942.jpg", "annotation": {"sushi roll": 15}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_943", "file_path": "data/object_number/object_number_943.jpg", "annotation": {"left panel icon": 15}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_944", "file_path": "data/object_number/object_number_944.jpg", "annotation": {"window": 15}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_945", "file_path": "data/object_number/object_number_945.jpg", "annotation": {"FirstName": 15}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_946", "file_path": "data/object_number/object_number_946.jpg", "annotation": {"glass bear toy bear": 15}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_947", "file_path": "data/object_number/object_number_947.jpg", "annotation": {"price tag": 15}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_948", "file_path": "data/object_number/object_number_948.jpg", "annotation": {"Chairs": 15}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_949", "file_path": "data/object_number/object_number_949.jpg", "annotation": {"book": 15}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_950", "file_path": "data/object_number/object_number_950.jpg", "annotation": {"bamboo steamer basket": 15}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_951", "file_path": "data/object_number/object_number_951.jpg", "annotation": {"dining table": 15}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_952", "file_path": "data/object_number/object_number_952.jpg", "annotation": {"carve pole": 15}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_953", "file_path": "data/object_number/object_number_953.jpg", "annotation": {"data point": 15}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_954", "file_path": "data/object_number/object_number_954.jpg", "annotation": {"window": 15}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_955", "file_path": "data/object_number/object_number_955.jpg", "annotation": {"person": 15}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_956", "file_path": "data/object_number/object_number_956.jpg", "annotation": {"child": 15}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_957", "file_path": "data/object_number/object_number_957.jpg", "annotation": {"angry birds": 15}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_958", "file_path": "data/object_number/object_number_958.jpg", "annotation": {"sanding discs": 15}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_959", "file_path": "data/object_number/object_number_959.jpg", "annotation": {"vest": 15}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_960", "file_path": "data/object_number/object_number_960.jpg", "annotation": {"tree": 16}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_961", "file_path": "data/object_number/object_number_961.jpg", "annotation": {"speech bubble": 16}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_962", "file_path": "data/object_number/object_number_962.jpg", "annotation": {"aluminum can": 16}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_963", "file_path": "data/object_number/object_number_963.jpg", "annotation": {"Buddha statue": 16}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_964", "file_path": "data/object_number/object_number_964.jpg", "annotation": {"people": 16}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_965", "file_path": "data/object_number/object_number_965.jpg", "annotation": {"red pillar": 16}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_966", "file_path": "data/object_number/object_number_966.jpg", "annotation": {"Roman numeral": 16}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_967", "file_path": "data/object_number/object_number_967.jpg", "annotation": {"washer": 16}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_968", "file_path": "data/object_number/object_number_968.jpg", "annotation": {"window": 16}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_969", "file_path": "data/object_number/object_number_969.jpg", "annotation": {"umbrella": 16}, "task": "object_number", "data_type": "image"}

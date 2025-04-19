@@ -1,0 +1,988 @@
+{"file_id": "event_1", "file_path": "data/event/event_1.mp4", "annotation": "rushes forward", "task": "action", "data_type": "video"}
+{"file_id": "event_2", "file_path": "data/event/event_2.mp4", "annotation": "follows", "task": "action", "data_type": "video"}
+{"file_id": "event_3", "file_path": "data/event/event_3.mp4", "annotation": "jumped into a yellow pipe", "task": "action", "data_type": "video"}
+{"file_id": "event_4", "file_path": "data/event/event_4.mp4", "annotation": "falls down", "task": "action", "data_type": "video"}
+{"file_id": "event_5", "file_path": "data/event/event_5.mp4", "annotation": "hits", "task": "action", "data_type": "video"}
+{"file_id": "event_6", "file_path": "data/event/event_6.mp4", "annotation": "enter", "task": "action", "data_type": "video"}
+{"file_id": "event_7", "file_path": "data/event/event_7.mp4", "annotation": "observes", "task": "action", "data_type": "video"}
+{"file_id": "event_8", "file_path": "data/event/event_8.mp4", "annotation": "drags", "task": "action", "data_type": "video"}
+{"file_id": "event_9", "file_path": "data/event/event_9.mp4", "annotation": "appears", "task": "action", "data_type": "video"}
+{"file_id": "event_10", "file_path": "data/event/event_10.mp4", "annotation": "cut", "task": "action", "data_type": "video"}
+{"file_id": "event_11", "file_path": "data/event/event_11.mp4", "annotation": "duels", "task": "action", "data_type": "video"}
+{"file_id": "event_12", "file_path": "data/event/event_12.mp4", "annotation": "fight", "task": "action", "data_type": "video"}
+{"file_id": "event_13", "file_path": "data/event/event_13.mp4", "annotation": "appears", "task": "action", "data_type": "video"}
+{"file_id": "event_14", "file_path": "data/event/event_14.mp4", "annotation": "reach", "task": "action", "data_type": "video"}
+{"file_id": "event_15", "file_path": "data/event/event_15.mp4", "annotation": "look upward", "task": "action", "data_type": "video"}
+{"file_id": "event_16", "file_path": "data/event/event_16.mp4", "annotation": "jumps into mid-air", "task": "action", "data_type": "video"}
+{"file_id": "event_17", "file_path": "data/event/event_17.mp4", "annotation": "ran forward", "task": "action", "data_type": "video"}
+{"file_id": "event_18", "file_path": "data/event/event_18.mp4", "annotation": "clench fist", "task": "action", "data_type": "video"}
+{"file_id": "event_19", "file_path": "data/event/event_19.mp4", "annotation": "swings", "task": "action", "data_type": "video"}
+{"file_id": "event_20", "file_path": "data/event/event_20.mp4", "annotation": "looks", "task": "action", "data_type": "video"}
+{"file_id": "event_21", "file_path": "data/event/event_21.mp4", "annotation": "arrange into a heart shape", "task": "action", "data_type": "video"}
+{"file_id": "event_22", "file_path": "data/event/event_22.mp4", "annotation": "slide down", "task": "action", "data_type": "video"}
+{"file_id": "event_23", "file_path": "data/event/event_23.mp4", "annotation": "continued the chase", "task": "action", "data_type": "video"}
+{"file_id": "event_24", "file_path": "data/event/event_24.mp4", "annotation": "falls", "task": "action", "data_type": "video"}
+{"file_id": "event_25", "file_path": "data/event/event_25.mp4", "annotation": "opened", "task": "action", "data_type": "video"}
+{"file_id": "event_26", "file_path": "data/event/event_26.mp4", "annotation": "kicks", "task": "action", "data_type": "video"}
+{"file_id": "event_27", "file_path": "data/event/event_27.mp4", "annotation": "closes", "task": "action", "data_type": "video"}
+{"file_id": "event_28", "file_path": "data/event/event_28.mp4", "annotation": "stands", "task": "action", "data_type": "video"}
+{"file_id": "event_29", "file_path": "data/event/event_29.mp4", "annotation": "lies", "task": "action", "data_type": "video"}
+{"file_id": "event_30", "file_path": "data/event/event_30.mp4", "annotation": "clutches", "task": "action", "data_type": "video"}
+{"file_id": "event_31", "file_path": "data/event/event_31.mp4", "annotation": "stands", "task": "action", "data_type": "video"}
+{"file_id": "event_32", "file_path": "data/event/event_32.mp4", "annotation": "spoke", "task": "action", "data_type": "video"}
+{"file_id": "event_33", "file_path": "data/event/event_33.mp4", "annotation": "took out a backpack", "task": "action", "data_type": "video"}
+{"file_id": "event_34", "file_path": "data/event/event_34.mp4", "annotation": "looked back", "task": "action", "data_type": "video"}
+{"file_id": "event_35", "file_path": "data/event/event_35.mp4", "annotation": "watched", "task": "action", "data_type": "video"}
+{"file_id": "event_36", "file_path": "data/event/event_36.mp4", "annotation": "strikes", "task": "action", "data_type": "video"}
+{"file_id": "event_37", "file_path": "data/event/event_37.mp4", "annotation": "stops", "task": "action", "data_type": "video"}
+{"file_id": "event_38", "file_path": "data/event/event_38.mp4", "annotation": "tore off", "task": "action", "data_type": "video"}
+{"file_id": "event_39", "file_path": "data/event/event_39.mp4", "annotation": "looked", "task": "action", "data_type": "video"}
+{"file_id": "event_40", "file_path": "data/event/event_40.mp4", "annotation": "stares", "task": "action", "data_type": "video"}
+{"file_id": "event_41", "file_path": "data/event/event_41.mp4", "annotation": "flew out", "task": "action", "data_type": "video"}
+{"file_id": "event_42", "file_path": "data/event/event_42.mp4", "annotation": "run toward the elevator", "task": "action", "data_type": "video"}
+{"file_id": "event_43", "file_path": "data/event/event_43.mp4", "annotation": "speaks", "task": "action", "data_type": "video"}
+{"file_id": "event_44", "file_path": "data/event/event_44.mp4", "annotation": "runs forward", "task": "action", "data_type": "video"}
+{"file_id": "event_45", "file_path": "data/event/event_45.mp4", "annotation": "turns off a switch", "task": "action", "data_type": "video"}
+{"file_id": "event_46", "file_path": "data/event/event_46.mp4", "annotation": "positions itself", "task": "action", "data_type": "video"}
+{"file_id": "event_47", "file_path": "data/event/event_47.mp4", "annotation": "reveals a smile", "task": "action", "data_type": "video"}
+{"file_id": "event_48", "file_path": "data/event/event_48.mp4", "annotation": "turned", "task": "action", "data_type": "video"}
+{"file_id": "event_49", "file_path": "data/event/event_49.mp4", "annotation": "surges", "task": "action", "data_type": "video"}
+{"file_id": "event_50", "file_path": "data/event/event_50.mp4", "annotation": "falls", "task": "action", "data_type": "video"}
+{"file_id": "event_51", "file_path": "data/event/event_51.mp4", "annotation": "scans", "task": "action", "data_type": "video"}
+{"file_id": "event_52", "file_path": "data/event/event_52.mp4", "annotation": "walks forward", "task": "action", "data_type": "video"}
+{"file_id": "event_53", "file_path": "data/event/event_53.mp4", "annotation": "comes to a box", "task": "action", "data_type": "video"}
+{"file_id": "event_54", "file_path": "data/event/event_54.mp4", "annotation": "stood", "task": "action", "data_type": "video"}
+{"file_id": "event_55", "file_path": "data/event/event_55.mp4", "annotation": "closes the door", "task": "action", "data_type": "video"}
+{"file_id": "event_56", "file_path": "data/event/event_56.mp4", "annotation": "walk off", "task": "action", "data_type": "video"}
+{"file_id": "event_57", "file_path": "data/event/event_57.mp4", "annotation": "changes", "task": "action", "data_type": "video"}
+{"file_id": "event_58", "file_path": "data/event/event_58.mp4", "annotation": "hands", "task": "action", "data_type": "video"}
+{"file_id": "event_59", "file_path": "data/event/event_59.mp4", "annotation": "talks", "task": "action", "data_type": "video"}
+{"file_id": "event_60", "file_path": "data/event/event_60.mp4", "annotation": "run", "task": "action", "data_type": "video"}
+{"file_id": "event_61", "file_path": "data/event/event_61.mp4", "annotation": "leads", "task": "action", "data_type": "video"}
+{"file_id": "event_62", "file_path": "data/event/event_62.mp4", "annotation": "arranged", "task": "action", "data_type": "video"}
+{"file_id": "event_63", "file_path": "data/event/event_63.mp4", "annotation": "places hands on toilet seat", "task": "action", "data_type": "video"}
+{"file_id": "event_64", "file_path": "data/event/event_64.mp4", "annotation": "speaks", "task": "action", "data_type": "video"}
+{"file_id": "event_65", "file_path": "data/event/event_65.mp4", "annotation": "slid to ground", "task": "action", "data_type": "video"}
+{"file_id": "event_66", "file_path": "data/event/event_66.mp4", "annotation": "leaned against the door", "task": "action", "data_type": "video"}
+{"file_id": "event_67", "file_path": "data/event/event_67.mp4", "annotation": "falls to ground", "task": "action", "data_type": "video"}
+{"file_id": "event_68", "file_path": "data/event/event_68.mp4", "annotation": "holds a microphone", "task": "action", "data_type": "video"}
+{"file_id": "event_69", "file_path": "data/event/event_69.mp4", "annotation": "holding", "task": "action", "data_type": "video"}
+{"file_id": "event_70", "file_path": "data/event/event_70.mp4", "annotation": "reaches up", "task": "action", "data_type": "video"}
+{"file_id": "event_71", "file_path": "data/event/event_71.mp4", "annotation": "puts on brown glove", "task": "action", "data_type": "video"}
+{"file_id": "event_72", "file_path": "data/event/event_72.mp4", "annotation": "looks angrily", "task": "action", "data_type": "video"}
+{"file_id": "event_73", "file_path": "data/event/event_73.mp4", "annotation": "opens eyes wide", "task": "action", "data_type": "video"}
+{"file_id": "event_74", "file_path": "data/event/event_74.mp4", "annotation": "eating chicken drumsticks", "task": "action", "data_type": "video"}
+{"file_id": "event_75", "file_path": "data/event/event_75.mp4", "annotation": "runs off", "task": "action", "data_type": "video"}
+{"file_id": "event_76", "file_path": "data/event/event_76.mp4", "annotation": "stands", "task": "action", "data_type": "video"}
+{"file_id": "event_77", "file_path": "data/event/event_77.mp4", "annotation": "looks through", "task": "action", "data_type": "video"}
+{"file_id": "event_78", "file_path": "data/event/event_78.mp4", "annotation": "hangs on", "task": "action", "data_type": "video"}
+{"file_id": "event_79", "file_path": "data/event/event_79.mp4", "annotation": "releases two grab handles", "task": "action", "data_type": "video"}
+{"file_id": "event_80", "file_path": "data/event/event_80.mp4", "annotation": "widen", "task": "action", "data_type": "video"}
+{"file_id": "event_81", "file_path": "data/event/event_81.mp4", "annotation": "clears", "task": "action", "data_type": "video"}
+{"file_id": "event_82", "file_path": "data/event/event_82.mp4", "annotation": "spritzed perfume on the clothing", "task": "action", "data_type": "video"}
+{"file_id": "event_83", "file_path": "data/event/event_83.mp4", "annotation": "play chess", "task": "action", "data_type": "video"}
+{"file_id": "event_84", "file_path": "data/event/event_84.mp4", "annotation": "widen", "task": "action", "data_type": "video"}
+{"file_id": "event_85", "file_path": "data/event/event_85.mp4", "annotation": "watches", "task": "action", "data_type": "video"}
+{"file_id": "event_86", "file_path": "data/event/event_86.mp4", "annotation": "explodes", "task": "action", "data_type": "video"}
+{"file_id": "event_87", "file_path": "data/event/event_87.mp4", "annotation": "walk away", "task": "action", "data_type": "video"}
+{"file_id": "event_88", "file_path": "data/event/event_88.mp4", "annotation": "walks", "task": "action", "data_type": "video"}
+{"file_id": "event_89", "file_path": "data/event/event_89.mp4", "annotation": "enters", "task": "action", "data_type": "video"}
+{"file_id": "event_90", "file_path": "data/event/event_90.mp4", "annotation": "gaze", "task": "action", "data_type": "video"}
+{"file_id": "event_91", "file_path": "data/event/event_91.mp4", "annotation": "dismounted", "task": "action", "data_type": "video"}
+{"file_id": "event_92", "file_path": "data/event/event_92.mp4", "annotation": "runs forward", "task": "action", "data_type": "video"}
+{"file_id": "event_93", "file_path": "data/event/event_93.mp4", "annotation": "aim guns forward", "task": "action", "data_type": "video"}
+{"file_id": "event_94", "file_path": "data/event/event_94.mp4", "annotation": "stops", "task": "action", "data_type": "video"}
+{"file_id": "event_95", "file_path": "data/event/event_95.mp4", "annotation": "picked up an object", "task": "action", "data_type": "video"}
+{"file_id": "event_96", "file_path": "data/event/event_96.mp4", "annotation": "throws a grenade", "task": "action", "data_type": "video"}
+{"file_id": "event_97", "file_path": "data/event/event_97.mp4", "annotation": "rushed forward", "task": "action", "data_type": "video"}
+{"file_id": "event_98", "file_path": "data/event/event_98.mp4", "annotation": "charged towards", "task": "action", "data_type": "video"}
+{"file_id": "event_99", "file_path": "data/event/event_99.mp4", "annotation": "run in circles", "task": "action", "data_type": "video"}
+{"file_id": "event_100", "file_path": "data/event/event_100.mp4", "annotation": "stays in place", "task": "action", "data_type": "video"}
+{"file_id": "event_101", "file_path": "data/event/event_101.mp4", "annotation": "lay down", "task": "action", "data_type": "video"}
+{"file_id": "event_102", "file_path": "data/event/event_102.mp4", "annotation": "got out of bed", "task": "action", "data_type": "video"}
+{"file_id": "event_103", "file_path": "data/event/event_103.mp4", "annotation": "charge forward", "task": "action", "data_type": "video"}
+{"file_id": "event_104", "file_path": "data/event/event_104.mp4", "annotation": "poked out", "task": "action", "data_type": "video"}
+{"file_id": "event_105", "file_path": "data/event/event_105.mp4", "annotation": "stood up", "task": "action", "data_type": "video"}
+{"file_id": "event_106", "file_path": "data/event/event_106.mp4", "annotation": "stands uncertainly", "task": "action", "data_type": "video"}
+{"file_id": "event_107", "file_path": "data/event/event_107.mp4", "annotation": "rushes down the stairs", "task": "action", "data_type": "video"}
+{"file_id": "event_108", "file_path": "data/event/event_108.mp4", "annotation": "kissed", "task": "action", "data_type": "video"}
+{"file_id": "event_109", "file_path": "data/event/event_109.mp4", "annotation": "faces almost touch", "task": "action", "data_type": "video"}
+{"file_id": "event_110", "file_path": "data/event/event_110.mp4", "annotation": "shows cellphone", "task": "action", "data_type": "video"}
+{"file_id": "event_111", "file_path": "data/event/event_111.mp4", "annotation": "said something", "task": "action", "data_type": "video"}
+{"file_id": "event_112", "file_path": "data/event/event_112.mp4", "annotation": "sighed", "task": "action", "data_type": "video"}
+{"file_id": "event_113", "file_path": "data/event/event_113.mp4", "annotation": "reaches for wine glass", "task": "action", "data_type": "video"}
+{"file_id": "event_114", "file_path": "data/event/event_114.mp4", "annotation": "laughed", "task": "action", "data_type": "video"}
+{"file_id": "event_115", "file_path": "data/event/event_115.mp4", "annotation": "blown out", "task": "action", "data_type": "video"}
+{"file_id": "event_116", "file_path": "data/event/event_116.mp4", "annotation": "glances", "task": "action", "data_type": "video"}
+{"file_id": "event_117", "file_path": "data/event/event_117.mp4", "annotation": "hangs", "task": "action", "data_type": "video"}
+{"file_id": "event_118", "file_path": "data/event/event_118.mp4", "annotation": "floated", "task": "action", "data_type": "video"}
+{"file_id": "event_119", "file_path": "data/event/event_119.mp4", "annotation": "swims", "task": "action", "data_type": "video"}
+{"file_id": "event_120", "file_path": "data/event/event_120.mp4", "annotation": "exchanged glances", "task": "action", "data_type": "video"}
+{"file_id": "event_121", "file_path": "data/event/event_121.mp4", "annotation": "flies upwards", "task": "action", "data_type": "video"}
+{"file_id": "event_122", "file_path": "data/event/event_122.mp4", "annotation": "peek out", "task": "action", "data_type": "video"}
+{"file_id": "event_123", "file_path": "data/event/event_123.mp4", "annotation": "speaks", "task": "action", "data_type": "video"}
+{"file_id": "event_124", "file_path": "data/event/event_124.mp4", "annotation": "moves onto the grass", "task": "action", "data_type": "video"}
+{"file_id": "event_125", "file_path": "data/event/event_125.mp4", "annotation": "kicks", "task": "action", "data_type": "video"}
+{"file_id": "event_126", "file_path": "data/event/event_126.mp4", "annotation": "floats", "task": "action", "data_type": "video"}
+{"file_id": "event_127", "file_path": "data/event/event_127.mp4", "annotation": "walks out", "task": "action", "data_type": "video"}
+{"file_id": "event_128", "file_path": "data/event/event_128.mp4", "annotation": "sits down", "task": "action", "data_type": "video"}
+{"file_id": "event_129", "file_path": "data/event/event_129.mp4", "annotation": "moves forward", "task": "action", "data_type": "video"}
+{"file_id": "event_130", "file_path": "data/event/event_130.mp4", "annotation": "opens eyes", "task": "action", "data_type": "video"}
+{"file_id": "event_131", "file_path": "data/event/event_131.mp4", "annotation": "takes two steps forward", "task": "action", "data_type": "video"}
+{"file_id": "event_132", "file_path": "data/event/event_132.mp4", "annotation": "eating", "task": "action", "data_type": "video"}
+{"file_id": "event_133", "file_path": "data/event/event_133.mp4", "annotation": "props his cheek with his right hand", "task": "action", "data_type": "video"}
+{"file_id": "event_134", "file_path": "data/event/event_134.mp4", "annotation": "talked", "task": "action", "data_type": "video"}
+{"file_id": "event_135", "file_path": "data/event/event_135.mp4", "annotation": "threw the ball forward", "task": "action", "data_type": "video"}
+{"file_id": "event_136", "file_path": "data/event/event_136.mp4", "annotation": "switch on", "task": "action", "data_type": "video"}
+{"file_id": "event_137", "file_path": "data/event/event_137.mp4", "annotation": "play baseball", "task": "action", "data_type": "video"}
+{"file_id": "event_138", "file_path": "data/event/event_138.mp4", "annotation": "holds", "task": "action", "data_type": "video"}
+{"file_id": "event_139", "file_path": "data/event/event_139.mp4", "annotation": "looks on in confusion", "task": "action", "data_type": "video"}
+{"file_id": "event_140", "file_path": "data/event/event_140.mp4", "annotation": "watches", "task": "action", "data_type": "video"}
+{"file_id": "event_141", "file_path": "data/event/event_141.mp4", "annotation": "turned to look", "task": "action", "data_type": "video"}
+{"file_id": "event_142", "file_path": "data/event/event_142.mp4", "annotation": "stands looking around in confusion", "task": "action", "data_type": "video"}
+{"file_id": "event_143", "file_path": "data/event/event_143.mp4", "annotation": "leans forward", "task": "action", "data_type": "video"}
+{"file_id": "event_144", "file_path": "data/event/event_144.mp4", "annotation": "hands a piece of paper", "task": "action", "data_type": "video"}
+{"file_id": "event_145", "file_path": "data/event/event_145.mp4", "annotation": "strikes", "task": "action", "data_type": "video"}
+{"file_id": "event_146", "file_path": "data/event/event_146.mp4", "annotation": "makes a move towards", "task": "action", "data_type": "video"}
+{"file_id": "event_147", "file_path": "data/event/event_147.mp4", "annotation": "catches", "task": "action", "data_type": "video"}
+{"file_id": "event_148", "file_path": "data/event/event_148.mp4", "annotation": "look in surprise", "task": "action", "data_type": "video"}
+{"file_id": "event_149", "file_path": "data/event/event_149.mp4", "annotation": "light up", "task": "action", "data_type": "video"}
+{"file_id": "event_150", "file_path": "data/event/event_150.mp4", "annotation": "sits", "task": "action", "data_type": "video"}
+{"file_id": "event_151", "file_path": "data/event/event_151.mp4", "annotation": "clenched fists", "task": "action", "data_type": "video"}
+{"file_id": "event_152", "file_path": "data/event/event_152.mp4", "annotation": "smiles", "task": "action", "data_type": "video"}
+{"file_id": "event_153", "file_path": "data/event/event_153.mp4", "annotation": "embraces", "task": "action", "data_type": "video"}
+{"file_id": "event_154", "file_path": "data/event/event_154.mp4", "annotation": "sways from side to side", "task": "action", "data_type": "video"}
+{"file_id": "event_155", "file_path": "data/event/event_155.mp4", "annotation": "rolled forward", "task": "action", "data_type": "video"}
+{"file_id": "event_156", "file_path": "data/event/event_156.mp4", "annotation": "snatches", "task": "action", "data_type": "video"}
+{"file_id": "event_157", "file_path": "data/event/event_157.mp4", "annotation": "holding guns", "task": "action", "data_type": "video"}
+{"file_id": "event_158", "file_path": "data/event/event_158.mp4", "annotation": "looked out of the window", "task": "action", "data_type": "video"}
+{"file_id": "event_159", "file_path": "data/event/event_159.mp4", "annotation": "places hands in pockets", "task": "action", "data_type": "video"}
+{"file_id": "event_160", "file_path": "data/event/event_160.mp4", "annotation": "scans leftover food", "task": "action", "data_type": "video"}
+{"file_id": "event_161", "file_path": "data/event/event_161.mp4", "annotation": "grabs a control stick", "task": "action", "data_type": "video"}
+{"file_id": "event_162", "file_path": "data/event/event_162.mp4", "annotation": "struggles", "task": "action", "data_type": "video"}
+{"file_id": "event_163", "file_path": "data/event/event_163.mp4", "annotation": "coming", "task": "action", "data_type": "video"}
+{"file_id": "event_164", "file_path": "data/event/event_164.mp4", "annotation": "picks up", "task": "action", "data_type": "video"}
+{"file_id": "event_165", "file_path": "data/event/event_165.mp4", "annotation": "moved forward", "task": "action", "data_type": "video"}
+{"file_id": "event_166", "file_path": "data/event/event_166.mp4", "annotation": "close", "task": "action", "data_type": "video"}
+{"file_id": "event_167", "file_path": "data/event/event_167.mp4", "annotation": "slaps", "task": "action", "data_type": "video"}
+{"file_id": "event_168", "file_path": "data/event/event_168.mp4", "annotation": "lines up", "task": "action", "data_type": "video"}
+{"file_id": "event_169", "file_path": "data/event/event_169.mp4", "annotation": "lifts its head", "task": "action", "data_type": "video"}
+{"file_id": "event_170", "file_path": "data/event/event_170.mp4", "annotation": "swam", "task": "action", "data_type": "video"}
+{"file_id": "event_171", "file_path": "data/event/event_171.mp4", "annotation": "turned around to look back", "task": "action", "data_type": "video"}
+{"file_id": "event_172", "file_path": "data/event/event_172.mp4", "annotation": "wiggled", "task": "action", "data_type": "video"}
+{"file_id": "event_173", "file_path": "data/event/event_173.mp4", "annotation": "turns around holding the items", "task": "action", "data_type": "video"}
+{"file_id": "event_174", "file_path": "data/event/event_174.mp4", "annotation": "walked forward", "task": "action", "data_type": "video"}
+{"file_id": "event_175", "file_path": "data/event/event_175.mp4", "annotation": "pushed off", "task": "action", "data_type": "video"}
+{"file_id": "event_176", "file_path": "data/event/event_176.mp4", "annotation": "advances quickly", "task": "action", "data_type": "video"}
+{"file_id": "event_177", "file_path": "data/event/event_177.mp4", "annotation": "opens the mouth wide", "task": "action", "data_type": "video"}
+{"file_id": "event_178", "file_path": "data/event/event_178.mp4", "annotation": "eats", "task": "action", "data_type": "video"}
+{"file_id": "event_179", "file_path": "data/event/event_179.mp4", "annotation": "extends a leg", "task": "action", "data_type": "video"}
+{"file_id": "event_180", "file_path": "data/event/event_180.mp4", "annotation": "watches", "task": "action", "data_type": "video"}
+{"file_id": "event_181", "file_path": "data/event/event_181.mp4", "annotation": "emptied the contents of the bag", "task": "action", "data_type": "video"}
+{"file_id": "event_182", "file_path": "data/event/event_182.mp4", "annotation": "leaned back", "task": "action", "data_type": "video"}
+{"file_id": "event_183", "file_path": "data/event/event_183.mp4", "annotation": "furrow", "task": "action", "data_type": "video"}
+{"file_id": "event_184", "file_path": "data/event/event_184.mp4", "annotation": "hold tridents", "task": "action", "data_type": "video"}
+{"file_id": "event_185", "file_path": "data/event/event_185.mp4", "annotation": "threw an item", "task": "action", "data_type": "video"}
+{"file_id": "event_186", "file_path": "data/event/event_186.mp4", "annotation": "pours", "task": "action", "data_type": "video"}
+{"file_id": "event_187", "file_path": "data/event/event_187.mp4", "annotation": "sway bodies up and down", "task": "action", "data_type": "video"}
+{"file_id": "event_188", "file_path": "data/event/event_188.mp4", "annotation": "reached out", "task": "action", "data_type": "video"}
+{"file_id": "event_189", "file_path": "data/event/event_189.mp4", "annotation": "runs away", "task": "action", "data_type": "video"}
+{"file_id": "event_190", "file_path": "data/event/event_190.mp4", "annotation": "sweated profusely", "task": "action", "data_type": "video"}
+{"file_id": "event_191", "file_path": "data/event/event_191.mp4", "annotation": "grabbed", "task": "action", "data_type": "video"}
+{"file_id": "event_192", "file_path": "data/event/event_192.mp4", "annotation": "took the microphone", "task": "action", "data_type": "video"}
+{"file_id": "event_193", "file_path": "data/event/event_193.mp4", "annotation": "puts phone down", "task": "action", "data_type": "video"}
+{"file_id": "event_194", "file_path": "data/event/event_194.mp4", "annotation": "grab", "task": "action", "data_type": "video"}
+{"file_id": "event_195", "file_path": "data/event/event_195.mp4", "annotation": "said something", "task": "action", "data_type": "video"}
+{"file_id": "event_196", "file_path": "data/event/event_196.mp4", "annotation": "picks up a book", "task": "action", "data_type": "video"}
+{"file_id": "event_197", "file_path": "data/event/event_197.mp4", "annotation": "move slightly", "task": "action", "data_type": "video"}
+{"file_id": "event_198", "file_path": "data/event/event_198.mp4", "annotation": "bends forward", "task": "action", "data_type": "video"}
+{"file_id": "event_199", "file_path": "data/event/event_199.mp4", "annotation": "stretches out his hand", "task": "action", "data_type": "video"}
+{"file_id": "event_200", "file_path": "data/event/event_200.mp4", "annotation": "pointed forward", "task": "action", "data_type": "video"}
+{"file_id": "event_201", "file_path": "data/event/event_201.mp4", "annotation": "called a taxi", "task": "action", "data_type": "video"}
+{"file_id": "event_202", "file_path": "data/event/event_202.mp4", "annotation": "sit", "task": "action", "data_type": "video"}
+{"file_id": "event_203", "file_path": "data/event/event_203.mp4", "annotation": "runs down the stairs", "task": "action", "data_type": "video"}
+{"file_id": "event_204", "file_path": "data/event/event_204.mp4", "annotation": "approaches", "task": "action", "data_type": "video"}
+{"file_id": "event_205", "file_path": "data/event/event_205.mp4", "annotation": "beckons", "task": "action", "data_type": "video"}
+{"file_id": "event_206", "file_path": "data/event/event_206.mp4", "annotation": "reveals face", "task": "action", "data_type": "video"}
+{"file_id": "event_207", "file_path": "data/event/event_207.mp4", "annotation": "prepares to kiss", "task": "action", "data_type": "video"}
+{"file_id": "event_208", "file_path": "data/event/event_208.mp4", "annotation": "runs", "task": "action", "data_type": "video"}
+{"file_id": "event_209", "file_path": "data/event/event_209.mp4", "annotation": "look around", "task": "action", "data_type": "video"}
+{"file_id": "event_210", "file_path": "data/event/event_210.mp4", "annotation": "turned around slowly", "task": "action", "data_type": "video"}
+{"file_id": "event_211", "file_path": "data/event/event_211.mp4", "annotation": "turns head", "task": "action", "data_type": "video"}
+{"file_id": "event_212", "file_path": "data/event/event_212.mp4", "annotation": "moves", "task": "action", "data_type": "video"}
+{"file_id": "event_213", "file_path": "data/event/event_213.mp4", "annotation": "reacts", "task": "action", "data_type": "video"}
+{"file_id": "event_214", "file_path": "data/event/event_214.mp4", "annotation": "grasped an axe", "task": "action", "data_type": "video"}
+{"file_id": "event_215", "file_path": "data/event/event_215.mp4", "annotation": "turns", "task": "action", "data_type": "video"}
+{"file_id": "event_216", "file_path": "data/event/event_216.mp4", "annotation": "stopped", "task": "action", "data_type": "video"}
+{"file_id": "event_217", "file_path": "data/event/event_217.mp4", "annotation": "took off", "task": "action", "data_type": "video"}
+{"file_id": "event_218", "file_path": "data/event/event_218.mp4", "annotation": "raised axe", "task": "action", "data_type": "video"}
+{"file_id": "event_219", "file_path": "data/event/event_219.mp4", "annotation": "fiddle with another object", "task": "action", "data_type": "video"}
+{"file_id": "event_220", "file_path": "data/event/event_220.mp4", "annotation": "emit", "task": "action", "data_type": "video"}
+{"file_id": "event_221", "file_path": "data/event/event_221.mp4", "annotation": "walked forward", "task": "action", "data_type": "video"}
+{"file_id": "event_222", "file_path": "data/event/event_222.mp4", "annotation": "came out", "task": "action", "data_type": "video"}
+{"file_id": "event_223", "file_path": "data/event/event_223.mp4", "annotation": "hits", "task": "action", "data_type": "video"}
+{"file_id": "event_224", "file_path": "data/event/event_224.mp4", "annotation": "holds", "task": "action", "data_type": "video"}
+{"file_id": "event_225", "file_path": "data/event/event_225.mp4", "annotation": "looked down", "task": "action", "data_type": "video"}
+{"file_id": "event_226", "file_path": "data/event/event_226.mp4", "annotation": "nod", "task": "action", "data_type": "video"}
+{"file_id": "event_227", "file_path": "data/event/event_227.mp4", "annotation": "follows", "task": "action", "data_type": "video"}
+{"file_id": "event_228", "file_path": "data/event/event_228.mp4", "annotation": "extends his hand", "task": "action", "data_type": "video"}
+{"file_id": "event_229", "file_path": "data/event/event_229.mp4", "annotation": "speaks", "task": "action", "data_type": "video"}
+{"file_id": "event_230", "file_path": "data/event/event_230.mp4", "annotation": "picks up", "task": "action", "data_type": "video"}
+{"file_id": "event_231", "file_path": "data/event/event_231.mp4", "annotation": "runs", "task": "action", "data_type": "video"}
+{"file_id": "event_232", "file_path": "data/event/event_232.mp4", "annotation": "looked", "task": "action", "data_type": "video"}
+{"file_id": "event_233", "file_path": "data/event/event_233.mp4", "annotation": "runs forward", "task": "action", "data_type": "video"}
+{"file_id": "event_234", "file_path": "data/event/event_234.mp4", "annotation": "watches", "task": "action", "data_type": "video"}
+{"file_id": "event_235", "file_path": "data/event/event_235.mp4", "annotation": "picked up", "task": "action", "data_type": "video"}
+{"file_id": "event_236", "file_path": "data/event/event_236.mp4", "annotation": "sways body", "task": "action", "data_type": "video"}
+{"file_id": "event_237", "file_path": "data/event/event_237.mp4", "annotation": "hangs off the building's edge", "task": "action", "data_type": "video"}
+{"file_id": "event_238", "file_path": "data/event/event_238.mp4", "annotation": "turned head", "task": "action", "data_type": "video"}
+{"file_id": "event_239", "file_path": "data/event/event_239.mp4", "annotation": "takes a few steps forward", "task": "action", "data_type": "video"}
+{"file_id": "event_240", "file_path": "data/event/event_240.mp4", "annotation": "unraveled", "task": "action", "data_type": "video"}
+{"file_id": "event_241", "file_path": "data/event/event_241.mp4", "annotation": "landed", "task": "action", "data_type": "video"}
+{"file_id": "event_242", "file_path": "data/event/event_242.mp4", "annotation": "closes", "task": "action", "data_type": "video"}
+{"file_id": "event_243", "file_path": "data/event/event_243.mp4", "annotation": "stops and smiles", "task": "action", "data_type": "video"}
+{"file_id": "event_244", "file_path": "data/event/event_244.mp4", "annotation": "rests hands on the mantelpiece", "task": "action", "data_type": "video"}
+{"file_id": "event_245", "file_path": "data/event/event_245.mp4", "annotation": "lies", "task": "action", "data_type": "video"}
+{"file_id": "event_246", "file_path": "data/event/event_246.mp4", "annotation": "emit blue flames", "task": "action", "data_type": "video"}
+{"file_id": "event_247", "file_path": "data/event/event_247.mp4", "annotation": "places item into plate", "task": "action", "data_type": "video"}
+{"file_id": "event_249", "file_path": "data/event/event_249.mp4", "annotation": "got off the bed", "task": "action", "data_type": "video"}
+{"file_id": "event_250", "file_path": "data/event/event_250.mp4", "annotation": "speaks", "task": "action", "data_type": "video"}
+{"file_id": "event_251", "file_path": "data/event/event_251.mp4", "annotation": "pull out a power cord", "task": "action", "data_type": "video"}
+{"file_id": "event_252", "file_path": "data/event/event_252.mp4", "annotation": "walks away helplessly", "task": "action", "data_type": "video"}
+{"file_id": "event_253", "file_path": "data/event/event_253.mp4", "annotation": "lies", "task": "action", "data_type": "video"}
+{"file_id": "event_254", "file_path": "data/event/event_254.mp4", "annotation": "watches leave", "task": "action", "data_type": "video"}
+{"file_id": "event_255", "file_path": "data/event/event_255.mp4", "annotation": "slides an envelope forward", "task": "action", "data_type": "video"}
+{"file_id": "event_256", "file_path": "data/event/event_256.mp4", "annotation": "bends over", "task": "action", "data_type": "video"}
+{"file_id": "event_257", "file_path": "data/event/event_257.mp4", "annotation": "smiles", "task": "action", "data_type": "video"}
+{"file_id": "event_258", "file_path": "data/event/event_258.mp4", "annotation": "approaches", "task": "action", "data_type": "video"}
+{"file_id": "event_259", "file_path": "data/event/event_259.mp4", "annotation": "threw Molotov cocktail into car", "task": "action", "data_type": "video"}
+{"file_id": "event_260", "file_path": "data/event/event_260.mp4", "annotation": "waves", "task": "action", "data_type": "video"}
+{"file_id": "event_261", "file_path": "data/event/event_261.mp4", "annotation": "rushes towards the roadside", "task": "action", "data_type": "video"}
+{"file_id": "event_262", "file_path": "data/event/event_262.mp4", "annotation": "places the phone on the table", "task": "action", "data_type": "video"}
+{"file_id": "event_263", "file_path": "data/event/event_263.mp4", "annotation": "fired a shot", "task": "action", "data_type": "video"}
+{"file_id": "event_264", "file_path": "data/event/event_264.mp4", "annotation": "falls to the ground", "task": "action", "data_type": "video"}
+{"file_id": "event_265", "file_path": "data/event/event_265.mp4", "annotation": "look ahead", "task": "action", "data_type": "video"}
+{"file_id": "event_266", "file_path": "data/event/event_266.mp4", "annotation": "fall to the ground while running", "task": "action", "data_type": "video"}
+{"file_id": "event_267", "file_path": "data/event/event_267.mp4", "annotation": "pulls off the tablecloth", "task": "action", "data_type": "video"}
+{"file_id": "event_268", "file_path": "data/event/event_268.mp4", "annotation": "takes out a bundle of rope", "task": "action", "data_type": "video"}
+{"file_id": "event_269", "file_path": "data/event/event_269.mp4", "annotation": "makes a phone call", "task": "action", "data_type": "video"}
+{"file_id": "event_270", "file_path": "data/event/event_270.mp4", "annotation": "picks up a box", "task": "action", "data_type": "video"}
+{"file_id": "event_271", "file_path": "data/event/event_271.mp4", "annotation": "dashed into the subway carriage", "task": "action", "data_type": "video"}
+{"file_id": "event_272", "file_path": "data/event/event_272.mp4", "annotation": "strikes", "task": "action", "data_type": "video"}
+{"file_id": "event_273", "file_path": "data/event/event_273.mp4", "annotation": "covers face with hands", "task": "action", "data_type": "video"}
+{"file_id": "event_274", "file_path": "data/event/event_274.mp4", "annotation": "looks", "task": "action", "data_type": "video"}
+{"file_id": "event_275", "file_path": "data/event/event_275.mp4", "annotation": "takes the cigarette", "task": "action", "data_type": "video"}
+{"file_id": "event_276", "file_path": "data/event/event_276.mp4", "annotation": "look ahead", "task": "action", "data_type": "video"}
+{"file_id": "event_277", "file_path": "data/event/event_277.mp4", "annotation": "watched playing the drums", "task": "action", "data_type": "video"}
+{"file_id": "event_278", "file_path": "data/event/event_278.mp4", "annotation": "wrestling", "task": "action", "data_type": "video"}
+{"file_id": "event_279", "file_path": "data/event/event_279.mp4", "annotation": "looked ahead", "task": "action", "data_type": "video"}
+{"file_id": "event_280", "file_path": "data/event/event_280.mp4", "annotation": "turns head upwards", "task": "action", "data_type": "video"}
+{"file_id": "event_281", "file_path": "data/event/event_281.mp4", "annotation": "shouts out", "task": "action", "data_type": "video"}
+{"file_id": "event_282", "file_path": "data/event/event_282.mp4", "annotation": "looks down", "task": "action", "data_type": "video"}
+{"file_id": "event_283", "file_path": "data/event/event_283.mp4", "annotation": "walks", "task": "action", "data_type": "video"}
+{"file_id": "event_284", "file_path": "data/event/event_284.mp4", "annotation": "folds arms", "task": "action", "data_type": "video"}
+{"file_id": "event_285", "file_path": "data/event/event_285.mp4", "annotation": "pulled open the drawer", "task": "action", "data_type": "video"}
+{"file_id": "event_286", "file_path": "data/event/event_286.mp4", "annotation": "makes another phone call", "task": "action", "data_type": "video"}
+{"file_id": "event_287", "file_path": "data/event/event_287.mp4", "annotation": "carries a briefcase on his back", "task": "action", "data_type": "video"}
+{"file_id": "event_288", "file_path": "data/event/event_288.mp4", "annotation": "talking", "task": "action", "data_type": "video"}
+{"file_id": "event_289", "file_path": "data/event/event_289.mp4", "annotation": "buttons up the clothes", "task": "action", "data_type": "video"}
+{"file_id": "event_290", "file_path": "data/event/event_290.mp4", "annotation": "stepped on the cigarette butt", "task": "action", "data_type": "video"}
+{"file_id": "event_291", "file_path": "data/event/event_291.mp4", "annotation": "spoke", "task": "action", "data_type": "video"}
+{"file_id": "event_292", "file_path": "data/event/event_292.mp4", "annotation": "gestured with hands", "task": "action", "data_type": "video"}
+{"file_id": "event_293", "file_path": "data/event/event_293.mp4", "annotation": "walks down the stairs", "task": "action", "data_type": "video"}
+{"file_id": "event_294", "file_path": "data/event/event_294.mp4", "annotation": "lying on his side in bed", "task": "action", "data_type": "video"}
+{"file_id": "event_295", "file_path": "data/event/event_295.mp4", "annotation": "move towards the house", "task": "action", "data_type": "video"}
+{"file_id": "event_296", "file_path": "data/event/event_296.mp4", "annotation": "take flight", "task": "action", "data_type": "video"}
+{"file_id": "event_297", "file_path": "data/event/event_297.mp4", "annotation": "lays head against the car window", "task": "action", "data_type": "video"}
+{"file_id": "event_298", "file_path": "data/event/event_298.mp4", "annotation": "sits down", "task": "action", "data_type": "video"}
+{"file_id": "event_299", "file_path": "data/event/event_299.mp4", "annotation": "straightens up", "task": "action", "data_type": "video"}
+{"file_id": "event_300", "file_path": "data/event/event_300.mp4", "annotation": "lifts head", "task": "action", "data_type": "video"}
+{"file_id": "event_301", "file_path": "data/event/event_301.mp4", "annotation": "opened the car door", "task": "action", "data_type": "video"}
+{"file_id": "event_302", "file_path": "data/event/event_302.mp4", "annotation": "stepped back", "task": "action", "data_type": "video"}
+{"file_id": "event_303", "file_path": "data/event/event_303.mp4", "annotation": "closes cabinet door", "task": "action", "data_type": "video"}
+{"file_id": "event_304", "file_path": "data/event/event_304.mp4", "annotation": "move", "task": "action", "data_type": "video"}
+{"file_id": "event_305", "file_path": "data/event/event_305.mp4", "annotation": "moved", "task": "action", "data_type": "video"}
+{"file_id": "event_306", "file_path": "data/event/event_306.mp4", "annotation": "supports", "task": "action", "data_type": "video"}
+{"file_id": "event_307", "file_path": "data/event/event_307.mp4", "annotation": "walks", "task": "action", "data_type": "video"}
+{"file_id": "event_308", "file_path": "data/event/event_308.mp4", "annotation": "turns around", "task": "action", "data_type": "video"}
+{"file_id": "event_309", "file_path": "data/event/event_309.mp4", "annotation": "fly", "task": "action", "data_type": "video"}
+{"file_id": "event_310", "file_path": "data/event/event_310.mp4", "annotation": "walks towards", "task": "action", "data_type": "video"}
+{"file_id": "event_311", "file_path": "data/event/event_311.mp4", "annotation": "looks back", "task": "action", "data_type": "video"}
+{"file_id": "event_312", "file_path": "data/event/event_312.mp4", "annotation": "stops", "task": "action", "data_type": "video"}
+{"file_id": "event_313", "file_path": "data/event/event_313.mp4", "annotation": "lifted", "task": "action", "data_type": "video"}
+{"file_id": "event_314", "file_path": "data/event/event_314.mp4", "annotation": "walks", "task": "action", "data_type": "video"}
+{"file_id": "event_315", "file_path": "data/event/event_315.mp4", "annotation": "makes eye contact", "task": "action", "data_type": "video"}
+{"file_id": "event_316", "file_path": "data/event/event_316.mp4", "annotation": "tilts head to look diagonally downward", "task": "action", "data_type": "video"}
+{"file_id": "event_317", "file_path": "data/event/event_317.mp4", "annotation": "walk", "task": "action", "data_type": "video"}
+{"file_id": "event_318", "file_path": "data/event/event_318.mp4", "annotation": "swayed", "task": "action", "data_type": "video"}
+{"file_id": "event_319", "file_path": "data/event/event_319.mp4", "annotation": "took a step forward", "task": "action", "data_type": "video"}
+{"file_id": "event_320", "file_path": "data/event/event_320.mp4", "annotation": "stands", "task": "action", "data_type": "video"}
+{"file_id": "event_321", "file_path": "data/event/event_321.mp4", "annotation": "comes down the staircase", "task": "action", "data_type": "video"}
+{"file_id": "event_322", "file_path": "data/event/event_322.mp4", "annotation": "speaking", "task": "action", "data_type": "video"}
+{"file_id": "event_323", "file_path": "data/event/event_323.mp4", "annotation": "pushes", "task": "action", "data_type": "video"}
+{"file_id": "event_324", "file_path": "data/event/event_324.mp4", "annotation": "combs", "task": "action", "data_type": "video"}
+{"file_id": "event_325", "file_path": "data/event/event_325.mp4", "annotation": "kiss", "task": "action", "data_type": "video"}
+{"file_id": "event_326", "file_path": "data/event/event_326.mp4", "annotation": "sits", "task": "action", "data_type": "video"}
+{"file_id": "event_327", "file_path": "data/event/event_327.mp4", "annotation": "crawls out", "task": "action", "data_type": "video"}
+{"file_id": "event_328", "file_path": "data/event/event_328.mp4", "annotation": "closes the car door", "task": "action", "data_type": "video"}
+{"file_id": "event_329", "file_path": "data/event/event_329.mp4", "annotation": "wraps arms around neck", "task": "action", "data_type": "video"}
+{"file_id": "event_330", "file_path": "data/event/event_330.mp4", "annotation": "yells", "task": "action", "data_type": "video"}
+{"file_id": "event_331", "file_path": "data/event/event_331.mp4", "annotation": "picks up", "task": "action", "data_type": "video"}
+{"file_id": "event_332", "file_path": "data/event/event_332.mp4", "annotation": "stand up to watch", "task": "action", "data_type": "video"}
+{"file_id": "event_333", "file_path": "data/event/event_333.mp4", "annotation": "pushes the door open", "task": "action", "data_type": "video"}
+{"file_id": "event_334", "file_path": "data/event/event_334.mp4", "annotation": "walked", "task": "action", "data_type": "video"}
+{"file_id": "event_335", "file_path": "data/event/event_335.mp4", "annotation": "glanced", "task": "action", "data_type": "video"}
+{"file_id": "event_336", "file_path": "data/event/event_336.mp4", "annotation": "cut a piece of the cake", "task": "action", "data_type": "video"}
+{"file_id": "event_337", "file_path": "data/event/event_337.mp4", "annotation": "looks ahead with lowered eyes", "task": "action", "data_type": "video"}
+{"file_id": "event_338", "file_path": "data/event/event_338.mp4", "annotation": "took paper bag", "task": "action", "data_type": "video"}
+{"file_id": "event_339", "file_path": "data/event/event_339.mp4", "annotation": "intercepts", "task": "action", "data_type": "video"}
+{"file_id": "event_340", "file_path": "data/event/event_340.mp4", "annotation": "looks downward", "task": "action", "data_type": "video"}
+{"file_id": "event_341", "file_path": "data/event/event_341.mp4", "annotation": "flies upwards", "task": "action", "data_type": "video"}
+{"file_id": "event_342", "file_path": "data/event/event_342.mp4", "annotation": "worked", "task": "action", "data_type": "video"}
+{"file_id": "event_343", "file_path": "data/event/event_343.mp4", "annotation": "turns around", "task": "action", "data_type": "video"}
+{"file_id": "event_344", "file_path": "data/event/event_344.mp4", "annotation": "stands up", "task": "action", "data_type": "video"}
+{"file_id": "event_345", "file_path": "data/event/event_345.mp4", "annotation": "emits flashes of light", "task": "action", "data_type": "video"}
+{"file_id": "event_346", "file_path": "data/event/event_346.mp4", "annotation": "tilts head", "task": "action", "data_type": "video"}
+{"file_id": "event_347", "file_path": "data/event/event_347.mp4", "annotation": "holds keys", "task": "action", "data_type": "video"}
+{"file_id": "event_348", "file_path": "data/event/event_348.mp4", "annotation": "looks into the camera lens", "task": "action", "data_type": "video"}
+{"file_id": "event_349", "file_path": "data/event/event_349.mp4", "annotation": "walks", "task": "action", "data_type": "video"}
+{"file_id": "event_350", "file_path": "data/event/event_350.mp4", "annotation": "spirals upward", "task": "action", "data_type": "video"}
+{"file_id": "event_351", "file_path": "data/event/event_351.mp4", "annotation": "observes", "task": "action", "data_type": "video"}
+{"file_id": "event_352", "file_path": "data/event/event_352.mp4", "annotation": "stand", "task": "action", "data_type": "video"}
+{"file_id": "event_353", "file_path": "data/event/event_353.mp4", "annotation": "receives an item", "task": "action", "data_type": "video"}
+{"file_id": "event_354", "file_path": "data/event/event_354.mp4", "annotation": "operates", "task": "action", "data_type": "video"}
+{"file_id": "event_355", "file_path": "data/event/event_355.mp4", "annotation": "moves forward", "task": "action", "data_type": "video"}
+{"file_id": "event_356", "file_path": "data/event/event_356.mp4", "annotation": "looks", "task": "action", "data_type": "video"}
+{"file_id": "event_357", "file_path": "data/event/event_357.mp4", "annotation": "follows", "task": "action", "data_type": "video"}
+{"file_id": "event_358", "file_path": "data/event/event_358.mp4", "annotation": "picks a fruit", "task": "action", "data_type": "video"}
+{"file_id": "event_359", "file_path": "data/event/event_359.mp4", "annotation": "squats down", "task": "action", "data_type": "video"}
+{"file_id": "event_360", "file_path": "data/event/event_360.mp4", "annotation": "covered body with a blanket", "task": "action", "data_type": "video"}
+{"file_id": "event_361", "file_path": "data/event/event_361.mp4", "annotation": "pours", "task": "action", "data_type": "video"}
+{"file_id": "event_362", "file_path": "data/event/event_362.mp4", "annotation": "looks up", "task": "action", "data_type": "video"}
+{"file_id": "event_363", "file_path": "data/event/event_363.mp4", "annotation": "bit down", "task": "action", "data_type": "video"}
+{"file_id": "event_364", "file_path": "data/event/event_364.mp4", "annotation": "picks up", "task": "action", "data_type": "video"}
+{"file_id": "event_365", "file_path": "data/event/event_365.mp4", "annotation": "points ahead", "task": "action", "data_type": "video"}
+{"file_id": "event_366", "file_path": "data/event/event_366.mp4", "annotation": "snatches snacks", "task": "action", "data_type": "video"}
+{"file_id": "event_367", "file_path": "data/event/event_367.mp4", "annotation": "glances", "task": "action", "data_type": "video"}
+{"file_id": "event_368", "file_path": "data/event/event_368.mp4", "annotation": "walks forward", "task": "action", "data_type": "video"}
+{"file_id": "event_369", "file_path": "data/event/event_369.mp4", "annotation": "wiping", "task": "action", "data_type": "video"}
+{"file_id": "event_370", "file_path": "data/event/event_370.mp4", "annotation": "sits", "task": "action", "data_type": "video"}
+{"file_id": "event_371", "file_path": "data/event/event_371.mp4", "annotation": "raises arms", "task": "action", "data_type": "video"}
+{"file_id": "event_372", "file_path": "data/event/event_372.mp4", "annotation": "hung up", "task": "action", "data_type": "video"}
+{"file_id": "event_373", "file_path": "data/event/event_373.mp4", "annotation": "struggles", "task": "action", "data_type": "video"}
+{"file_id": "event_374", "file_path": "data/event/event_374.mp4", "annotation": "lifts aims", "task": "action", "data_type": "video"}
+{"file_id": "event_375", "file_path": "data/event/event_375.mp4", "annotation": "turned on the light", "task": "action", "data_type": "video"}
+{"file_id": "event_376", "file_path": "data/event/event_376.mp4", "annotation": "sits down", "task": "action", "data_type": "video"}
+{"file_id": "event_377", "file_path": "data/event/event_377.mp4", "annotation": "opens the door", "task": "action", "data_type": "video"}
+{"file_id": "event_378", "file_path": "data/event/event_378.mp4", "annotation": "places one hand on her chest", "task": "action", "data_type": "video"}
+{"file_id": "event_379", "file_path": "data/event/event_379.mp4", "annotation": "walking forward", "task": "action", "data_type": "video"}
+{"file_id": "event_380", "file_path": "data/event/event_380.mp4", "annotation": "examines", "task": "action", "data_type": "video"}
+{"file_id": "event_381", "file_path": "data/event/event_381.mp4", "annotation": "turns head to the left", "task": "action", "data_type": "video"}
+{"file_id": "event_382", "file_path": "data/event/event_382.mp4", "annotation": "collects books", "task": "action", "data_type": "video"}
+{"file_id": "event_383", "file_path": "data/event/event_383.mp4", "annotation": "turns head forward", "task": "action", "data_type": "video"}
+{"file_id": "event_384", "file_path": "data/event/event_384.mp4", "annotation": "rummaged through the box's contents", "task": "action", "data_type": "video"}
+{"file_id": "event_385", "file_path": "data/event/event_385.mp4", "annotation": "stirs", "task": "action", "data_type": "video"}
+{"file_id": "event_386", "file_path": "data/event/event_386.mp4", "annotation": "crashes", "task": "action", "data_type": "video"}
+{"file_id": "event_387", "file_path": "data/event/event_387.mp4", "annotation": "turns on the tap", "task": "action", "data_type": "video"}
+{"file_id": "event_388", "file_path": "data/event/event_388.mp4", "annotation": "held a showerhead", "task": "action", "data_type": "video"}
+{"file_id": "event_389", "file_path": "data/event/event_389.mp4", "annotation": "opens the lid", "task": "action", "data_type": "video"}
+{"file_id": "event_390", "file_path": "data/event/event_390.mp4", "annotation": "took the wine bottle", "task": "action", "data_type": "video"}
+{"file_id": "event_391", "file_path": "data/event/event_391.mp4", "annotation": "stood up", "task": "action", "data_type": "video"}
+{"file_id": "event_392", "file_path": "data/event/event_392.mp4", "annotation": "knelt", "task": "action", "data_type": "video"}
+{"file_id": "event_393", "file_path": "data/event/event_393.mp4", "annotation": "search through belongings", "task": "action", "data_type": "video"}
+{"file_id": "event_394", "file_path": "data/event/event_394.mp4", "annotation": "walked by", "task": "action", "data_type": "video"}
+{"file_id": "event_395", "file_path": "data/event/event_395.mp4", "annotation": "appears", "task": "action", "data_type": "video"}
+{"file_id": "event_396", "file_path": "data/event/event_396.mp4", "annotation": "converse", "task": "action", "data_type": "video"}
+{"file_id": "event_397", "file_path": "data/event/event_397.mp4", "annotation": "rides a bicycle", "task": "action", "data_type": "video"}
+{"file_id": "event_398", "file_path": "data/event/event_398.mp4", "annotation": "stands by watching", "task": "action", "data_type": "video"}
+{"file_id": "event_399", "file_path": "data/event/event_399.mp4", "annotation": "splashes", "task": "action", "data_type": "video"}
+{"file_id": "event_400", "file_path": "data/event/event_400.mp4", "annotation": "looked into the distance", "task": "action", "data_type": "video"}
+{"file_id": "event_401", "file_path": "data/event/event_401.mp4", "annotation": "chose", "task": "action", "data_type": "video"}
+{"file_id": "event_402", "file_path": "data/event/event_402.mp4", "annotation": "apply foundation", "task": "action", "data_type": "video"}
+{"file_id": "event_403", "file_path": "data/event/event_403.mp4", "annotation": "puts on sunglasses", "task": "action", "data_type": "video"}
+{"file_id": "event_404", "file_path": "data/event/event_404.mp4", "annotation": "broke into a street dance", "task": "action", "data_type": "video"}
+{"file_id": "event_405", "file_path": "data/event/event_405.mp4", "annotation": "pushes", "task": "action", "data_type": "video"}
+{"file_id": "event_406", "file_path": "data/event/event_406.mp4", "annotation": "poses", "task": "action", "data_type": "video"}
+{"file_id": "event_407", "file_path": "data/event/event_407.mp4", "annotation": "attempts to dodge", "task": "action", "data_type": "video"}
+{"file_id": "event_408", "file_path": "data/event/event_408.mp4", "annotation": "took a couple of steps forward", "task": "action", "data_type": "video"}
+{"file_id": "event_409", "file_path": "data/event/event_409.mp4", "annotation": "struts", "task": "action", "data_type": "video"}
+{"file_id": "event_410", "file_path": "data/event/event_410.mp4", "annotation": "tosses flowers into the air", "task": "action", "data_type": "video"}
+{"file_id": "event_411", "file_path": "data/event/event_411.mp4", "annotation": "sits", "task": "action", "data_type": "video"}
+{"file_id": "event_412", "file_path": "data/event/event_412.mp4", "annotation": "closes the freezer door", "task": "action", "data_type": "video"}
+{"file_id": "event_413", "file_path": "data/event/event_413.mp4", "annotation": "shakes sea salt into the bowl", "task": "action", "data_type": "video"}
+{"file_id": "event_414", "file_path": "data/event/event_414.mp4", "annotation": "walks by", "task": "action", "data_type": "video"}
+{"file_id": "event_415", "file_path": "data/event/event_415.mp4", "annotation": "scoops up marine life with a net", "task": "action", "data_type": "video"}
+{"file_id": "event_416", "file_path": "data/event/event_416.mp4", "annotation": "backs away", "task": "action", "data_type": "video"}
+{"file_id": "event_417", "file_path": "data/event/event_417.mp4", "annotation": "look at", "task": "action", "data_type": "video"}
+{"file_id": "event_418", "file_path": "data/event/event_418.mp4", "annotation": "hops over the bar", "task": "action", "data_type": "video"}
+{"file_id": "event_419", "file_path": "data/event/event_419.mp4", "annotation": "startled", "task": "action", "data_type": "video"}
+{"file_id": "event_420", "file_path": "data/event/event_420.mp4", "annotation": "eat", "task": "action", "data_type": "video"}
+{"file_id": "event_421", "file_path": "data/event/event_421.mp4", "annotation": "presses bullets into a magazine", "task": "action", "data_type": "video"}
+{"file_id": "event_422", "file_path": "data/event/event_422.mp4", "annotation": "descend the stairs", "task": "action", "data_type": "video"}
+{"file_id": "event_423", "file_path": "data/event/event_423.mp4", "annotation": "pours tea leaves into a large iron pot", "task": "action", "data_type": "video"}
+{"file_id": "event_424", "file_path": "data/event/event_424.mp4", "annotation": "fails to recover posture", "task": "action", "data_type": "video"}
+{"file_id": "event_425", "file_path": "data/event/event_425.mp4", "annotation": "pushes", "task": "action", "data_type": "video"}
+{"file_id": "event_426", "file_path": "data/event/event_426.mp4", "annotation": "plays basketball game", "task": "action", "data_type": "video"}
+{"file_id": "event_427", "file_path": "data/event/event_427.mp4", "annotation": "descends", "task": "action", "data_type": "video"}
+{"file_id": "event_428", "file_path": "data/event/event_428.mp4", "annotation": "reaches through a subway window", "task": "action", "data_type": "video"}
+{"file_id": "event_429", "file_path": "data/event/event_429.mp4", "annotation": "turned around", "task": "action", "data_type": "video"}
+{"file_id": "event_430", "file_path": "data/event/event_430.mp4", "annotation": "pours", "task": "action", "data_type": "video"}
+{"file_id": "event_431", "file_path": "data/event/event_431.mp4", "annotation": "falls off", "task": "action", "data_type": "video"}
+{"file_id": "event_432", "file_path": "data/event/event_432.mp4", "annotation": "picks up a flashlight", "task": "action", "data_type": "video"}
+{"file_id": "event_433", "file_path": "data/event/event_433.mp4", "annotation": "washes shells", "task": "action", "data_type": "video"}
+{"file_id": "event_434", "file_path": "data/event/event_434.mp4", "annotation": "picks up", "task": "action", "data_type": "video"}
+{"file_id": "event_435", "file_path": "data/event/event_435.mp4", "annotation": "bends down to pick up another piece", "task": "action", "data_type": "video"}
+{"file_id": "event_436", "file_path": "data/event/event_436.mp4", "annotation": "move back and forth", "task": "action", "data_type": "video"}
+{"file_id": "event_437", "file_path": "data/event/event_437.mp4", "annotation": "switches the spoon from one foot to the other", "task": "action", "data_type": "video"}
+{"file_id": "event_438", "file_path": "data/event/event_438.mp4", "annotation": "appear disappear", "task": "action", "data_type": "video"}
+{"file_id": "event_439", "file_path": "data/event/event_439.mp4", "annotation": "sweeps the floor", "task": "action", "data_type": "video"}
+{"file_id": "event_440", "file_path": "data/event/event_440.mp4", "annotation": "jumps into a pit", "task": "action", "data_type": "video"}
+{"file_id": "event_441", "file_path": "data/event/event_441.mp4", "annotation": "chops off", "task": "action", "data_type": "video"}
+{"file_id": "event_442", "file_path": "data/event/event_442.mp4", "annotation": "bends over", "task": "action", "data_type": "video"}
+{"file_id": "event_443", "file_path": "data/event/event_443.mp4", "annotation": "cut away the top layer of stone", "task": "action", "data_type": "video"}
+{"file_id": "event_444", "file_path": "data/event/event_444.mp4", "annotation": "looks straight ahead", "task": "action", "data_type": "video"}
+{"file_id": "event_445", "file_path": "data/event/event_445.mp4", "annotation": "scatters powder", "task": "action", "data_type": "video"}
+{"file_id": "event_446", "file_path": "data/event/event_446.mp4", "annotation": "fled", "task": "action", "data_type": "video"}
+{"file_id": "event_447", "file_path": "data/event/event_447.mp4", "annotation": "fell through", "task": "action", "data_type": "video"}
+{"file_id": "event_448", "file_path": "data/event/event_448.mp4", "annotation": "pulled out more elm seeds from his pants", "task": "action", "data_type": "video"}
+{"file_id": "event_449", "file_path": "data/event/event_449.mp4", "annotation": "picked up a flatbread", "task": "action", "data_type": "video"}
+{"file_id": "event_450", "file_path": "data/event/event_450.mp4", "annotation": "slipped", "task": "action", "data_type": "video"}
+{"file_id": "event_451", "file_path": "data/event/event_451.mp4", "annotation": "slipped", "task": "action", "data_type": "video"}
+{"file_id": "event_452", "file_path": "data/event/event_452.mp4", "annotation": "tips out", "task": "action", "data_type": "video"}
+{"file_id": "event_453", "file_path": "data/event/event_453.mp4", "annotation": "walk out", "task": "action", "data_type": "video"}
+{"file_id": "event_454", "file_path": "data/event/event_454.mp4", "annotation": "tear the mesh", "task": "action", "data_type": "video"}
+{"file_id": "event_455", "file_path": "data/event/event_455.mp4", "annotation": "drives lobsters into net bag", "task": "action", "data_type": "video"}
+{"file_id": "event_456", "file_path": "data/event/event_456.mp4", "annotation": "places the durian on the ground", "task": "action", "data_type": "video"}
+{"file_id": "event_457", "file_path": "data/event/event_457.mp4", "annotation": "follows", "task": "action", "data_type": "video"}
+{"file_id": "event_458", "file_path": "data/event/event_458.mp4", "annotation": "pours", "task": "action", "data_type": "video"}
+{"file_id": "event_459", "file_path": "data/event/event_459.mp4", "annotation": "rubbed the back of his head", "task": "action", "data_type": "video"}
+{"file_id": "event_460", "file_path": "data/event/event_460.mp4", "annotation": "pinches and pulls at food", "task": "action", "data_type": "video"}
+{"file_id": "event_461", "file_path": "data/event/event_461.mp4", "annotation": "retracts the hand", "task": "action", "data_type": "video"}
+{"file_id": "event_462", "file_path": "data/event/event_462.mp4", "annotation": "carries", "task": "action", "data_type": "video"}
+{"file_id": "event_463", "file_path": "data/event/event_463.mp4", "annotation": "readied a shovel", "task": "action", "data_type": "video"}
+{"file_id": "event_464", "file_path": "data/event/event_464.mp4", "annotation": "turns to face", "task": "action", "data_type": "video"}
+{"file_id": "event_465", "file_path": "data/event/event_465.mp4", "annotation": "holds a jump rope", "task": "action", "data_type": "video"}
+{"file_id": "event_466", "file_path": "data/event/event_466.mp4", "annotation": "clutched a rope and ran forward", "task": "action", "data_type": "video"}
+{"file_id": "event_467", "file_path": "data/event/event_467.mp4", "annotation": "pushes off the ground", "task": "action", "data_type": "video"}
+{"file_id": "event_468", "file_path": "data/event/event_468.mp4", "annotation": "threads her needle", "task": "action", "data_type": "video"}
+{"file_id": "event_469", "file_path": "data/event/event_469.mp4", "annotation": "walked", "task": "action", "data_type": "video"}
+{"file_id": "event_470", "file_path": "data/event/event_470.mp4", "annotation": "hooks", "task": "action", "data_type": "video"}
+{"file_id": "event_471", "file_path": "data/event/event_471.mp4", "annotation": "holds tray with balloon", "task": "action", "data_type": "video"}
+{"file_id": "event_472", "file_path": "data/event/event_472.mp4", "annotation": "bends", "task": "action", "data_type": "video"}
+{"file_id": "event_473", "file_path": "data/event/event_473.mp4", "annotation": "struck poses", "task": "action", "data_type": "video"}
+{"file_id": "event_474", "file_path": "data/event/event_474.mp4", "annotation": "flew off the ramp", "task": "action", "data_type": "video"}
+{"file_id": "event_475", "file_path": "data/event/event_475.mp4", "annotation": "grasps", "task": "action", "data_type": "video"}
+{"file_id": "event_476", "file_path": "data/event/event_476.mp4", "annotation": "does a back kick", "task": "action", "data_type": "video"}
+{"file_id": "event_477", "file_path": "data/event/event_477.mp4", "annotation": "swim backwards", "task": "action", "data_type": "video"}
+{"file_id": "event_478", "file_path": "data/event/event_478.mp4", "annotation": "sprints over obstacles", "task": "action", "data_type": "video"}
+{"file_id": "event_479", "file_path": "data/event/event_479.mp4", "annotation": "continue with the race", "task": "action", "data_type": "video"}
+{"file_id": "event_480", "file_path": "data/event/event_480.mp4", "annotation": "leaped to slap", "task": "action", "data_type": "video"}
+{"file_id": "event_481", "file_path": "data/event/event_481.mp4", "annotation": "clean", "task": "action", "data_type": "video"}
+{"file_id": "event_482", "file_path": "data/event/event_482.mp4", "annotation": "cuts transverse groove in snow", "task": "action", "data_type": "video"}
+{"file_id": "event_483", "file_path": "data/event/event_483.mp4", "annotation": "linger", "task": "action", "data_type": "video"}
+{"file_id": "event_484", "file_path": "data/event/event_484.mp4", "annotation": "roll past", "task": "action", "data_type": "video"}
+{"file_id": "event_485", "file_path": "data/event/event_485.mp4", "annotation": "flips down", "task": "action", "data_type": "video"}
+{"file_id": "event_486", "file_path": "data/event/event_486.mp4", "annotation": "steps onto a dirt mound", "task": "action", "data_type": "video"}
+{"file_id": "event_487", "file_path": "data/event/event_487.mp4", "annotation": "bounces", "task": "action", "data_type": "video"}
+{"file_id": "event_488", "file_path": "data/event/event_488.mp4", "annotation": "soars down", "task": "action", "data_type": "video"}
+{"file_id": "event_489", "file_path": "data/event/event_489.mp4", "annotation": "thrashes", "task": "action", "data_type": "video"}
+{"file_id": "event_490", "file_path": "data/event/event_490.mp4", "annotation": "pours dumplings into the second bowl", "task": "action", "data_type": "video"}
+{"file_id": "event_491", "file_path": "data/event/event_491.mp4", "annotation": "performs gymnastic moves", "task": "action", "data_type": "video"}
+{"file_id": "event_492", "file_path": "data/event/event_492.mp4", "annotation": "eats", "task": "action", "data_type": "video"}
+{"file_id": "event_493", "file_path": "data/event/event_493.mp4", "annotation": "presses the button again", "task": "action", "data_type": "video"}
+{"file_id": "event_494", "file_path": "data/event/event_494.mp4", "annotation": "flies", "task": "action", "data_type": "video"}
+{"file_id": "event_495", "file_path": "data/event/event_495.mp4", "annotation": "fighting", "task": "action", "data_type": "video"}
+{"file_id": "event_496", "file_path": "data/event/event_496.mp4", "annotation": "throws the fish back into the stream", "task": "action", "data_type": "video"}
+{"file_id": "event_497", "file_path": "data/event/event_497.mp4", "annotation": "holds wine bottle and glass while surfing", "task": "action", "data_type": "video"}
+{"file_id": "event_498", "file_path": "data/event/event_498.mp4", "annotation": "tapped", "task": "action", "data_type": "video"}
+{"file_id": "event_499", "file_path": "data/event/event_499.mp4", "annotation": "accelerates into a run", "task": "action", "data_type": "video"}
+{"file_id": "event_500", "file_path": "data/event/event_500.mp4", "annotation": "swim forward", "task": "action", "data_type": "video"}
+{"file_id": "event_501", "file_path": "data/event/event_501.mp4", "annotation": "spread arms wide", "task": "action", "data_type": "video"}
+{"file_id": "event_502", "file_path": "data/event/event_502.mp4", "annotation": "stirs seasoning in bowl into paste", "task": "action", "data_type": "video"}
+{"file_id": "event_503", "file_path": "data/event/event_503.mp4", "annotation": "flutter", "task": "action", "data_type": "video"}
+{"file_id": "event_504", "file_path": "data/event/event_504.mp4", "annotation": "cut out a flower shape", "task": "action", "data_type": "video"}
+{"file_id": "event_505", "file_path": "data/event/event_505.mp4", "annotation": "reached a door", "task": "action", "data_type": "video"}
+{"file_id": "event_506", "file_path": "data/event/event_506.mp4", "annotation": "ran past", "task": "action", "data_type": "video"}
+{"file_id": "event_507", "file_path": "data/event/event_507.mp4", "annotation": "bounds forward", "task": "action", "data_type": "video"}
+{"file_id": "event_508", "file_path": "data/event/event_508.mp4", "annotation": "plunged back into the water", "task": "action", "data_type": "video"}
+{"file_id": "event_509", "file_path": "data/event/event_509.mp4", "annotation": "runs", "task": "action", "data_type": "video"}
+{"file_id": "event_510", "file_path": "data/event/event_510.mp4", "annotation": "sit", "task": "action", "data_type": "video"}
+{"file_id": "event_511", "file_path": "data/event/event_511.mp4", "annotation": "catches", "task": "action", "data_type": "video"}
+{"file_id": "event_512", "file_path": "data/event/event_512.mp4", "annotation": "lifts skirt", "task": "action", "data_type": "video"}
+{"file_id": "event_513", "file_path": "data/event/event_513.mp4", "annotation": "toppled backwards onto the ground", "task": "action", "data_type": "video"}
+{"file_id": "event_514", "file_path": "data/event/event_514.mp4", "annotation": "pivots around", "task": "action", "data_type": "video"}
+{"file_id": "event_515", "file_path": "data/event/event_515.mp4", "annotation": "dances through the water", "task": "action", "data_type": "video"}
+{"file_id": "event_516", "file_path": "data/event/event_516.mp4", "annotation": "makes turns", "task": "action", "data_type": "video"}
+{"file_id": "event_517", "file_path": "data/event/event_517.mp4", "annotation": "slides forward", "task": "action", "data_type": "video"}
+{"file_id": "event_518", "file_path": "data/event/event_518.mp4", "annotation": "jumps onto the pole", "task": "action", "data_type": "video"}
+{"file_id": "event_519", "file_path": "data/event/event_519.mp4", "annotation": "lifted left foot", "task": "action", "data_type": "video"}
+{"file_id": "event_520", "file_path": "data/event/event_520.mp4", "annotation": "glides down a track", "task": "action", "data_type": "video"}
+{"file_id": "event_521", "file_path": "data/event/event_521.mp4", "annotation": "jump out", "task": "action", "data_type": "video"}
+{"file_id": "event_522", "file_path": "data/event/event_522.mp4", "annotation": "practice rope gymnastics", "task": "action", "data_type": "video"}
+{"file_id": "event_523", "file_path": "data/event/event_523.mp4", "annotation": "cuts the meat into small pieces", "task": "action", "data_type": "video"}
+{"file_id": "event_524", "file_path": "data/event/event_524.mp4", "annotation": "climb", "task": "action", "data_type": "video"}
+{"file_id": "event_525", "file_path": "data/event/event_525.mp4", "annotation": "rises", "task": "action", "data_type": "video"}
+{"file_id": "event_526", "file_path": "data/event/event_526.mp4", "annotation": "approach a curve", "task": "action", "data_type": "video"}
+{"file_id": "event_527", "file_path": "data/event/event_527.mp4", "annotation": "stands up", "task": "action", "data_type": "video"}
+{"file_id": "event_528", "file_path": "data/event/event_528.mp4", "annotation": "lies down", "task": "action", "data_type": "video"}
+{"file_id": "event_529", "file_path": "data/event/event_529.mp4", "annotation": "leaned over", "task": "action", "data_type": "video"}
+{"file_id": "event_530", "file_path": "data/event/event_530.mp4", "annotation": "walked", "task": "action", "data_type": "video"}
+{"file_id": "event_531", "file_path": "data/event/event_531.mp4", "annotation": "fell down", "task": "action", "data_type": "video"}
+{"file_id": "event_532", "file_path": "data/event/event_532.mp4", "annotation": "stood up straight", "task": "action", "data_type": "video"}
+{"file_id": "event_533", "file_path": "data/event/event_533.mp4", "annotation": "fell to the ground", "task": "action", "data_type": "video"}
+{"file_id": "event_534", "file_path": "data/event/event_534.mp4", "annotation": "slides left", "task": "action", "data_type": "video"}
+{"file_id": "event_535", "file_path": "data/event/event_535.mp4", "annotation": "flies", "task": "action", "data_type": "video"}
+{"file_id": "event_536", "file_path": "data/event/event_536.mp4", "annotation": "hits", "task": "action", "data_type": "video"}
+{"file_id": "event_537", "file_path": "data/event/event_537.mp4", "annotation": "moves a table", "task": "action", "data_type": "video"}
+{"file_id": "event_538", "file_path": "data/event/event_538.mp4", "annotation": "holds", "task": "action", "data_type": "video"}
+{"file_id": "event_539", "file_path": "data/event/event_539.mp4", "annotation": "takes a second bite of the hamburger", "task": "action", "data_type": "video"}
+{"file_id": "event_540", "file_path": "data/event/event_540.mp4", "annotation": "picks up a jacket", "task": "action", "data_type": "video"}
+{"file_id": "event_541", "file_path": "data/event/event_541.mp4", "annotation": "stretches out left hand", "task": "action", "data_type": "video"}
+{"file_id": "event_542", "file_path": "data/event/event_542.mp4", "annotation": "runs forward", "task": "action", "data_type": "video"}
+{"file_id": "event_543", "file_path": "data/event/event_543.mp4", "annotation": "runs up", "task": "action", "data_type": "video"}
+{"file_id": "event_544", "file_path": "data/event/event_544.mp4", "annotation": "repairs the bicycle", "task": "action", "data_type": "video"}
+{"file_id": "event_545", "file_path": "data/event/event_545.mp4", "annotation": "exerted external force", "task": "action", "data_type": "video"}
+{"file_id": "event_546", "file_path": "data/event/event_546.mp4", "annotation": "raise hands", "task": "action", "data_type": "video"}
+{"file_id": "event_547", "file_path": "data/event/event_547.mp4", "annotation": "removed another kitten from legs", "task": "action", "data_type": "video"}
+{"file_id": "event_548", "file_path": "data/event/event_548.mp4", "annotation": "bends over", "task": "action", "data_type": "video"}
+{"file_id": "event_549", "file_path": "data/event/event_549.mp4", "annotation": "extend right hand", "task": "action", "data_type": "video"}
+{"file_id": "event_550", "file_path": "data/event/event_550.mp4", "annotation": "bounced high into the air", "task": "action", "data_type": "video"}
+{"file_id": "event_551", "file_path": "data/event/event_551.mp4", "annotation": "glides", "task": "action", "data_type": "video"}
+{"file_id": "event_552", "file_path": "data/event/event_552.mp4", "annotation": "splashes", "task": "action", "data_type": "video"}
+{"file_id": "event_553", "file_path": "data/event/event_553.mp4", "annotation": "takes a slice of watermelon", "task": "action", "data_type": "video"}
+{"file_id": "event_554", "file_path": "data/event/event_554.mp4", "annotation": "picks up a piece of meat", "task": "action", "data_type": "video"}
+{"file_id": "event_555", "file_path": "data/event/event_555.mp4", "annotation": "scoop up", "task": "action", "data_type": "video"}
+{"file_id": "event_556", "file_path": "data/event/event_556.mp4", "annotation": "descend", "task": "action", "data_type": "video"}
+{"file_id": "event_557", "file_path": "data/event/event_557.mp4", "annotation": "looks down", "task": "action", "data_type": "video"}
+{"file_id": "event_558", "file_path": "data/event/event_558.mp4", "annotation": "jumps", "task": "action", "data_type": "video"}
+{"file_id": "event_559", "file_path": "data/event/event_559.mp4", "annotation": "passes the ball back", "task": "action", "data_type": "video"}
+{"file_id": "event_560", "file_path": "data/event/event_560.mp4", "annotation": "jumps onto the basin", "task": "action", "data_type": "video"}
+{"file_id": "event_561", "file_path": "data/event/event_561.mp4", "annotation": "jumps down", "task": "action", "data_type": "video"}
+{"file_id": "event_562", "file_path": "data/event/event_562.mp4", "annotation": "collide", "task": "action", "data_type": "video"}
+{"file_id": "event_563", "file_path": "data/event/event_563.mp4", "annotation": "picks up", "task": "action", "data_type": "video"}
+{"file_id": "event_564", "file_path": "data/event/event_564.mp4", "annotation": "reaches out", "task": "action", "data_type": "video"}
+{"file_id": "event_565", "file_path": "data/event/event_565.mp4", "annotation": "slides forward", "task": "action", "data_type": "video"}
+{"file_id": "event_566", "file_path": "data/event/event_566.mp4", "annotation": "sits", "task": "action", "data_type": "video"}
+{"file_id": "event_567", "file_path": "data/event/event_567.mp4", "annotation": "step back", "task": "action", "data_type": "video"}
+{"file_id": "event_568", "file_path": "data/event/event_568.mp4", "annotation": "followed", "task": "action", "data_type": "video"}
+{"file_id": "event_569", "file_path": "data/event/event_569.mp4", "annotation": "straightened the guns", "task": "action", "data_type": "video"}
+{"file_id": "event_570", "file_path": "data/event/event_570.mp4", "annotation": "climbs up the wall", "task": "action", "data_type": "video"}
+{"file_id": "event_571", "file_path": "data/event/event_571.mp4", "annotation": "walks forward", "task": "action", "data_type": "video"}
+{"file_id": "event_572", "file_path": "data/event/event_572.mp4", "annotation": "leans body backward", "task": "action", "data_type": "video"}
+{"file_id": "event_573", "file_path": "data/event/event_573.mp4", "annotation": "stirs up dust", "task": "action", "data_type": "video"}
+{"file_id": "event_574", "file_path": "data/event/event_574.mp4", "annotation": "walk around", "task": "action", "data_type": "video"}
+{"file_id": "event_575", "file_path": "data/event/event_575.mp4", "annotation": "walks forward", "task": "action", "data_type": "video"}
+{"file_id": "event_576", "file_path": "data/event/event_576.mp4", "annotation": "crushed", "task": "action", "data_type": "video"}
+{"file_id": "event_577", "file_path": "data/event/event_577.mp4", "annotation": "running", "task": "action", "data_type": "video"}
+{"file_id": "event_578", "file_path": "data/event/event_578.mp4", "annotation": "opens the car door", "task": "action", "data_type": "video"}
+{"file_id": "event_579", "file_path": "data/event/event_579.mp4", "annotation": "leans back", "task": "action", "data_type": "video"}
+{"file_id": "event_580", "file_path": "data/event/event_580.mp4", "annotation": "extinguished", "task": "action", "data_type": "video"}
+{"file_id": "event_581", "file_path": "data/event/event_581.mp4", "annotation": "continues moving forward", "task": "action", "data_type": "video"}
+{"file_id": "event_582", "file_path": "data/event/event_582.mp4", "annotation": "walk over", "task": "action", "data_type": "video"}
+{"file_id": "event_583", "file_path": "data/event/event_583.mp4", "annotation": "jump over a bamboo pole", "task": "action", "data_type": "video"}
+{"file_id": "event_584", "file_path": "data/event/event_584.mp4", "annotation": "leaps into the air", "task": "action", "data_type": "video"}
+{"file_id": "event_585", "file_path": "data/event/event_585.mp4", "annotation": "dumped", "task": "action", "data_type": "video"}
+{"file_id": "event_586", "file_path": "data/event/event_586.mp4", "annotation": "falls off", "task": "action", "data_type": "video"}
+{"file_id": "event_587", "file_path": "data/event/event_587.mp4", "annotation": "circle around", "task": "action", "data_type": "video"}
+{"file_id": "event_588", "file_path": "data/event/event_588.mp4", "annotation": "stands up", "task": "action", "data_type": "video"}
+{"file_id": "event_589", "file_path": "data/event/event_589.mp4", "annotation": "looks upwards", "task": "action", "data_type": "video"}
+{"file_id": "event_590", "file_path": "data/event/event_590.mp4", "annotation": "holds a strawberry", "task": "action", "data_type": "video"}
+{"file_id": "event_591", "file_path": "data/event/event_591.mp4", "annotation": "steps out", "task": "action", "data_type": "video"}
+{"file_id": "event_592", "file_path": "data/event/event_592.mp4", "annotation": "eats the food", "task": "action", "data_type": "video"}
+{"file_id": "event_593", "file_path": "data/event/event_593.mp4", "annotation": "raises both hands", "task": "action", "data_type": "video"}
+{"file_id": "event_594", "file_path": "data/event/event_594.mp4", "annotation": "returns", "task": "action", "data_type": "video"}
+{"file_id": "event_595", "file_path": "data/event/event_595.mp4", "annotation": "takes a step forward", "task": "action", "data_type": "video"}
+{"file_id": "event_596", "file_path": "data/event/event_596.mp4", "annotation": "turns around", "task": "action", "data_type": "video"}
+{"file_id": "event_597", "file_path": "data/event/event_597.mp4", "annotation": "eats", "task": "action", "data_type": "video"}
+{"file_id": "event_598", "file_path": "data/event/event_598.mp4", "annotation": "shouts loudly", "task": "action", "data_type": "video"}
+{"file_id": "event_599", "file_path": "data/event/event_599.mp4", "annotation": "shakes its head", "task": "action", "data_type": "video"}
+{"file_id": "event_600", "file_path": "data/event/event_600.mp4", "annotation": "leads grabs", "task": "action", "data_type": "video"}
+{"file_id": "event_601", "file_path": "data/event/event_601.mp4", "annotation": "rotates the laptop", "task": "action", "data_type": "video"}
+{"file_id": "event_602", "file_path": "data/event/event_602.mp4", "annotation": "holds pen", "task": "action", "data_type": "video"}
+{"file_id": "event_603", "file_path": "data/event/event_603.mp4", "annotation": "drinks", "task": "action", "data_type": "video"}
+{"file_id": "event_604", "file_path": "data/event/event_604.mp4", "annotation": "places", "task": "action", "data_type": "video"}
+{"file_id": "event_605", "file_path": "data/event/event_605.mp4", "annotation": "catch bubbles", "task": "action", "data_type": "video"}
+{"file_id": "event_606", "file_path": "data/event/event_606.mp4", "annotation": "bob down", "task": "action", "data_type": "video"}
+{"file_id": "event_607", "file_path": "data/event/event_607.mp4", "annotation": "fly", "task": "action", "data_type": "video"}
+{"file_id": "event_608", "file_path": "data/event/event_608.mp4", "annotation": "opened up", "task": "action", "data_type": "video"}
+{"file_id": "event_609", "file_path": "data/event/event_609.mp4", "annotation": "takes out a mobile phone", "task": "action", "data_type": "video"}
+{"file_id": "event_610", "file_path": "data/event/event_610.mp4", "annotation": "uses shovel to level the soil", "task": "action", "data_type": "video"}
+{"file_id": "event_611", "file_path": "data/event/event_611.mp4", "annotation": "leaves", "task": "action", "data_type": "video"}
+{"file_id": "event_612", "file_path": "data/event/event_612.mp4", "annotation": "stand", "task": "action", "data_type": "video"}
+{"file_id": "event_613", "file_path": "data/event/event_613.mp4", "annotation": "kicks soccer ball", "task": "action", "data_type": "video"}
+{"file_id": "event_614", "file_path": "data/event/event_614.mp4", "annotation": "sprays cleaner", "task": "action", "data_type": "video"}
+{"file_id": "event_615", "file_path": "data/event/event_615.mp4", "annotation": "half-kneels", "task": "action", "data_type": "video"}
+{"file_id": "event_616", "file_path": "data/event/event_616.mp4", "annotation": "turns", "task": "action", "data_type": "video"}
+{"file_id": "event_617", "file_path": "data/event/event_617.mp4", "annotation": "looks ahead", "task": "action", "data_type": "video"}
+{"file_id": "event_618", "file_path": "data/event/event_618.mp4", "annotation": "tears tickets", "task": "action", "data_type": "video"}
+{"file_id": "event_619", "file_path": "data/event/event_619.mp4", "annotation": "escapes", "task": "action", "data_type": "video"}
+{"file_id": "event_620", "file_path": "data/event/event_620.mp4", "annotation": "arranges avocado on chocolate toast", "task": "action", "data_type": "video"}
+{"file_id": "event_621", "file_path": "data/event/event_621.mp4", "annotation": "flutters wings", "task": "action", "data_type": "video"}
+{"file_id": "event_622", "file_path": "data/event/event_622.mp4", "annotation": "move", "task": "action", "data_type": "video"}
+{"file_id": "event_623", "file_path": "data/event/event_623.mp4", "annotation": "runs over", "task": "action", "data_type": "video"}
+{"file_id": "event_624", "file_path": "data/event/event_624.mp4", "annotation": "sits cross-legged", "task": "action", "data_type": "video"}
+{"file_id": "event_625", "file_path": "data/event/event_625.mp4", "annotation": "approached", "task": "action", "data_type": "video"}
+{"file_id": "event_626", "file_path": "data/event/event_626.mp4", "annotation": "ascends", "task": "action", "data_type": "video"}
+{"file_id": "event_627", "file_path": "data/event/event_627.mp4", "annotation": "begins", "task": "action", "data_type": "video"}
+{"file_id": "event_628", "file_path": "data/event/event_628.mp4", "annotation": "come on", "task": "action", "data_type": "video"}
+{"file_id": "event_629", "file_path": "data/event/event_629.mp4", "annotation": "runs a comb through the beard", "task": "action", "data_type": "video"}
+{"file_id": "event_630", "file_path": "data/event/event_630.mp4", "annotation": "jumped onto a platform", "task": "action", "data_type": "video"}
+{"file_id": "event_631", "file_path": "data/event/event_631.mp4", "annotation": "turns yellow", "task": "action", "data_type": "video"}
+{"file_id": "event_632", "file_path": "data/event/event_632.mp4", "annotation": "pokes", "task": "action", "data_type": "video"}
+{"file_id": "event_633", "file_path": "data/event/event_633.mp4", "annotation": "jogs", "task": "action", "data_type": "video"}
+{"file_id": "event_634", "file_path": "data/event/event_634.mp4", "annotation": "trimming the nails", "task": "action", "data_type": "video"}
+{"file_id": "event_635", "file_path": "data/event/event_635.mp4", "annotation": "receive the food", "task": "action", "data_type": "video"}
+{"file_id": "event_636", "file_path": "data/event/event_636.mp4", "annotation": "wrap containers with aluminum foil", "task": "action", "data_type": "video"}
+{"file_id": "event_637", "file_path": "data/event/event_637.mp4", "annotation": "grasps tongs", "task": "action", "data_type": "video"}
+{"file_id": "event_638", "file_path": "data/event/event_638.mp4", "annotation": "press down", "task": "action", "data_type": "video"}
+{"file_id": "event_639", "file_path": "data/event/event_639.mp4", "annotation": "run along the beach", "task": "action", "data_type": "video"}
+{"file_id": "event_640", "file_path": "data/event/event_640.mp4", "annotation": "places rolled-up food on white plate", "task": "action", "data_type": "video"}
+{"file_id": "event_641", "file_path": "data/event/event_641.mp4", "annotation": "says a few words", "task": "action", "data_type": "video"}
+{"file_id": "event_642", "file_path": "data/event/event_642.mp4", "annotation": "push", "task": "action", "data_type": "video"}
+{"file_id": "event_643", "file_path": "data/event/event_643.mp4", "annotation": "lifts", "task": "action", "data_type": "video"}
+{"file_id": "event_644", "file_path": "data/event/event_644.mp4", "annotation": "passes by", "task": "action", "data_type": "video"}
+{"file_id": "event_645", "file_path": "data/event/event_645.mp4", "annotation": "twists its body", "task": "action", "data_type": "video"}
+{"file_id": "event_646", "file_path": "data/event/event_646.mp4", "annotation": "change colors", "task": "action", "data_type": "video"}
+{"file_id": "event_647", "file_path": "data/event/event_647.mp4", "annotation": "waves hands", "task": "action", "data_type": "video"}
+{"file_id": "event_648", "file_path": "data/event/event_648.mp4", "annotation": "covers", "task": "action", "data_type": "video"}
+{"file_id": "event_650", "file_path": "data/event/event_650.mp4", "annotation": "flies", "task": "action", "data_type": "video"}
+{"file_id": "event_651", "file_path": "data/event/event_651.mp4", "annotation": "goes barefoot", "task": "action", "data_type": "video"}
+{"file_id": "event_652", "file_path": "data/event/event_652.mp4", "annotation": "wraps right hand wrist with black cloth bandage", "task": "action", "data_type": "video"}
+{"file_id": "event_653", "file_path": "data/event/event_653.mp4", "annotation": "places towel", "task": "action", "data_type": "video"}
+{"file_id": "event_654", "file_path": "data/event/event_654.mp4", "annotation": "waving its pectoral fins", "task": "action", "data_type": "video"}
+{"file_id": "event_655", "file_path": "data/event/event_655.mp4", "annotation": "fiddles with vegetables in bowl with fork", "task": "action", "data_type": "video"}
+{"file_id": "event_656", "file_path": "data/event/event_656.mp4", "annotation": "hold hands", "task": "action", "data_type": "video"}
+{"file_id": "event_657", "file_path": "data/event/event_657.mp4", "annotation": "ignites", "task": "action", "data_type": "video"}
+{"file_id": "event_658", "file_path": "data/event/event_658.mp4", "annotation": "flies away", "task": "action", "data_type": "video"}
+{"file_id": "event_659", "file_path": "data/event/event_659.mp4", "annotation": "nudges ball to the right", "task": "action", "data_type": "video"}
+{"file_id": "event_660", "file_path": "data/event/event_660.mp4", "annotation": "received a slow push to the right", "task": "action", "data_type": "video"}
+{"file_id": "event_661", "file_path": "data/event/event_661.mp4", "annotation": "ripples", "task": "action", "data_type": "video"}
+{"file_id": "event_662", "file_path": "data/event/event_662.mp4", "annotation": "gallop", "task": "action", "data_type": "video"}
+{"file_id": "event_663", "file_path": "data/event/event_663.mp4", "annotation": "dribbles", "task": "action", "data_type": "video"}
+{"file_id": "event_664", "file_path": "data/event/event_664.mp4", "annotation": "soaring", "task": "action", "data_type": "video"}
+{"file_id": "event_665", "file_path": "data/event/event_665.mp4", "annotation": "exchange words", "task": "action", "data_type": "video"}
+{"file_id": "event_666", "file_path": "data/event/event_666.mp4", "annotation": "takes notes", "task": "action", "data_type": "video"}
+{"file_id": "event_667", "file_path": "data/event/event_667.mp4", "annotation": "scoops chopped cherry tomatoes into glass bowl", "task": "action", "data_type": "video"}
+{"file_id": "event_668", "file_path": "data/event/event_668.mp4", "annotation": "walks across", "task": "action", "data_type": "video"}
+{"file_id": "event_669", "file_path": "data/event/event_669.mp4", "annotation": "spin", "task": "action", "data_type": "video"}
+{"file_id": "event_670", "file_path": "data/event/event_670.mp4", "annotation": "glances", "task": "action", "data_type": "video"}
+{"file_id": "event_671", "file_path": "data/event/event_671.mp4", "annotation": "follows", "task": "action", "data_type": "video"}
+{"file_id": "event_672", "file_path": "data/event/event_672.mp4", "annotation": "swam into the water", "task": "action", "data_type": "video"}
+{"file_id": "event_673", "file_path": "data/event/event_673.mp4", "annotation": "plays with clay", "task": "action", "data_type": "video"}
+{"file_id": "event_674", "file_path": "data/event/event_674.mp4", "annotation": "occurred", "task": "action", "data_type": "video"}
+{"file_id": "event_675", "file_path": "data/event/event_675.mp4", "annotation": "rides a bicycle", "task": "action", "data_type": "video"}
+{"file_id": "event_676", "file_path": "data/event/event_676.mp4", "annotation": "illuminates", "task": "action", "data_type": "video"}
+{"file_id": "event_677", "file_path": "data/event/event_677.mp4", "annotation": "operate", "task": "action", "data_type": "video"}
+{"file_id": "event_678", "file_path": "data/event/event_678.mp4", "annotation": "moves", "task": "action", "data_type": "video"}
+{"file_id": "event_679", "file_path": "data/event/event_679.mp4", "annotation": "sets up her phone", "task": "action", "data_type": "video"}
+{"file_id": "event_680", "file_path": "data/event/event_680.mp4", "annotation": "is eliminated", "task": "action", "data_type": "video"}
+{"file_id": "event_681", "file_path": "data/event/event_681.mp4", "annotation": "twirled", "task": "action", "data_type": "video"}
+{"file_id": "event_682", "file_path": "data/event/event_682.mp4", "annotation": "cleans the dishes", "task": "action", "data_type": "video"}
+{"file_id": "event_683", "file_path": "data/event/event_683.mp4", "annotation": "moves forward", "task": "action", "data_type": "video"}
+{"file_id": "event_684", "file_path": "data/event/event_684.mp4", "annotation": "look at each other", "task": "action", "data_type": "video"}
+{"file_id": "event_685", "file_path": "data/event/event_685.mp4", "annotation": "grabs", "task": "action", "data_type": "video"}
+{"file_id": "event_686", "file_path": "data/event/event_686.mp4", "annotation": "takes off running", "task": "action", "data_type": "video"}
+{"file_id": "event_687", "file_path": "data/event/event_687.mp4", "annotation": "opens the laptop", "task": "action", "data_type": "video"}
+{"file_id": "event_688", "file_path": "data/event/event_688.mp4", "annotation": "looks back", "task": "action", "data_type": "video"}
+{"file_id": "event_689", "file_path": "data/event/event_689.mp4", "annotation": "plays", "task": "action", "data_type": "video"}
+{"file_id": "event_690", "file_path": "data/event/event_690.mp4", "annotation": "moves", "task": "action", "data_type": "video"}
+{"file_id": "event_691", "file_path": "data/event/event_691.mp4", "annotation": "slips", "task": "action", "data_type": "video"}
+{"file_id": "event_692", "file_path": "data/event/event_692.mp4", "annotation": "play the guitar", "task": "action", "data_type": "video"}
+{"file_id": "event_693", "file_path": "data/event/event_693.mp4", "annotation": "drapes the blanket over", "task": "action", "data_type": "video"}
+{"file_id": "event_694", "file_path": "data/event/event_694.mp4", "annotation": "walks", "task": "action", "data_type": "video"}
+{"file_id": "event_695", "file_path": "data/event/event_695.mp4", "annotation": "sways", "task": "action", "data_type": "video"}
+{"file_id": "event_696", "file_path": "data/event/event_696.mp4", "annotation": "moves", "task": "action", "data_type": "video"}
+{"file_id": "event_697", "file_path": "data/event/event_697.mp4", "annotation": "sit", "task": "action", "data_type": "video"}
+{"file_id": "event_698", "file_path": "data/event/event_698.mp4", "annotation": "emerges", "task": "action", "data_type": "video"}
+{"file_id": "event_699", "file_path": "data/event/event_699.mp4", "annotation": "tie shoelaces", "task": "action", "data_type": "video"}
+{"file_id": "event_700", "file_path": "data/event/event_700.mp4", "annotation": "claps hands", "task": "action", "data_type": "video"}
+{"file_id": "event_701", "file_path": "data/event/event_701.mp4", "annotation": "leaves", "task": "action", "data_type": "video"}
+{"file_id": "event_702", "file_path": "data/event/event_702.mp4", "annotation": "stops", "task": "action", "data_type": "video"}
+{"file_id": "event_703", "file_path": "data/event/event_703.mp4", "annotation": "stands up on hind legs", "task": "action", "data_type": "video"}
+{"file_id": "event_704", "file_path": "data/event/event_704.mp4", "annotation": "move", "task": "action", "data_type": "video"}
+{"file_id": "event_705", "file_path": "data/event/event_705.mp4", "annotation": "prepare for a nucleic acid test", "task": "action", "data_type": "video"}
+{"file_id": "event_706", "file_path": "data/event/event_706.mp4", "annotation": "picked up a pair of spatulas", "task": "action", "data_type": "video"}
+{"file_id": "event_707", "file_path": "data/event/event_707.mp4", "annotation": "running forward", "task": "action", "data_type": "video"}
+{"file_id": "event_708", "file_path": "data/event/event_708.mp4", "annotation": "smile", "task": "action", "data_type": "video"}
+{"file_id": "event_709", "file_path": "data/event/event_709.mp4", "annotation": "blinks frequently", "task": "action", "data_type": "video"}
+{"file_id": "event_711", "file_path": "data/event/event_711.mp4", "annotation": "makes a slight hand movement", "task": "action", "data_type": "video"}
+{"file_id": "event_712", "file_path": "data/event/event_712.mp4", "annotation": "stood up straight", "task": "action", "data_type": "video"}
+{"file_id": "event_713", "file_path": "data/event/event_713.mp4", "annotation": "run towards the forest", "task": "action", "data_type": "video"}
+{"file_id": "event_714", "file_path": "data/event/event_714.mp4", "annotation": "surfaced", "task": "action", "data_type": "video"}
+{"file_id": "event_715", "file_path": "data/event/event_715.mp4", "annotation": "runs towards the goal", "task": "action", "data_type": "video"}
+{"file_id": "event_716", "file_path": "data/event/event_716.mp4", "annotation": "twists", "task": "action", "data_type": "video"}
+{"file_id": "event_717", "file_path": "data/event/event_717.mp4", "annotation": "looks down", "task": "action", "data_type": "video"}
+{"file_id": "event_718", "file_path": "data/event/event_718.mp4", "annotation": "squats down", "task": "action", "data_type": "video"}
+{"file_id": "event_719", "file_path": "data/event/event_719.mp4", "annotation": "embrace", "task": "action", "data_type": "video"}
+{"file_id": "event_720", "file_path": "data/event/event_720.mp4", "annotation": "fade away", "task": "action", "data_type": "video"}
+{"file_id": "event_721", "file_path": "data/event/event_721.mp4", "annotation": "cycles quickly uphill", "task": "action", "data_type": "video"}
+{"file_id": "event_722", "file_path": "data/event/event_722.mp4", "annotation": "collects", "task": "action", "data_type": "video"}
+{"file_id": "event_723", "file_path": "data/event/event_723.mp4", "annotation": "deployed parachute", "task": "action", "data_type": "video"}
+{"file_id": "event_724", "file_path": "data/event/event_724.mp4", "annotation": "squats into the water", "task": "action", "data_type": "video"}
+{"file_id": "event_725", "file_path": "data/event/event_725.mp4", "annotation": "strikes various poses", "task": "action", "data_type": "video"}
+{"file_id": "event_726", "file_path": "data/event/event_726.mp4", "annotation": "grabbed the bar", "task": "action", "data_type": "video"}
+{"file_id": "event_727", "file_path": "data/event/event_727.mp4", "annotation": "picks up", "task": "action", "data_type": "video"}
+{"file_id": "event_728", "file_path": "data/event/event_728.mp4", "annotation": "places a lemon slice into the cup", "task": "action", "data_type": "video"}
+{"file_id": "event_729", "file_path": "data/event/event_729.mp4", "annotation": "enters", "task": "action", "data_type": "video"}
+{"file_id": "event_730", "file_path": "data/event/event_730.mp4", "annotation": "turns", "task": "action", "data_type": "video"}
+{"file_id": "event_731", "file_path": "data/event/event_731.mp4", "annotation": "taps on the phone screen", "task": "action", "data_type": "video"}
+{"file_id": "event_733", "file_path": "data/event/event_733.mp4", "annotation": "withdraws the kickstand", "task": "action", "data_type": "video"}
+{"file_id": "event_734", "file_path": "data/event/event_734.mp4", "annotation": "grasped fruits", "task": "action", "data_type": "video"}
+{"file_id": "event_735", "file_path": "data/event/event_735.mp4", "annotation": "soars", "task": "action", "data_type": "video"}
+{"file_id": "event_736", "file_path": "data/event/event_736.mp4", "annotation": "picks", "task": "action", "data_type": "video"}
+{"file_id": "event_737", "file_path": "data/event/event_737.mp4", "annotation": "reaches out", "task": "action", "data_type": "video"}
+{"file_id": "event_738", "file_path": "data/event/event_738.mp4", "annotation": "turned to ashes", "task": "action", "data_type": "video"}
+{"file_id": "event_739", "file_path": "data/event/event_739.mp4", "annotation": "moved back and forth", "task": "action", "data_type": "video"}
+{"file_id": "event_740", "file_path": "data/event/event_740.mp4", "annotation": "reaches out", "task": "action", "data_type": "video"}
+{"file_id": "event_741", "file_path": "data/event/event_741.mp4", "annotation": "flow", "task": "action", "data_type": "video"}
+{"file_id": "event_742", "file_path": "data/event/event_742.mp4", "annotation": "walks", "task": "action", "data_type": "video"}
+{"file_id": "event_743", "file_path": "data/event/event_743.mp4", "annotation": "scoops food with a colander", "task": "action", "data_type": "video"}
+{"file_id": "event_744", "file_path": "data/event/event_744.mp4", "annotation": "flew", "task": "action", "data_type": "video"}
+{"file_id": "event_745", "file_path": "data/event/event_745.mp4", "annotation": "touches", "task": "action", "data_type": "video"}
+{"file_id": "event_746", "file_path": "data/event/event_746.mp4", "annotation": "fall down continuously", "task": "action", "data_type": "video"}
+{"file_id": "event_747", "file_path": "data/event/event_747.mp4", "annotation": "places gauze", "task": "action", "data_type": "video"}
+{"file_id": "event_748", "file_path": "data/event/event_748.mp4", "annotation": "embraced", "task": "action", "data_type": "video"}
+{"file_id": "event_749", "file_path": "data/event/event_749.mp4", "annotation": "shook the water off its body", "task": "action", "data_type": "video"}
+{"file_id": "event_750", "file_path": "data/event/event_750.mp4", "annotation": "holds head in dismay", "task": "action", "data_type": "video"}
+{"file_id": "event_751", "file_path": "data/event/event_751.mp4", "annotation": "steps on the shovel", "task": "action", "data_type": "video"}
+{"file_id": "event_752", "file_path": "data/event/event_752.mp4", "annotation": "flies", "task": "action", "data_type": "video"}
+{"file_id": "event_753", "file_path": "data/event/event_753.mp4", "annotation": "move", "task": "action", "data_type": "video"}
+{"file_id": "event_754", "file_path": "data/event/event_754.mp4", "annotation": "squeezes hand cream onto hand", "task": "action", "data_type": "video"}
+{"file_id": "event_755", "file_path": "data/event/event_755.mp4", "annotation": "fall down", "task": "action", "data_type": "video"}
+{"file_id": "event_756", "file_path": "data/event/event_756.mp4", "annotation": "picks up", "task": "action", "data_type": "video"}
+{"file_id": "event_757", "file_path": "data/event/event_757.mp4", "annotation": "walks forward", "task": "action", "data_type": "video"}
+{"file_id": "event_758", "file_path": "data/event/event_758.mp4", "annotation": "drifts", "task": "action", "data_type": "video"}
+{"file_id": "event_759", "file_path": "data/event/event_759.mp4", "annotation": "carries", "task": "action", "data_type": "video"}
+{"file_id": "event_760", "file_path": "data/event/event_760.mp4", "annotation": "dances", "task": "action", "data_type": "video"}
+{"file_id": "event_761", "file_path": "data/event/event_761.mp4", "annotation": "hands bowls", "task": "action", "data_type": "video"}
+{"file_id": "event_762", "file_path": "data/event/event_762.mp4", "annotation": "takes off", "task": "action", "data_type": "video"}
+{"file_id": "event_763", "file_path": "data/event/event_763.mp4", "annotation": "enters", "task": "action", "data_type": "video"}
+{"file_id": "event_764", "file_path": "data/event/event_764.mp4", "annotation": "kicks", "task": "action", "data_type": "video"}
+{"file_id": "event_765", "file_path": "data/event/event_765.mp4", "annotation": "completes handshake", "task": "action", "data_type": "video"}
+{"file_id": "event_766", "file_path": "data/event/event_766.mp4", "annotation": "smile", "task": "action", "data_type": "video"}
+{"file_id": "event_767", "file_path": "data/event/event_767.mp4", "annotation": "climbed", "task": "action", "data_type": "video"}
+{"file_id": "event_768", "file_path": "data/event/event_768.mp4", "annotation": "places bags into the trunk", "task": "action", "data_type": "video"}
+{"file_id": "event_769", "file_path": "data/event/event_769.mp4", "annotation": "takes out a piece of cardboard", "task": "action", "data_type": "video"}
+{"file_id": "event_770", "file_path": "data/event/event_770.mp4", "annotation": "swings back and forth", "task": "action", "data_type": "video"}
+{"file_id": "event_771", "file_path": "data/event/event_771.mp4", "annotation": "runs forward holding a curved stick", "task": "action", "data_type": "video"}
+{"file_id": "event_772", "file_path": "data/event/event_772.mp4", "annotation": "sits", "task": "action", "data_type": "video"}
+{"file_id": "event_773", "file_path": "data/event/event_773.mp4", "annotation": "takes a pill", "task": "action", "data_type": "video"}
+{"file_id": "event_774", "file_path": "data/event/event_774.mp4", "annotation": "enter", "task": "action", "data_type": "video"}
+{"file_id": "event_775", "file_path": "data/event/event_775.mp4", "annotation": "run forward together", "task": "action", "data_type": "video"}
+{"file_id": "event_776", "file_path": "data/event/event_776.mp4", "annotation": "place", "task": "action", "data_type": "video"}
+{"file_id": "event_777", "file_path": "data/event/event_777.mp4", "annotation": "lies", "task": "action", "data_type": "video"}
+{"file_id": "event_778", "file_path": "data/event/event_778.mp4", "annotation": "piled on top", "task": "action", "data_type": "video"}
+{"file_id": "event_779", "file_path": "data/event/event_779.mp4", "annotation": "passed the soccer ball", "task": "action", "data_type": "video"}
+{"file_id": "event_780", "file_path": "data/event/event_780.mp4", "annotation": "appears", "task": "action", "data_type": "video"}
+{"file_id": "event_782", "file_path": "data/event/event_782.mp4", "annotation": "shake hands", "task": "action", "data_type": "video"}
+{"file_id": "event_783", "file_path": "data/event/event_783.mp4", "annotation": "drives", "task": "action", "data_type": "video"}
+{"file_id": "event_784", "file_path": "data/event/event_784.mp4", "annotation": "swings", "task": "action", "data_type": "video"}
+{"file_id": "event_785", "file_path": "data/event/event_785.mp4", "annotation": "drives", "task": "action", "data_type": "video"}
+{"file_id": "event_786", "file_path": "data/event/event_786.mp4", "annotation": "taxied forward", "task": "action", "data_type": "video"}
+{"file_id": "event_787", "file_path": "data/event/event_787.mp4", "annotation": "looked up", "task": "action", "data_type": "video"}
+{"file_id": "event_788", "file_path": "data/event/event_788.mp4", "annotation": "reaches into pocket", "task": "action", "data_type": "video"}
+{"file_id": "event_789", "file_path": "data/event/event_789.mp4", "annotation": "advance forward carrying shields", "task": "action", "data_type": "video"}
+{"file_id": "event_790", "file_path": "data/event/event_790.mp4", "annotation": "dances with arms raised", "task": "action", "data_type": "video"}
+{"file_id": "event_791", "file_path": "data/event/event_791.mp4", "annotation": "flutters", "task": "action", "data_type": "video"}
+{"file_id": "event_792", "file_path": "data/event/event_792.mp4", "annotation": "disappear", "task": "action", "data_type": "video"}
+{"file_id": "event_793", "file_path": "data/event/event_793.mp4", "annotation": "hug", "task": "action", "data_type": "video"}
+{"file_id": "event_794", "file_path": "data/event/event_794.mp4", "annotation": "disappear", "task": "action", "data_type": "video"}
+{"file_id": "event_795", "file_path": "data/event/event_795.mp4", "annotation": "stops", "task": "action", "data_type": "video"}
+{"file_id": "event_796", "file_path": "data/event/event_796.mp4", "annotation": "appears", "task": "action", "data_type": "video"}
+{"file_id": "event_798", "file_path": "data/event/event_798.mp4", "annotation": "walks away", "task": "action", "data_type": "video"}
+{"file_id": "event_799", "file_path": "data/event/event_799.mp4", "annotation": "chews", "task": "action", "data_type": "video"}
+{"file_id": "event_801", "file_path": "data/event/event_801.mp4", "annotation": "evade", "task": "action", "data_type": "video"}
+{"file_id": "event_802", "file_path": "data/event/event_802.mp4", "annotation": "follows", "task": "action", "data_type": "video"}
+{"file_id": "event_803", "file_path": "data/event/event_803.mp4", "annotation": "throws cigarette case to ground", "task": "action", "data_type": "video"}
+{"file_id": "event_805", "file_path": "data/event/event_805.mp4", "annotation": "places casserole dish on induction cooker", "task": "action", "data_type": "video"}
+{"file_id": "event_806", "file_path": "data/event/event_806.mp4", "annotation": "appears", "task": "action", "data_type": "video"}
+{"file_id": "event_807", "file_path": "data/event/event_807.mp4", "annotation": "assault", "task": "action", "data_type": "video"}
+{"file_id": "event_808", "file_path": "data/event/event_808.mp4", "annotation": "listens to music", "task": "action", "data_type": "video"}
+{"file_id": "event_809", "file_path": "data/event/event_809.mp4", "annotation": "affixes grey basket on the bicycle rear wheel", "task": "action", "data_type": "video"}
+{"file_id": "event_810", "file_path": "data/event/event_810.mp4", "annotation": "jumps out", "task": "action", "data_type": "video"}
+{"file_id": "event_811", "file_path": "data/event/event_811.mp4", "annotation": "loses point", "task": "action", "data_type": "video"}
+{"file_id": "event_812", "file_path": "data/event/event_812.mp4", "annotation": "holds", "task": "action", "data_type": "video"}
+{"file_id": "event_813", "file_path": "data/event/event_813.mp4", "annotation": "pops the balloon", "task": "action", "data_type": "video"}
+{"file_id": "event_814", "file_path": "data/event/event_814.mp4", "annotation": "moves left to right", "task": "action", "data_type": "video"}
+{"file_id": "event_815", "file_path": "data/event/event_815.mp4", "annotation": "evade attacks", "task": "action", "data_type": "video"}
+{"file_id": "event_816", "file_path": "data/event/event_816.mp4", "annotation": "perch", "task": "action", "data_type": "video"}
+{"file_id": "event_817", "file_path": "data/event/event_817.mp4", "annotation": "pass", "task": "action", "data_type": "video"}
+{"file_id": "event_818", "file_path": "data/event/event_818.mp4", "annotation": "fails to defend", "task": "action", "data_type": "video"}
+{"file_id": "event_819", "file_path": "data/event/event_819.mp4", "annotation": "points a machine at the chicken", "task": "action", "data_type": "video"}
+{"file_id": "event_820", "file_path": "data/event/event_820.mp4", "annotation": "wears a ring", "task": "action", "data_type": "video"}
+{"file_id": "event_821", "file_path": "data/event/event_821.mp4", "annotation": "flies", "task": "action", "data_type": "video"}
+{"file_id": "event_822", "file_path": "data/event/event_822.mp4", "annotation": "pressing", "task": "action", "data_type": "video"}
+{"file_id": "event_823", "file_path": "data/event/event_823.mp4", "annotation": "ignites paper with lighter", "task": "action", "data_type": "video"}
+{"file_id": "event_824", "file_path": "data/event/event_824.mp4", "annotation": "starts fourth push-up", "task": "action", "data_type": "video"}
+{"file_id": "event_825", "file_path": "data/event/event_825.mp4", "annotation": "takes out", "task": "action", "data_type": "video"}
+{"file_id": "event_826", "file_path": "data/event/event_826.mp4", "annotation": "kills", "task": "action", "data_type": "video"}
+{"file_id": "event_827", "file_path": "data/event/event_827.mp4", "annotation": "punches", "task": "action", "data_type": "video"}
+{"file_id": "event_828", "file_path": "data/event/event_828.mp4", "annotation": "runs", "task": "action", "data_type": "video"}
+{"file_id": "event_829", "file_path": "data/event/event_829.mp4", "annotation": "misses the ball", "task": "action", "data_type": "video"}
+{"file_id": "event_830", "file_path": "data/event/event_830.mp4", "annotation": "moves", "task": "action", "data_type": "video"}
+{"file_id": "event_831", "file_path": "data/event/event_831.mp4", "annotation": "scatter", "task": "action", "data_type": "video"}
+{"file_id": "event_832", "file_path": "data/event/event_832.mp4", "annotation": "runs the red light", "task": "action", "data_type": "video"}
+{"file_id": "event_833", "file_path": "data/event/event_833.mp4", "annotation": "turns", "task": "action", "data_type": "video"}
+{"file_id": "event_834", "file_path": "data/event/event_834.mp4", "annotation": "scores a goal", "task": "action", "data_type": "video"}
+{"file_id": "event_835", "file_path": "data/event/event_835.mp4", "annotation": "rides", "task": "action", "data_type": "video"}
+{"file_id": "event_836", "file_path": "data/event/event_836.mp4", "annotation": "get damaged", "task": "action", "data_type": "video"}
+{"file_id": "event_837", "file_path": "data/event/event_837.mp4", "annotation": "identifies", "task": "action", "data_type": "video"}
+{"file_id": "event_838", "file_path": "data/event/event_838.mp4", "annotation": "takes place", "task": "action", "data_type": "video"}
+{"file_id": "event_839", "file_path": "data/event/event_839.mp4", "annotation": "cuts tofu into cubes", "task": "action", "data_type": "video"}
+{"file_id": "event_840", "file_path": "data/event/event_840.mp4", "annotation": "wears", "task": "action", "data_type": "video"}
+{"file_id": "event_841", "file_path": "data/event/event_841.mp4", "annotation": "pours blue curacao into a glass", "task": "action", "data_type": "video"}
+{"file_id": "event_842", "file_path": "data/event/event_842.mp4", "annotation": "lowers torso back down", "task": "action", "data_type": "video"}
+{"file_id": "event_843", "file_path": "data/event/event_843.mp4", "annotation": "places a rubber band around middle finger and thumb", "task": "action", "data_type": "video"}
+{"file_id": "event_844", "file_path": "data/event/event_844.mp4", "annotation": "eats", "task": "action", "data_type": "video"}
+{"file_id": "event_845", "file_path": "data/event/event_845.mp4", "annotation": "heads towards exit", "task": "action", "data_type": "video"}
+{"file_id": "event_846", "file_path": "data/event/event_846.mp4", "annotation": "approaches", "task": "action", "data_type": "video"}
+{"file_id": "event_847", "file_path": "data/event/event_847.mp4", "annotation": "moves forward", "task": "action", "data_type": "video"}
+{"file_id": "event_848", "file_path": "data/event/event_848.mp4", "annotation": "presents yellow pancake", "task": "action", "data_type": "video"}
+{"file_id": "event_849", "file_path": "data/event/event_849.mp4", "annotation": "run", "task": "action", "data_type": "video"}
+{"file_id": "event_850", "file_path": "data/event/event_850.mp4", "annotation": "removes a right-side pillowcase", "task": "action", "data_type": "video"}
+{"file_id": "event_851", "file_path": "data/event/event_851.mp4", "annotation": "unrolls the package", "task": "action", "data_type": "video"}
+{"file_id": "event_852", "file_path": "data/event/event_852.mp4", "annotation": "comes to a full stop", "task": "action", "data_type": "video"}
+{"file_id": "event_853", "file_path": "data/event/event_853.mp4", "annotation": "turns", "task": "action", "data_type": "video"}
+{"file_id": "event_854", "file_path": "data/event/event_854.mp4", "annotation": "express joy", "task": "action", "data_type": "video"}
+{"file_id": "event_855", "file_path": "data/event/event_855.mp4", "annotation": "celebrates", "task": "action", "data_type": "video"}
+{"file_id": "event_856", "file_path": "data/event/event_856.mp4", "annotation": "rise", "task": "action", "data_type": "video"}
+{"file_id": "event_857", "file_path": "data/event/event_857.mp4", "annotation": "imitates", "task": "action", "data_type": "video"}
+{"file_id": "event_858", "file_path": "data/event/event_858.mp4", "annotation": "stands up", "task": "action", "data_type": "video"}
+{"file_id": "event_859", "file_path": "data/event/event_859.mp4", "annotation": "looks", "task": "action", "data_type": "video"}
+{"file_id": "event_860", "file_path": "data/event/event_860.mp4", "annotation": "fails to stop", "task": "action", "data_type": "video"}
+{"file_id": "event_861", "file_path": "data/event/event_861.mp4", "annotation": "halts to yield", "task": "action", "data_type": "video"}
+{"file_id": "event_862", "file_path": "data/event/event_862.mp4", "annotation": "swerves to the left", "task": "action", "data_type": "video"}
+{"file_id": "event_863", "file_path": "data/event/event_863.mp4", "annotation": "comes to a halt", "task": "action", "data_type": "video"}
+{"file_id": "event_864", "file_path": "data/event/event_864.mp4", "annotation": "runs", "task": "action", "data_type": "video"}
+{"file_id": "event_865", "file_path": "data/event/event_865.mp4", "annotation": "wait", "task": "action", "data_type": "video"}
+{"file_id": "event_866", "file_path": "data/event/event_866.mp4", "annotation": "misses the layup", "task": "action", "data_type": "video"}
+{"file_id": "event_867", "file_path": "data/event/event_867.mp4", "annotation": "makes small hand gesture", "task": "action", "data_type": "video"}
+{"file_id": "event_868", "file_path": "data/event/event_868.mp4", "annotation": "walks along the railroad tracks", "task": "action", "data_type": "video"}
+{"file_id": "event_869", "file_path": "data/event/event_869.mp4", "annotation": "scans", "task": "action", "data_type": "video"}
+{"file_id": "event_870", "file_path": "data/event/event_870.mp4", "annotation": "fakes a move", "task": "action", "data_type": "video"}
+{"file_id": "event_871", "file_path": "data/event/event_871.mp4", "annotation": "combs hair", "task": "action", "data_type": "video"}
+{"file_id": "event_872", "file_path": "data/event/event_872.mp4", "annotation": "emits smoke", "task": "action", "data_type": "video"}
+{"file_id": "event_873", "file_path": "data/event/event_873.mp4", "annotation": "tries to steal the ball", "task": "action", "data_type": "video"}
+{"file_id": "event_874", "file_path": "data/event/event_874.mp4", "annotation": "walks wearing blue jeans", "task": "action", "data_type": "video"}
+{"file_id": "event_875", "file_path": "data/event/event_875.mp4", "annotation": "brakes", "task": "action", "data_type": "video"}
+{"file_id": "event_876", "file_path": "data/event/event_876.mp4", "annotation": "shatters", "task": "action", "data_type": "video"}
+{"file_id": "event_877", "file_path": "data/event/event_877.mp4", "annotation": "emerges", "task": "action", "data_type": "video"}
+{"file_id": "event_878", "file_path": "data/event/event_878.mp4", "annotation": "targets", "task": "action", "data_type": "video"}
+{"file_id": "event_879", "file_path": "data/event/event_879.mp4", "annotation": "shot", "task": "action", "data_type": "video"}
+{"file_id": "event_880", "file_path": "data/event/event_880.mp4", "annotation": "captures", "task": "action", "data_type": "video"}
+{"file_id": "event_881", "file_path": "data/event/event_881.mp4", "annotation": "leans forward", "task": "action", "data_type": "video"}
+{"file_id": "event_882", "file_path": "data/event/event_882.mp4", "annotation": "struggles to open a caravan door", "task": "action", "data_type": "video"}
+{"file_id": "event_883", "file_path": "data/event/event_883.mp4", "annotation": "heads the ball", "task": "action", "data_type": "video"}
+{"file_id": "event_884", "file_path": "data/event/event_884.mp4", "annotation": "pours water into the ash-filled hole", "task": "action", "data_type": "video"}
+{"file_id": "event_885", "file_path": "data/event/event_885.mp4", "annotation": "contains", "task": "action", "data_type": "video"}
+{"file_id": "event_886", "file_path": "data/event/event_886.mp4", "annotation": "feels urge to disembark", "task": "action", "data_type": "video"}
+{"file_id": "event_887", "file_path": "data/event/event_887.mp4", "annotation": "drains noodles", "task": "action", "data_type": "video"}
+{"file_id": "event_888", "file_path": "data/event/event_888.mp4", "annotation": "alters position", "task": "action", "data_type": "video"}
+{"file_id": "event_889", "file_path": "data/event/event_889.mp4", "annotation": "pulls out a map", "task": "action", "data_type": "video"}
+{"file_id": "event_890", "file_path": "data/event/event_890.mp4", "annotation": "shooting", "task": "action", "data_type": "video"}
+{"file_id": "event_891", "file_path": "data/event/event_891.mp4", "annotation": "squats down", "task": "action", "data_type": "video"}
+{"file_id": "event_892", "file_path": "data/event/event_892.mp4", "annotation": "running", "task": "action", "data_type": "video"}
+{"file_id": "event_893", "file_path": "data/event/event_893.mp4", "annotation": "flips over", "task": "action", "data_type": "video"}
+{"file_id": "event_894", "file_path": "data/event/event_894.mp4", "annotation": "veers right", "task": "action", "data_type": "video"}
+{"file_id": "event_895", "file_path": "data/event/event_895.mp4", "annotation": "overtake", "task": "action", "data_type": "video"}
+{"file_id": "event_896", "file_path": "data/event/event_896.mp4", "annotation": "serves", "task": "action", "data_type": "video"}
+{"file_id": "event_897", "file_path": "data/event/event_897.mp4", "annotation": "hits the guardrail", "task": "action", "data_type": "video"}
+{"file_id": "event_898", "file_path": "data/event/event_898.mp4", "annotation": "maintain side-by-side position", "task": "action", "data_type": "video"}
+{"file_id": "event_899", "file_path": "data/event/event_899.mp4", "annotation": "strikes", "task": "action", "data_type": "video"}
+{"file_id": "event_900", "file_path": "data/event/event_900.mp4", "annotation": "carries", "task": "action", "data_type": "video"}
+{"file_id": "event_901", "file_path": "data/event/event_901.mp4", "annotation": "added", "task": "action", "data_type": "video"}
+{"file_id": "event_902", "file_path": "data/event/event_902.mp4", "annotation": "pass", "task": "action", "data_type": "video"}
+{"file_id": "event_903", "file_path": "data/event/event_903.mp4", "annotation": "score increases", "task": "action", "data_type": "video"}
+{"file_id": "event_904", "file_path": "data/event/event_904.mp4", "annotation": "hangs", "task": "action", "data_type": "video"}
+{"file_id": "event_905", "file_path": "data/event/event_905.mp4", "annotation": "disappears", "task": "action", "data_type": "video"}
+{"file_id": "event_906", "file_path": "data/event/event_906.mp4", "annotation": "changes color", "task": "action", "data_type": "video"}
+{"file_id": "event_907", "file_path": "data/event/event_907.mp4", "annotation": "flashes", "task": "action", "data_type": "video"}
+{"file_id": "event_908", "file_path": "data/event/event_908.mp4", "annotation": "flows", "task": "action", "data_type": "video"}
+{"file_id": "event_909", "file_path": "data/event/event_909.mp4", "annotation": "drops white objects into the first glass of water", "task": "action", "data_type": "video"}
+{"file_id": "event_910", "file_path": "data/event/event_910.mp4", "annotation": "elevates the knife", "task": "action", "data_type": "video"}
+{"file_id": "event_911", "file_path": "data/event/event_911.mp4", "annotation": "turns left", "task": "action", "data_type": "video"}
+{"file_id": "event_912", "file_path": "data/event/event_912.mp4", "annotation": "extracts a wire panel", "task": "action", "data_type": "video"}
+{"file_id": "event_913", "file_path": "data/event/event_913.mp4", "annotation": "attempts a shot at goal", "task": "action", "data_type": "video"}
+{"file_id": "event_914", "file_path": "data/event/event_914.mp4", "annotation": "lifts the ball into the air", "task": "action", "data_type": "video"}
+{"file_id": "event_915", "file_path": "data/event/event_915.mp4", "annotation": "wins", "task": "action", "data_type": "video"}
+{"file_id": "event_916", "file_path": "data/event/event_916.mp4", "annotation": "turns", "task": "action", "data_type": "video"}
+{"file_id": "event_917", "file_path": "data/event/event_917.mp4", "annotation": "watches", "task": "action", "data_type": "video"}
+{"file_id": "event_918", "file_path": "data/event/event_918.mp4", "annotation": "joins to form a circle", "task": "action", "data_type": "video"}
+{"file_id": "event_919", "file_path": "data/event/event_919.mp4", "annotation": "runs towards orange cone", "task": "action", "data_type": "video"}
+{"file_id": "event_920", "file_path": "data/event/event_920.mp4", "annotation": "follows", "task": "action", "data_type": "video"}
+{"file_id": "event_921", "file_path": "data/event/event_921.mp4", "annotation": "starts", "task": "action", "data_type": "video"}
+{"file_id": "event_922", "file_path": "data/event/event_922.mp4", "annotation": "removes the garbage bag from the trash can", "task": "action", "data_type": "video"}
+{"file_id": "event_923", "file_path": "data/event/event_923.mp4", "annotation": "approaches", "task": "action", "data_type": "video"}
+{"file_id": "event_924", "file_path": "data/event/event_924.mp4", "annotation": "picks up monkey and repositions it on stroller", "task": "action", "data_type": "video"}
+{"file_id": "event_925", "file_path": "data/event/event_925.mp4", "annotation": "sits", "task": "action", "data_type": "video"}
+{"file_id": "event_926", "file_path": "data/event/event_926.mp4", "annotation": "position themselves", "task": "action", "data_type": "video"}
+{"file_id": "event_927", "file_path": "data/event/event_927.mp4", "annotation": "sinks further", "task": "action", "data_type": "video"}
+{"file_id": "event_928", "file_path": "data/event/event_928.mp4", "annotation": "laughs", "task": "action", "data_type": "video"}
+{"file_id": "event_929", "file_path": "data/event/event_929.mp4", "annotation": "launches", "task": "action", "data_type": "video"}
+{"file_id": "event_930", "file_path": "data/event/event_930.mp4", "annotation": "picks up yellow plate", "task": "action", "data_type": "video"}
+{"file_id": "event_931", "file_path": "data/event/event_931.mp4", "annotation": "scores", "task": "action", "data_type": "video"}
+{"file_id": "event_932", "file_path": "data/event/event_932.mp4", "annotation": "holds", "task": "action", "data_type": "video"}
+{"file_id": "event_933", "file_path": "data/event/event_933.mp4", "annotation": "places a glass of milk on the table", "task": "action", "data_type": "video"}
+{"file_id": "event_934", "file_path": "data/event/event_934.mp4", "annotation": "dries face with green towel", "task": "action", "data_type": "video"}
+{"file_id": "event_935", "file_path": "data/event/event_935.mp4", "annotation": "passes by", "task": "action", "data_type": "video"}
+{"file_id": "event_936", "file_path": "data/event/event_936.mp4", "annotation": "complete the handshake", "task": "action", "data_type": "video"}
+{"file_id": "event_937", "file_path": "data/event/event_937.mp4", "annotation": "holds", "task": "action", "data_type": "video"}
+{"file_id": "event_938", "file_path": "data/event/event_938.mp4", "annotation": "opening", "task": "action", "data_type": "video"}
+{"file_id": "event_939", "file_path": "data/event/event_939.mp4", "annotation": "laughs", "task": "action", "data_type": "video"}
+{"file_id": "event_940", "file_path": "data/event/event_940.mp4", "annotation": "wears", "task": "action", "data_type": "video"}
+{"file_id": "event_941", "file_path": "data/event/event_941.mp4", "annotation": "positioned", "task": "action", "data_type": "video"}
+{"file_id": "event_942", "file_path": "data/event/event_942.mp4", "annotation": "compete", "task": "action", "data_type": "video"}
+{"file_id": "event_943", "file_path": "data/event/event_943.mp4", "annotation": "carries oxygen tank", "task": "action", "data_type": "video"}
+{"file_id": "event_944", "file_path": "data/event/event_944.mp4", "annotation": "aims punches", "task": "action", "data_type": "video"}
+{"file_id": "event_945", "file_path": "data/event/event_945.mp4", "annotation": "coils around", "task": "action", "data_type": "video"}
+{"file_id": "event_946", "file_path": "data/event/event_946.mp4", "annotation": "assist in bank bombing", "task": "action", "data_type": "video"}
+{"file_id": "event_947", "file_path": "data/event/event_947.mp4", "annotation": "waves yellow cloth", "task": "action", "data_type": "video"}
+{"file_id": "event_948", "file_path": "data/event/event_948.mp4", "annotation": "comes into view", "task": "action", "data_type": "video"}
+{"file_id": "event_949", "file_path": "data/event/event_949.mp4", "annotation": "burns", "task": "action", "data_type": "video"}
+{"file_id": "event_950", "file_path": "data/event/event_950.mp4", "annotation": "makes remarks", "task": "action", "data_type": "video"}
+{"file_id": "event_951", "file_path": "data/event/event_951.mp4", "annotation": "accelerates", "task": "action", "data_type": "video"}
+{"file_id": "event_952", "file_path": "data/event/event_952.mp4", "annotation": "amasses", "task": "action", "data_type": "video"}
+{"file_id": "event_953", "file_path": "data/event/event_953.mp4", "annotation": "traverse", "task": "action", "data_type": "video"}
+{"file_id": "event_954", "file_path": "data/event/event_954.mp4", "annotation": "stretches feet towards stream", "task": "action", "data_type": "video"}
+{"file_id": "event_955", "file_path": "data/event/event_955.mp4", "annotation": "stacks 2 piles of pillows neatly", "task": "action", "data_type": "video"}
+{"file_id": "event_956", "file_path": "data/event/event_956.mp4", "annotation": "prepares to apply makeup", "task": "action", "data_type": "video"}
+{"file_id": "event_957", "file_path": "data/event/event_957.mp4", "annotation": "carries a cloth bag", "task": "action", "data_type": "video"}
+{"file_id": "event_958", "file_path": "data/event/event_958.mp4", "annotation": "Applause sounds", "task": "action", "data_type": "video"}
+{"file_id": "event_959", "file_path": "data/event/event_959.mp4", "annotation": "lifts the lid off the box", "task": "action", "data_type": "video"}
+{"file_id": "event_960", "file_path": "data/event/event_960.mp4", "annotation": "does something with hands", "task": "action", "data_type": "video"}
+{"file_id": "event_961", "file_path": "data/event/event_961.mp4", "annotation": "throws off", "task": "action", "data_type": "video"}
+{"file_id": "event_962", "file_path": "data/event/event_962.mp4", "annotation": "appears", "task": "action", "data_type": "video"}
+{"file_id": "event_963", "file_path": "data/event/event_963.mp4", "annotation": "zip around the bend", "task": "action", "data_type": "video"}
+{"file_id": "event_965", "file_path": "data/event/event_965.mp4", "annotation": "tries to eat", "task": "action", "data_type": "video"}
+{"file_id": "event_966", "file_path": "data/event/event_966.mp4", "annotation": "glides", "task": "action", "data_type": "video"}
+{"file_id": "event_967", "file_path": "data/event/event_967.mp4", "annotation": "kneels", "task": "action", "data_type": "video"}
+{"file_id": "event_968", "file_path": "data/event/event_968.mp4", "annotation": "rises", "task": "action", "data_type": "video"}
+{"file_id": "event_969", "file_path": "data/event/event_969.mp4", "annotation": "inserts a pink straw into the container", "task": "action", "data_type": "video"}
+{"file_id": "event_971", "file_path": "data/event/event_971.mp4", "annotation": "fill", "task": "action", "data_type": "video"}
+{"file_id": "event_972", "file_path": "data/event/event_972.mp4", "annotation": "appears helpless", "task": "action", "data_type": "video"}
+{"file_id": "event_973", "file_path": "data/event/event_973.mp4", "annotation": "smiling", "task": "action", "data_type": "video"}
+{"file_id": "event_974", "file_path": "data/event/event_974.mp4", "annotation": "struggles", "task": "action", "data_type": "video"}
+{"file_id": "event_975", "file_path": "data/event/event_975.mp4", "annotation": "fly", "task": "action", "data_type": "video"}
+{"file_id": "event_976", "file_path": "data/event/event_976.mp4", "annotation": "dusts", "task": "action", "data_type": "video"}
+{"file_id": "event_977", "file_path": "data/event/event_977.mp4", "annotation": "parked", "task": "action", "data_type": "video"}
+{"file_id": "event_978", "file_path": "data/event/event_978.mp4", "annotation": "drives", "task": "action", "data_type": "video"}
+{"file_id": "event_979", "file_path": "data/event/event_979.mp4", "annotation": "swerves", "task": "action", "data_type": "video"}
+{"file_id": "event_982", "file_path": "data/event/event_982.mp4", "annotation": "fires back", "task": "action", "data_type": "video"}
+{"file_id": "event_983", "file_path": "data/event/event_983.mp4", "annotation": "moves through the tunnel", "task": "action", "data_type": "video"}
+{"file_id": "event_984", "file_path": "data/event/event_984.mp4", "annotation": "searches", "task": "action", "data_type": "video"}
+{"file_id": "event_985", "file_path": "data/event/event_985.mp4", "annotation": "hits the ball once", "task": "action", "data_type": "video"}
+{"file_id": "event_986", "file_path": "data/event/event_986.mp4", "annotation": "drags", "task": "action", "data_type": "video"}
+{"file_id": "event_987", "file_path": "data/event/event_987.mp4", "annotation": "sits", "task": "action", "data_type": "video"}
+{"file_id": "event_988", "file_path": "data/event/event_988.mp4", "annotation": "leaves a trail of blue circles", "task": "action", "data_type": "video"}
+{"file_id": "event_989", "file_path": "data/event/event_989.mp4", "annotation": "transforms", "task": "action", "data_type": "video"}
+{"file_id": "event_990", "file_path": "data/event/event_990.mp4", "annotation": "hits", "task": "action", "data_type": "video"}
+{"file_id": "event_991", "file_path": "data/event/event_991.mp4", "annotation": "manipulate buttons", "task": "action", "data_type": "video"}
+{"file_id": "event_992", "file_path": "data/event/event_992.mp4", "annotation": "advises", "task": "action", "data_type": "video"}
+{"file_id": "event_993", "file_path": "data/event/event_993.mp4", "annotation": "sneezes", "task": "action", "data_type": "video"}
+{"file_id": "event_994", "file_path": "data/event/event_994.mp4", "annotation": "extends", "task": "action", "data_type": "video"}
+{"file_id": "event_995", "file_path": "data/event/event_995.mp4", "annotation": "bends down", "task": "action", "data_type": "video"}
+{"file_id": "event_996", "file_path": "data/event/event_996.mp4", "annotation": "soars", "task": "action", "data_type": "video"}
+{"file_id": "event_997", "file_path": "data/event/event_997.mp4", "annotation": "knocks books from hands", "task": "action", "data_type": "video"}
+{"file_id": "event_998", "file_path": "data/event/event_998.mp4", "annotation": "climbing", "task": "action", "data_type": "video"}
+{"file_id": "event_999", "file_path": "data/event/event_999.mp4", "annotation": "spins", "task": "action", "data_type": "video"}
+{"file_id": "event_1000", "file_path": "data/event/event_1000.mp4", "annotation": "springs", "task": "action", "data_type": "video"}

@@ -1,0 +1,1000 @@
+{"file_id": "object_category_0", "file_path": "data/object_category/object_category_0.jpg", "annotation": "stain", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_1", "file_path": "data/object_category/object_category_1.jpg", "annotation": "arch", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_2", "file_path": "data/object_category/object_category_2.jpg", "annotation": "ladder", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_3", "file_path": "data/object_category/object_category_3.jpg", "annotation": "Nuka-Cola logo", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_4", "file_path": "data/object_category/object_category_4.jpg", "annotation": "avocado", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_5", "file_path": "data/object_category/object_category_5.jpg", "annotation": "side stretch card", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_6", "file_path": "data/object_category/object_category_6.jpg", "annotation": "elephant", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_7", "file_path": "data/object_category/object_category_7.jpg", "annotation": "t-shirt", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_8", "file_path": "data/object_category/object_category_8.jpg", "annotation": "lace doily", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_9", "file_path": "data/object_category/object_category_9.jpg", "annotation": "people in the background", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_10", "file_path": "data/object_category/object_category_10.jpg", "annotation": "blue long sleeve shirt", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_11", "file_path": "data/object_category/object_category_11.jpg", "annotation": "glass figurine", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_12", "file_path": "data/object_category/object_category_12.jpg", "annotation": "playground", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_13", "file_path": "data/object_category/object_category_13.jpg", "annotation": "ship", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_14", "file_path": "data/object_category/object_category_14.jpg", "annotation": "metal frame", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_15", "file_path": "data/object_category/object_category_15.jpg", "annotation": "tie-dye outfit", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_16", "file_path": "data/object_category/object_category_16.jpg", "annotation": "wooden board", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_17", "file_path": "data/object_category/object_category_17.jpg", "annotation": "cheese", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_18", "file_path": "data/object_category/object_category_18.jpg", "annotation": "piano", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_19", "file_path": "data/object_category/object_category_19.jpg", "annotation": "table", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_20", "file_path": "data/object_category/object_category_20.jpg", "annotation": "purple dragon costume", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_21", "file_path": "data/object_category/object_category_21.jpg", "annotation": "eyelet", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_22", "file_path": "data/object_category/object_category_22.jpg", "annotation": "column", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_23", "file_path": "data/object_category/object_category_23.jpg", "annotation": "fence mask", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_24", "file_path": "data/object_category/object_category_24.jpg", "annotation": "Coca-Cola can", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_25", "file_path": "data/object_category/object_category_25.jpg", "annotation": "motorcycle saddlebag", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_26", "file_path": "data/object_category/object_category_26.jpg", "annotation": "seat", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_27", "file_path": "data/object_category/object_category_27.jpg", "annotation": "wooden pole", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_28", "file_path": "data/object_category/object_category_28.jpg", "annotation": "steel rebar", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_29", "file_path": "data/object_category/object_category_29.jpg", "annotation": "illustration of water plant", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_30", "file_path": "data/object_category/object_category_30.jpg", "annotation": "screen", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_31", "file_path": "data/object_category/object_category_31.png", "annotation": "life jacket", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_32", "file_path": "data/object_category/object_category_32.jpg", "annotation": "wooden railing", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_33", "file_path": "data/object_category/object_category_33.jpg", "annotation": "fabric with US dollar bill print", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_34", "file_path": "data/object_category/object_category_34.jpg", "annotation": "black pant", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_35", "file_path": "data/object_category/object_category_35.jpg", "annotation": "roast chicken", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_36", "file_path": "data/object_category/object_category_36.jpg", "annotation": "warehouse", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_37", "file_path": "data/object_category/object_category_37.jpg", "annotation": "teacup", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_38", "file_path": "data/object_category/object_category_38.jpg", "annotation": "gravel", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_39", "file_path": "data/object_category/object_category_39.jpg", "annotation": "paddleboarders", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_40", "file_path": "data/object_category/object_category_40.jpg", "annotation": "wheelchair", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_41", "file_path": "data/object_category/object_category_41.jpg", "annotation": "image of a man", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_42", "file_path": "data/object_category/object_category_42.jpg", "annotation": "textured white fabric", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_43", "file_path": "data/object_category/object_category_43.jpg", "annotation": "pink long-sleeve shirt", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_44", "file_path": "data/object_category/object_category_44.jpg", "annotation": "tulle skirt", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_45", "file_path": "data/object_category/object_category_45.jpg", "annotation": "electrical wire", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_46", "file_path": "data/object_category/object_category_46.jpg", "annotation": "red pepper", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_47", "file_path": "data/object_category/object_category_47.jpg", "annotation": "child", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_48", "file_path": "data/object_category/object_category_48.jpg", "annotation": "outdoor seating", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_49", "file_path": "data/object_category/object_category_49.jpg", "annotation": "red short", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_50", "file_path": "data/object_category/object_category_50.jpg", "annotation": "general assault badge", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_51", "file_path": "data/object_category/object_category_51.jpg", "annotation": "black and green shape", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_52", "file_path": "data/object_category/object_category_52.jpg", "annotation": "arch", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_53", "file_path": "data/object_category/object_category_53.jpg", "annotation": "GREEN plant ball", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_54", "file_path": "data/object_category/object_category_54.jpg", "annotation": "canvas frame", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_55", "file_path": "data/object_category/object_category_55.jpg", "annotation": "Duke University Archives watermark", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_56", "file_path": "data/object_category/object_category_56.jpg", "annotation": "basil leaf", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_57", "file_path": "data/object_category/object_category_57.jpg", "annotation": "inscription", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_58", "file_path": "data/object_category/object_category_58.jpg", "annotation": "oar", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_59", "file_path": "data/object_category/object_category_59.jpg", "annotation": "volume knob", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_60", "file_path": "data/object_category/object_category_60.jpg", "annotation": "tire pressure gauge", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_61", "file_path": "data/object_category/object_category_61.jpg", "annotation": "bow tie", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_62", "file_path": "data/object_category/object_category_62.jpg", "annotation": "leash", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_63", "file_path": "data/object_category/object_category_63.jpg", "annotation": "face mask", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_64", "file_path": "data/object_category/object_category_64.jpg", "annotation": "knife", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_65", "file_path": "data/object_category/object_category_65.jpg", "annotation": "city", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_66", "file_path": "data/object_category/object_category_66.jpg", "annotation": "uniformed personnel", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_67", "file_path": "data/object_category/object_category_67.jpg", "annotation": "paper wrap food", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_68", "file_path": "data/object_category/object_category_68.jpg", "annotation": "chopstick", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_69", "file_path": "data/object_category/object_category_69.jpg", "annotation": "wooden plank", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_70", "file_path": "data/object_category/object_category_70.jpg", "annotation": "yellow belt", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_71", "file_path": "data/object_category/object_category_71.jpg", "annotation": "worker", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_72", "file_path": "data/object_category/object_category_72.jpg", "annotation": "airplane", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_73", "file_path": "data/object_category/object_category_73.jpg", "annotation": "green leaf", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_74", "file_path": "data/object_category/object_category_74.jpg", "annotation": "carpet", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_75", "file_path": "data/object_category/object_category_75.jpg", "annotation": "person", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_76", "file_path": "data/object_category/object_category_76.jpg", "annotation": "solar power icon", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_77", "file_path": "data/object_category/object_category_77.jpg", "annotation": "wooden structure", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_78", "file_path": "data/object_category/object_category_78.jpg", "annotation": "sand pit", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_79", "file_path": "data/object_category/object_category_79.jpg", "annotation": "eagle image", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_80", "file_path": "data/object_category/object_category_80.jpg", "annotation": "drink", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_81", "file_path": "data/object_category/object_category_81.jpg", "annotation": "rectangular mirror table", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_82", "file_path": "data/object_category/object_category_82.jpg", "annotation": "mask", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_83", "file_path": "data/object_category/object_category_83.jpg", "annotation": "ocean", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_84", "file_path": "data/object_category/object_category_84.jpg", "annotation": "grid", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_85", "file_path": "data/object_category/object_category_85.jpg", "annotation": "traffic sign", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_86", "file_path": "data/object_category/object_category_86.jpg", "annotation": "Monster Energy logo", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_87", "file_path": "data/object_category/object_category_87.jpg", "annotation": "stone wall", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_88", "file_path": "data/object_category/object_category_88.jpg", "annotation": "flower", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_89", "file_path": "data/object_category/object_category_89.jpg", "annotation": "Features button", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_90", "file_path": "data/object_category/object_category_90.jpg", "annotation": "restaurant", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_91", "file_path": "data/object_category/object_category_91.jpg", "annotation": "unicorn graphic", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_92", "file_path": "data/object_category/object_category_92.jpg", "annotation": "napkin", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_93", "file_path": "data/object_category/object_category_93.jpg", "annotation": "fry tofu pocket", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_94", "file_path": "data/object_category/object_category_94.jpg", "annotation": "plate", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_95", "file_path": "data/object_category/object_category_95.jpg", "annotation": "sauce", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_96", "file_path": "data/object_category/object_category_96.jpg", "annotation": "mailbox", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_97", "file_path": "data/object_category/object_category_97.jpg", "annotation": "blue banner header", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_98", "file_path": "data/object_category/object_category_98.jpg", "annotation": "relay", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_99", "file_path": "data/object_category/object_category_99.jpg", "annotation": "fire in stove", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_100", "file_path": "data/object_category/object_category_100.jpg", "annotation": "trash can", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_101", "file_path": "data/object_category/object_category_101.jpg", "annotation": "grass field", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_102", "file_path": "data/object_category/object_category_102.jpg", "annotation": "bushing", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_103", "file_path": "data/object_category/object_category_103.jpg", "annotation": "wooden frame", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_104", "file_path": "data/object_category/object_category_104.jpg", "annotation": "fruit topping", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_105", "file_path": "data/object_category/object_category_105.jpg", "annotation": "boy", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_106", "file_path": "data/object_category/object_category_106.jpg", "annotation": "helmet", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_107", "file_path": "data/object_category/object_category_107.jpg", "annotation": "seat headrest cover", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_108", "file_path": "data/object_category/object_category_108.jpg", "annotation": "sunflower", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_109", "file_path": "data/object_category/object_category_109.jpg", "annotation": "vaccine_information", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_110", "file_path": "data/object_category/object_category_110.jpg", "annotation": "turn signal indicator", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_111", "file_path": "data/object_category/object_category_111.jpg", "annotation": "dog treat bag", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_112", "file_path": "data/object_category/object_category_112.jpg", "annotation": "BEST BUY sign", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_113", "file_path": "data/object_category/object_category_113.jpg", "annotation": "black shoe", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_114", "file_path": "data/object_category/object_category_114.jpg", "annotation": "stack chair", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_115", "file_path": "data/object_category/object_category_115.jpg", "annotation": "soccer uniform", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_116", "file_path": "data/object_category/object_category_116.jpg", "annotation": "olive branch with olives", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_117", "file_path": "data/object_category/object_category_117.jpg", "annotation": "delivery robot", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_118", "file_path": "data/object_category/object_category_118.jpg", "annotation": "insect", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_119", "file_path": "data/object_category/object_category_119.jpg", "annotation": "knit fabric pattern", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_120", "file_path": "data/object_category/object_category_120.jpg", "annotation": "christmas ornament", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_121", "file_path": "data/object_category/object_category_121.jpg", "annotation": "stone lantern", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_122", "file_path": "data/object_category/object_category_122.jpg", "annotation": "soil", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_123", "file_path": "data/object_category/object_category_123.jpg", "annotation": "purple crystal", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_124", "file_path": "data/object_category/object_category_124.jpg", "annotation": "table base", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_125", "file_path": "data/object_category/object_category_125.jpg", "annotation": "minaret", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_126", "file_path": "data/object_category/object_category_126.jpg", "annotation": "inflatable slide", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_127", "file_path": "data/object_category/object_category_127.jpg", "annotation": "doll", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_128", "file_path": "data/object_category/object_category_128.jpg", "annotation": "print design paper", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_129", "file_path": "data/object_category/object_category_129.jpg", "annotation": "relay", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_130", "file_path": "data/object_category/object_category_130.jpg", "annotation": "chop meat", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_131", "file_path": "data/object_category/object_category_131.jpg", "annotation": "ground service vehicle", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_132", "file_path": "data/object_category/object_category_132.jpg", "annotation": "practice net", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_133", "file_path": "data/object_category/object_category_133.jpg", "annotation": "streetlight", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_134", "file_path": "data/object_category/object_category_134.jpg", "annotation": "chopped scallion", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_135", "file_path": "data/object_category/object_category_135.jpg", "annotation": "button", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_136", "file_path": "data/object_category/object_category_136.jpg", "annotation": "plastic tube", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_137", "file_path": "data/object_category/object_category_137.jpg", "annotation": "ocean", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_138", "file_path": "data/object_category/object_category_138.jpg", "annotation": "AIR PORTUGAL logo", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_139", "file_path": "data/object_category/object_category_139.jpg", "annotation": "green trash bin", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_140", "file_path": "data/object_category/object_category_140.jpg", "annotation": "t-shirt", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_141", "file_path": "data/object_category/object_category_141.jpg", "annotation": "apron", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_142", "file_path": "data/object_category/object_category_142.jpg", "annotation": "girl with horse ear", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_143", "file_path": "data/object_category/object_category_143.jpg", "annotation": "Handicap symbol", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_144", "file_path": "data/object_category/object_category_144.jpg", "annotation": "chest of drawer", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_145", "file_path": "data/object_category/object_category_145.jpg", "annotation": "tree graphic", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_146", "file_path": "data/object_category/object_category_146.jpg", "annotation": "outdoor set", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_147", "file_path": "data/object_category/object_category_147.jpg", "annotation": "cup with beverage", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_148", "file_path": "data/object_category/object_category_148.jpg", "annotation": "black background", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_149", "file_path": "data/object_category/object_category_149.jpg", "annotation": "kurta", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_150", "file_path": "data/object_category/object_category_150.jpg", "annotation": "smoke", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_151", "file_path": "data/object_category/object_category_151.jpg", "annotation": "green object", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_152", "file_path": "data/object_category/object_category_152.jpg", "annotation": "street lamp", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_153", "file_path": "data/object_category/object_category_153.jpg", "annotation": "Shelf display", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_154", "file_path": "data/object_category/object_category_154.jpg", "annotation": "white plate", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_155", "file_path": "data/object_category/object_category_155.jpg", "annotation": "glass window", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_156", "file_path": "data/object_category/object_category_156.jpg", "annotation": "topiary", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_157", "file_path": "data/object_category/object_category_157.jpg", "annotation": "cloth on head", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_158", "file_path": "data/object_category/object_category_158.jpg", "annotation": "take photo button", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_159", "file_path": "data/object_category/object_category_159.jpg", "annotation": "microphone", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_160", "file_path": "data/object_category/object_category_160.jpg", "annotation": "Chinese-style building", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_161", "file_path": "data/object_category/object_category_161.jpg", "annotation": "statue of Jesus", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_162", "file_path": "data/object_category/object_category_162.jpg", "annotation": "signs", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_163", "file_path": "data/object_category/object_category_163.jpg", "annotation": "cat", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_164", "file_path": "data/object_category/object_category_164.jpg", "annotation": "curtain", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_165", "file_path": "data/object_category/object_category_165.jpg", "annotation": "hiker", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_166", "file_path": "data/object_category/object_category_166.jpg", "annotation": "sign with left arrow", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_167", "file_path": "data/object_category/object_category_167.jpg", "annotation": "flower pot", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_168", "file_path": "data/object_category/object_category_168.jpg", "annotation": "green cushion", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_169", "file_path": "data/object_category/object_category_169.jpg", "annotation": "Roseng\u00e5rd Centrum sign", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_170", "file_path": "data/object_category/object_category_170.jpg", "annotation": "black pant", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_171", "file_path": "data/object_category/object_category_171.jpg", "annotation": "chocolate mousse dessert", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_172", "file_path": "data/object_category/object_category_172.jpg", "annotation": "yellow food piece", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_173", "file_path": "data/object_category/object_category_173.jpg", "annotation": "4K Ultra HD NVR device", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_174", "file_path": "data/object_category/object_category_174.jpg", "annotation": "concrete mixture", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_175", "file_path": "data/object_category/object_category_175.jpg", "annotation": "helmet", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_176", "file_path": "data/object_category/object_category_176.jpg", "annotation": "speed skater1", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_177", "file_path": "data/object_category/object_category_177.jpg", "annotation": "brick pavement", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_178", "file_path": "data/object_category/object_category_178.jpg", "annotation": "brass lamp with white base", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_179", "file_path": "data/object_category/object_category_179.jpg", "annotation": "condiment bowl", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_180", "file_path": "data/object_category/object_category_180.jpg", "annotation": "white legging", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_181", "file_path": "data/object_category/object_category_181.jpg", "annotation": "shark", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_182", "file_path": "data/object_category/object_category_182.jpg", "annotation": "dot", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_183", "file_path": "data/object_category/object_category_183.jpg", "annotation": "tree stump", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_184", "file_path": "data/object_category/object_category_184.jpg", "annotation": "vegetation", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_185", "file_path": "data/object_category/object_category_185.jpg", "annotation": "Lotte World amusement park building", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_186", "file_path": "data/object_category/object_category_186.jpg", "annotation": "weightlifter", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_187", "file_path": "data/object_category/object_category_187.jpg", "annotation": "bench", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_188", "file_path": "data/object_category/object_category_188.jpg", "annotation": "Sleigh", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_189", "file_path": "data/object_category/object_category_189.jpg", "annotation": "kayak", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_190", "file_path": "data/object_category/object_category_190.jpg", "annotation": "ATG logo", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_191", "file_path": "data/object_category/object_category_191.jpg", "annotation": "run", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_192", "file_path": "data/object_category/object_category_192.jpg", "annotation": "swimmer", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_193", "file_path": "data/object_category/object_category_193.jpg", "annotation": "search bar", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_194", "file_path": "data/object_category/object_category_194.jpg", "annotation": "Breadboard", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_195", "file_path": "data/object_category/object_category_195.jpg", "annotation": "Waveland Av street sign", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_196", "file_path": "data/object_category/object_category_196.jpg", "annotation": "dry chili pepper", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_197", "file_path": "data/object_category/object_category_197.jpg", "annotation": "tongs", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_198", "file_path": "data/object_category/object_category_198.jpg", "annotation": "river", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_199", "file_path": "data/object_category/object_category_199.jpg", "annotation": "wallet", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_200", "file_path": "data/object_category/object_category_200.jpg", "annotation": "launch pad", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_201", "file_path": "data/object_category/object_category_201.jpg", "annotation": "jewelry display", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_202", "file_path": "data/object_category/object_category_202.jpg", "annotation": "chair", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_203", "file_path": "data/object_category/object_category_203.jpg", "annotation": "honeycomb cut bed", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_204", "file_path": "data/object_category/object_category_204.jpg", "annotation": "christmas tree", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_205", "file_path": "data/object_category/object_category_205.jpg", "annotation": "path", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_206", "file_path": "data/object_category/object_category_206.jpg", "annotation": "smoking room sign", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_207", "file_path": "data/object_category/object_category_207.jpg", "annotation": "Jessica Roberts profile picture", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_208", "file_path": "data/object_category/object_category_208.jpg", "annotation": "black tray", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_209", "file_path": "data/object_category/object_category_209.jpg", "annotation": "sneaker", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_210", "file_path": "data/object_category/object_category_210.jpg", "annotation": "Praxair truck", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_211", "file_path": "data/object_category/object_category_211.jpg", "annotation": "background decoration", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_212", "file_path": "data/object_category/object_category_212.jpg", "annotation": "archway", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_213", "file_path": "data/object_category/object_category_213.jpg", "annotation": "construction worker", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_214", "file_path": "data/object_category/object_category_214.jpg", "annotation": "awning", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_215", "file_path": "data/object_category/object_category_215.jpg", "annotation": "Capsicum", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_216", "file_path": "data/object_category/object_category_216.jpg", "annotation": "burlap", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_217", "file_path": "data/object_category/object_category_217.jpg", "annotation": "dilapidate roof", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_218", "file_path": "data/object_category/object_category_218.jpg", "annotation": "steam", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_219", "file_path": "data/object_category/object_category_219.jpg", "annotation": "support boat", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_220", "file_path": "data/object_category/object_category_220.jpg", "annotation": "decoration", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_221", "file_path": "data/object_category/object_category_221.jpg", "annotation": "hanger hook", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_222", "file_path": "data/object_category/object_category_222.jpg", "annotation": "field", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_223", "file_path": "data/object_category/object_category_223.jpg", "annotation": "rugby player in pink uniform", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_224", "file_path": "data/object_category/object_category_224.jpg", "annotation": "computer screen", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_225", "file_path": "data/object_category/object_category_225.jpg", "annotation": "computer screen", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_226", "file_path": "data/object_category/object_category_226.jpg", "annotation": "black pant", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_227", "file_path": "data/object_category/object_category_227.jpg", "annotation": "glass building", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_228", "file_path": "data/object_category/object_category_228.jpg", "annotation": "door handle", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_229", "file_path": "data/object_category/object_category_229.jpg", "annotation": "beach", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_230", "file_path": "data/object_category/object_category_230.jpg", "annotation": "Hilltop Collection tea tin", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_231", "file_path": "data/object_category/object_category_231.jpg", "annotation": "ladybug", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_232", "file_path": "data/object_category/object_category_232.jpg", "annotation": "power cable", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_233", "file_path": "data/object_category/object_category_233.jpg", "annotation": "Raymarine wireless autopilot remote control", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_234", "file_path": "data/object_category/object_category_234.jpg", "annotation": "white building in background", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_235", "file_path": "data/object_category/object_category_235.jpg", "annotation": "jacket", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_236", "file_path": "data/object_category/object_category_236.jpg", "annotation": "yellow dome tent", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_237", "file_path": "data/object_category/object_category_237.jpg", "annotation": "zipper", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_238", "file_path": "data/object_category/object_category_238.jpg", "annotation": "street sign", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_239", "file_path": "data/object_category/object_category_239.jpg", "annotation": "jacket", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_240", "file_path": "data/object_category/object_category_240.jpg", "annotation": "goggles", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_241", "file_path": "data/object_category/object_category_241.jpg", "annotation": "elephant_ottoman", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_242", "file_path": "data/object_category/object_category_242.jpg", "annotation": "white shirt", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_243", "file_path": "data/object_category/object_category_243.jpg", "annotation": "shrub", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_244", "file_path": "data/object_category/object_category_244.jpg", "annotation": "blue panel", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_245", "file_path": "data/object_category/object_category_245.jpg", "annotation": "papadum", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_246", "file_path": "data/object_category/object_category_246.jpg", "annotation": "fencing sword", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_247", "file_path": "data/object_category/object_category_247.jpg", "annotation": "architecture detail", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_248", "file_path": "data/object_category/object_category_248.jpg", "annotation": "banner", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_249", "file_path": "data/object_category/object_category_249.jpg", "annotation": "lace", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_250", "file_path": "data/object_category/object_category_250.jpg", "annotation": "checker bag", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_251", "file_path": "data/object_category/object_category_251.jpg", "annotation": "metal frame", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_252", "file_path": "data/object_category/object_category_252.jpg", "annotation": "calligraphy", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_253", "file_path": "data/object_category/object_category_253.jpg", "annotation": "scar", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_254", "file_path": "data/object_category/object_category_254.jpg", "annotation": "yellow plate", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_255", "file_path": "data/object_category/object_category_255.jpg", "annotation": "smartphone", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_256", "file_path": "data/object_category/object_category_256.jpg", "annotation": "cape", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_257", "file_path": "data/object_category/object_category_257.jpg", "annotation": "distant ship", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_258", "file_path": "data/object_category/object_category_258.jpg", "annotation": "seat belt", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_259", "file_path": "data/object_category/object_category_259.jpg", "annotation": "world map", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_260", "file_path": "data/object_category/object_category_260.jpg", "annotation": "store sign", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_261", "file_path": "data/object_category/object_category_261.jpg", "annotation": "lifeguard tower", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_262", "file_path": "data/object_category/object_category_262.jpg", "annotation": "George Square", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_263", "file_path": "data/object_category/object_category_263.jpg", "annotation": "woman", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_264", "file_path": "data/object_category/object_category_264.jpg", "annotation": "high jump bar", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_265", "file_path": "data/object_category/object_category_265.jpg", "annotation": "cloud", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_266", "file_path": "data/object_category/object_category_266.jpg", "annotation": "window", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_267", "file_path": "data/object_category/object_category_267.jpg", "annotation": "red bow tie", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_268", "file_path": "data/object_category/object_category_268.jpg", "annotation": "wooden bead", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_269", "file_path": "data/object_category/object_category_269.jpg", "annotation": "claw machine", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_270", "file_path": "data/object_category/object_category_270.jpg", "annotation": "taco", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_271", "file_path": "data/object_category/object_category_271.jpg", "annotation": "power line", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_272", "file_path": "data/object_category/object_category_272.jpg", "annotation": "wall decor", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_273", "file_path": "data/object_category/object_category_273.jpg", "annotation": "metal pipe", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_274", "file_path": "data/object_category/object_category_274.jpg", "annotation": "JAMB logo", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_275", "file_path": "data/object_category/object_category_275.jpg", "annotation": "ski jumper", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_276", "file_path": "data/object_category/object_category_276.jpg", "annotation": "persimmon", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_277", "file_path": "data/object_category/object_category_277.jpg", "annotation": "man", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_278", "file_path": "data/object_category/object_category_278.jpg", "annotation": "shopping bag", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_279", "file_path": "data/object_category/object_category_279.jpg", "annotation": "taco", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_280", "file_path": "data/object_category/object_category_280.jpg", "annotation": "arrow symbol", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_281", "file_path": "data/object_category/object_category_281.jpg", "annotation": "wooden structure", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_282", "file_path": "data/object_category/object_category_282.jpg", "annotation": "thermal paste syringe", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_283", "file_path": "data/object_category/object_category_283.jpg", "annotation": "brick wall", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_284", "file_path": "data/object_category/object_category_284.jpg", "annotation": "snow scene outside the window", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_285", "file_path": "data/object_category/object_category_285.jpg", "annotation": "platform number", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_286", "file_path": "data/object_category/object_category_286.jpg", "annotation": "track", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_287", "file_path": "data/object_category/object_category_287.jpg", "annotation": "hoop earring", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_288", "file_path": "data/object_category/object_category_288.jpg", "annotation": "antler", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_289", "file_path": "data/object_category/object_category_289.jpg", "annotation": "audience", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_290", "file_path": "data/object_category/object_category_290.jpg", "annotation": "3D printed object after improvement", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_291", "file_path": "data/object_category/object_category_291.jpg", "annotation": "silver skull bead", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_292", "file_path": "data/object_category/object_category_292.jpg", "annotation": "traffic light", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_293", "file_path": "data/object_category/object_category_293.jpg", "annotation": "black TV stand", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_294", "file_path": "data/object_category/object_category_294.jpg", "annotation": "fire hose", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_295", "file_path": "data/object_category/object_category_295.jpg", "annotation": "mascara", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_296", "file_path": "data/object_category/object_category_296.jpg", "annotation": "volleyball", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_297", "file_path": "data/object_category/object_category_297.jpg", "annotation": "jam jar", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_298", "file_path": "data/object_category/object_category_298.jpg", "annotation": "white cloth", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_299", "file_path": "data/object_category/object_category_299.jpg", "annotation": "bus icon", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_300", "file_path": "data/object_category/object_category_300.jpg", "annotation": "blue gemstone", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_301", "file_path": "data/object_category/object_category_301.jpg", "annotation": "small bowl", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_302", "file_path": "data/object_category/object_category_302.jpg", "annotation": "cardboard box", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_303", "file_path": "data/object_category/object_category_303.jpg", "annotation": "pillow", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_304", "file_path": "data/object_category/object_category_304.jpg", "annotation": "chimney", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_305", "file_path": "data/object_category/object_category_305.jpg", "annotation": "shrimp nigiri", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_306", "file_path": "data/object_category/object_category_306.jpg", "annotation": "orange triangle", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_307", "file_path": "data/object_category/object_category_307.jpg", "annotation": "chef", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_308", "file_path": "data/object_category/object_category_308.jpg", "annotation": "plant design", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_309", "file_path": "data/object_category/object_category_309.jpg", "annotation": "chainmail", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_310", "file_path": "data/object_category/object_category_310.jpg", "annotation": "Christmas light", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_311", "file_path": "data/object_category/object_category_311.jpg", "annotation": "brown bag", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_312", "file_path": "data/object_category/object_category_312.jpg", "annotation": "path", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_313", "file_path": "data/object_category/object_category_313.jpg", "annotation": "people in the background", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_314", "file_path": "data/object_category/object_category_314.jpg", "annotation": "clay tablet", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_315", "file_path": "data/object_category/object_category_315.jpg", "annotation": "stand", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_316", "file_path": "data/object_category/object_category_316.jpg", "annotation": "adidas shoe", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_317", "file_path": "data/object_category/object_category_317.jpg", "annotation": "dog", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_318", "file_path": "data/object_category/object_category_318.jpg", "annotation": "Number input box", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_319", "file_path": "data/object_category/object_category_319.jpg", "annotation": "traffic light", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_320", "file_path": "data/object_category/object_category_320.jpg", "annotation": "cactus", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_321", "file_path": "data/object_category/object_category_321.jpg", "annotation": "Goku", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_322", "file_path": "data/object_category/object_category_322.jpg", "annotation": "fur", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_323", "file_path": "data/object_category/object_category_323.jpg", "annotation": "mountain", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_324", "file_path": "data/object_category/object_category_324.jpg", "annotation": "\u041f\u043e\u0447\u0442\u0430 \u0421\u0421\u0421\u0420", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_325", "file_path": "data/object_category/object_category_325.jpg", "annotation": "drum", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_326", "file_path": "data/object_category/object_category_326.jpg", "annotation": "paper", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_327", "file_path": "data/object_category/object_category_327.jpg", "annotation": "medal", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_328", "file_path": "data/object_category/object_category_328.jpg", "annotation": "castle tower", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_329", "file_path": "data/object_category/object_category_329.jpg", "annotation": "floral print legging", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_330", "file_path": "data/object_category/object_category_330.jpg", "annotation": "visitor", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_331", "file_path": "data/object_category/object_category_331.jpg", "annotation": "mask", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_332", "file_path": "data/object_category/object_category_332.jpg", "annotation": "greenery", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_333", "file_path": "data/object_category/object_category_333.jpg", "annotation": "sander", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_334", "file_path": "data/object_category/object_category_334.jpg", "annotation": "yellow sculpture", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_335", "file_path": "data/object_category/object_category_335.jpg", "annotation": "chandelier", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_336", "file_path": "data/object_category/object_category_336.jpg", "annotation": "lefse", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_337", "file_path": "data/object_category/object_category_337.jpg", "annotation": "wooden crate", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_338", "file_path": "data/object_category/object_category_338.jpg", "annotation": "sport uniform", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_339", "file_path": "data/object_category/object_category_339.jpg", "annotation": "slice leek", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_340", "file_path": "data/object_category/object_category_340.jpg", "annotation": "white background", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_341", "file_path": "data/object_category/object_category_341.jpg", "annotation": "lace doily", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_342", "file_path": "data/object_category/object_category_342.jpg", "annotation": "image of a woman", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_343", "file_path": "data/object_category/object_category_343.jpg", "annotation": "chain link", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_344", "file_path": "data/object_category/object_category_344.jpg", "annotation": "phone icon", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_345", "file_path": "data/object_category/object_category_345.jpg", "annotation": "sand", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_346", "file_path": "data/object_category/object_category_346.jpg", "annotation": "tennis dress", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_347", "file_path": "data/object_category/object_category_347.jpg", "annotation": "SET+ button", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_348", "file_path": "data/object_category/object_category_348.jpg", "annotation": "ceiling light", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_349", "file_path": "data/object_category/object_category_349.jpg", "annotation": "liquid be pour", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_350", "file_path": "data/object_category/object_category_350.jpg", "annotation": "life preserver", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_351", "file_path": "data/object_category/object_category_351.jpg", "annotation": "bottle", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_352", "file_path": "data/object_category/object_category_352.jpg", "annotation": "burnt paper", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_353", "file_path": "data/object_category/object_category_353.jpg", "annotation": "silver tea set", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_354", "file_path": "data/object_category/object_category_354.jpg", "annotation": "hang fish decoration", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_355", "file_path": "data/object_category/object_category_355.jpg", "annotation": "palm tree", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_356", "file_path": "data/object_category/object_category_356.jpg", "annotation": "armor", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_357", "file_path": "data/object_category/object_category_357.jpg", "annotation": "blister pack", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_358", "file_path": "data/object_category/object_category_358.jpg", "annotation": "purple geometric figure", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_359", "file_path": "data/object_category/object_category_359.jpg", "annotation": "pant", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_360", "file_path": "data/object_category/object_category_360.jpg", "annotation": "armrest", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_361", "file_path": "data/object_category/object_category_361.jpg", "annotation": "DNA strand", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_362", "file_path": "data/object_category/object_category_362.jpg", "annotation": "round label", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_363", "file_path": "data/object_category/object_category_363.jpg", "annotation": "salwar", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_364", "file_path": "data/object_category/object_category_364.jpg", "annotation": "wooden door", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_365", "file_path": "data/object_category/object_category_365.jpg", "annotation": "poster", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_366", "file_path": "data/object_category/object_category_366.jpg", "annotation": "tag", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_367", "file_path": "data/object_category/object_category_367.jpg", "annotation": "outdoor event", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_368", "file_path": "data/object_category/object_category_368.jpg", "annotation": "ring", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_369", "file_path": "data/object_category/object_category_369.jpg", "annotation": "toy house", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_370", "file_path": "data/object_category/object_category_370.jpg", "annotation": "ceiling", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_371", "file_path": "data/object_category/object_category_371.jpg", "annotation": "staircase", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_372", "file_path": "data/object_category/object_category_372.jpg", "annotation": "storage shelf", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_373", "file_path": "data/object_category/object_category_373.jpg", "annotation": "street light", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_374", "file_path": "data/object_category/object_category_374.jpg", "annotation": "warn sticker", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_375", "file_path": "data/object_category/object_category_375.jpg", "annotation": "drawing", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_376", "file_path": "data/object_category/object_category_376.jpg", "annotation": "stone bridge", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_377", "file_path": "data/object_category/object_category_377.jpg", "annotation": "sport bet app", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_378", "file_path": "data/object_category/object_category_378.jpg", "annotation": "pink diamond", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_379", "file_path": "data/object_category/object_category_379.jpg", "annotation": "mermaid statue", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_380", "file_path": "data/object_category/object_category_380.jpg", "annotation": "circle", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_381", "file_path": "data/object_category/object_category_381.jpg", "annotation": "tree", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_382", "file_path": "data/object_category/object_category_382.jpg", "annotation": "gravel area", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_383", "file_path": "data/object_category/object_category_383.jpg", "annotation": "glass container", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_384", "file_path": "data/object_category/object_category_384.jpg", "annotation": "people in hazmat suit", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_385", "file_path": "data/object_category/object_category_385.jpg", "annotation": "Olympic ring backdrop", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_386", "file_path": "data/object_category/object_category_386.jpg", "annotation": "Maggi season cooking paper for tender chicken packet", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_387", "file_path": "data/object_category/object_category_387.jpg", "annotation": "pandan leaf", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_388", "file_path": "data/object_category/object_category_388.jpg", "annotation": "statue", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_389", "file_path": "data/object_category/object_category_389.jpg", "annotation": "blue background", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_390", "file_path": "data/object_category/object_category_390.jpg", "annotation": "decoration", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_391", "file_path": "data/object_category/object_category_391.jpg", "annotation": "pond", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_392", "file_path": "data/object_category/object_category_392.jpg", "annotation": "yellow strand ( possibly hair )", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_393", "file_path": "data/object_category/object_category_393.jpg", "annotation": "denim jumpsuit", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_394", "file_path": "data/object_category/object_category_394.jpg", "annotation": "amethyst", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_395", "file_path": "data/object_category/object_category_395.jpg", "annotation": "juice container", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_396", "file_path": "data/object_category/object_category_396.jpg", "annotation": "light", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_397", "file_path": "data/object_category/object_category_397.jpg", "annotation": "travel pillow", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_398", "file_path": "data/object_category/object_category_398.jpg", "annotation": "pink shoe with yellow tassel", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_399", "file_path": "data/object_category/object_category_399.jpg", "annotation": "Kodak sign", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_400", "file_path": "data/object_category/object_category_400.jpg", "annotation": "cloth", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_401", "file_path": "data/object_category/object_category_401.jpg", "annotation": "wooden door", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_402", "file_path": "data/object_category/object_category_402.jpg", "annotation": "garden", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_403", "file_path": "data/object_category/object_category_403.jpg", "annotation": "Sausage", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_404", "file_path": "data/object_category/object_category_404.jpg", "annotation": "light", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_405", "file_path": "data/object_category/object_category_405.jpg", "annotation": "snow tube", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_406", "file_path": "data/object_category/object_category_406.jpg", "annotation": "glass of champagne", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_407", "file_path": "data/object_category/object_category_407.jpg", "annotation": "white sock", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_408", "file_path": "data/object_category/object_category_408.jpg", "annotation": "lane number", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_409", "file_path": "data/object_category/object_category_409.jpg", "annotation": "wooden beam", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_410", "file_path": "data/object_category/object_category_410.jpg", "annotation": "metal structure", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_411", "file_path": "data/object_category/object_category_411.jpg", "annotation": "basketball hoop", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_412", "file_path": "data/object_category/object_category_412.jpg", "annotation": "par sign", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_413", "file_path": "data/object_category/object_category_413.jpg", "annotation": "cloud", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_414", "file_path": "data/object_category/object_category_414.jpg", "annotation": "woven elastic band", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_415", "file_path": "data/object_category/object_category_415.jpg", "annotation": "wire", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_416", "file_path": "data/object_category/object_category_416.jpg", "annotation": "stone wall", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_417", "file_path": "data/object_category/object_category_417.jpg", "annotation": "turtle", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_418", "file_path": "data/object_category/object_category_418.jpg", "annotation": "wooden storage box", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_419", "file_path": "data/object_category/object_category_419.jpg", "annotation": "modern building", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_420", "file_path": "data/object_category/object_category_420.jpg", "annotation": "vaulted structure", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_421", "file_path": "data/object_category/object_category_421.jpg", "annotation": "glass roof", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_422", "file_path": "data/object_category/object_category_422.jpg", "annotation": "police officer", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_423", "file_path": "data/object_category/object_category_423.jpg", "annotation": "phone case", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_424", "file_path": "data/object_category/object_category_424.jpg", "annotation": "tire", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_425", "file_path": "data/object_category/object_category_425.jpg", "annotation": "tray", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_426", "file_path": "data/object_category/object_category_426.jpg", "annotation": "red hair", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_427", "file_path": "data/object_category/object_category_427.jpg", "annotation": "carve figure", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_428", "file_path": "data/object_category/object_category_428.jpg", "annotation": "paper clip", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_429", "file_path": "data/object_category/object_category_429.jpg", "annotation": "table in the background", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_430", "file_path": "data/object_category/object_category_430.jpg", "annotation": "corrugated metal", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_431", "file_path": "data/object_category/object_category_431.jpg", "annotation": "red chili pepper", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_432", "file_path": "data/object_category/object_category_432.jpg", "annotation": "soup", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_433", "file_path": "data/object_category/object_category_433.jpg", "annotation": "green shirt", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_434", "file_path": "data/object_category/object_category_434.jpg", "annotation": "high jump mat", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_435", "file_path": "data/object_category/object_category_435.jpg", "annotation": "metal rail", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_436", "file_path": "data/object_category/object_category_436.jpg", "annotation": "bench", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_437", "file_path": "data/object_category/object_category_437.jpg", "annotation": "high jump bar", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_438", "file_path": "data/object_category/object_category_438.jpg", "annotation": "tram track", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_439", "file_path": "data/object_category/object_category_439.jpg", "annotation": "desktop monitor", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_440", "file_path": "data/object_category/object_category_440.jpg", "annotation": "necklace", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_441", "file_path": "data/object_category/object_category_441.png", "annotation": "memory card", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_442", "file_path": "data/object_category/object_category_442.jpg", "annotation": "megaphone", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_443", "file_path": "data/object_category/object_category_443.jpg", "annotation": "air conditioner", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_444", "file_path": "data/object_category/object_category_444.jpg", "annotation": "van", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_445", "file_path": "data/object_category/object_category_445.jpg", "annotation": "neuron", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_446", "file_path": "data/object_category/object_category_446.jpg", "annotation": "hat", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_447", "file_path": "data/object_category/object_category_447.jpg", "annotation": "electrical outlet", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_448", "file_path": "data/object_category/object_category_448.jpg", "annotation": "blood sample", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_449", "file_path": "data/object_category/object_category_449.jpg", "annotation": "yellow ribbon", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_450", "file_path": "data/object_category/object_category_450.jpg", "annotation": "packaging", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_451", "file_path": "data/object_category/object_category_451.jpg", "annotation": "candy cane", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_452", "file_path": "data/object_category/object_category_452.jpg", "annotation": "sunflower bud", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_453", "file_path": "data/object_category/object_category_453.jpg", "annotation": "radiator heater", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_454", "file_path": "data/object_category/object_category_454.jpg", "annotation": "cactus", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_455", "file_path": "data/object_category/object_category_455.jpg", "annotation": "spur", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_456", "file_path": "data/object_category/object_category_456.jpg", "annotation": "rail", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_457", "file_path": "data/object_category/object_category_457.jpg", "annotation": "Regione Campania logo", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_458", "file_path": "data/object_category/object_category_458.jpg", "annotation": "table", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_459", "file_path": "data/object_category/object_category_459.jpg", "annotation": "cartoon character", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_460", "file_path": "data/object_category/object_category_460.jpg", "annotation": "valve", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_461", "file_path": "data/object_category/object_category_461.jpg", "annotation": "pork", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_462", "file_path": "data/object_category/object_category_462.jpg", "annotation": "bottle", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_463", "file_path": "data/object_category/object_category_463.jpg", "annotation": "trash bin", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_464", "file_path": "data/object_category/object_category_464.jpg", "annotation": "electric guitar", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_465", "file_path": "data/object_category/object_category_465.jpg", "annotation": "white sign", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_466", "file_path": "data/object_category/object_category_466.jpg", "annotation": "earplug", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_467", "file_path": "data/object_category/object_category_467.jpg", "annotation": "knit pant", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_468", "file_path": "data/object_category/object_category_468.jpg", "annotation": "gymnasium", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_469", "file_path": "data/object_category/object_category_469.jpg", "annotation": "Coca-Cola advertisement", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_470", "file_path": "data/object_category/object_category_470.jpg", "annotation": "bird", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_471", "file_path": "data/object_category/object_category_471.jpg", "annotation": "white book", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_472", "file_path": "data/object_category/object_category_472.jpg", "annotation": "Johnsonville cheddar cheese sausage pack", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_473", "file_path": "data/object_category/object_category_473.jpg", "annotation": "loveseat", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_474", "file_path": "data/object_category/object_category_474.jpg", "annotation": "statue of a seated person", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_475", "file_path": "data/object_category/object_category_475.jpg", "annotation": "glass", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_476", "file_path": "data/object_category/object_category_476.jpg", "annotation": "navy blue napkin", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_477", "file_path": "data/object_category/object_category_477.jpg", "annotation": "yoga mat", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_478", "file_path": "data/object_category/object_category_478.jpg", "annotation": "pie chart", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_479", "file_path": "data/object_category/object_category_479.jpg", "annotation": "yoga balls", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_480", "file_path": "data/object_category/object_category_480.jpg", "annotation": "crowd", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_481", "file_path": "data/object_category/object_category_481.jpg", "annotation": "shirt", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_482", "file_path": "data/object_category/object_category_482.jpg", "annotation": "volleyball", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_483", "file_path": "data/object_category/object_category_483.jpg", "annotation": "Grid background", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_484", "file_path": "data/object_category/object_category_484.jpg", "annotation": "parked vehicle", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_485", "file_path": "data/object_category/object_category_485.jpg", "annotation": "ruler", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_486", "file_path": "data/object_category/object_category_486.jpg", "annotation": "musical note sculpture", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_487", "file_path": "data/object_category/object_category_487.jpg", "annotation": "succulent", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_488", "file_path": "data/object_category/object_category_488.jpg", "annotation": "round wooden board", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_489", "file_path": "data/object_category/object_category_489.jpg", "annotation": "Pink Background", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_490", "file_path": "data/object_category/object_category_490.jpg", "annotation": "smartphone", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_491", "file_path": "data/object_category/object_category_491.jpg", "annotation": "red_cloche_hat", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_492", "file_path": "data/object_category/object_category_492.jpg", "annotation": "license plate", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_493", "file_path": "data/object_category/object_category_493.jpg", "annotation": "phone case", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_494", "file_path": "data/object_category/object_category_494.jpg", "annotation": "207 Records Inc", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_495", "file_path": "data/object_category/object_category_495.jpg", "annotation": "flashlight", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_496", "file_path": "data/object_category/object_category_496.jpg", "annotation": "earring", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_497", "file_path": "data/object_category/object_category_497.jpg", "annotation": "support pillar", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_498", "file_path": "data/object_category/object_category_498.jpg", "annotation": "badminton racket", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_499", "file_path": "data/object_category/object_category_499.jpg", "annotation": "green bell pepper", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_500", "file_path": "data/object_category/object_category_500.jpg", "annotation": "boat in the background", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_501", "file_path": "data/object_category/object_category_501.jpg", "annotation": "screw terminal assortment", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_502", "file_path": "data/object_category/object_category_502.jpg", "annotation": "electronic timing device", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_503", "file_path": "data/object_category/object_category_503.jpg", "annotation": "open book page", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_504", "file_path": "data/object_category/object_category_504.jpg", "annotation": "background item", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_505", "file_path": "data/object_category/object_category_505.jpg", "annotation": "wallet", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_506", "file_path": "data/object_category/object_category_506.jpg", "annotation": "fender", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_507", "file_path": "data/object_category/object_category_507.jpg", "annotation": "fish", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_508", "file_path": "data/object_category/object_category_508.jpg", "annotation": "10 % off banner", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_509", "file_path": "data/object_category/object_category_509.jpg", "annotation": "ring", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_510", "file_path": "data/object_category/object_category_510.jpg", "annotation": "bamboo mat", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_511", "file_path": "data/object_category/object_category_511.jpg", "annotation": "shirt", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_512", "file_path": "data/object_category/object_category_512.jpg", "annotation": "tablecloth with embroidery", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_513", "file_path": "data/object_category/object_category_513.jpg", "annotation": "athlete", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_514", "file_path": "data/object_category/object_category_514.jpg", "annotation": "marble", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_515", "file_path": "data/object_category/object_category_515.jpg", "annotation": "wash machine", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_516", "file_path": "data/object_category/object_category_516.jpg", "annotation": "truck", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_517", "file_path": "data/object_category/object_category_517.jpg", "annotation": "Zeiss Compact Prime CP.3 18mm T/2.9 lens", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_518", "file_path": "data/object_category/object_category_518.jpg", "annotation": "ancient helmet", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_519", "file_path": "data/object_category/object_category_519.jpg", "annotation": "hair", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_520", "file_path": "data/object_category/object_category_520.jpg", "annotation": "black bag", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_521", "file_path": "data/object_category/object_category_521.jpg", "annotation": "soap bar", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_522", "file_path": "data/object_category/object_category_522.jpg", "annotation": "bud", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_523", "file_path": "data/object_category/object_category_523.jpg", "annotation": "rail", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_524", "file_path": "data/object_category/object_category_524.jpg", "annotation": "light bulb", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_525", "file_path": "data/object_category/object_category_525.jpg", "annotation": "costume", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_526", "file_path": "data/object_category/object_category_526.jpg", "annotation": "brown paper pouch", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_527", "file_path": "data/object_category/object_category_527.jpg", "annotation": "wooden ruler", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_528", "file_path": "data/object_category/object_category_528.jpg", "annotation": "Fila Disruptor sneaker", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_529", "file_path": "data/object_category/object_category_529.jpg", "annotation": "Eco Styler Professional Styling Gel container", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_530", "file_path": "data/object_category/object_category_530.jpg", "annotation": "marina", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_531", "file_path": "data/object_category/object_category_531.jpg", "annotation": "salad bowl", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_532", "file_path": "data/object_category/object_category_532.jpg", "annotation": "audio cable", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_533", "file_path": "data/object_category/object_category_533.jpg", "annotation": "tennis player", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_534", "file_path": "data/object_category/object_category_534.jpg", "annotation": "orange door", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_535", "file_path": "data/object_category/object_category_535.jpg", "annotation": "phone case", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_536", "file_path": "data/object_category/object_category_536.jpg", "annotation": "gray sweater", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_537", "file_path": "data/object_category/object_category_537.jpg", "annotation": "shadow", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_538", "file_path": "data/object_category/object_category_538.jpg", "annotation": "truck", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_539", "file_path": "data/object_category/object_category_539.jpg", "annotation": "woman", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_540", "file_path": "data/object_category/object_category_540.jpg", "annotation": "license plate", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_541", "file_path": "data/object_category/object_category_541.jpg", "annotation": "computer screen", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_542", "file_path": "data/object_category/object_category_542.jpg", "annotation": "green background", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_543", "file_path": "data/object_category/object_category_543.jpg", "annotation": "blue helmet", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_544", "file_path": "data/object_category/object_category_544.jpg", "annotation": "cobweb", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_545", "file_path": "data/object_category/object_category_545.jpg", "annotation": "climb equipment", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_546", "file_path": "data/object_category/object_category_546.jpg", "annotation": "fence", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_547", "file_path": "data/object_category/object_category_547.jpg", "annotation": "bow", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_548", "file_path": "data/object_category/object_category_548.jpg", "annotation": "Zigzagoon Pokemon", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_549", "file_path": "data/object_category/object_category_549.jpg", "annotation": "luggage", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_550", "file_path": "data/object_category/object_category_550.jpg", "annotation": "instruction", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_551", "file_path": "data/object_category/object_category_551.jpg", "annotation": "castle gate", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_552", "file_path": "data/object_category/object_category_552.jpg", "annotation": "stand", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_553", "file_path": "data/object_category/object_category_553.jpg", "annotation": "wallet", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_554", "file_path": "data/object_category/object_category_554.jpg", "annotation": "container of sliced ginger and scallion", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_555", "file_path": "data/object_category/object_category_555.jpg", "annotation": "Disney logo", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_556", "file_path": "data/object_category/object_category_556.jpg", "annotation": "green plant", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_557", "file_path": "data/object_category/object_category_557.jpg", "annotation": "tripod", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_558", "file_path": "data/object_category/object_category_558.jpg", "annotation": "shoe", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_559", "file_path": "data/object_category/object_category_559.jpg", "annotation": "taquitos", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_560", "file_path": "data/object_category/object_category_560.jpg", "annotation": "windmill", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_561", "file_path": "data/object_category/object_category_561.jpg", "annotation": "statue of a person", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_562", "file_path": "data/object_category/object_category_562.jpg", "annotation": "right turn road sign", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_563", "file_path": "data/object_category/object_category_563.jpg", "annotation": "olive oil", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_564", "file_path": "data/object_category/object_category_564.jpg", "annotation": "bird", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_565", "file_path": "data/object_category/object_category_565.jpg", "annotation": "headlight", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_566", "file_path": "data/object_category/object_category_566.jpg", "annotation": "guitar strap", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_567", "file_path": "data/object_category/object_category_567.jpg", "annotation": "monitor", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_568", "file_path": "data/object_category/object_category_568.jpg", "annotation": "anime character", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_569", "file_path": "data/object_category/object_category_569.jpg", "annotation": "tie", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_570", "file_path": "data/object_category/object_category_570.jpg", "annotation": "chopstick", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_571", "file_path": "data/object_category/object_category_571.jpg", "annotation": "store display", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_572", "file_path": "data/object_category/object_category_572.jpg", "annotation": "stone", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_573", "file_path": "data/object_category/object_category_573.jpg", "annotation": "mix board", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_574", "file_path": "data/object_category/object_category_574.jpg", "annotation": "blue flag", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_575", "file_path": "data/object_category/object_category_575.jpg", "annotation": "smartwatch", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_576", "file_path": "data/object_category/object_category_576.jpg", "annotation": "tortilla chip", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_577", "file_path": "data/object_category/object_category_577.jpg", "annotation": "fence", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_578", "file_path": "data/object_category/object_category_578.jpg", "annotation": "joystick", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_579", "file_path": "data/object_category/object_category_579.jpg", "annotation": "aluminum tray", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_580", "file_path": "data/object_category/object_category_580.jpg", "annotation": "kitchen glove", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_581", "file_path": "data/object_category/object_category_581.jpg", "annotation": "Nissin Cup Noodles ( Curry Flavor )", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_582", "file_path": "data/object_category/object_category_582.jpg", "annotation": "sour cream", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_583", "file_path": "data/object_category/object_category_583.jpg", "annotation": "doorknob", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_584", "file_path": "data/object_category/object_category_584.jpg", "annotation": "paper money", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_585", "file_path": "data/object_category/object_category_585.jpg", "annotation": "painting on the wall", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_586", "file_path": "data/object_category/object_category_586.jpg", "annotation": "McAfee Mobile Security screen", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_587", "file_path": "data/object_category/object_category_587.jpg", "annotation": "electric meter", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_588", "file_path": "data/object_category/object_category_588.jpg", "annotation": "bus stop", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_589", "file_path": "data/object_category/object_category_589.jpg", "annotation": "beige blanket", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_590", "file_path": "data/object_category/object_category_590.jpg", "annotation": "speedometer", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_591", "file_path": "data/object_category/object_category_591.jpg", "annotation": "tie-dye baseball cap", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_592", "file_path": "data/object_category/object_category_592.jpg", "annotation": "ancient ruin", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_593", "file_path": "data/object_category/object_category_593.jpg", "annotation": "person wear a black coat and hat", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_594", "file_path": "data/object_category/object_category_594.jpg", "annotation": "packaging", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_595", "file_path": "data/object_category/object_category_595.jpg", "annotation": "logo", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_596", "file_path": "data/object_category/object_category_596.jpg", "annotation": "cap", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_597", "file_path": "data/object_category/object_category_597.jpg", "annotation": "rope handle", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_598", "file_path": "data/object_category/object_category_598.jpg", "annotation": "Phone number", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_599", "file_path": "data/object_category/object_category_599.jpg", "annotation": "cycling shoe", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_600", "file_path": "data/object_category/object_category_600.jpg", "annotation": "purple object", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_601", "file_path": "data/object_category/object_category_601.jpg", "annotation": "empty bottle", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_602", "file_path": "data/object_category/object_category_602.jpg", "annotation": "makeup brush", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_603", "file_path": "data/object_category/object_category_603.jpg", "annotation": "notebook", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_604", "file_path": "data/object_category/object_category_604.jpg", "annotation": "to-go drink", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_605", "file_path": "data/object_category/object_category_605.jpg", "annotation": "Himalayan salt lamp", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_606", "file_path": "data/object_category/object_category_606.jpg", "annotation": "wing", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_607", "file_path": "data/object_category/object_category_607.jpg", "annotation": "run track", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_608", "file_path": "data/object_category/object_category_608.jpg", "annotation": "pedestrian", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_609", "file_path": "data/object_category/object_category_609.jpg", "annotation": "oil pumpjack", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_610", "file_path": "data/object_category/object_category_610.jpg", "annotation": "power line", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_611", "file_path": "data/object_category/object_category_611.jpg", "annotation": "industrial crane", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_612", "file_path": "data/object_category/object_category_612.jpg", "annotation": "electric pole", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_613", "file_path": "data/object_category/object_category_613.jpg", "annotation": "people", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_614", "file_path": "data/object_category/object_category_614.jpg", "annotation": "hoodies", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_615", "file_path": "data/object_category/object_category_615.jpg", "annotation": "blue sky", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_616", "file_path": "data/object_category/object_category_616.jpg", "annotation": "Pinoy Express logo", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_617", "file_path": "data/object_category/object_category_617.jpg", "annotation": "Citroen car", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_618", "file_path": "data/object_category/object_category_618.jpg", "annotation": "stem", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_619", "file_path": "data/object_category/object_category_619.jpg", "annotation": "hanging plant", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_620", "file_path": "data/object_category/object_category_620.jpg", "annotation": "mug", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_621", "file_path": "data/object_category/object_category_621.jpg", "annotation": "wood paneling", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_622", "file_path": "data/object_category/object_category_622.jpg", "annotation": "cricket ball", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_623", "file_path": "data/object_category/object_category_623.jpg", "annotation": "church", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_624", "file_path": "data/object_category/object_category_624.jpg", "annotation": "stack of cookie", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_625", "file_path": "data/object_category/object_category_625.jpg", "annotation": "hand", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_626", "file_path": "data/object_category/object_category_626.jpg", "annotation": "honey dipper stick", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_627", "file_path": "data/object_category/object_category_627.jpg", "annotation": "cross", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_628", "file_path": "data/object_category/object_category_628.jpg", "annotation": "cat face", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_629", "file_path": "data/object_category/object_category_629.jpg", "annotation": "brick", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_630", "file_path": "data/object_category/object_category_630.jpg", "annotation": "iMac computer", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_631", "file_path": "data/object_category/object_category_631.jpg", "annotation": "green leaf", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_632", "file_path": "data/object_category/object_category_632.jpg", "annotation": "headphone", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_633", "file_path": "data/object_category/object_category_633.jpg", "annotation": "ball", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_634", "file_path": "data/object_category/object_category_634.jpg", "annotation": "American flag", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_635", "file_path": "data/object_category/object_category_635.jpg", "annotation": "shell fragment", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_636", "file_path": "data/object_category/object_category_636.jpg", "annotation": "blue and white twisted stool", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_637", "file_path": "data/object_category/object_category_637.jpg", "annotation": "red vintage car", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_638", "file_path": "data/object_category/object_category_638.jpg", "annotation": "stair", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_639", "file_path": "data/object_category/object_category_639.jpg", "annotation": "boil chicken", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_640", "file_path": "data/object_category/object_category_640.jpg", "annotation": "sidewalk", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_641", "file_path": "data/object_category/object_category_641.jpg", "annotation": "electrical panel", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_642", "file_path": "data/object_category/object_category_642.jpg", "annotation": "Coca-Cola truck", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_643", "file_path": "data/object_category/object_category_643.jpg", "annotation": "large purple hat", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_644", "file_path": "data/object_category/object_category_644.jpg", "annotation": "lock icon", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_645", "file_path": "data/object_category/object_category_645.jpg", "annotation": "railroad track", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_646", "file_path": "data/object_category/object_category_646.jpg", "annotation": "image of a view", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_647", "file_path": "data/object_category/object_category_647.jpg", "annotation": "chandelier", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_648", "file_path": "data/object_category/object_category_648.jpg", "annotation": "Watford logo", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_649", "file_path": "data/object_category/object_category_649.jpg", "annotation": "cone", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_650", "file_path": "data/object_category/object_category_650.jpg", "annotation": "glass wall", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_651", "file_path": "data/object_category/object_category_651.jpg", "annotation": "crown", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_652", "file_path": "data/object_category/object_category_652.jpg", "annotation": "van", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_653", "file_path": "data/object_category/object_category_653.jpg", "annotation": "cityscape", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_654", "file_path": "data/object_category/object_category_654.jpg", "annotation": "audio equipment", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_655", "file_path": "data/object_category/object_category_655.jpg", "annotation": "swim trunk", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_656", "file_path": "data/object_category/object_category_656.jpg", "annotation": "sichuan peppercorn", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_657", "file_path": "data/object_category/object_category_657.jpg", "annotation": "dive mask", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_658", "file_path": "data/object_category/object_category_658.jpg", "annotation": "bean sprout", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_659", "file_path": "data/object_category/object_category_659.jpg", "annotation": "sunglass", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_660", "file_path": "data/object_category/object_category_660.jpg", "annotation": "dance floor", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_661", "file_path": "data/object_category/object_category_661.jpg", "annotation": "truss", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_662", "file_path": "data/object_category/object_category_662.jpg", "annotation": "line for write", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_663", "file_path": "data/object_category/object_category_663.jpg", "annotation": "hood towel", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_664", "file_path": "data/object_category/object_category_664.jpg", "annotation": "Pink floral van", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_665", "file_path": "data/object_category/object_category_665.jpg", "annotation": "Boost Juice Bars cup", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_666", "file_path": "data/object_category/object_category_666.jpg", "annotation": "adhesive bandage", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_667", "file_path": "data/object_category/object_category_667.jpg", "annotation": "chop herb", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_668", "file_path": "data/object_category/object_category_668.jpg", "annotation": "winged foot", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_669", "file_path": "data/object_category/object_category_669.jpg", "annotation": "shoe", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_670", "file_path": "data/object_category/object_category_670.jpg", "annotation": "cowrie shell", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_671", "file_path": "data/object_category/object_category_671.jpg", "annotation": "outdoor furniture", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_672", "file_path": "data/object_category/object_category_672.jpg", "annotation": "orange rope", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_673", "file_path": "data/object_category/object_category_673.jpg", "annotation": "grill meat", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_674", "file_path": "data/object_category/object_category_674.jpg", "annotation": "advertisement banner", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_675", "file_path": "data/object_category/object_category_675.jpg", "annotation": "decoration", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_676", "file_path": "data/object_category/object_category_676.jpg", "annotation": "curtain", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_677", "file_path": "data/object_category/object_category_677.jpg", "annotation": "wristband", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_678", "file_path": "data/object_category/object_category_678.jpg", "annotation": "carpet", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_679", "file_path": "data/object_category/object_category_679.jpg", "annotation": "rear window", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_680", "file_path": "data/object_category/object_category_680.jpg", "annotation": "banner", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_681", "file_path": "data/object_category/object_category_681.jpg", "annotation": "ARC logo", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_682", "file_path": "data/object_category/object_category_682.jpg", "annotation": "parsley", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_683", "file_path": "data/object_category/object_category_683.jpg", "annotation": "spider", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_684", "file_path": "data/object_category/object_category_684.jpg", "annotation": "SanDisk dual flash drive", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_685", "file_path": "data/object_category/object_category_685.jpg", "annotation": "green pill", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_686", "file_path": "data/object_category/object_category_686.jpg", "annotation": "girl", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_687", "file_path": "data/object_category/object_category_687.jpg", "annotation": "floor", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_688", "file_path": "data/object_category/object_category_688.jpg", "annotation": "Darth Vader LEGO figure", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_689", "file_path": "data/object_category/object_category_689.jpg", "annotation": "people", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_690", "file_path": "data/object_category/object_category_690.jpg", "annotation": "serve dish", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_691", "file_path": "data/object_category/object_category_691.jpg", "annotation": "blue jean", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_692", "file_path": "data/object_category/object_category_692.jpg", "annotation": "belt clip", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_693", "file_path": "data/object_category/object_category_693.jpg", "annotation": "postmark", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_694", "file_path": "data/object_category/object_category_694.jpg", "annotation": "butterfly pendant", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_695", "file_path": "data/object_category/object_category_695.png", "annotation": "mask", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_696", "file_path": "data/object_category/object_category_696.jpg", "annotation": "Alibaba app icon", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_697", "file_path": "data/object_category/object_category_697.jpg", "annotation": "tortilla", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_698", "file_path": "data/object_category/object_category_698.jpg", "annotation": "lime wedge", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_699", "file_path": "data/object_category/object_category_699.jpg", "annotation": "bikini", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_700", "file_path": "data/object_category/object_category_700.jpg", "annotation": "stainless steel cup", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_701", "file_path": "data/object_category/object_category_701.jpg", "annotation": "barrel", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_702", "file_path": "data/object_category/object_category_702.jpg", "annotation": "yellow vest", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_703", "file_path": "data/object_category/object_category_703.jpg", "annotation": "window", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_704", "file_path": "data/object_category/object_category_704.jpg", "annotation": "Adobe Flash Player logo", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_705", "file_path": "data/object_category/object_category_705.jpg", "annotation": "sand art bottle", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_706", "file_path": "data/object_category/object_category_706.jpg", "annotation": "farmer", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_707", "file_path": "data/object_category/object_category_707.jpg", "annotation": "Ford logo", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_708", "file_path": "data/object_category/object_category_708.jpg", "annotation": "Christmas tree", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_709", "file_path": "data/object_category/object_category_709.jpg", "annotation": "rope", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_710", "file_path": "data/object_category/object_category_710.jpg", "annotation": "advertising screen", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_711", "file_path": "data/object_category/object_category_711.jpg", "annotation": "pink dress", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_712", "file_path": "data/object_category/object_category_712.jpg", "annotation": "beef jerky", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_713", "file_path": "data/object_category/object_category_713.jpg", "annotation": "juicer", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_714", "file_path": "data/object_category/object_category_714.jpg", "annotation": "radar", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_715", "file_path": "data/object_category/object_category_715.jpg", "annotation": "ribbon", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_716", "file_path": "data/object_category/object_category_716.jpg", "annotation": "Bank Jateng passbook", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_717", "file_path": "data/object_category/object_category_717.jpg", "annotation": "bow", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_718", "file_path": "data/object_category/object_category_718.jpg", "annotation": "heart", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_719", "file_path": "data/object_category/object_category_719.jpg", "annotation": "yoga mat", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_720", "file_path": "data/object_category/object_category_720.jpg", "annotation": "Liewood brand", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_721", "file_path": "data/object_category/object_category_721.jpg", "annotation": "white shirt", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_722", "file_path": "data/object_category/object_category_722.jpg", "annotation": "park in rear sign", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_723", "file_path": "data/object_category/object_category_723.jpg", "annotation": "black outfit", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_724", "file_path": "data/object_category/object_category_724.jpg", "annotation": "denim jacket", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_725", "file_path": "data/object_category/object_category_725.jpg", "annotation": "colorful ball", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_726", "file_path": "data/object_category/object_category_726.jpg", "annotation": "wooden board", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_727", "file_path": "data/object_category/object_category_727.jpg", "annotation": "zipper", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_728", "file_path": "data/object_category/object_category_728.jpg", "annotation": "pillow", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_729", "file_path": "data/object_category/object_category_729.jpg", "annotation": "toy", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_730", "file_path": "data/object_category/object_category_730.jpg", "annotation": "spice", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_731", "file_path": "data/object_category/object_category_731.jpg", "annotation": "tunic button", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_732", "file_path": "data/object_category/object_category_732.jpg", "annotation": "price tag", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_733", "file_path": "data/object_category/object_category_733.jpg", "annotation": "Apple store", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_734", "file_path": "data/object_category/object_category_734.jpg", "annotation": "support line", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_735", "file_path": "data/object_category/object_category_735.jpg", "annotation": "dumbbell", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_736", "file_path": "data/object_category/object_category_736.jpg", "annotation": "cable", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_737", "file_path": "data/object_category/object_category_737.jpg", "annotation": "Corona Extra beer bottle", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_738", "file_path": "data/object_category/object_category_738.jpg", "annotation": "flange", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_739", "file_path": "data/object_category/object_category_739.jpg", "annotation": "sandal", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_740", "file_path": "data/object_category/object_category_740.jpg", "annotation": "city", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_741", "file_path": "data/object_category/object_category_741.jpg", "annotation": "pea", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_742", "file_path": "data/object_category/object_category_742.jpg", "annotation": "beige shoe", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_743", "file_path": "data/object_category/object_category_743.jpg", "annotation": "plate", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_744", "file_path": "data/object_category/object_category_744.jpg", "annotation": "booklet", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_745", "file_path": "data/object_category/object_category_745.jpg", "annotation": "glass container", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_746", "file_path": "data/object_category/object_category_746.jpg", "annotation": "storage pocket", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_747", "file_path": "data/object_category/object_category_747.jpg", "annotation": "dental equipment", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_748", "file_path": "data/object_category/object_category_748.jpg", "annotation": "start block", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_749", "file_path": "data/object_category/object_category_749.jpg", "annotation": "baby romper", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_750", "file_path": "data/object_category/object_category_750.jpg", "annotation": "browser tab", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_751", "file_path": "data/object_category/object_category_751.jpg", "annotation": "teddy bear", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_752", "file_path": "data/object_category/object_category_752.jpg", "annotation": "star", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_753", "file_path": "data/object_category/object_category_753.jpg", "annotation": "asphalt", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_754", "file_path": "data/object_category/object_category_754.jpg", "annotation": "mountain slope", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_755", "file_path": "data/object_category/object_category_755.jpg", "annotation": "computer screen", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_756", "file_path": "data/object_category/object_category_756.jpg", "annotation": "cheese", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_757", "file_path": "data/object_category/object_category_757.jpg", "annotation": "burner", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_758", "file_path": "data/object_category/object_category_758.jpg", "annotation": "fabric", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_759", "file_path": "data/object_category/object_category_759.jpg", "annotation": "instruction panel", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_760", "file_path": "data/object_category/object_category_760.jpg", "annotation": "Turkish flag", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_761", "file_path": "data/object_category/object_category_761.jpg", "annotation": "ceiling light", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_762", "file_path": "data/object_category/object_category_762.jpg", "annotation": "stone staircase", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_763", "file_path": "data/object_category/object_category_763.jpg", "annotation": "zip tie", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_764", "file_path": "data/object_category/object_category_764.jpg", "annotation": "strip fabric", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_765", "file_path": "data/object_category/object_category_765.jpg", "annotation": "bronze frog figurine", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_766", "file_path": "data/object_category/object_category_766.jpg", "annotation": "colorful ball", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_767", "file_path": "data/object_category/object_category_767.jpg", "annotation": "Post Office sign", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_768", "file_path": "data/object_category/object_category_768.jpg", "annotation": "trees", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_769", "file_path": "data/object_category/object_category_769.jpg", "annotation": "wedding dress", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_770", "file_path": "data/object_category/object_category_770.jpg", "annotation": "rock", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_771", "file_path": "data/object_category/object_category_771.jpg", "annotation": "image of Google logo", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_772", "file_path": "data/object_category/object_category_772.jpg", "annotation": "Product shelf", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_773", "file_path": "data/object_category/object_category_773.jpg", "annotation": "tombstone", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_774", "file_path": "data/object_category/object_category_774.jpg", "annotation": "Grand Kremlin Palace", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_775", "file_path": "data/object_category/object_category_775.jpg", "annotation": "amusement park ride", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_776", "file_path": "data/object_category/object_category_776.jpg", "annotation": "headpiece", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_777", "file_path": "data/object_category/object_category_777.jpg", "annotation": "wooden barrel", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_778", "file_path": "data/object_category/object_category_778.jpg", "annotation": "box glove", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_779", "file_path": "data/object_category/object_category_779.jpg", "annotation": "battery packaging", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_780", "file_path": "data/object_category/object_category_780.jpg", "annotation": "Star Wars logo base", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_781", "file_path": "data/object_category/object_category_781.jpg", "annotation": "raindrop", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_782", "file_path": "data/object_category/object_category_782.jpg", "annotation": "caravan", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_783", "file_path": "data/object_category/object_category_783.jpg", "annotation": "staircase", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_784", "file_path": "data/object_category/object_category_784.jpg", "annotation": "Madame Tussauds sign", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_785", "file_path": "data/object_category/object_category_785.jpg", "annotation": "concrete wall", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_786", "file_path": "data/object_category/object_category_786.jpg", "annotation": "man", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_787", "file_path": "data/object_category/object_category_787.jpg", "annotation": "book", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_788", "file_path": "data/object_category/object_category_788.jpg", "annotation": "backpack", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_789", "file_path": "data/object_category/object_category_789.jpg", "annotation": "nylon strap", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_790", "file_path": "data/object_category/object_category_790.jpg", "annotation": "bollard", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_791", "file_path": "data/object_category/object_category_791.jpg", "annotation": "hiking pole", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_792", "file_path": "data/object_category/object_category_792.jpg", "annotation": "goldfish", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_793", "file_path": "data/object_category/object_category_793.jpg", "annotation": "black hexagonal connector", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_794", "file_path": "data/object_category/object_category_794.jpg", "annotation": "white trim", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_795", "file_path": "data/object_category/object_category_795.jpg", "annotation": "wooden guitar", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_796", "file_path": "data/object_category/object_category_796.jpg", "annotation": "fork", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_797", "file_path": "data/object_category/object_category_797.jpg", "annotation": "water bottle", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_798", "file_path": "data/object_category/object_category_798.jpg", "annotation": "turtle", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_799", "file_path": "data/object_category/object_category_799.jpg", "annotation": "pedestal", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_800", "file_path": "data/object_category/object_category_800.jpg", "annotation": "competition floor", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_801", "file_path": "data/object_category/object_category_801.jpg", "annotation": "debris", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_802", "file_path": "data/object_category/object_category_802.jpg", "annotation": "puppet", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_803", "file_path": "data/object_category/object_category_803.jpg", "annotation": "peacock feather charm", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_804", "file_path": "data/object_category/object_category_804.jpg", "annotation": "pedestrian with stroller", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_805", "file_path": "data/object_category/object_category_805.jpg", "annotation": "dinosaur skeleton", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_806", "file_path": "data/object_category/object_category_806.jpg", "annotation": "lifting shoe", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_807", "file_path": "data/object_category/object_category_807.jpg", "annotation": "arm warmer", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_808", "file_path": "data/object_category/object_category_808.jpg", "annotation": "rail track", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_809", "file_path": "data/object_category/object_category_809.jpg", "annotation": "portion of an advertisement", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_810", "file_path": "data/object_category/object_category_810.jpg", "annotation": "red background", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_811", "file_path": "data/object_category/object_category_811.jpg", "annotation": "scepter", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_812", "file_path": "data/object_category/object_category_812.jpg", "annotation": "Menu button", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_813", "file_path": "data/object_category/object_category_813.jpg", "annotation": "banana plant", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_814", "file_path": "data/object_category/object_category_814.jpg", "annotation": "wooden handle", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_815", "file_path": "data/object_category/object_category_815.jpg", "annotation": "spine", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_816", "file_path": "data/object_category/object_category_816.jpg", "annotation": "dish", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_817", "file_path": "data/object_category/object_category_817.jpg", "annotation": "Dolce & Gabbana bag", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_818", "file_path": "data/object_category/object_category_818.jpg", "annotation": "motorcycle", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_819", "file_path": "data/object_category/object_category_819.jpg", "annotation": "balcony", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_820", "file_path": "data/object_category/object_category_820.jpg", "annotation": "red Christmas tree", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_821", "file_path": "data/object_category/object_category_821.jpg", "annotation": "power line", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_822", "file_path": "data/object_category/object_category_822.jpg", "annotation": "baked chicken", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_823", "file_path": "data/object_category/object_category_823.jpg", "annotation": "stone step", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_824", "file_path": "data/object_category/object_category_824.jpg", "annotation": "traffic light", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_825", "file_path": "data/object_category/object_category_825.jpg", "annotation": "hang clip", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_826", "file_path": "data/object_category/object_category_826.jpg", "annotation": "two female figure", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_827", "file_path": "data/object_category/object_category_827.jpg", "annotation": "dash line", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_828", "file_path": "data/object_category/object_category_828.jpg", "annotation": "clothing item", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_829", "file_path": "data/object_category/object_category_829.jpg", "annotation": "audio cable", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_830", "file_path": "data/object_category/object_category_830.jpg", "annotation": "electrical outlet", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_831", "file_path": "data/object_category/object_category_831.jpg", "annotation": "travel time ( 31 hour )", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_832", "file_path": "data/object_category/object_category_832.jpg", "annotation": "neckline", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_833", "file_path": "data/object_category/object_category_833.jpg", "annotation": "wooden pillar", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_834", "file_path": "data/object_category/object_category_834.jpg", "annotation": "harness", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_835", "file_path": "data/object_category/object_category_835.jpg", "annotation": "snack", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_836", "file_path": "data/object_category/object_category_836.jpg", "annotation": "smear of clear treatment product", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_837", "file_path": "data/object_category/object_category_837.jpg", "annotation": "zipper", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_838", "file_path": "data/object_category/object_category_838.jpg", "annotation": "ground meat", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_839", "file_path": "data/object_category/object_category_839.jpg", "annotation": "cloud", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_840", "file_path": "data/object_category/object_category_840.jpg", "annotation": "umbrella", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_841", "file_path": "data/object_category/object_category_841.jpg", "annotation": "mortar and pestle", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_842", "file_path": "data/object_category/object_category_842.jpg", "annotation": "led_lights", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_843", "file_path": "data/object_category/object_category_843.jpg", "annotation": "pilot", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_844", "file_path": "data/object_category/object_category_844.jpg", "annotation": "gold coin", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_845", "file_path": "data/object_category/object_category_845.jpg", "annotation": "singha logo", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_846", "file_path": "data/object_category/object_category_846.jpg", "annotation": "white coverall", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_847", "file_path": "data/object_category/object_category_847.jpg", "annotation": "person wear white apron", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_848", "file_path": "data/object_category/object_category_848.jpg", "annotation": "parsley", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_849", "file_path": "data/object_category/object_category_849.jpg", "annotation": "heart-shaped keychain", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_850", "file_path": "data/object_category/object_category_850.jpg", "annotation": "beanie", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_851", "file_path": "data/object_category/object_category_851.jpg", "annotation": "sail gear", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_852", "file_path": "data/object_category/object_category_852.jpg", "annotation": "glass cup", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_853", "file_path": "data/object_category/object_category_853.jpg", "annotation": "battery information", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_854", "file_path": "data/object_category/object_category_854.jpg", "annotation": "bottles", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_855", "file_path": "data/object_category/object_category_855.jpg", "annotation": "bacterial cell", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_856", "file_path": "data/object_category/object_category_856.jpg", "annotation": "observatory", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_857", "file_path": "data/object_category/object_category_857.jpg", "annotation": "pine needle", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_858", "file_path": "data/object_category/object_category_858.jpg", "annotation": "Starbucks cup", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_859", "file_path": "data/object_category/object_category_859.jpg", "annotation": "crucifixion scene", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_860", "file_path": "data/object_category/object_category_860.jpg", "annotation": "shop", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_861", "file_path": "data/object_category/object_category_861.jpg", "annotation": "ground", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_862", "file_path": "data/object_category/object_category_862.jpg", "annotation": "color swatch", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_863", "file_path": "data/object_category/object_category_863.jpg", "annotation": "wine glass", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_864", "file_path": "data/object_category/object_category_864.jpg", "annotation": "person", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_865", "file_path": "data/object_category/object_category_865.jpg", "annotation": "rock formation", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_866", "file_path": "data/object_category/object_category_866.jpg", "annotation": "crowd", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_867", "file_path": "data/object_category/object_category_867.jpg", "annotation": "grass field", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_868", "file_path": "data/object_category/object_category_868.jpg", "annotation": "wall with text", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_869", "file_path": "data/object_category/object_category_869.jpg", "annotation": "bread slice", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_870", "file_path": "data/object_category/object_category_870.jpg", "annotation": "runner", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_871", "file_path": "data/object_category/object_category_871.jpg", "annotation": "dome", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_872", "file_path": "data/object_category/object_category_872.jpg", "annotation": "price tag", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_873", "file_path": "data/object_category/object_category_873.jpg", "annotation": "glass window", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_874", "file_path": "data/object_category/object_category_874.jpg", "annotation": "radio", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_875", "file_path": "data/object_category/object_category_875.jpg", "annotation": "metal bracket", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_876", "file_path": "data/object_category/object_category_876.jpg", "annotation": "hedge", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_877", "file_path": "data/object_category/object_category_877.jpg", "annotation": "yellow support structure", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_878", "file_path": "data/object_category/object_category_878.jpg", "annotation": "trash can", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_879", "file_path": "data/object_category/object_category_879.jpg", "annotation": "clear blue sky", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_880", "file_path": "data/object_category/object_category_880.jpg", "annotation": "wall light", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_881", "file_path": "data/object_category/object_category_881.jpg", "annotation": "American flag", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_882", "file_path": "data/object_category/object_category_882.jpg", "annotation": "hourglass", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_883", "file_path": "data/object_category/object_category_883.jpg", "annotation": "parking space", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_884", "file_path": "data/object_category/object_category_884.jpg", "annotation": "carpet", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_885", "file_path": "data/object_category/object_category_885.jpg", "annotation": "security camera", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_886", "file_path": "data/object_category/object_category_886.jpg", "annotation": "news ticker", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_887", "file_path": "data/object_category/object_category_887.jpg", "annotation": "traditional clothing", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_888", "file_path": "data/object_category/object_category_888.jpg", "annotation": "Microsoft Word interface", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_889", "file_path": "data/object_category/object_category_889.jpg", "annotation": "windshield wiper control", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_890", "file_path": "data/object_category/object_category_890.jpg", "annotation": "cactus pad", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_891", "file_path": "data/object_category/object_category_891.jpg", "annotation": "river", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_892", "file_path": "data/object_category/object_category_892.jpg", "annotation": "red bowl", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_893", "file_path": "data/object_category/object_category_893.jpg", "annotation": "coil", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_894", "file_path": "data/object_category/object_category_894.jpg", "annotation": "digital signage", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_895", "file_path": "data/object_category/object_category_895.jpg", "annotation": "reflection in lake", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_896", "file_path": "data/object_category/object_category_896.jpg", "annotation": "tattoo", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_897", "file_path": "data/object_category/object_category_897.jpg", "annotation": "yellow belt with red and gold decoration", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_898", "file_path": "data/object_category/object_category_898.jpg", "annotation": "badge", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_899", "file_path": "data/object_category/object_category_899.jpg", "annotation": "crash bar", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_900", "file_path": "data/object_category/object_category_900.jpg", "annotation": "pan", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_901", "file_path": "data/object_category/object_category_901.jpg", "annotation": "barn", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_902", "file_path": "data/object_category/object_category_902.jpg", "annotation": "EVA Air airplane", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_903", "file_path": "data/object_category/object_category_903.jpg", "annotation": "umbrella", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_904", "file_path": "data/object_category/object_category_904.jpg", "annotation": "bag", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_905", "file_path": "data/object_category/object_category_905.jpg", "annotation": "yellow and white background", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_906", "file_path": "data/object_category/object_category_906.jpg", "annotation": "snow", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_907", "file_path": "data/object_category/object_category_907.jpg", "annotation": "metal pipe", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_908", "file_path": "data/object_category/object_category_908.jpg", "annotation": "post office logo", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_909", "file_path": "data/object_category/object_category_909.jpg", "annotation": "shield", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_910", "file_path": "data/object_category/object_category_910.jpg", "annotation": "canal", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_911", "file_path": "data/object_category/object_category_911.jpg", "annotation": "tile wall", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_912", "file_path": "data/object_category/object_category_912.jpg", "annotation": "fry chicken", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_913", "file_path": "data/object_category/object_category_913.jpg", "annotation": "book", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_914", "file_path": "data/object_category/object_category_914.jpg", "annotation": "television", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_915", "file_path": "data/object_category/object_category_915.jpg", "annotation": "fuel injector", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_916", "file_path": "data/object_category/object_category_916.jpg", "annotation": "electric stove with black burner", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_917", "file_path": "data/object_category/object_category_917.jpg", "annotation": "microphone", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_918", "file_path": "data/object_category/object_category_918.jpg", "annotation": "gemstone", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_919", "file_path": "data/object_category/object_category_919.jpg", "annotation": "lamp", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_920", "file_path": "data/object_category/object_category_920.jpg", "annotation": "metal rod", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_921", "file_path": "data/object_category/object_category_921.jpg", "annotation": "crown of thorn", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_922", "file_path": "data/object_category/object_category_922.jpg", "annotation": "pavement", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_923", "file_path": "data/object_category/object_category_923.jpg", "annotation": "air intake hose", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_924", "file_path": "data/object_category/object_category_924.jpg", "annotation": "green jersey", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_925", "file_path": "data/object_category/object_category_925.jpg", "annotation": "brown plumeria flower", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_926", "file_path": "data/object_category/object_category_926.jpg", "annotation": "postage stamp", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_927", "file_path": "data/object_category/object_category_927.jpg", "annotation": "light_bulb_socket", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_928", "file_path": "data/object_category/object_category_928.jpg", "annotation": "whale", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_929", "file_path": "data/object_category/object_category_929.jpg", "annotation": "blue sleep bag", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_930", "file_path": "data/object_category/object_category_930.jpg", "annotation": "tent", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_931", "file_path": "data/object_category/object_category_931.jpg", "annotation": "NE NCA logo", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_932", "file_path": "data/object_category/object_category_932.jpg", "annotation": "parking space", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_933", "file_path": "data/object_category/object_category_933.jpg", "annotation": "uniform", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_934", "file_path": "data/object_category/object_category_934.jpg", "annotation": "orange cone", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_935", "file_path": "data/object_category/object_category_935.jpg", "annotation": "small wooden side table", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_936", "file_path": "data/object_category/object_category_936.jpg", "annotation": "stamp", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_937", "file_path": "data/object_category/object_category_937.jpg", "annotation": "sun", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_938", "file_path": "data/object_category/object_category_938.jpg", "annotation": "black glove", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_939", "file_path": "data/object_category/object_category_939.jpg", "annotation": "telephone", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_940", "file_path": "data/object_category/object_category_940.jpg", "annotation": "license plate", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_941", "file_path": "data/object_category/object_category_941.jpg", "annotation": "wooden cut board", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_942", "file_path": "data/object_category/object_category_942.jpg", "annotation": "wave graphic", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_943", "file_path": "data/object_category/object_category_943.jpg", "annotation": "silhouette of a man", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_944", "file_path": "data/object_category/object_category_944.jpg", "annotation": "carrot", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_945", "file_path": "data/object_category/object_category_945.jpg", "annotation": "cathedral", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_946", "file_path": "data/object_category/object_category_946.jpg", "annotation": "bench", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_947", "file_path": "data/object_category/object_category_947.jpg", "annotation": "smoke", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_948", "file_path": "data/object_category/object_category_948.jpg", "annotation": "numbered vest", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_949", "file_path": "data/object_category/object_category_949.jpg", "annotation": "griffin", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_950", "file_path": "data/object_category/object_category_950.jpg", "annotation": "lanyard", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_951", "file_path": "data/object_category/object_category_951.jpg", "annotation": "multi-strand necklace", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_952", "file_path": "data/object_category/object_category_952.jpg", "annotation": "skirt", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_953", "file_path": "data/object_category/object_category_953.jpg", "annotation": "screen", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_954", "file_path": "data/object_category/object_category_954.jpg", "annotation": "Kopiko Cappuccino coffee candy packaging", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_955", "file_path": "data/object_category/object_category_955.jpg", "annotation": "water droplet", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_956", "file_path": "data/object_category/object_category_956.jpg", "annotation": "white bowl", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_957", "file_path": "data/object_category/object_category_957.jpg", "annotation": "control panel", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_958", "file_path": "data/object_category/object_category_958.jpg", "annotation": "speaker", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_959", "file_path": "data/object_category/object_category_959.jpg", "annotation": "pen", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_960", "file_path": "data/object_category/object_category_960.jpg", "annotation": "large egg holder", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_961", "file_path": "data/object_category/object_category_961.jpg", "annotation": "Grand Hyatt sign", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_962", "file_path": "data/object_category/object_category_962.jpg", "annotation": "white flag", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_963", "file_path": "data/object_category/object_category_963.jpg", "annotation": "noodle", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_964", "file_path": "data/object_category/object_category_964.jpg", "annotation": "strawberry plant", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_965", "file_path": "data/object_category/object_category_965.jpg", "annotation": "Pink Background", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_966", "file_path": "data/object_category/object_category_966.jpg", "annotation": "sidewalk", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_967", "file_path": "data/object_category/object_category_967.jpg", "annotation": "shrimp paste jar", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_968", "file_path": "data/object_category/object_category_968.jpg", "annotation": "white Levi's sneaker", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_969", "file_path": "data/object_category/object_category_969.jpg", "annotation": "New Balance shoe", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_970", "file_path": "data/object_category/object_category_970.jpg", "annotation": "spider", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_971", "file_path": "data/object_category/object_category_971.jpg", "annotation": "suit", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_972", "file_path": "data/object_category/object_category_972.jpg", "annotation": "GoPro Fusion camera", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_973", "file_path": "data/object_category/object_category_973.jpg", "annotation": "cucumber", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_974", "file_path": "data/object_category/object_category_974.jpg", "annotation": "shrub", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_975", "file_path": "data/object_category/object_category_975.jpg", "annotation": "metal framework", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_976", "file_path": "data/object_category/object_category_976.jpg", "annotation": "yellow background", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_977", "file_path": "data/object_category/object_category_977.jpg", "annotation": "beach", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_978", "file_path": "data/object_category/object_category_978.jpg", "annotation": "forecast", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_979", "file_path": "data/object_category/object_category_979.jpg", "annotation": "artwork", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_980", "file_path": "data/object_category/object_category_980.jpg", "annotation": "gray jean", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_981", "file_path": "data/object_category/object_category_981.jpg", "annotation": "black food", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_982", "file_path": "data/object_category/object_category_982.jpg", "annotation": "Nodogoshi beer", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_983", "file_path": "data/object_category/object_category_983.jpg", "annotation": "adult deer", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_984", "file_path": "data/object_category/object_category_984.jpg", "annotation": "desk", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_985", "file_path": "data/object_category/object_category_985.jpg", "annotation": "corn tortilla", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_986", "file_path": "data/object_category/object_category_986.jpg", "annotation": "counter", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_987", "file_path": "data/object_category/object_category_987.jpg", "annotation": "water heater", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_988", "file_path": "data/object_category/object_category_988.jpg", "annotation": "grass field", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_989", "file_path": "data/object_category/object_category_989.jpg", "annotation": "lamp", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_990", "file_path": "data/object_category/object_category_990.jpg", "annotation": "Bitker logo", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_991", "file_path": "data/object_category/object_category_991.jpg", "annotation": "Bushes", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_992", "file_path": "data/object_category/object_category_992.jpg", "annotation": "stainless steel pipe", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_993", "file_path": "data/object_category/object_category_993.jpg", "annotation": "utility pole", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_994", "file_path": "data/object_category/object_category_994.jpg", "annotation": "jar of salsa verde", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_995", "file_path": "data/object_category/object_category_995.jpg", "annotation": "ornamentation", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_996", "file_path": "data/object_category/object_category_996.jpg", "annotation": "cool rack", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_997", "file_path": "data/object_category/object_category_997.jpg", "annotation": "green slant stripe pattern frame", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_998", "file_path": "data/object_category/object_category_998.jpg", "annotation": "Money scale bar", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_999", "file_path": "data/object_category/object_category_999.jpg", "annotation": "mannequin", "task": "object_category", "data_type": "image"}
