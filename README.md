@@ -20,9 +20,10 @@
 - Bump the evaluation model from GPT-4-Turbo to GPT-4.1-2025-04-14.
 - Support [lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval) for more convenient evaluation.
 - Release QA format annotations of CAPability to support the metric $K\bar{T}$.
-- Release basic inference and evaluation code reported in the paper.
+- ✅ ~~Release basic inference and evaluation code reported in the paper.~~
 
 ## 🔥 News
+- **[2025.04.19]** Release the basic inference and evaluation code on [GitHub](https://github.com/ali-vilab/CAPability).
 - **[2025.04.16]** Release the data on [🤗 Huggingface](https://huggingface.co/datasets/lntzm/CAPability).
 - **[2025.04.15]** Updata the paper on [ArXiv](https://arxiv.org/abs/2502.14914).
 - **[2025.02.19]** Release our paper on [ArXiv](https://arxiv.org/abs/2502.14914).
