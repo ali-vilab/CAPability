@@ -17,9 +17,9 @@
 ---
 
 ## 📋 Todo List
-- Bump the evaluation model from GPT-4-Turbo to GPT-4.1-2025-04-14.
-- Support [lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval) for more convenient evaluation.
-- Release QA format annotations of CAPability to support the metric $K\bar{T}$.
+- [ ] Bump the evaluation model from GPT-4-Turbo to GPT-4.1-2025-04-14.
+- [ ] Support [lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval) for more convenient evaluation.
+- [ ] Release QA format annotations of CAPability to support the metric $K\bar{T}$.
 - ✅ ~~Release basic inference and evaluation code reported in the paper.~~
 
 ## 🔥 News
