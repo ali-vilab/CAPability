@@ -505,7 +505,7 @@
 {"file_id": "scene_504", "file_path": "data/scene/scene_504.jpg", "annotation": "in front of the ancient building", "task": "scene", "data_type": "image"}
 {"file_id": "scene_505", "file_path": "data/scene/scene_505.jpg", "annotation": "outdoor sports field", "task": "scene", "data_type": "image"}
 {"file_id": "scene_506", "file_path": "data/scene/scene_506.jpg", "annotation": "rural areas", "task": "scene", "data_type": "image"}
-{"file_id": "scene_507", "file_path": "data/scene/scene_507.jpg", "annotation": "outdoor caf\u00e9", "task": "scene", "data_type": "image"}
+{"file_id": "scene_507", "file_path": "data/scene/scene_507.jpg", "annotation": "outdoor café", "task": "scene", "data_type": "image"}
 {"file_id": "scene_508", "file_path": "data/scene/scene_508.jpg", "annotation": "restaurant", "task": "scene", "data_type": "image"}
 {"file_id": "scene_509", "file_path": "data/scene/scene_509.jpg", "annotation": "on the table", "task": "scene", "data_type": "image"}
 {"file_id": "scene_510", "file_path": "data/scene/scene_510.jpg", "annotation": "supermarket alcohol section", "task": "scene", "data_type": "image"}

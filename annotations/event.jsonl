@@ -413,7 +413,7 @@
 {"file_id": "event_413", "file_path": "data/event/event_413.mp4", "annotation": "A woman chops lettuce.", "task": "event", "data_type": "video"}
 {"file_id": "event_414", "file_path": "data/event/event_414.mp4", "annotation": "Man covers pot with lid", "task": "event", "data_type": "video"}
 {"file_id": "event_415", "file_path": "data/event/event_415.mp4", "annotation": "A person scoops up marine life with a net.", "task": "event", "data_type": "video"}
-{"file_id": "event_416", "file_path": "data/event/event_416.mp4", "annotation": "Pig\u2019s mouth quivers slightly.", "task": "event", "data_type": "video"}
+{"file_id": "event_416", "file_path": "data/event/event_416.mp4", "annotation": "Pig’s mouth quivers slightly.", "task": "event", "data_type": "video"}
 {"file_id": "event_417", "file_path": "data/event/event_417.mp4", "annotation": "The child stands up.", "task": "event", "data_type": "video"}
 {"file_id": "event_418", "file_path": "data/event/event_418.mp4", "annotation": "Man performs another flip", "task": "event", "data_type": "video"}
 {"file_id": "event_419", "file_path": "data/event/event_419.mp4", "annotation": "The person in the green mascot suit sat up straight.", "task": "event", "data_type": "video"}

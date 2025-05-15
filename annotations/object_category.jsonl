@@ -167,7 +167,7 @@
 {"file_id": "object_category_166", "file_path": "data/object_category/object_category_166.jpg", "annotation": "sign with left arrow", "task": "object_category", "data_type": "image"}
 {"file_id": "object_category_167", "file_path": "data/object_category/object_category_167.jpg", "annotation": "flower pot", "task": "object_category", "data_type": "image"}
 {"file_id": "object_category_168", "file_path": "data/object_category/object_category_168.jpg", "annotation": "green cushion", "task": "object_category", "data_type": "image"}
-{"file_id": "object_category_169", "file_path": "data/object_category/object_category_169.jpg", "annotation": "Roseng\u00e5rd Centrum sign", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_169", "file_path": "data/object_category/object_category_169.jpg", "annotation": "Rosengård Centrum sign", "task": "object_category", "data_type": "image"}
 {"file_id": "object_category_170", "file_path": "data/object_category/object_category_170.jpg", "annotation": "black pant", "task": "object_category", "data_type": "image"}
 {"file_id": "object_category_171", "file_path": "data/object_category/object_category_171.jpg", "annotation": "chocolate mousse dessert", "task": "object_category", "data_type": "image"}
 {"file_id": "object_category_172", "file_path": "data/object_category/object_category_172.jpg", "annotation": "yellow food piece", "task": "object_category", "data_type": "image"}
@@ -322,7 +322,7 @@
 {"file_id": "object_category_321", "file_path": "data/object_category/object_category_321.jpg", "annotation": "Goku", "task": "object_category", "data_type": "image"}
 {"file_id": "object_category_322", "file_path": "data/object_category/object_category_322.jpg", "annotation": "fur", "task": "object_category", "data_type": "image"}
 {"file_id": "object_category_323", "file_path": "data/object_category/object_category_323.jpg", "annotation": "mountain", "task": "object_category", "data_type": "image"}
-{"file_id": "object_category_324", "file_path": "data/object_category/object_category_324.jpg", "annotation": "\u041f\u043e\u0447\u0442\u0430 \u0421\u0421\u0421\u0420", "task": "object_category", "data_type": "image"}
+{"file_id": "object_category_324", "file_path": "data/object_category/object_category_324.jpg", "annotation": "Почта СССР", "task": "object_category", "data_type": "image"}
 {"file_id": "object_category_325", "file_path": "data/object_category/object_category_325.jpg", "annotation": "drum", "task": "object_category", "data_type": "image"}
 {"file_id": "object_category_326", "file_path": "data/object_category/object_category_326.jpg", "annotation": "paper", "task": "object_category", "data_type": "image"}
 {"file_id": "object_category_327", "file_path": "data/object_category/object_category_327.jpg", "annotation": "medal", "task": "object_category", "data_type": "image"}

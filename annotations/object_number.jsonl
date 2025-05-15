@@ -680,7 +680,7 @@
 {"file_id": "object_number_679", "file_path": "data/object_number/object_number_679.jpg", "annotation": {"people": 8}, "task": "object_number", "data_type": "image"}
 {"file_id": "object_number_680", "file_path": "data/object_number/object_number_680.jpg", "annotation": {"book9": 8}, "task": "object_number", "data_type": "image"}
 {"file_id": "object_number_681", "file_path": "data/object_number/object_number_681.jpg", "annotation": {"movie icon": 8}, "task": "object_number", "data_type": "image"}
-{"file_id": "object_number_682", "file_path": "data/object_number/object_number_682.jpg", "annotation": {"\u9505\u70e4\u5e97\u8c03\u6599": 8}, "task": "object_number", "data_type": "image"}
+{"file_id": "object_number_682", "file_path": "data/object_number/object_number_682.jpg", "annotation": {"seasoning": 8}, "task": "object_number", "data_type": "image"}
 {"file_id": "object_number_683", "file_path": "data/object_number/object_number_683.jpg", "annotation": {"button": 8}, "task": "object_number", "data_type": "image"}
 {"file_id": "object_number_684", "file_path": "data/object_number/object_number_684.jpg", "annotation": {"riot police": 8}, "task": "object_number", "data_type": "image"}
 {"file_id": "object_number_685", "file_path": "data/object_number/object_number_685.jpg", "annotation": {"meatball": 8}, "task": "object_number", "data_type": "image"}

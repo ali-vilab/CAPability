@@ -817,8 +817,8 @@
 {"file_id": "object_color_816", "file_path": "data/object_color/object_color_816.jpg", "annotation": {"construction cone": "orange and white"}, "task": "object_color", "data_type": "image"}
 {"file_id": "object_color_817", "file_path": "data/object_color/object_color_817.jpg", "annotation": {"checker wooden floor": "black and brown"}, "task": "object_color", "data_type": "image"}
 {"file_id": "object_color_818", "file_path": "data/object_color/object_color_818.jpg", "annotation": {"black and brown shoe": "black and brown"}, "task": "object_color", "data_type": "image"}
-{"file_id": "object_color_819", "file_path": "data/object_color/object_color_819.jpg", "annotation": {"\u4eba\u7269": "gray white black"}, "task": "object_color", "data_type": "image"}
-{"file_id": "object_color_820", "file_path": "data/object_color/object_color_820.jpg", "annotation": {"\u4eba\u7269": "gray white black"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_819", "file_path": "data/object_color/object_color_819.jpg", "annotation": {"character": "gray white black"}, "task": "object_color", "data_type": "image"}
+{"file_id": "object_color_820", "file_path": "data/object_color/object_color_820.jpg", "annotation": {"character": "gray white black"}, "task": "object_color", "data_type": "image"}
 {"file_id": "object_color_821", "file_path": "data/object_color/object_color_821.jpg", "annotation": {"Romania flag": "blue , yellow , red"}, "task": "object_color", "data_type": "image"}
 {"file_id": "object_color_822", "file_path": "data/object_color/object_color_822.jpg", "annotation": {"Swiss Guard uniform": "blue , yellow , red"}, "task": "object_color", "data_type": "image"}
 {"file_id": "object_color_823", "file_path": "data/object_color/object_color_823.jpg", "annotation": {"chair and table": "yellow and blue, white"}, "task": "object_color", "data_type": "image"}

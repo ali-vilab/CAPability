@@ -65,8 +65,8 @@
 {"file_id": "character_identification_64", "file_path": "data/character_identification/character_identification_64.jpg", "annotation": "Frieza", "task": "character_identification", "data_type": "image"}
 {"file_id": "character_identification_65", "file_path": "data/character_identification/character_identification_65.jpg", "annotation": "Fan Wei", "task": "character_identification", "data_type": "image"}
 {"file_id": "character_identification_66", "file_path": "data/character_identification/character_identification_66.jpg", "annotation": "Fan Wei", "task": "character_identification", "data_type": "image"}
-{"file_id": "character_identification_67", "file_path": "data/character_identification/character_identification_67.jpg", "annotation": "Green Valley Ch\u016bku", "task": "character_identification", "data_type": "image"}
-{"file_id": "character_identification_68", "file_path": "data/character_identification/character_identification_68.jpg", "annotation": "Green Valley Deku", "task": "character_identification", "data_type": "image"}
+{"file_id": "character_identification_67", "file_path": "data/character_identification/character_identification_67.jpg", "annotation": "Midoriya Izuku", "task": "character_identification", "data_type": "image"}
+{"file_id": "character_identification_68", "file_path": "data/character_identification/character_identification_68.jpg", "annotation": "Midoriya Izuku", "task": "character_identification", "data_type": "image"}
 {"file_id": "character_identification_69", "file_path": "data/character_identification/character_identification_69.jpg", "annotation": "Cinderella", "task": "character_identification", "data_type": "image"}
 {"file_id": "character_identification_70", "file_path": "data/character_identification/character_identification_70.jpg", "annotation": "Cinderella", "task": "character_identification", "data_type": "image"}
 {"file_id": "character_identification_71", "file_path": "data/character_identification/character_identification_71.jpg", "annotation": "Ge You", "task": "character_identification", "data_type": "image"}
@@ -79,10 +79,10 @@
 {"file_id": "character_identification_78", "file_path": "data/character_identification/character_identification_78.jpg", "annotation": "Uchiha Madara", "task": "character_identification", "data_type": "image"}
 {"file_id": "character_identification_79", "file_path": "data/character_identification/character_identification_79.jpg", "annotation": "Nursery Rhyme", "task": "character_identification", "data_type": "image"}
 {"file_id": "character_identification_80", "file_path": "data/character_identification/character_identification_80.jpg", "annotation": "Nursery Rhyme", "task": "character_identification", "data_type": "image"}
-{"file_id": "character_identification_81", "file_path": "data/character_identification/character_identification_81.jpg", "annotation": "Dyna Ultra-Man", "task": "character_identification", "data_type": "image"}
-{"file_id": "character_identification_82", "file_path": "data/character_identification/character_identification_82.jpg", "annotation": "Dyna Ultra\u66fc", "task": "character_identification", "data_type": "image"}
-{"file_id": "character_identification_83", "file_path": "data/character_identification/character_identification_83.jpg", "annotation": "Burn and Freeze", "task": "character_identification", "data_type": "image"}
-{"file_id": "character_identification_84", "file_path": "data/character_identification/character_identification_84.jpg", "annotation": "H\u014dj\u014d Fushigi", "task": "character_identification", "data_type": "image"}
+{"file_id": "character_identification_81", "file_path": "data/character_identification/character_identification_81.jpg", "annotation": "UltraMan Dyna", "task": "character_identification", "data_type": "image"}
+{"file_id": "character_identification_82", "file_path": "data/character_identification/character_identification_82.jpg", "annotation": "UltraMan Dyna", "task": "character_identification", "data_type": "image"}
+{"file_id": "character_identification_83", "file_path": "data/character_identification/character_identification_83.jpg", "annotation": "Shoto Todoroki", "task": "character_identification", "data_type": "image"}
+{"file_id": "character_identification_84", "file_path": "data/character_identification/character_identification_84.jpg", "annotation": "Shoto Todoroki", "task": "character_identification", "data_type": "image"}
 {"file_id": "character_identification_85", "file_path": "data/character_identification/character_identification_85.jpg", "annotation": "Sharapova", "task": "character_identification", "data_type": "image"}
 {"file_id": "character_identification_86", "file_path": "data/character_identification/character_identification_86.jpg", "annotation": "Sharapova", "task": "character_identification", "data_type": "image"}
 {"file_id": "character_identification_87", "file_path": "data/character_identification/character_identification_87.jpg", "annotation": "Zhao Lei", "task": "character_identification", "data_type": "image"}
@@ -108,8 +108,8 @@
 {"file_id": "character_identification_107", "file_path": "data/character_identification/character_identification_107.jpg", "annotation": "Snow White", "task": "character_identification", "data_type": "image"}
 {"file_id": "character_identification_108", "file_path": "data/character_identification/character_identification_108.jpg", "annotation": "Loki from the \"Marvel Cinematic Universe\" movies", "task": "character_identification", "data_type": "image"}
 {"file_id": "character_identification_109", "file_path": "data/character_identification/character_identification_109.jpg", "annotation": "Loki from the \"Marvel Cinematic Universe\" movies", "task": "character_identification", "data_type": "image"}
-{"file_id": "character_identification_110", "file_path": "data/character_identification/character_identification_110.jpg", "annotation": "I love Luo", "task": "character_identification", "data_type": "image"}
-{"file_id": "character_identification_111", "file_path": "data/character_identification/character_identification_111.jpg", "annotation": "I love Luo", "task": "character_identification", "data_type": "image"}
+{"file_id": "character_identification_110", "file_path": "data/character_identification/character_identification_110.jpg", "annotation": "Gaara", "task": "character_identification", "data_type": "image"}
+{"file_id": "character_identification_111", "file_path": "data/character_identification/character_identification_111.jpg", "annotation": "Gaara", "task": "character_identification", "data_type": "image"}
 {"file_id": "character_identification_112", "file_path": "data/character_identification/character_identification_112.jpg", "annotation": "Jiang Wen", "task": "character_identification", "data_type": "image"}
 {"file_id": "character_identification_113", "file_path": "data/character_identification/character_identification_113.jpg", "annotation": "Jiang Wen", "task": "character_identification", "data_type": "image"}
 {"file_id": "character_identification_114", "file_path": "data/character_identification/character_identification_114.jpg", "annotation": "Little Smart", "task": "character_identification", "data_type": "image"}
@@ -269,7 +269,7 @@
 {"file_id": "character_identification_268", "file_path": "data/character_identification/character_identification_268.jpg", "annotation": "Guo Feng", "task": "character_identification", "data_type": "image"}
 {"file_id": "character_identification_269", "file_path": "data/character_identification/character_identification_269.jpg", "annotation": "A Dope", "task": "character_identification", "data_type": "image"}
 {"file_id": "character_identification_270", "file_path": "data/character_identification/character_identification_270.jpg", "annotation": "A Dope", "task": "character_identification", "data_type": "image"}
-{"file_id": "character_identification_271", "file_path": "data/character_identification/character_identification_271.jpg", "annotation": "T\u014dru Kazama", "task": "character_identification", "data_type": "image"}
+{"file_id": "character_identification_271", "file_path": "data/character_identification/character_identification_271.jpg", "annotation": "Tōru Kazama", "task": "character_identification", "data_type": "image"}
 {"file_id": "character_identification_272", "file_path": "data/character_identification/character_identification_272.jpg", "annotation": "Nobi Nobita", "task": "character_identification", "data_type": "image"}
 {"file_id": "character_identification_273", "file_path": "data/character_identification/character_identification_273.jpg", "annotation": "Yuna from the game \"Final Fantasy\"", "task": "character_identification", "data_type": "image"}
 {"file_id": "character_identification_274", "file_path": "data/character_identification/character_identification_274.jpg", "annotation": "Doraemi", "task": "character_identification", "data_type": "image"}
@@ -365,7 +365,7 @@
 {"file_id": "character_identification_364", "file_path": "data/character_identification/character_identification_364.jpg", "annotation": "Thousand Hands Hashirama", "task": "character_identification", "data_type": "image"}
 {"file_id": "character_identification_365", "file_path": "data/character_identification/character_identification_365.jpg", "annotation": "Thousand Hands Hashirama", "task": "character_identification", "data_type": "image"}
 {"file_id": "character_identification_366", "file_path": "data/character_identification/character_identification_366.jpg", "annotation": "Mitsui Hisashi", "task": "character_identification", "data_type": "image"}
-{"file_id": "character_identification_367", "file_path": "data/character_identification/character_identification_367.jpg", "annotation": "First Generation Ultraman", "task": "character_identification", "data_type": "image"}
+{"file_id": "character_identification_367", "file_path": "data/character_identification/character_identification_367.jpg", "annotation": "Original Ultraman", "task": "character_identification", "data_type": "image"}
 {"file_id": "character_identification_368", "file_path": "data/character_identification/character_identification_368.jpg", "annotation": "F.I.R", "task": "character_identification", "data_type": "image"}
 {"file_id": "character_identification_369", "file_path": "data/character_identification/character_identification_369.jpg", "annotation": "Barbara from the game \"Genshin Impact\"", "task": "character_identification", "data_type": "image"}
 {"file_id": "character_identification_370", "file_path": "data/character_identification/character_identification_370.jpg", "annotation": "Han Lei", "task": "character_identification", "data_type": "image"}
@@ -507,7 +507,7 @@
 {"file_id": "character_identification_506", "file_path": "data/character_identification/character_identification_506.jpg", "annotation": "Freedom Gundam", "task": "character_identification", "data_type": "image"}
 {"file_id": "character_identification_507", "file_path": "data/character_identification/character_identification_507.jpg", "annotation": "Pele", "task": "character_identification", "data_type": "image"}
 {"file_id": "character_identification_508", "file_path": "data/character_identification/character_identification_508.jpg", "annotation": "Pele", "task": "character_identification", "data_type": "image"}
-{"file_id": "character_identification_509", "file_path": "data/character_identification/character_identification_509.jpg", "annotation": "Tsuchikata J\u016bshir\u014d", "task": "character_identification", "data_type": "image"}
+{"file_id": "character_identification_509", "file_path": "data/character_identification/character_identification_509.jpg", "annotation": "Tsuchikata Jūshirō", "task": "character_identification", "data_type": "image"}
 {"file_id": "character_identification_510", "file_path": "data/character_identification/character_identification_510.jpg", "annotation": "Goku's Son, Gohan", "task": "character_identification", "data_type": "image"}
 {"file_id": "character_identification_511", "file_path": "data/character_identification/character_identification_511.jpg", "annotation": "Goku's Son, Gohan", "task": "character_identification", "data_type": "image"}
 {"file_id": "character_identification_512", "file_path": "data/character_identification/character_identification_512.jpg", "annotation": "Cloud from the game \"Final Fantasy\"", "task": "character_identification", "data_type": "image"}
@@ -531,8 +531,8 @@
 {"file_id": "character_identification_530", "file_path": "data/character_identification/character_identification_530.jpg", "annotation": "Coach Anxi", "task": "character_identification", "data_type": "image"}
 {"file_id": "character_identification_531", "file_path": "data/character_identification/character_identification_531.jpg", "annotation": "Coach Anxi", "task": "character_identification", "data_type": "image"}
 {"file_id": "character_identification_532", "file_path": "data/character_identification/character_identification_532.jpg", "annotation": "Blue-Eyes White Dragon", "task": "character_identification", "data_type": "image"}
-{"file_id": "character_identification_533", "file_path": "data/character_identification/character_identification_533.jpg", "annotation": "S\u014dji Okita", "task": "character_identification", "data_type": "image"}
-{"file_id": "character_identification_534", "file_path": "data/character_identification/character_identification_534.jpg", "annotation": "S\u014dji Okita", "task": "character_identification", "data_type": "image"}
+{"file_id": "character_identification_533", "file_path": "data/character_identification/character_identification_533.jpg", "annotation": "Sōji Okita", "task": "character_identification", "data_type": "image"}
+{"file_id": "character_identification_534", "file_path": "data/character_identification/character_identification_534.jpg", "annotation": "Sōji Okita", "task": "character_identification", "data_type": "image"}
 {"file_id": "character_identification_535", "file_path": "data/character_identification/character_identification_535.jpg", "annotation": "Yasuo from the game \"League of Legends\"", "task": "character_identification", "data_type": "image"}
 {"file_id": "character_identification_536", "file_path": "data/character_identification/character_identification_536.jpg", "annotation": "Wu Lei", "task": "character_identification", "data_type": "image"}
 {"file_id": "character_identification_537", "file_path": "data/character_identification/character_identification_537.jpg", "annotation": "Wu Lei", "task": "character_identification", "data_type": "image"}
@@ -561,7 +561,7 @@
 {"file_id": "character_identification_560", "file_path": "data/character_identification/character_identification_560.jpg", "annotation": "Zhou Xun", "task": "character_identification", "data_type": "image"}
 {"file_id": "character_identification_561", "file_path": "data/character_identification/character_identification_561.jpg", "annotation": "Zhou Xun", "task": "character_identification", "data_type": "image"}
 {"file_id": "character_identification_562", "file_path": "data/character_identification/character_identification_562.jpg", "annotation": "Dou Wei", "task": "character_identification", "data_type": "image"}
-{"file_id": "character_identification_563", "file_path": "data/character_identification/character_identification_563.jpg", "annotation": "D\u00f2u W\u00e9i", "task": "character_identification", "data_type": "image"}
+{"file_id": "character_identification_563", "file_path": "data/character_identification/character_identification_563.jpg", "annotation": "Dòu Wéi", "task": "character_identification", "data_type": "image"}
 {"file_id": "character_identification_564", "file_path": "data/character_identification/character_identification_564.jpg", "annotation": "Eason Chan", "task": "character_identification", "data_type": "image"}
 {"file_id": "character_identification_565", "file_path": "data/character_identification/character_identification_565.jpg", "annotation": "Eason Chan", "task": "character_identification", "data_type": "image"}
 {"file_id": "character_identification_566", "file_path": "data/character_identification/character_identification_566.jpg", "annotation": "Tsunade", "task": "character_identification", "data_type": "image"}
@@ -654,7 +654,7 @@
 {"file_id": "character_identification_653", "file_path": "data/character_identification/character_identification_653.jpg", "annotation": "Toad from the game \"Super Mario\"", "task": "character_identification", "data_type": "image"}
 {"file_id": "character_identification_654", "file_path": "data/character_identification/character_identification_654.jpg", "annotation": "Kevin Durant", "task": "character_identification", "data_type": "image"}
 {"file_id": "character_identification_655", "file_path": "data/character_identification/character_identification_655.jpg", "annotation": "Severus Snape in the movie \"Harry Potter\"", "task": "character_identification", "data_type": "image"}
-{"file_id": "character_identification_656", "file_path": "data/character_identification/character_identification_656.jpg", "annotation": "Ace Ultraman", "task": "character_identification", "data_type": "image"}
+{"file_id": "character_identification_656", "file_path": "data/character_identification/character_identification_656.jpg", "annotation": "Ultraman Ace", "task": "character_identification", "data_type": "image"}
 {"file_id": "character_identification_657", "file_path": "data/character_identification/character_identification_657.jpg", "annotation": "Witch Kiki", "task": "character_identification", "data_type": "image"}
 {"file_id": "character_identification_658", "file_path": "data/character_identification/character_identification_658.jpg", "annotation": "Witch Kiki", "task": "character_identification", "data_type": "image"}
 {"file_id": "character_identification_659", "file_path": "data/character_identification/character_identification_659.jpg", "annotation": "Aerith from the game \"Final Fantasy\"", "task": "character_identification", "data_type": "image"}
@@ -668,8 +668,8 @@
 {"file_id": "character_identification_667", "file_path": "data/character_identification/character_identification_667.jpg", "annotation": "Tiger Woods", "task": "character_identification", "data_type": "image"}
 {"file_id": "character_identification_668", "file_path": "data/character_identification/character_identification_668.jpg", "annotation": "Alex in the movie \"A Clockwork Orange\"", "task": "character_identification", "data_type": "image"}
 {"file_id": "character_identification_669", "file_path": "data/character_identification/character_identification_669.jpg", "annotation": "Princess Peach from the game \"Super Mario\"", "task": "character_identification", "data_type": "image"}
-{"file_id": "character_identification_670", "file_path": "data/character_identification/character_identification_670.jpg", "annotation": "Hange Zo\u00eb", "task": "character_identification", "data_type": "image"}
-{"file_id": "character_identification_671", "file_path": "data/character_identification/character_identification_671.jpg", "annotation": "Hange Zo\u00eb", "task": "character_identification", "data_type": "image"}
+{"file_id": "character_identification_670", "file_path": "data/character_identification/character_identification_670.jpg", "annotation": "Hange Zoë", "task": "character_identification", "data_type": "image"}
+{"file_id": "character_identification_671", "file_path": "data/character_identification/character_identification_671.jpg", "annotation": "Hange Zoë", "task": "character_identification", "data_type": "image"}
 {"file_id": "character_identification_672", "file_path": "data/character_identification/character_identification_672.jpg", "annotation": "Jordan Spieth", "task": "character_identification", "data_type": "image"}
 {"file_id": "character_identification_673", "file_path": "data/character_identification/character_identification_673.jpg", "annotation": "Rey from the movie \"Star Wars\"", "task": "character_identification", "data_type": "image"}
 {"file_id": "character_identification_674", "file_path": "data/character_identification/character_identification_674.jpg", "annotation": "Rey from the movie \"Star Wars\"", "task": "character_identification", "data_type": "image"}
@@ -753,7 +753,7 @@
 {"file_id": "character_identification_752", "file_path": "data/character_identification/character_identification_752.jpg", "annotation": "Ophelia in the movie \"Hamlet\"", "task": "character_identification", "data_type": "image"}
 {"file_id": "character_identification_753", "file_path": "data/character_identification/character_identification_753.jpg", "annotation": "Malfurion Stormrage in the game \"World of Warcraft\"", "task": "character_identification", "data_type": "image"}
 {"file_id": "character_identification_754", "file_path": "data/character_identification/character_identification_754.jpg", "annotation": "Malfurion Stormrage in the game \"World of Warcraft\"", "task": "character_identification", "data_type": "image"}
-{"file_id": "character_identification_755", "file_path": "data/character_identification/character_identification_755.jpg", "annotation": "Gerd M\u00fcller", "task": "character_identification", "data_type": "image"}
+{"file_id": "character_identification_755", "file_path": "data/character_identification/character_identification_755.jpg", "annotation": "Gerd Müller", "task": "character_identification", "data_type": "image"}
 {"file_id": "character_identification_756", "file_path": "data/character_identification/character_identification_756.jpg", "annotation": "Elvin Smith", "task": "character_identification", "data_type": "image"}
 {"file_id": "character_identification_757", "file_path": "data/character_identification/character_identification_757.jpg", "annotation": "Edward Kenway from the game \"Assassin's Creed\"", "task": "character_identification", "data_type": "image"}
 {"file_id": "character_identification_758", "file_path": "data/character_identification/character_identification_758.jpg", "annotation": "Edward Kenway from the game \"Assassin's Creed\"", "task": "character_identification", "data_type": "image"}
@@ -865,8 +865,8 @@
 {"file_id": "character_identification_864", "file_path": "data/character_identification/character_identification_864.jpg", "annotation": "Shen Yue", "task": "character_identification", "data_type": "image"}
 {"file_id": "character_identification_865", "file_path": "data/character_identification/character_identification_865.jpg", "annotation": "Xue Zhiqian", "task": "character_identification", "data_type": "image"}
 {"file_id": "character_identification_866", "file_path": "data/character_identification/character_identification_866.jpg", "annotation": "Xue Zhiqian", "task": "character_identification", "data_type": "image"}
-{"file_id": "character_identification_867", "file_path": "data/character_identification/character_identification_867.jpg", "annotation": "M\u00e1o B\u00f9 Y\u00ec", "task": "character_identification", "data_type": "image"}
-{"file_id": "character_identification_868", "file_path": "data/character_identification/character_identification_868.jpg", "annotation": "M\u00e1o B\u00f9 Y\u00ec", "task": "character_identification", "data_type": "image"}
+{"file_id": "character_identification_867", "file_path": "data/character_identification/character_identification_867.jpg", "annotation": "Máo Bù Yì", "task": "character_identification", "data_type": "image"}
+{"file_id": "character_identification_868", "file_path": "data/character_identification/character_identification_868.jpg", "annotation": "Máo Bù Yì", "task": "character_identification", "data_type": "image"}
 {"file_id": "character_identification_869", "file_path": "data/character_identification/character_identification_869.jpg", "annotation": "He Jiong", "task": "character_identification", "data_type": "image"}
 {"file_id": "character_identification_870", "file_path": "data/character_identification/character_identification_870.jpg", "annotation": "He Jiong", "task": "character_identification", "data_type": "image"}
 {"file_id": "character_identification_871", "file_path": "data/character_identification/character_identification_871.jpg", "annotation": "Mayweather", "task": "character_identification", "data_type": "image"}

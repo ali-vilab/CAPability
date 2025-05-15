@@ -223,7 +223,7 @@
 {"file_id": "spatial_relation_222", "file_path": "data/spatial_relation/spatial_relation_222.jpg", "annotation": "The crowd is under the tent", "task": "spatial_relation", "data_type": "image"}
 {"file_id": "spatial_relation_223", "file_path": "data/spatial_relation/spatial_relation_223.jpg", "annotation": "The skateboarder is above the ramp", "task": "spatial_relation", "data_type": "image"}
 {"file_id": "spatial_relation_224", "file_path": "data/spatial_relation/spatial_relation_224.jpg", "annotation": "The top of the building is above the trees", "task": "spatial_relation", "data_type": "image"}
-{"file_id": "spatial_relation_225", "file_path": "data/spatial_relation/spatial_relation_225.jpg", "annotation": "The blue Pok\u00e9mon card is above the table", "task": "spatial_relation", "data_type": "image"}
+{"file_id": "spatial_relation_225", "file_path": "data/spatial_relation/spatial_relation_225.jpg", "annotation": "The blue Pokémon card is above the table", "task": "spatial_relation", "data_type": "image"}
 {"file_id": "spatial_relation_226", "file_path": "data/spatial_relation/spatial_relation_226.jpg", "annotation": "The phone is in front of the bus window", "task": "spatial_relation", "data_type": "image"}
 {"file_id": "spatial_relation_227", "file_path": "data/spatial_relation/spatial_relation_227.jpg", "annotation": "The green mat is under the children", "task": "spatial_relation", "data_type": "image"}
 {"file_id": "spatial_relation_228", "file_path": "data/spatial_relation/spatial_relation_228.jpg", "annotation": "The stone carving of the seated figure is above the stone steps", "task": "spatial_relation", "data_type": "image"}
